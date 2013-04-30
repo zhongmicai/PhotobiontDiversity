@@ -1,4 +1,4 @@
-DQ185260	Group 28	IN TREE	Peltigera membranacea
+DQ185260	Group 4	IN TREE	Peltigera membranacea
 DQ185272	Group 37	REDUNDANT	Peltigera rufescens
 DQ185273	Group 16	REDUNDANT	Collema crispum
 DQ185274	UNIQUE	IN TREE	Peltigera rufescens
@@ -10,8 +10,8 @@ DQ185279	Group 7	REDUNDANT	Peltigera canina
 DQ185281	UNIQUE	IN TREE	Peltigera neopolydactyla
 DQ185282	Group 19	IN TREE	Peltigera canina
 DQ185283	Group 19	REDUNDANT	Peltigera membranacea
-DQ185284	Group 28	REDUNDANT	Peltigera membranacea
-DQ185285	Group 28	REDUNDANT	Peltigera horizontalis
+DQ185284	Group 4	REDUNDANT	Peltigera membranacea
+DQ185285	Group 4	REDUNDANT	Peltigera horizontalis
 DQ185286	UNIQUE	IN TREE	Sticta beauvoisii
 DQ185287	UNIQUE	IN TREE	Peltigera canina
 DQ185289	UNIQUE	IN TREE	Leptogium gelatinosum
@@ -25,7 +25,7 @@ DQ185296	Group 7	REDUNDANT	Peltigera canina
 DQ185303	Group 15	IN TREE	Peltigera degeni
 DQ185304	Group 42	REDUNDANT	Peltigera didactyla
 DQ185305	Group 1	IN TREE	Peltigera lepidophora
-DQ185306	Group 28	REDUNDANT	Peltigera membranacea
+DQ185306	Group 4	REDUNDANT	Peltigera membranacea
 DQ185307	UNIQUE	IN TREE	Peltigera membranacea
 DQ185308	Group 7	IN TREE	Peltigera rufescens
 DQ185318	Group 9	IN TREE	Sticta fuliginosa
@@ -91,7 +91,7 @@ EF102321	UNIQUE	IN TREE	Protopannaria pezizoides
 EF102323	Group 14	REDUNDANT	Parmeliella triptophylla
 EF102324	Group 8	REDUNDANT	Parmeliella triptophylla
 EF102325	Group 8	REDUNDANT	Parmeliella triptophylla
-EF102327	Group 4	IN TREE	Peltigera leucophlebia
+EF102327	Group 4	REDUNDANT	Peltigera leucophlebia
 EF102328	Group 4	REDUNDANT	Peltigera leucophlebia
 EF102329	UNIQUE	IN TREE	Peltigera leucophlebia
 EF102330	Group 24	IN TREE	Peltigera leucophlebia
@@ -437,7 +437,7 @@ KC437898	Group 41	REDUNDANT	Peltigera aphthosa
 KC437899	Group 2	IN TREE	Peltigera venosa
 KC437900	UNIQUE	IN TREE	Peltigera neocanina
 KC437902	Group 26	REDUNDANT	Peltigera malacea
-KC437903	Group 26	IN TREE	Peltigera malacea
+KC437903	Group 26	REDUNDANT	Peltigera malacea
 KC437904	Group 26	REDUNDANT	Peltigera malacea
 KC437907	Group 22	IN TREE	Nephroma arcticum
 KC437908	Group 22	REDUNDANT	Peltigera neopolydactyla
@@ -469,7 +469,7 @@ DQ185271	UNIQUE	IN TREE	Peltigera rufescens
 DQ185280	UNIQUE	IN TREE	Peltigera didactyla
 DQ185309	UNIQUE	IN TREE	Peltigera rufescens
 DQ185310	UNIQUE	IN TREE	Peltigera rufescens
-DQ185311	Group 28	REDUNDANT	Peltigera rufescens
+DQ185311	Group 4	REDUNDANT	Peltigera rufescens
 DQ185312	UNIQUE	IN TREE	Peltigera didactyla
 DQ185313	UNIQUE	IN TREE	Peltigera rufescens
 DQ185314	UNIQUE	IN TREE	Peltigera canina
@@ -495,3 +495,22 @@ KC437726	Group 35	REDUNDANT	Peltigera sp. A
 KC437727	Group 23	REDUNDANT	Peltigera sp. A
 KC437728	Group 35	REDUNDANT	Peltigera sp. A
 KC437729	Group 35	REDUNDANT	Peltigera sp. A
+DQ266001	UNIQUE	IN TREE	Lobaria amplissima 
+DQ266025	UNIQUE	IN TREE	Sticta hypochra 
+DQ266027	UNIQUE	IN TREE	Sticta gaudichaldia 
+EF102333	UNIQUE	IN TREE	Peltigera malacea 
+EU877474	UNIQUE	IN TREE	Collema nigrescens
+KC437681	Group 26	IN TREE	Peltigera malacea 
+KC437686	Group 47	REDUNDANT	Peltigera malacea 
+KC437689	Group 47	REDUNDANT	Peltigera malacea 
+KC437691	Group 26	REDUNDANT	Peltigera malacea 
+KC437846	Group 26	REDUNDANT	Peltigera malacea 
+KC437881	Group 47	REDUNDANT	Peltigera malacea 
+KC437883	UNIQUE	IN TREE	Peltigera malacea 
+KC437885	UNIQUE	IN TREE	Nephroma arcticum 
+KC437896	UNIQUE	IN TREE	Peltigera malacea 
+KC437901	Group 47	IN TREE	Peltigera malacea 
+KC437905	Group 26	REDUNDANT	Peltigera malacea 
+KC437906	Group 26	REDUNDANT	Peltigera malacea 
+KC437916	UNIQUE	IN TREE	Peltigera malacea 
+KC437917	Group 47	REDUNDANT	Peltigera malacea 
