@@ -255,7 +255,7 @@ KC437707	Group 11	REDUNDANT	Peltigera canina
 KC437708	Group 11	REDUNDANT	Peltigera canina
 KC437709	Group 4	REDUNDANT	Peltigera canina
 KC437710	Group 35	REDUNDANT	Peltigera canina
-KC437711	Group 23	IN TREE	Peltigera fuscopraetextata
+KC437711	Group 23	REDUNDANT	Peltigera fuscopraetextata
 KC437712	Group 35	REDUNDANT	Peltigera fuscopraetextata
 KC437713	Group 35	REDUNDANT	Peltigera fuscopraetextata
 KC437714	Group 35	REDUNDANT	Peltigera fuscopraetextata
@@ -470,7 +470,7 @@ DQ185280	UNIQUE	IN TREE	Peltigera didactyla
 DQ185309	UNIQUE	IN TREE	Peltigera rufescens
 DQ185310	UNIQUE	IN TREE	Peltigera rufescens
 DQ185311	Group 4	REDUNDANT	Peltigera rufescens
-DQ185312	UNIQUE	IN TREE	Peltigera didactyla
+DQ185312	Group 23	IN TREE	Peltigera didactyla
 DQ185313	UNIQUE	IN TREE	Peltigera rufescens
 DQ185314	UNIQUE	IN TREE	Peltigera canina
 DQ185315	UNIQUE	IN TREE	Nostoc commune

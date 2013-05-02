@@ -1,0 +1,16 @@
+
+Data and scripts for PhotobiontDiversity.wordpress.com
+
+Scripts:
+
+AddGroup.pl -add information about redundant sequence groupings to metadata file
+AddHost.pl -add host information to taxon names in a tree file
+ConvertSeq.pl -convert among different sequence/alignment file formats
+FilterSeq.pl -remove sequence longer/shorter than specified values(s)
+GetExcluded.pl -print the gap intervals of a designated sequence to act as an exclusion set for trimming
+GetGB.pl -use NCBI Eutils to fetch genbank formated sequences by accession number
+GetSeq.pl -index fasta file and retrieve specified sequence
+ParseHost.pl -Extract host information from a fasta header
+RemoveRedundant.pl -remove redundant sequences from a sequence alignemnt
+RevCom.pl -reverse complements sequences that have blast hit on negative strand
+trunc.pl -truncate sequence at specified coordinates

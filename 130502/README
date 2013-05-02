@@ -1,0 +1,18 @@
+PhotobiontDiversity (130502)
+===================
+
+Nostoc_rbcX_acc.txt -list of rbcX accession numbers
+Nostoc_rbcX_aln.fa -MAFFT alignment in fasta format
+Nostoc_rbcX_filtered.fa -trimed, reverse-complemented sequences with accession numbers for names
+Nostoc_rbcX_gis.txt -list of rbcX GI numbers
+Nostoc_rbcX_groups.txt -groupings of redundant sequences from MetaPIGA
+Nostoc_rbcX_host.nwk -rbcX phylogeny with host information as taxon names
+Nostoc_rbcX_old.nwk -phylogeny made using the previous dataset and the new exlusion set
+Nostoc_rbcX_old.pdf -pdf of phylogeny made using the previous dataset and the new exlusion set
+Nosotoc_rbcX.bl -megablast results
+Nostoc_rbcX.fa -all unmodified rbcX sequences
+Nostoc_rbcX.nex -NEXUS alignment with redundant sequences removed
+Nostoc_rbcX.nwk -rbcX phylogeny with Accession numbers as taxon names
+Nostoc_rbcX.pdf -PDF of rbcX phylogeny with host information
+Nostoc_rbcX.phy phylip formated alignment of trimmed and filtered sequences
+
