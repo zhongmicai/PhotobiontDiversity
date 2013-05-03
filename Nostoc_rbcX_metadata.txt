@@ -152,11 +152,11 @@ EU877503	Group 21	REDUNDANT	Leptogium furfuraceum
 EU877504	UNIQUE	IN TREE	Leptogium furfuraceum
 EU877505	Group 29	REDUNDANT	Leptogium gelatinosum
 EU877506	UNIQUE	IN TREE	Leptogium gelatinosum
-EU877507	UNIQUE	IN TREE	Leptogium liehenoides
-EU877508	UNIQUE	IN TREE	Leptogium liehenoides
-EU877509	UNIQUE	IN TREE	Leptogium liehenoides
-EU877510	Group 33	IN TREE	Leptogium liehenoides
-EU877511	Group 33	REDUNDANT	Leptogium liehenoides
+EU877507	UNIQUE	IN TREE	Leptogium lichenoides
+EU877508	UNIQUE	IN TREE	Leptogium lichenoides
+EU877509	UNIQUE	IN TREE	Leptogium lichenoides
+EU877510	Group 33	IN TREE	Leptogium lichenoides
+EU877511	Group 33	REDUNDANT	Leptogium lichenoides
 EU877512	UNIQUE	IN TREE	Leptogium magnussonii
 EU877513	UNIQUE	IN TREE	Leptogium magnussonii
 EU877514	UNIQUE	IN TREE	Leptogium magnussonii
