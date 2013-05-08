@@ -67,10 +67,20 @@ my %family_colors = ('Collemataceae', '#C87A8A',
                   'Pannariaceae', '#AE8B50',
                   'Lobariaceae', '#729C55',
                   'unknown', '#000000',
-                  'Nephromataceae', '#00A38F',
+                  'Nephromataceae', '#FFD000',
                   'Peltigeraceae', '#4C99BE',
                   'Stereocaulaceae', '#A782C3'
             );
+
+my %specialists = ( 'Leptogium saturninum', '#C87A8A',
+                    'Collema flaccidum', '#AE8B50',
+                    'Leptogium lichenoides', '#729C55',
+                    'Leptogium furfuraceum', '#FFD000',
+                    'Leptogium magnussonii', '#4C99BE',
+                    'Peltigera malacea', '#A782C3',
+                    'Sticta hypochra', '#FFA500'
+            );
+
 
 my @colors = ('#C87A8A', '#AE8B50', '#729C55', '#00A38F', '#4C99BE', '#A782C3');
 
@@ -112,9 +122,17 @@ sub ColorTaxa {
   my $comparison = shift;
   my $multiple = 0;
   my $group;
+  if ( $comparison =~ /specialists/i ) {
+    foreach ( keys %specialists ) {
+      if ( $line =~ /$_/ ) {
+        if ( $group and $group ne $specialists{$_} ) { $multiple = 1; }
+        $group = $specialists{$_};
+      }
+    }
+  }     
   while ( $line =~ /([A-Z][a-z]+) /g ) {
     my $genus = $1;
-    if ( $1 eq 'Group' ) {next; }
+    if ( $1 eq 'Group' or $comparison =~ /specialists/i) {next; }
     if ( $group and $group ne $host_colors{$host{$genus}} ) { $multiple = 1; }
     if ( $comparison =~ /host/i ) { 
       if ( $host{$genus} and $host_colors{$host{$genus}} ) {
@@ -141,7 +159,7 @@ sub ColorTaxa {
       }
     }  
     elsif ( $comparison =~ /none/i ) { $group = '#000000'; }
-    else { die "Colouring scheme $comparison not recognized. Use 'host', 'family' or 'genus' or 'custom'\n"; }
+    else { die "Colouring scheme $comparison not recognized. Use 'host', 'family', 'genus', 'specialists' or 'custom'\n"; }
   }
   if ( $multiple ) { $line .=  "[&!color=#000000]"; }
   elsif ( $group ){ $line .=  "[&!color=$group]"; }
