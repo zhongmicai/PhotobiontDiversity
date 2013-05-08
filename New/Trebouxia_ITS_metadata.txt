@@ -1,0 +1,271 @@
+Z68703	Trebouxia arboricola	UBT-92.001C3
+Z68704	Trebouxia arboricola	UBT-92.001C5
+Z68705	Trebouxia arboricola	SAG 219-1a
+EU416214	Uncultured Trebouxia photobiont	Normore 2595
+AF389913	Trebouxia arboricola	
+AF389914	Trebouxia arboricola	
+AF389915	Trebouxia arboricola	
+AF389916	Trebouxia arboricola	
+AF389917	Trebouxia arboricola	
+U551473	Uncultured Trebouxia photobiont	isolate A1Af
+EU551477	Uncultured Trebouxia photobiont	isolate A16f
+EU551478	Uncultured Trebouxia photobiont	isolate A17f
+EU551479	Uncultured Trebouxia photobiont	isolate A18f
+EU551480	Uncultured Trebouxia photobiont	isolate A19f
+EU551483	Uncultured Trebouxia photobiont	isolate A22Af
+EU551484	Uncultured Trebouxia photobiont	isolate C11kf
+EU551485	Uncultured Trebouxia photobiont	isolate C13kf
+EU551486	Uncultured Trebouxia photobiont	isolate C15kf
+EU551488	Uncultured Trebouxia photobiont	isolate C19f
+EU551489	Uncultured Trebouxia photobiont	isolate C20kf
+EU551490	Uncultured Trebouxia photobiont	isolate C22kf
+EU551508	Uncultured Trebouxia photobiont	isolate L90
+EU551514	Uncultured Trebouxia photobiont	isolate L147f
+EU551517	Uncultured Trebouxia photobiont	isolate L220f
+EU551518	Uncultured Trebouxia photobiont	isolate L222f
+EU551519	Uncultured Trebouxia photobiont	isolate L223f
+EU551523	Uncultured Trebouxia photobiont	isolate L270
+EU551524	Uncultured Trebouxia photobiont	isolate L280
+FJ028715	clone ISB-20
+EU717911	Trebouxia decolorans	haplotype ITS1
+EU717919	Trebouxia decolorans	haplotype ITS9
+EU717920	Trebouxia decolorans	haplotype ITS10
+EU717921	Trebouxia decolorans	haplotype ITS11
+EU717922	Trebouxia decolorans	haplotype ITS12
+EU717923	Trebouxia decolorans	haplotype ITS13
+EU717924	Trebouxia decolorans	haplotype ITS14
+EU717925	Trebouxia decolorans	haplotype ITS15
+EU717926	Trebouxia decolorans	haplotype ITS16
+EU717927	Trebouxia decolorans	haplotype ITS17
+EU717928	Trebouxia decolorans	haplotype ITS18
+EU717929	Trebouxia decolorans	haplotype ITS19
+EU717930	Trebouxia decolorans	haplotype ITS20
+EU717931	Trebouxia decolorans	haplotype ITS21
+EU717932	Trebouxia decolorans	haplotype ITS22
+EU717933	Trebouxia decolorans	haplotype ITS23
+EU717934	Trebouxia decolorans	haplotype ITS24
+EU717935	Trebouxia decolorans	haplotype ITS25
+EU717936	Trebouxia decolorans	haplotype ITS26
+AF534385	Trebouxia sp.	Lr	
+AF534386	Trebouxia sp.	Ri1	
+AF453259	Trebouxia arboricola	isolate AB99.082B1 18S	
+FJ626725	Trebouxia arboricola	strain SAG 219-1A	
+FJ626728	Trebouxia decolorans	strain UTEX B781	
+FJ792797	Trebouxia sp.	TSV1	
+FJ705175	Trebouxia decolorans	strain SW-08a
+FJ705176	Trebouxia decolorans	strain SW-15a
+FJ705177	Trebouxia decolorans	strain SW-14a
+FJ705178	Trebouxia decolorans	strain SW-16b
+FJ705179	Trebouxia decolorans	strain SW-45a
+FJ705180	Trebouxia decolorans	strain SW-19b
+FJ705181	Trebouxia decolorans	strain SW-14b
+FJ705182	Trebouxia decolorans	strain SW-42c
+FJ705183	Trebouxia decolorans	strain SW-20a
+FJ705184	Trebouxia decolorans	strain SW-48c
+FJ705185	Trebouxia decolorans	strain SW-10a
+FJ705186	Trebouxia decolorans	strain SW-17b
+FJ705187	Trebouxia decolorans	strain SW-42b
+FJ705188	Trebouxia decolorans	strain SW-20b
+FJ705189	Trebouxia decolorans	strain SW-43b
+FJ705190	Trebouxia decolorans	strain SW-16c
+FJ705191	Trebouxia decolorans	strain SW-44b
+FJ705192	Trebouxia decolorans	strain SW-13b
+FJ705193	Trebouxia decolorans	strain SW-37c
+FJ705194	Trebouxia decolorans	strain SW-41b
+FJ705195	Trebouxia decolorans	strain SW-46b
+FJ705196	Trebouxia decolorans	strain SW-48a
+FJ705197	Trebouxia decolorans	strain SW-12a
+FJ705198	Trebouxia decolorans	strain SW-19a
+FJ705199	Trebouxia decolorans	strain SW-47a
+FJ705200	Trebouxia decolorans	strain SW-38b
+FJ705201	Trebouxia decolorans	strain SW-18a
+FJ705202	Trebouxia decolorans	strain SW-08b
+FJ705203	Trebouxia decolorans	strain SW-12c
+FJ705204	Trebouxia decolorans	strain SW-09b
+FJ705205	Trebouxia decolorans	strain SW-10b
+FJ705206	Trebouxia decolorans	strain SW-08c
+JQ004576	Trebouxia sp.	AO40 18S	
+JF831903	Trebouxia aggregata	voucher UTEX180 1
+JF831904	Trebouxia crenulata	voucher CCAP219/2 1
+JF831905	Trebouxia decolorans	voucher M-0102305 1
+JF831906	Trebouxia decolorans voucher M-0102307 1 
+JF831908	Trebouxia decolorans voucher M-0102327 1 
+JF831913	Trebouxia decolorans voucher M-0102309 1 
+JF831914	Trebouxia decolorans voucher M-0102152 1 
+JF831915	Trebouxia decolorans voucher M-0102306 1 
+JF831916	Trebouxia decolorans voucher M-0102316 1 
+JF831919	Trebouxia decolorans voucher M-0102305 1 
+JF831921	Trebouxia decolorans	voucher M-0102304 1
+JF831907	Trebouxia decolorans	voucher M-0102328 1
+JF831909	Trebouxia decolorans	voucher M-0102325 1
+JF831910	Trebouxia decolorans	voucher M-0102916 1
+JF831911	Trebouxia decolorans voucher M-0102919 1 
+JF831912	Trebouxia decolorans voucher M-0102308 1 
+JF831918	Trebouxia decolorans	voucher M-0102925 1
+JF831917	Trebouxia decolorans	voucher M-0102307 1
+JF831920	Trebouxia decolorans	voucher M-0102305 1
+JF831922	Trebouxia decolorans	voucher M-0102304 1
+JF831923	Trebouxia decolorans	voucher M-0102151 1
+JQ993758	Trebouxia arboricola	isolate RV001A 18S	
+JQ993759	Trebouxia decolorans	isolate RV002A 18S	
+JQ993760	Trebouxia arboricola	isolate RV003A 18S	
+JQ993761	Trebouxia arboricola	isolate RV004A 18S	
+JQ993762	Trebouxia arboricola	isolate RV005A 18S	
+JQ993763	Trebouxia arboricola	isolate RV006A 1
+JQ993764	Trebouxia arboricola	isolate RV007A 18S	
+JQ993765	Trebouxia arboricola	isolate RV008A 18S	
+JQ993766	Trebouxia arboricola	isolate RV009A 18S	
+JQ993767	Trebouxia arboricola	isolate RV010A 18S	
+JQ993768	Trebouxia decolorans	isolate RV011A 18S	
+JQ993769	Trebouxia arboricola	isolate RV012A 18S	
+JQ993770	Trebouxia arboricola	isolate RV013A 18S	
+JQ993771	Trebouxia arboricola	isolate RV014A 1
+JQ993773	Trebouxia arboricola	isolate RV016A 18S	
+JQ993774	Trebouxia arboricola	isolate RV017A 18S	
+JQ993775	Trebouxia arboricola	isolate RV018A 18S	
+JQ993776	Trebouxia arboricola	isolate RV019A 18S	
+JQ993777	Trebouxia decolorans	isolate RV020A 18S	
+JQ993778	Trebouxia arboricola	isolate RV021A 18S	
+JQ993779	Trebouxia arboricola	isolate RV022A 18S	
+JQ993780	Trebouxia arboricola	isolate RV023A 18S	
+JQ993781	Trebouxia arboricola	isolate RV024A 18S	
+JQ993784	Trebouxia arboricola	isolate RV027A 18S	
+JQ993785	Trebouxia arboricola	isolate RV028A 18S	
+JQ993786	Trebouxia arboricola	isolate RV029A 18S	
+JQ993787	Trebouxia arboricola	isolate RV030A 18S	
+JQ993788	Trebouxia arboricola	isolate RV031A 18S	
+JQ993789	Trebouxia arboricola	isolate RV032A 18S	
+JQ993790	Trebouxia arboricola	isolate RV033A 18S	
+JQ993791	Trebouxia arboricola	isolate RV034A 18S	
+JQ993792	Trebouxia arboricola	isolate RV035A 18S	
+JQ993793	Trebouxia arboricola	isolate RV036A 18S	
+JQ993794	Trebouxia arboricola	isolate RV037A	
+JQ993795	Trebouxia arboricola	isolate RV038A 18S	
+JQ993796	Trebouxia arboricola	isolate RV039A 18S	
+JQ993797	Trebouxia arboricola	isolate RV040A 18S	
+JQ993798	Trebouxia arboricola	isolate RV041A	
+JQ993799	Trebouxia arboricola	isolate RV042A 18S	
+AJ249481	Trebouxia arboricola	strain 92.011A1
+AY842265	Uncultured Trebouxia photobiont	specimen voucher FB30	Ramalina fraxinea
+AJ249564	Trebouxia arboricola	AY804015	Uncultured Trebouxia photobiont	clone C3	
+AY804016	Uncultured Trebouxia photobiont	clone C2	
+AY804017	Uncultured Trebouxia photobiont	clone C1	
+AY804019	Uncultured Trebouxia photobiont	clone 11Xp	
+AY804022	Uncultured Trebouxia photobiont	clone A5	
+AY804023	Uncultured Trebouxia photobiont	clone 5La	
+DQ166580	Uncultured Trebouxia photobiont	voucher M. Grube M15 (GZU)	
+DQ166583	Uncultured Trebouxia photobiont	voucher J. Prugger 61232 (GZU)	
+DQ166584	Uncultured Trebouxia photobiont	voucher J. Blaha b451 (GZU)	
+DQ166586	Uncultured Trebouxia photobiont	voucher W. Obermayer 09076 (GZU)	
+DQ166587	Uncultured Trebouxia photobiont	voucher M. Grube eb32 (GZU)	
+DQ166610	Uncultured Trebouxia photobiont	voucher M. Grube M71 (GZU)	
+DQ166615	Uncultured Trebouxia photobiont	voucher M. Grube MG106 (GZU)	
+DQ166617	Uncultured Trebouxia photobiont	voucher M. Grube MG17 (GZU)	
+AJ969506	Uncultured Trebouxia photobiont	isolate G9307
+AJ969507	Uncultured Trebouxia photobiont	isolate G9308
+AJ969508	Uncultured Trebouxia photobiont	isolate L-1-IIa
+AJ969509	Trebouxia sp.	isolate P-3-I
+AJ969510	Trebouxia sp.	isolate P-5-IaA
+AJ969511	Trebouxia sp.	isolate P-6-Ia
+AJ969512	Trebouxia sp.	isolate P-7-Ia
+AJ969513	Uncultured Trebouxia photobiont	isolate L-8
+AJ969514	Uncultured Trebouxia photobiont	isolate L-9
+AJ969515	Trebouxia sp.	isolate P-10
+AJ969517	Uncultured Trebouxia photobiont	isolate L-16-IA
+AJ969518	Trebouxia sp.	isolate P-17-Ia
+AJ969519	Trebouxia sp.	isolate P-17-IIa
+AJ969520	Trebouxia sp.	isolate P-18-Ia
+AJ969521	Uncultured Trebouxia photobiont	isolate L-26
+AJ969522	Trebouxia sp.	isolate P-28-Ia
+AJ969523	Uncultured Trebouxia photobiont	isolate L-43
+AJ969524	Trebouxia sp.	isolate P-44-Ia1
+AJ969526	Trebouxia sp.	isolate P-48-IIIa
+AJ969527	Uncultured Trebouxia photobiont	isolate L-51-I
+AJ969528	Trebouxia sp.	isolate P-53-Ia
+AJ969529	Trebouxia arboricola	isolate P-54-Ib
+AJ969530	Trebouxia sp.	isolate P-54-IIa
+AJ969531	Trebouxia sp.	isolate P-56-IIa
+AJ969534	Trebouxia sp.	isolate P-69-IaSc
+AJ969535	Trebouxia sp.	isolate P-71-IIb
+AJ969536	Uncultured Trebouxia photobiont	isolate L-80
+AJ969537	Trebouxia sp.	isolate P-85-IIa
+AJ969538	Trebouxia sp.	isolate P-86-Ib
+AJ969539	Trebouxia sp.	isolate P-97-Ia
+AJ969540	Uncultured Trebouxia photobiont	isolate L-101
+AJ969541	Trebouxia sp.	isolate P-104-IIa
+AJ969542	Trebouxia sp.	isolate P-105-Ia
+AJ969543	Trebouxia sp.	isolate P-116-IIbA
+AJ969544	Trebouxia sp.	isolate P-120-Ibd
+AJ969545	Trebouxia decolorans	isolate P-120a-IIIb
+AJ969546	Uncultured Trebouxia photobiont	isolate L-121-Idd
+AJ969547	Trebouxia sp.	isolate P-121a1-Dark
+AJ969548	Trebouxia sp.	isolate P-121a1-Light
+AJ969549	Trebouxia decolorans	isolate P-121-Ib
+AJ969550	Trebouxia sp.	isolate P-121-IIcd
+AJ969551	Trebouxia sp.	isolate P-133-Ia
+AJ969552	Trebouxia sp.	isolate P-141-II
+AJ969553	Uncultured Trebouxia photobiont	isolate L-144-IIIgd
+AJ969554	Trebouxia decolorans	isolate P-144-IIIbd
+AJ969555	Trebouxia decolorans	isolate P-144-IIIcd
+AJ969556	Trebouxia decolorans	isolate P-144-IIIhd
+AJ969557	Uncultured Trebouxia photobiont	isolate L-145-IIIdg
+AJ969558	Trebouxia decolorans	isolate P-145-IdfB
+AJ969559	Trebouxia sp.	isolate P-145-Idj
+AJ969560	Trebouxia sp.	isolate P-158-IVmc
+AJ969561	Trebouxia sp.	isolate P-164-Ia
+AJ969562	Trebouxia decolorans	isolate P-164-IXa-1
+AJ969563	Trebouxia sp.	isolate P-164-IXa-2
+AJ969564	Trebouxia sp.	isolate P-174-Iad
+AJ969565	Trebouxia sp.	isolate P-174-IIadA
+AJ969566	Uncultured Trebouxia photobiont	isolate L-184
+AJ969567	Trebouxia sp.	isolate P-191-Ia
+AJ969568	Trebouxia sp.	isolate P-198-IIa
+AJ969569	Trebouxia sp.	isolate P-205-IIa
+AJ969570	Trebouxia sp.	isolate P-210-Ia
+AJ969571	Trebouxia sp.	isolate P-213-Ia
+AJ969572	Trebouxia sp.	isolate P-215-Ia
+AJ969573	Trebouxia sp.	isolate P-218-Ia
+AJ969574	Trebouxia sp.	isolate P-246-IaSc
+AJ969575	Trebouxia sp.	isolate P-249-Ia
+AJ969576	Uncultured Trebouxia photobiont	isolate L-264
+AJ969577	Uncultured Trebouxia photobiont	isolate L-265-II
+AJ969578	Uncultured Trebouxia photobiont	isolate L-269
+AJ969580	Uncultured Trebouxia photobiont	isolate L-275-II
+AJ969581	Trebouxia sp.	isolate P-276-Ia
+AJ969582	Uncultured Trebouxia photobiont	isolate L-277-I
+AJ969583	Trebouxia sp.	isolate P-280-IIaSc
+AJ969584	Trebouxia sp.	isolate P-281-IaSc
+AJ969585	Trebouxia sp.	isolate P-282-IaSc
+AJ969586	Trebouxia sp.	isolate P-287-VIb
+AJ969587	Trebouxia sp.	isolate P-288-Ia
+AJ969588	Trebouxia decolorans	isolate P-288-IIIa
+AJ969589	Trebouxia sp.	isolate P-303-IIIa
+AJ969590	Trebouxia sp.	isolate P-304-Ia
+AJ969591	Trebouxia sp.	isolate P-306-Ia
+AJ969592	Trebouxia decolorans	isolate P-319-Ia
+AJ969593	Trebouxia decolorans	isolate P-319-Id
+AJ969594	Trebouxia decolorans	isolate P-319-If2
+AJ969595	Trebouxia decolorans	isolate P-319-IIa
+AJ969596	Trebouxia decolorans	isolate P-319-IIc1
+AJ969597	Trebouxia decolorans	isolate P-319-IIc2
+AJ969598	Trebouxia decolorans	isolate P-319-IVc2
+AJ969599	Trebouxia decolorans	isolate P-320-Id2
+AJ969600	Trebouxia decolorans	isolate P-320-IIb
+AJ969601	Trebouxia decolorans	isolate P-320-IIc
+AJ969602	Trebouxia decolorans	isolate P-320-IId
+AJ969603	Trebouxia sp.	isolate P-320-IIf
+AJ969604	Trebouxia sp.	isolate P-320-IIIa
+AJ969606	Uncultured Trebouxia photobiont	isolate L-337
+AJ969607	Uncultured Trebouxia photobiont	isolate L-348
+AJ969608	Uncultured Trebouxia photobiont	isolate L-356
+AJ969609	Trebouxia arboricola	isolate P-360-IIa
+AJ969610	Trebouxia arboricola	isolate P-360-IIb
+AJ969611	Trebouxia arboricola	isolate P-83-Ia
+AJ970889	Trebouxia decolorans	isolate P-319-Ig
+AM159202	Uncultured Trebouxia photobiont	clone L-243-t1
+AM159207	Uncultured Trebouxia photobiont	clone L-477-t1
+AM159210	Trebouxia sp.	isolate P-400-IaSc
+AM159215	Uncultured Trebouxia photobiont	clone L-247-t1
+AM159216	Trebouxia sp.	isolate P-360-I
+AM159503	Trebouxia decolorans	isolate P-319-Ig
+AJ293770	Trebouxia sp.	Anaptychia ciliaris
