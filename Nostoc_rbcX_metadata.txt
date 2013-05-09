@@ -459,7 +459,7 @@ DQ185261	Group 17	REDUNDANT	Peltigera canina
 DQ185262	Group 17	IN TREE	Peltigera rufescens
 DQ185263	Group 17	REDUNDANT	Peltigera didactyla
 DQ185264	UNIQUE	IN TREE	Peltigera didactyla
-DQ185265	Group 20	IN TREE	Geosiphon pyriforme
+DQ185265	UNIQUE	IN TREE	Geosiphon pyriforme
 DQ185266	UNIQUE	IN TREE	Anthoceros sp.
 DQ185267	Group 16	IN TREE	Encephalartos natalensis
 DQ185268	UNIQUE	IN TREE	Blasia pusilla
@@ -473,7 +473,7 @@ DQ185311	Group 4	REDUNDANT	Peltigera rufescens
 DQ185312	Group 23	IN TREE	Peltigera didactyla
 DQ185313	UNIQUE	IN TREE	Peltigera rufescens
 DQ185314	UNIQUE	IN TREE	Peltigera canina
-DQ185315	UNIQUE	IN TREE	Nostoc commune
+DQ185315	UNIQUE	IN TREE	Gunnera manicata
 DQ185316	UNIQUE	IN TREE	Peltigera neopolydactyla
 DQ185317	UNIQUE	IN TREE	Peltigera canina
 EU672828	UNIQUE	IN TREE	Nostoc sp.
