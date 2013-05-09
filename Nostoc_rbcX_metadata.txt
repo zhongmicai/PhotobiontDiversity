@@ -1,5 +1,5 @@
 DQ185260	Group 4	IN TREE	Peltigera membranacea
-DQ185272	Group 37	REDUNDANT	Peltigera rufescens
+DQ185272	Group 37	REDUNDANT	Peltigera didactyla
 DQ185273	Group 16	REDUNDANT	Collema crispum
 DQ185274	UNIQUE	IN TREE	Peltigera rufescens
 DQ185275	UNIQUE	IN TREE	Peltigera rufescens
@@ -466,16 +466,16 @@ DQ185268	UNIQUE	IN TREE	Blasia pusilla
 DQ185269	Group 42	IN TREE	Blasia pusilla
 DQ185270	UNIQUE	IN TREE	Anthoceros sp.
 DQ185271	UNIQUE	IN TREE	Peltigera rufescens
-DQ185280	UNIQUE	IN TREE	Peltigera didactyla
-DQ185309	UNIQUE	IN TREE	Peltigera rufescens
+DQ185280	UNIQUE	IN TREE	Nostoc commune
+DQ185309	UNIQUE	IN TREE	Cycas circinalis
 DQ185310	UNIQUE	IN TREE	Peltigera rufescens
-DQ185311	Group 4	REDUNDANT	Peltigera rufescens
-DQ185312	Group 23	IN TREE	Peltigera didactyla
-DQ185313	UNIQUE	IN TREE	Peltigera rufescens
-DQ185314	UNIQUE	IN TREE	Peltigera canina
+DQ185311	Group 4	REDUNDANT	Peltigera aphthosa
+DQ185312	Group 23	IN TREE	Peltigera aphthosa
+DQ185313	UNIQUE	IN TREE	Nostoc muscorum
+DQ185314	UNIQUE	IN TREE	Blasia pusilla
 DQ185315	UNIQUE	IN TREE	Gunnera manicata
-DQ185316	UNIQUE	IN TREE	Peltigera neopolydactyla
-DQ185317	UNIQUE	IN TREE	Peltigera canina
+DQ185316	UNIQUE	IN TREE	Geosiphon pyriforme
+DQ185317	UNIQUE	IN TREE	Nostoc punctiforme
 EU672828	UNIQUE	IN TREE	Nostoc sp.
 EU672829	UNIQUE	IN TREE	Nostoc sp.
 EU672830	UNIQUE	IN TREE	Nostoc sp.
