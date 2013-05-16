@@ -1,271 +1,1841 @@
-Z68703	Trebouxia arboricola	UBT-92.001C3
-Z68704	Trebouxia arboricola	UBT-92.001C5
-Z68705	Trebouxia arboricola	SAG 219-1a
-EU416214	Uncultured Trebouxia photobiont	Normore 2595
-AF389913	Trebouxia arboricola	
-AF389914	Trebouxia arboricola	
-AF389915	Trebouxia arboricola	
-AF389916	Trebouxia arboricola	
-AF389917	Trebouxia arboricola	
-U551473	Uncultured Trebouxia photobiont	isolate A1Af
-EU551477	Uncultured Trebouxia photobiont	isolate A16f
-EU551478	Uncultured Trebouxia photobiont	isolate A17f
-EU551479	Uncultured Trebouxia photobiont	isolate A18f
-EU551480	Uncultured Trebouxia photobiont	isolate A19f
-EU551483	Uncultured Trebouxia photobiont	isolate A22Af
-EU551484	Uncultured Trebouxia photobiont	isolate C11kf
-EU551485	Uncultured Trebouxia photobiont	isolate C13kf
-EU551486	Uncultured Trebouxia photobiont	isolate C15kf
-EU551488	Uncultured Trebouxia photobiont	isolate C19f
-EU551489	Uncultured Trebouxia photobiont	isolate C20kf
-EU551490	Uncultured Trebouxia photobiont	isolate C22kf
-EU551508	Uncultured Trebouxia photobiont	isolate L90
-EU551514	Uncultured Trebouxia photobiont	isolate L147f
-EU551517	Uncultured Trebouxia photobiont	isolate L220f
-EU551518	Uncultured Trebouxia photobiont	isolate L222f
-EU551519	Uncultured Trebouxia photobiont	isolate L223f
-EU551523	Uncultured Trebouxia photobiont	isolate L270
-EU551524	Uncultured Trebouxia photobiont	isolate L280
-FJ028715	clone ISB-20
-EU717911	Trebouxia decolorans	haplotype ITS1
-EU717919	Trebouxia decolorans	haplotype ITS9
-EU717920	Trebouxia decolorans	haplotype ITS10
-EU717921	Trebouxia decolorans	haplotype ITS11
-EU717922	Trebouxia decolorans	haplotype ITS12
-EU717923	Trebouxia decolorans	haplotype ITS13
-EU717924	Trebouxia decolorans	haplotype ITS14
-EU717925	Trebouxia decolorans	haplotype ITS15
-EU717926	Trebouxia decolorans	haplotype ITS16
-EU717927	Trebouxia decolorans	haplotype ITS17
-EU717928	Trebouxia decolorans	haplotype ITS18
-EU717929	Trebouxia decolorans	haplotype ITS19
-EU717930	Trebouxia decolorans	haplotype ITS20
-EU717931	Trebouxia decolorans	haplotype ITS21
-EU717932	Trebouxia decolorans	haplotype ITS22
-EU717933	Trebouxia decolorans	haplotype ITS23
-EU717934	Trebouxia decolorans	haplotype ITS24
-EU717935	Trebouxia decolorans	haplotype ITS25
-EU717936	Trebouxia decolorans	haplotype ITS26
-AF534385	Trebouxia sp.	Lr	
-AF534386	Trebouxia sp.	Ri1	
-AF453259	Trebouxia arboricola	isolate AB99.082B1 18S	
-FJ626725	Trebouxia arboricola	strain SAG 219-1A	
-FJ626728	Trebouxia decolorans	strain UTEX B781	
-FJ792797	Trebouxia sp.	TSV1	
-FJ705175	Trebouxia decolorans	strain SW-08a
-FJ705176	Trebouxia decolorans	strain SW-15a
-FJ705177	Trebouxia decolorans	strain SW-14a
-FJ705178	Trebouxia decolorans	strain SW-16b
-FJ705179	Trebouxia decolorans	strain SW-45a
-FJ705180	Trebouxia decolorans	strain SW-19b
-FJ705181	Trebouxia decolorans	strain SW-14b
-FJ705182	Trebouxia decolorans	strain SW-42c
-FJ705183	Trebouxia decolorans	strain SW-20a
-FJ705184	Trebouxia decolorans	strain SW-48c
-FJ705185	Trebouxia decolorans	strain SW-10a
-FJ705186	Trebouxia decolorans	strain SW-17b
-FJ705187	Trebouxia decolorans	strain SW-42b
-FJ705188	Trebouxia decolorans	strain SW-20b
-FJ705189	Trebouxia decolorans	strain SW-43b
-FJ705190	Trebouxia decolorans	strain SW-16c
-FJ705191	Trebouxia decolorans	strain SW-44b
-FJ705192	Trebouxia decolorans	strain SW-13b
-FJ705193	Trebouxia decolorans	strain SW-37c
-FJ705194	Trebouxia decolorans	strain SW-41b
-FJ705195	Trebouxia decolorans	strain SW-46b
-FJ705196	Trebouxia decolorans	strain SW-48a
-FJ705197	Trebouxia decolorans	strain SW-12a
-FJ705198	Trebouxia decolorans	strain SW-19a
-FJ705199	Trebouxia decolorans	strain SW-47a
-FJ705200	Trebouxia decolorans	strain SW-38b
-FJ705201	Trebouxia decolorans	strain SW-18a
-FJ705202	Trebouxia decolorans	strain SW-08b
-FJ705203	Trebouxia decolorans	strain SW-12c
-FJ705204	Trebouxia decolorans	strain SW-09b
-FJ705205	Trebouxia decolorans	strain SW-10b
-FJ705206	Trebouxia decolorans	strain SW-08c
-JQ004576	Trebouxia sp.	AO40 18S	
-JF831903	Trebouxia aggregata	voucher UTEX180 1
-JF831904	Trebouxia crenulata	voucher CCAP219/2 1
-JF831905	Trebouxia decolorans	voucher M-0102305 1
-JF831906	Trebouxia decolorans voucher M-0102307 1 
-JF831908	Trebouxia decolorans voucher M-0102327 1 
-JF831913	Trebouxia decolorans voucher M-0102309 1 
-JF831914	Trebouxia decolorans voucher M-0102152 1 
-JF831915	Trebouxia decolorans voucher M-0102306 1 
-JF831916	Trebouxia decolorans voucher M-0102316 1 
-JF831919	Trebouxia decolorans voucher M-0102305 1 
-JF831921	Trebouxia decolorans	voucher M-0102304 1
-JF831907	Trebouxia decolorans	voucher M-0102328 1
-JF831909	Trebouxia decolorans	voucher M-0102325 1
-JF831910	Trebouxia decolorans	voucher M-0102916 1
-JF831911	Trebouxia decolorans voucher M-0102919 1 
-JF831912	Trebouxia decolorans voucher M-0102308 1 
-JF831918	Trebouxia decolorans	voucher M-0102925 1
-JF831917	Trebouxia decolorans	voucher M-0102307 1
-JF831920	Trebouxia decolorans	voucher M-0102305 1
-JF831922	Trebouxia decolorans	voucher M-0102304 1
-JF831923	Trebouxia decolorans	voucher M-0102151 1
-JQ993758	Trebouxia arboricola	isolate RV001A 18S	
-JQ993759	Trebouxia decolorans	isolate RV002A 18S	
-JQ993760	Trebouxia arboricola	isolate RV003A 18S	
-JQ993761	Trebouxia arboricola	isolate RV004A 18S	
-JQ993762	Trebouxia arboricola	isolate RV005A 18S	
-JQ993763	Trebouxia arboricola	isolate RV006A 1
-JQ993764	Trebouxia arboricola	isolate RV007A 18S	
-JQ993765	Trebouxia arboricola	isolate RV008A 18S	
-JQ993766	Trebouxia arboricola	isolate RV009A 18S	
-JQ993767	Trebouxia arboricola	isolate RV010A 18S	
-JQ993768	Trebouxia decolorans	isolate RV011A 18S	
-JQ993769	Trebouxia arboricola	isolate RV012A 18S	
-JQ993770	Trebouxia arboricola	isolate RV013A 18S	
-JQ993771	Trebouxia arboricola	isolate RV014A 1
-JQ993773	Trebouxia arboricola	isolate RV016A 18S	
-JQ993774	Trebouxia arboricola	isolate RV017A 18S	
-JQ993775	Trebouxia arboricola	isolate RV018A 18S	
-JQ993776	Trebouxia arboricola	isolate RV019A 18S	
-JQ993777	Trebouxia decolorans	isolate RV020A 18S	
-JQ993778	Trebouxia arboricola	isolate RV021A 18S	
-JQ993779	Trebouxia arboricola	isolate RV022A 18S	
-JQ993780	Trebouxia arboricola	isolate RV023A 18S	
-JQ993781	Trebouxia arboricola	isolate RV024A 18S	
-JQ993784	Trebouxia arboricola	isolate RV027A 18S	
-JQ993785	Trebouxia arboricola	isolate RV028A 18S	
-JQ993786	Trebouxia arboricola	isolate RV029A 18S	
-JQ993787	Trebouxia arboricola	isolate RV030A 18S	
-JQ993788	Trebouxia arboricola	isolate RV031A 18S	
-JQ993789	Trebouxia arboricola	isolate RV032A 18S	
-JQ993790	Trebouxia arboricola	isolate RV033A 18S	
-JQ993791	Trebouxia arboricola	isolate RV034A 18S	
-JQ993792	Trebouxia arboricola	isolate RV035A 18S	
-JQ993793	Trebouxia arboricola	isolate RV036A 18S	
-JQ993794	Trebouxia arboricola	isolate RV037A	
-JQ993795	Trebouxia arboricola	isolate RV038A 18S	
-JQ993796	Trebouxia arboricola	isolate RV039A 18S	
-JQ993797	Trebouxia arboricola	isolate RV040A 18S	
-JQ993798	Trebouxia arboricola	isolate RV041A	
-JQ993799	Trebouxia arboricola	isolate RV042A 18S	
-AJ249481	Trebouxia arboricola	strain 92.011A1
-AY842265	Uncultured Trebouxia photobiont	specimen voucher FB30	Ramalina fraxinea
-AJ249564	Trebouxia arboricola	AY804015	Uncultured Trebouxia photobiont	clone C3	
-AY804016	Uncultured Trebouxia photobiont	clone C2	
-AY804017	Uncultured Trebouxia photobiont	clone C1	
-AY804019	Uncultured Trebouxia photobiont	clone 11Xp	
-AY804022	Uncultured Trebouxia photobiont	clone A5	
-AY804023	Uncultured Trebouxia photobiont	clone 5La	
-DQ166580	Uncultured Trebouxia photobiont	voucher M. Grube M15 (GZU)	
-DQ166583	Uncultured Trebouxia photobiont	voucher J. Prugger 61232 (GZU)	
-DQ166584	Uncultured Trebouxia photobiont	voucher J. Blaha b451 (GZU)	
-DQ166586	Uncultured Trebouxia photobiont	voucher W. Obermayer 09076 (GZU)	
-DQ166587	Uncultured Trebouxia photobiont	voucher M. Grube eb32 (GZU)	
-DQ166610	Uncultured Trebouxia photobiont	voucher M. Grube M71 (GZU)	
-DQ166615	Uncultured Trebouxia photobiont	voucher M. Grube MG106 (GZU)	
-DQ166617	Uncultured Trebouxia photobiont	voucher M. Grube MG17 (GZU)	
-AJ969506	Uncultured Trebouxia photobiont	isolate G9307
-AJ969507	Uncultured Trebouxia photobiont	isolate G9308
-AJ969508	Uncultured Trebouxia photobiont	isolate L-1-IIa
-AJ969509	Trebouxia sp.	isolate P-3-I
-AJ969510	Trebouxia sp.	isolate P-5-IaA
-AJ969511	Trebouxia sp.	isolate P-6-Ia
-AJ969512	Trebouxia sp.	isolate P-7-Ia
-AJ969513	Uncultured Trebouxia photobiont	isolate L-8
-AJ969514	Uncultured Trebouxia photobiont	isolate L-9
-AJ969515	Trebouxia sp.	isolate P-10
-AJ969517	Uncultured Trebouxia photobiont	isolate L-16-IA
-AJ969518	Trebouxia sp.	isolate P-17-Ia
-AJ969519	Trebouxia sp.	isolate P-17-IIa
-AJ969520	Trebouxia sp.	isolate P-18-Ia
-AJ969521	Uncultured Trebouxia photobiont	isolate L-26
-AJ969522	Trebouxia sp.	isolate P-28-Ia
-AJ969523	Uncultured Trebouxia photobiont	isolate L-43
-AJ969524	Trebouxia sp.	isolate P-44-Ia1
-AJ969526	Trebouxia sp.	isolate P-48-IIIa
-AJ969527	Uncultured Trebouxia photobiont	isolate L-51-I
-AJ969528	Trebouxia sp.	isolate P-53-Ia
-AJ969529	Trebouxia arboricola	isolate P-54-Ib
-AJ969530	Trebouxia sp.	isolate P-54-IIa
-AJ969531	Trebouxia sp.	isolate P-56-IIa
-AJ969534	Trebouxia sp.	isolate P-69-IaSc
-AJ969535	Trebouxia sp.	isolate P-71-IIb
-AJ969536	Uncultured Trebouxia photobiont	isolate L-80
-AJ969537	Trebouxia sp.	isolate P-85-IIa
-AJ969538	Trebouxia sp.	isolate P-86-Ib
-AJ969539	Trebouxia sp.	isolate P-97-Ia
-AJ969540	Uncultured Trebouxia photobiont	isolate L-101
-AJ969541	Trebouxia sp.	isolate P-104-IIa
-AJ969542	Trebouxia sp.	isolate P-105-Ia
-AJ969543	Trebouxia sp.	isolate P-116-IIbA
-AJ969544	Trebouxia sp.	isolate P-120-Ibd
-AJ969545	Trebouxia decolorans	isolate P-120a-IIIb
-AJ969546	Uncultured Trebouxia photobiont	isolate L-121-Idd
-AJ969547	Trebouxia sp.	isolate P-121a1-Dark
-AJ969548	Trebouxia sp.	isolate P-121a1-Light
-AJ969549	Trebouxia decolorans	isolate P-121-Ib
-AJ969550	Trebouxia sp.	isolate P-121-IIcd
-AJ969551	Trebouxia sp.	isolate P-133-Ia
-AJ969552	Trebouxia sp.	isolate P-141-II
-AJ969553	Uncultured Trebouxia photobiont	isolate L-144-IIIgd
-AJ969554	Trebouxia decolorans	isolate P-144-IIIbd
-AJ969555	Trebouxia decolorans	isolate P-144-IIIcd
-AJ969556	Trebouxia decolorans	isolate P-144-IIIhd
-AJ969557	Uncultured Trebouxia photobiont	isolate L-145-IIIdg
-AJ969558	Trebouxia decolorans	isolate P-145-IdfB
-AJ969559	Trebouxia sp.	isolate P-145-Idj
-AJ969560	Trebouxia sp.	isolate P-158-IVmc
-AJ969561	Trebouxia sp.	isolate P-164-Ia
-AJ969562	Trebouxia decolorans	isolate P-164-IXa-1
-AJ969563	Trebouxia sp.	isolate P-164-IXa-2
-AJ969564	Trebouxia sp.	isolate P-174-Iad
-AJ969565	Trebouxia sp.	isolate P-174-IIadA
-AJ969566	Uncultured Trebouxia photobiont	isolate L-184
-AJ969567	Trebouxia sp.	isolate P-191-Ia
-AJ969568	Trebouxia sp.	isolate P-198-IIa
-AJ969569	Trebouxia sp.	isolate P-205-IIa
-AJ969570	Trebouxia sp.	isolate P-210-Ia
-AJ969571	Trebouxia sp.	isolate P-213-Ia
-AJ969572	Trebouxia sp.	isolate P-215-Ia
-AJ969573	Trebouxia sp.	isolate P-218-Ia
-AJ969574	Trebouxia sp.	isolate P-246-IaSc
-AJ969575	Trebouxia sp.	isolate P-249-Ia
-AJ969576	Uncultured Trebouxia photobiont	isolate L-264
-AJ969577	Uncultured Trebouxia photobiont	isolate L-265-II
-AJ969578	Uncultured Trebouxia photobiont	isolate L-269
-AJ969580	Uncultured Trebouxia photobiont	isolate L-275-II
-AJ969581	Trebouxia sp.	isolate P-276-Ia
-AJ969582	Uncultured Trebouxia photobiont	isolate L-277-I
-AJ969583	Trebouxia sp.	isolate P-280-IIaSc
-AJ969584	Trebouxia sp.	isolate P-281-IaSc
-AJ969585	Trebouxia sp.	isolate P-282-IaSc
-AJ969586	Trebouxia sp.	isolate P-287-VIb
-AJ969587	Trebouxia sp.	isolate P-288-Ia
-AJ969588	Trebouxia decolorans	isolate P-288-IIIa
-AJ969589	Trebouxia sp.	isolate P-303-IIIa
-AJ969590	Trebouxia sp.	isolate P-304-Ia
-AJ969591	Trebouxia sp.	isolate P-306-Ia
-AJ969592	Trebouxia decolorans	isolate P-319-Ia
-AJ969593	Trebouxia decolorans	isolate P-319-Id
-AJ969594	Trebouxia decolorans	isolate P-319-If2
-AJ969595	Trebouxia decolorans	isolate P-319-IIa
-AJ969596	Trebouxia decolorans	isolate P-319-IIc1
-AJ969597	Trebouxia decolorans	isolate P-319-IIc2
-AJ969598	Trebouxia decolorans	isolate P-319-IVc2
-AJ969599	Trebouxia decolorans	isolate P-320-Id2
-AJ969600	Trebouxia decolorans	isolate P-320-IIb
-AJ969601	Trebouxia decolorans	isolate P-320-IIc
-AJ969602	Trebouxia decolorans	isolate P-320-IId
-AJ969603	Trebouxia sp.	isolate P-320-IIf
-AJ969604	Trebouxia sp.	isolate P-320-IIIa
-AJ969606	Uncultured Trebouxia photobiont	isolate L-337
-AJ969607	Uncultured Trebouxia photobiont	isolate L-348
-AJ969608	Uncultured Trebouxia photobiont	isolate L-356
-AJ969609	Trebouxia arboricola	isolate P-360-IIa
-AJ969610	Trebouxia arboricola	isolate P-360-IIb
-AJ969611	Trebouxia arboricola	isolate P-83-Ia
-AJ970889	Trebouxia decolorans	isolate P-319-Ig
-AM159202	Uncultured Trebouxia photobiont	clone L-243-t1
-AM159207	Uncultured Trebouxia photobiont	clone L-477-t1
-AM159210	Trebouxia sp.	isolate P-400-IaSc
-AM159215	Uncultured Trebouxia photobiont	clone L-247-t1
-AM159216	Trebouxia sp.	isolate P-360-I
-AM159503	Trebouxia decolorans	isolate P-319-Ig
-AJ293770	Trebouxia sp.	Anaptychia ciliaris
+FJ792798	UNIQUE	IN TREE	Acarospora epithallina	Trebouxia sp.
+JX036209	Group 99	IN TREE	Acarospora sp.	Trebouxia sp.
+AJ293780	UNIQUE	IN TREE	Amandinea punctata	Trebouxia sp.
+AF389913	Group 3	REDUNDANT	Anaptychia ciliaris	Trebouxia arboricola
+AF389914	UNIQUE	IN TREE	Anaptychia ciliaris	Trebouxia arboricola
+AF389915	UNIQUE	IN TREE	Anaptychia ciliaris	Trebouxia arboricola
+AF389916	UNIQUE	IN TREE	Anaptychia ciliaris	Trebouxia arboricola
+AF389917	UNIQUE	IN TREE	Anaptychia ciliaris	Trebouxia arboricola
+AJ293770	UNIQUE	IN TREE	Anaptychia ciliaris	Trebouxia sp.
+AJ293781	UNIQUE	IN TREE	Anaptychia runcinata	Trebouxia sp.
+EU416214	UNIQUE	IN TREE	Anaptychia setifera	Trebouxia sp.
+JX036210	Group 19	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036224	Group 19	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036225	Group 19	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036171	Group 20	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036203	Group 20	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036204	Group 20	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036253	Group 21	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036194	Group 22	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036208	Group 99	REDUNDANT	Austrolecia sp.	Trebouxia sp.
+JX036180	UNIQUE	IN TREE	Austrolecia sp.	Trebouxia sp.
+JX036273	UNIQUE	IN TREE	Austrolecia sp.	Trebouxia sp.
+HQ026162	Group 175	IN TREE	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026163	UNIQUE	IN TREE	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026169	Group 176	IN TREE	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026188	Group 176	REDUNDANT	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026194	Group 177	REDUNDANT	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026195	Group 177	IN TREE	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026204	Group 178	REDUNDANT	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026210	Group 179	REDUNDANT	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026211	Group 179	IN TREE	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026212	UNIQUE	IN TREE	Boreoplaca ultrafrigida	Trebouxia sp.
+HQ026219	Group 176	REDUNDANT	Boreoplaca ultrafrigida	Trebouxia sp.
+AJ293782	Group 58	IN TREE	Buellia elegans	Trebouxia sp.
+JX036179	Group 107	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036170	Group 19	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036191	Group 19	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036200	Group 19	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036215	Group 19	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036164	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036192	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036202	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036206	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036221	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036245	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036261	Group 20	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036169	Group 21	REDUNDANT	Buellia frigida	Trebouxia sp.
+JX036272	Group 97	IN TREE	Buellia frigida	Trebouxia sp.
+JX036213	UNIQUE	IN TREE	Buellia frigida	Trebouxia sp.
+JX036165	Group 20	REDUNDANT	Buellia sp.	Trebouxia sp.
+AJ293784	Group 42	IN TREE	Buellia zoharyi	Trebouxia sp.
+EF095233	UNIQUE	IN TREE	Caloplaca agardhiana	Trebouxia sp.
+EF095232	UNIQUE	IN TREE	Caloplaca alociza	Trebouxia sp.
+EF095234	Group 68	REDUNDANT	Caloplaca badioreagens	Trebouxia sp.
+EF095230	UNIQUE	IN TREE	Caloplaca erodens	Trebouxia sp.
+EF095231	UNIQUE	IN TREE	Caloplaca erodens	Trebouxia sp.
+JQ993799	UNIQUE	IN TREE	Caloplaca fernandeziana	Trebouxia arboricola
+JQ993760	Group 23	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993763	Group 23	REDUNDANT	Caloplaca orthoclada	Trebouxia arboricola
+JQ993764	Group 24	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993765	Group 24	REDUNDANT	Caloplaca orthoclada	Trebouxia arboricola
+JQ993767	Group 24	REDUNDANT	Caloplaca orthoclada	Trebouxia arboricola
+JQ993773	Group 25	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993771	Group 25	REDUNDANT	Caloplaca orthoclada	Trebouxia arboricola
+JQ993780	Group 26	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993779	Group 26	REDUNDANT	Caloplaca orthoclada	Trebouxia arboricola
+JQ993758	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993759	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia decolorans
+JQ993761	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993762	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993766	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993797	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JQ993798	UNIQUE	IN TREE	Caloplaca orthoclada	Trebouxia arboricola
+JX036157	Group 19	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036158	Group 19	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036189	Group 19	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036181	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036182	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036183	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036187	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036188	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036195	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036198	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036212	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036219	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036220	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036247	Group 20	REDUNDANT	Caloplaca sp.	Trebouxia sp.
+JX036246	UNIQUE	IN TREE	Caloplaca sp.	Trebouxia sp.
+JQ993768	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia decolorans
+JQ993774	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993776	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993777	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia decolorans
+JQ993778	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993781	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993784	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993785	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993788	UNIQUE	IN TREE	Caloplaca sp. 1	Trebouxia arboricola
+JQ993769	Group 24	REDUNDANT	Caloplaca sp. 2	Trebouxia arboricola
+JQ993770	UNIQUE	IN TREE	Caloplaca sp. 2	Trebouxia arboricola
+JQ993775	UNIQUE	IN TREE	Caloplaca sp. 2	Trebouxia arboricola
+JQ993791	Group 27	IN TREE	Caloplaca sp. 3	Trebouxia arboricola
+JQ993795	UNIQUE	IN TREE	Caloplaca sp. 3	Trebouxia arboricola
+JQ993796	UNIQUE	IN TREE	Caloplaca sp. 3	Trebouxia arboricola
+JQ993789	Group 27	REDUNDANT	Caloplaca sp. 4	Trebouxia arboricola
+JQ993790	Group 27	REDUNDANT	Caloplaca sp. 4	Trebouxia arboricola
+JQ993793	Group 27	REDUNDANT	Caloplaca sp. 4	Trebouxia arboricola
+JQ993786	UNIQUE	IN TREE	Caloplaca sp. 4	Trebouxia arboricola
+JQ993787	UNIQUE	IN TREE	Caloplaca sp. 4	Trebouxia arboricola
+JQ993792	UNIQUE	IN TREE	Caloplaca sp. 4	Trebouxia arboricola
+JQ993794	UNIQUE	IN TREE	Caloplaca sp. 4	Trebouxia arboricola
+EF095235	Group 68	REDUNDANT	Caloplaca variabilis	Trebouxia sp.
+EU717927	UNIQUE	IN TREE	Candelaria concolor	Trebouxia decolorans
+EU717928	UNIQUE	IN TREE	Candelaria concolor	Trebouxia decolorans
+JQ004576	UNIQUE	IN TREE	Candelaria sp.	Trebouxia sp.
+JQ004573	Group 178	REDUNDANT	Candelaria sp.	Trebouxia impressa
+JQ004579	UNIQUE	IN TREE	Candelaria sp.	Trebouxia sp.
+JX036241	Group 108	IN TREE	Carbonea sp.	Trebouxia sp.
+JN204767	Group 109	REDUNDANT	Carbonea vorticosa	Trebouxia jamesii
+JN204752	Group 183	REDUNDANT	Carbonea vorticosa	Trebouxia sp.
+JX036173	Group 20	REDUNDANT	Carbonea vorticosa	Trebouxia sp.
+JX036174	Group 20	REDUNDANT	Carbonea vorticosa	Trebouxia sp.
+JX036175	Group 20	REDUNDANT	Carbonea vorticosa	Trebouxia sp.
+JN204751	Group 184	IN TREE	Carbonea vorticosa	Trebouxia jamesii
+JN204810	UNIQUE	IN TREE	Carbonea vorticosa	Trebouxia jamesii
+GQ375387	Group 172	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375386	Group 202	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+FM945343	Group 112	REDUNDANT	Cetraria aculeata	Trebouxia sp.
+GQ375315	Group 109	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375316	Group 109	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375317	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375318	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375319	Group 109	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375320	Group 127	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375321	Group 127	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375322	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375323	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375324	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375325	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375326	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375327	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375328	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375329	Group 167	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375330	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375331	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375332	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375333	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375334	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375335	Group 112	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375336	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375337	Group 111	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375338	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375339	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375340	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375341	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375351	Group 110	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375352	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375353	Group 147	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375354	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375355	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375356	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375357	Group 168	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375358	Group 169	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375359	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375360	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375361	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375362	Group 170	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375363	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375364	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375365	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375366	Group 171	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375367	Group 172	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GQ375368	Group 172	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375369	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GQ375370	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124700	Group 147	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GU124701	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124702	Group 164	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GU124703	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124704	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124705	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124706	Group 109	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GU124707	Group 138	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GU124708	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124709	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124710	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124711	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124712	Group 173	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124713	Group 169	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GU124714	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124715	Group 174	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+GU124716	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124717	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124718	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+GU124719	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+JQ314485	Group 111	REDUNDANT	Cetraria aculeata	Trebouxia jamesii
+JQ314486	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+JQ314487	UNIQUE	IN TREE	Cetraria aculeata	Trebouxia jamesii
+FM945344	Group 109	REDUNDANT	Cetraria islandica	Trebouxia sp.
+FM945345	Group 167	REDUNDANT	Cetraria islandica	Trebouxia sp.
+FM945346	UNIQUE	IN TREE	Cetraria islandica	Trebouxia sp.
+AF453259	UNIQUE	IN TREE	Chaenotheca phaeocephala	Trebouxia arboricola
+AF453263	Group 109	REDUNDANT	Chaenotheca subroscida	Trebouxia simplex
+AF453260	Group 109	REDUNDANT	Chaenotheca subroscida	Trebouxia simplex
+AF453261	Group 109	REDUNDANT	Chaenotheca subroscida	Trebouxia simplex
+AF453262	UNIQUE	IN TREE	Chaenotheca subroscida	Trebouxia simplex
+AF453264	Group 109	REDUNDANT	Chaenotheca subroscida	Trebouxia simplex
+AF453265	UNIQUE	IN TREE	Chaenotheca subroscida	Trebouxia simplex
+AJ293785	UNIQUE	IN TREE	Dimelaena oreina	Trebouxia sp.
+AF345889	UNIQUE	IN TREE	Diploschistes albescens	Trebouxia asymmetrica
+EU416217	Group 147	IN TREE	Evernia divaricata	Trebouxia sp.
+EF457776	Group 146	REDUNDANT	Evernia mesomorpha	Trebouxia sp.
+EF457762	Group 69	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457761	Group 69	REDUNDANT	Evernia mesomorpha	Trebouxia sp.
+EF457763	Group 69	REDUNDANT	Evernia mesomorpha	Trebouxia sp.
+DQ086104	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+DQ086105	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+DQ086106	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+DQ086107	Group 141	IN TREE	Evernia mesomorpha	Trebouxia sp.
+DQ086108	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457758	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457759	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457760	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457764	Group 112	REDUNDANT	Evernia mesomorpha	Trebouxia sp.
+EF457765	Group 112	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457773	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457775	Group 146	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EU683440	UNIQUE	IN TREE	Evernia mesomorpha	Trebouxia sp.
+EF457770	UNIQUE	IN TREE	Everniastrum catawbiense	Trebouxia sp.
+AY444766	Group 112	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444751	Group 109	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444752	Group 109	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444753	Group 109	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444754	Group 109	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444756	Group 109	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444757	Group 112	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444758	UNIQUE	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AY444759	UNIQUE	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AY444760	Group 136	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444761	Group 112	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444762	Group 137	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AY444763	Group 112	REDUNDANT	Flavocetraria nivalis	Trebouxia jamesii
+AY444764	Group 138	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AY444765	UNIQUE	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AY444767	UNIQUE	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AY444768	UNIQUE	IN TREE	Flavocetraria nivalis	Trebouxia jamesii
+AJ249568	Group 124	IN TREE	Flavoparmelia caperata	Trebouxia gelatinosa
+AJ249569	Group 124	REDUNDANT	Flavoparmelia caperata	Trebouxia gelatinosa
+EU683444	UNIQUE	IN TREE	Flavoparmelia caperata	Trebouxia sp.
+EU717915	UNIQUE	IN TREE	Flavoparmelia caperata	Trebouxia sp.
+EU717918	UNIQUE	IN TREE	Flavoparmelia caperata	Trebouxia gelatinosa
+AJ249575	UNIQUE	IN TREE	Flavoparmelia subrudecta	Trebouxia gelatinosa
+AJ293783	Group 60	REDUNDANT	from Buellia georgei	Trebouxia sp.
+AF344176	Group 41	IN TREE	Fulgensia fulgida	Trebouxia asymmetrica
+AF344175	Group 41	REDUNDANT	Fulgensia fulgida	Trebouxia asymmetrica
+JN204748	Group 213	REDUNDANT	fungal sp.	Trebouxia jamesii
+JN204805	Group 213	REDUNDANT	fungal sp.	Trebouxia jamesii
+JX036262	Group 20	REDUNDANT	Huea sp.	Trebouxia sp.
+JX036263	Group 20	REDUNDANT	Huea sp.	Trebouxia sp.
+JX036178	Group 21	REDUNDANT	Huea sp.	Trebouxia sp.
+JX036251	Group 21	REDUNDANT	Huea sp.	Trebouxia sp.
+AJ511355	UNIQUE	IN TREE	Hypogymnia physodes	Trebouxia jamesii
+AJ511356	UNIQUE	IN TREE	Hypogymnia physodes	Trebouxia jamesii
+AJ511357	Group 130	REDUNDANT	Hypogymnia physodes	Trebouxia jamesii
+AJ511358	UNIQUE	IN TREE	Hypogymnia physodes	Trebouxia jamesii
+AJ511359	Group 131	IN TREE	Hypogymnia physodes	Trebouxia jamesii
+AJ511360	Group 132	IN TREE	Hypogymnia physodes	Trebouxia jamesii
+AJ511361	Group 133	IN TREE	Hypogymnia physodes	Trebouxia jamesii
+AJ511362	Group 134	REDUNDANT	Hypogymnia physodes	Trebouxia jamesii
+AJ511363	Group 112	REDUNDANT	Hypogymnia physodes	Trebouxia jamesii
+AJ511364	UNIQUE	IN TREE	Hypogymnia tubulosa	Trebouxia jamesii
+AJ511365	UNIQUE	IN TREE	Hypogymnia tubulosa	Trebouxia jamesii
+AJ511366	Group 135	IN TREE	Hypogymnia tubulosa	Trebouxia jamesii
+EF457769	Group 143	REDUNDANT	Imshaugia aleurites	Trebouxia sp.
+EF457774	Group 143	REDUNDANT	Imshaugia aleurites	Trebouxia sp.
+AJ249571	UNIQUE	IN TREE	Imshaugia placorodia	Trebouxia jamesii
+JX474330	Group 109	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474332	Group 109	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474347	Group 110	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474352	Group 110	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474362	Group 128	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474344	Group 129	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474345	Group 141	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474361	Group 179	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474336	Group 189	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474339	Group 189	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474367	Group 200	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474351	Group 203	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474324	Group 129	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474327	Group 129	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474328	Group 141	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474329	Group 109	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474331	UNIQUE	IN TREE	Lasallia pustulata	Trebouxia sp.
+JX474335	Group 189	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474337	Group 128	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474338	Group 189	IN TREE	Lasallia pustulata	Trebouxia sp.
+JX474340	UNIQUE	IN TREE	Lasallia pustulata	Trebouxia sp.
+JX474341	Group 110	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474346	UNIQUE	IN TREE	Lasallia pustulata	Trebouxia sp.
+JX474348	Group 190	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474356	Group 190	IN TREE	Lasallia pustulata	Trebouxia sp.
+JX474358	UNIQUE	IN TREE	Lasallia pustulata	Trebouxia sp.
+JX474359	Group 128	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+JX474360	Group 179	REDUNDANT	Lasallia pustulata	Trebouxia sp.
+DQ166576	Group 8	IN TREE	Lecanora bicincta	Trebouxia sp.
+DQ166580	UNIQUE	IN TREE	Lecanora bicincta	Trebouxia sp.
+DQ166577	Group 109	REDUNDANT	Lecanora bicincta	Trebouxia sp.
+DQ166578	UNIQUE	IN TREE	Lecanora bicincta	Trebouxia sp.
+DQ166579	Group 142	REDUNDANT	Lecanora bicincta	Trebouxia sp.
+DQ166581	UNIQUE	IN TREE	Lecanora bicincta	Trebouxia sp.
+DQ166583	UNIQUE	IN TREE	Lecanora carpinea	Trebouxia sp.
+DQ166582	Group 109	REDUNDANT	Lecanora carpinea	Trebouxia sp.
+EU551525	Group 10	REDUNDANT	Lecanora cenisia	Trebouxia sp.
+EU551529	Group 10	REDUNDANT	Lecanora cenisia	Trebouxia sp.
+EU551516	Group 109	REDUNDANT	Lecanora cenisia	Trebouxia sp.
+AJ511350	UNIQUE	IN TREE	Lecanora conizaeoides	Trebouxia jamesii
+AJ511351	UNIQUE	IN TREE	Lecanora conizaeoides	Trebouxia jamesii
+AJ511352	Group 128	IN TREE	Lecanora conizaeoides	Trebouxia jamesii
+AJ511353	UNIQUE	IN TREE	Lecanora conizaeoides	Trebouxia jamesii
+AJ511354	Group 129	IN TREE	Lecanora conizaeoides	Trebouxia jamesii
+HQ667317	Group 109	REDUNDANT	Lecanora fuscescens	Trebouxia jamesii
+JN204800	Group 142	REDUNDANT	Lecanora fuscobrunnea	Trebouxia impressa
+JN204804	Group 213	REDUNDANT	Lecanora fuscobrunnea	Trebouxia jamesii
+JN204745	UNIQUE	IN TREE	Lecanora fuscobrunnea	Trebouxia jamesii
+JN204806	UNIQUE	IN TREE	Lecanora fuscobrunnea	Trebouxia impressa
+JN204807	UNIQUE	IN TREE	Lecanora fuscobrunnea	Trebouxia jamesii
+DQ166585	UNIQUE	IN TREE	Lecanora lojkaeana	Trebouxia sp.
+DQ166584	UNIQUE	IN TREE	Lecanora lojkaeana	Trebouxia sp.
+DQ166586	UNIQUE	IN TREE	Lecanora lojkaeana	Trebouxia sp.
+JN204728	UNIQUE	IN TREE	Lecanora physciella var. sorediata	Trebouxia jamesii
+DQ166609	Group 10	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166604	Group 54	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166589	Group 65	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166593	Group 65	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166595	Group 66	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166616	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166587	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166588	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166590	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166594	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166602	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166603	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166605	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166606	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166608	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166610	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166611	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166615	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166617	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166591	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166592	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166596	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166597	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166599	Group 109	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166600	Group 109	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166601	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166612	UNIQUE	IN TREE	Lecanora rupicola	Trebouxia sp.
+DQ166613	Group 109	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166614	Group 111	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ166618	Group 109	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+DQ660908	Group 116	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+JX036159	Group 19	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036216	Group 19	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036197	Group 20	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036199	Group 20	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036205	Group 20	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036217	Group 20	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036268	Group 21	REDUNDANT	Lecanora sp.	Trebouxia sp.
+JX036201	Group 22	IN TREE	Lecanora sp.	Trebouxia sp.
+JX036227	UNIQUE	IN TREE	Lecanora sp.	Trebouxia sp.
+AY444769	Group 139	REDUNDANT	Lecanora swartzii	Trebouxia jamesii
+DQ166620	Group 139	IN TREE	Lecanora swartzii	Trebouxia sp.
+JN204778	UNIQUE	IN TREE	Lecidea andersonii	Trebouxia impressa
+JN204759	UNIQUE	IN TREE	Lecidea atrobrunnea	Trebouxia impressa
+JN204819	UNIQUE	IN TREE	Lecidea atrobrunnea	Trebouxia impressa
+JN204820	UNIQUE	IN TREE	Lecidea atrobrunnea	Trebouxia impressa
+JN204834	UNIQUE	IN TREE	Lecidea atrobrunnea	Trebouxia impressa
+JN204746	Group 116	IN TREE	Lecidea atrobrunnea subsp. stictica	Trebouxia impressa
+JN204793	Group 174	REDUNDANT	Lecidea auriculata	Trebouxia jamesii
+JN204813	Group 142	REDUNDANT	Lecidea cancriformis	Trebouxia impressa
+JN204770	Group 183	REDUNDANT	Lecidea cancriformis	Trebouxia sp.
+JN204771	Group 183	REDUNDANT	Lecidea cancriformis	Trebouxia sp.
+JN204808	Group 183	REDUNDANT	Lecidea cancriformis	Trebouxia sp.
+JX036167	Group 97	REDUNDANT	Lecidea cancriformis	Trebouxia sp.
+JN204749	Group 183	REDUNDANT	Lecidea cancriformis	Trebouxia sp.
+JN204750	UNIQUE	IN TREE	Lecidea cancriformis	Trebouxia impressa
+JN204753	UNIQUE	IN TREE	Lecidea cancriformis	Trebouxia impressa
+JN204801	Group 183	IN TREE	Lecidea cancriformis	Trebouxia sp.
+JN204809	UNIQUE	IN TREE	Lecidea cancriformis	Trebouxia jamesii
+JN204811	Group 183	REDUNDANT	Lecidea cancriformis	Trebouxia sp.
+JN204812	UNIQUE	IN TREE	Lecidea cancriformis	Trebouxia sp.
+JX036166	UNIQUE	IN TREE	Lecidea cancriformis	Trebouxia sp.
+AM920666	Group 54	REDUNDANT	Lecidea fuscoatra	Trebouxia incrustata
+HQ667316	Group 129	REDUNDANT	Lecidea hercynica	Trebouxia simplex
+JN204766	Group 109	REDUNDANT	Lecidea lapicida var. pantherina	Trebouxia jamesii
+HQ667315	UNIQUE	IN TREE	Lecidea leprarioides	Trebouxia jamesii
+JN204768	Group 109	REDUNDANT	Lecidea obluridata	Trebouxia jamesii
+JX036172	Group 19	REDUNDANT	Lecidea polypycnidophora	Trebouxia sp.
+HQ667313	Group 109	REDUNDANT	Lecidea polytrichina	Trebouxia jamesii
+HQ667312	Group 109	REDUNDANT	Lecidea pullata	Trebouxia jamesii
+HQ667311	UNIQUE	IN TREE	Lecidea roseotincta	Trebouxia jamesii
+JN204833	Group 205	REDUNDANT	Lecidea sp.	Trebouxia jamesii
+JN204758	Group 109	REDUNDANT	Lecidea sp.	Trebouxia jamesii
+JN204836	UNIQUE	IN TREE	Lecidea sp.	Trebouxia impressa
+JN204835	Group 116	REDUNDANT	Lecidea tessellata	Trebouxia impressa
+HQ667309	Group 166	IN TREE	Lecidea turgidula	Trebouxia jamesii
+JN204762	Group 142	REDUNDANT	Lecidella carpathica	Trebouxia impressa
+JN204761	Group 142	REDUNDANT	Lecidella carpathica	Trebouxia impressa
+AJ007385	Group 40	REDUNDANT	Lecidella elaeochroma	Trebouxia arboricola
+JX036252	Group 19	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036218	Group 20	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036228	Group 20	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036269	Group 20	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036270	Group 20	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036168	Group 21	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036207	Group 22	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JX036260	Group 22	REDUNDANT	Lecidella greenii	Trebouxia sp.
+JN204743	UNIQUE	IN TREE	Lecidella greenii	Trebouxia jamesii
+JN204795	Group 174	REDUNDANT	Lecidella siplei	Trebouxia jamesii
+FJ406574	Group 19	REDUNDANT	Lepraria borealis	Trebouxia jamesii
+FJ406572	Group 109	REDUNDANT	Lepraria borealis	Trebouxia jamesii
+AF242464	UNIQUE	IN TREE	Letharia 'barbata'	Trebouxia jamesii 'letharii' sp. 5
+AF242465	UNIQUE	IN TREE	Letharia 'barbata'	Trebouxia jamesii 'letharii' sp. 6
+AF242460	Group 113	IN TREE	Letharia 'gracilis'	Trebouxia jamesii 'letharii' sp. 1
+AF242463	UNIQUE	IN TREE	Letharia 'lucida'	Trebouxia jamesii 'letharii' sp. 4
+AF242461	Group 114	IN TREE	Letharia 'lupina'	Trebouxia jamesii 'letharii' sp. 2
+AF242462	UNIQUE	IN TREE	Letharia 'rugosa'	Trebouxia jamesii 'letharii' sp. 3
+FJ170498	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170502	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170504	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170513	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170514	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170515	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170525	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170538	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170540	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170558	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170577	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170593	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170600	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170601	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170605	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170606	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170607	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170608	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170613	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170615	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170616	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170619	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170646	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170650	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170651	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170653	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170654	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170657	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170659	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170665	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170666	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170668	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170673	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170683	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170684	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170690	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170692	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170704	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170715	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170722	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170725	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170618	Group 114	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170678	Group 114	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170682	Group 114	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170469	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170471	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170472	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170475	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170480	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170481	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170483	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170484	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170486	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170492	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170494	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170495	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170496	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170526	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170541	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170562	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170572	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170609	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170614	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170671	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170674	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170686	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170709	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170503	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170523	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170524	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170544	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170545	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170546	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170552	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170557	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170573	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170575	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170592	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170648	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170658	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170660	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170688	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170697	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170702	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170703	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170716	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170717	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170719	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170720	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170721	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170543	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170635	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170667	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170705	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170724	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170726	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170580	Group 159	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170685	Group 159	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170597	Group 160	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170636	Group 160	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170647	Group 160	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170680	Group 162	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170706	Group 162	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170561	Group 193	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170508	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170510	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170511	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170516	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170533	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170537	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170548	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170549	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170550	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170567	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170570	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170571	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170574	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170585	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170590	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170591	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170594	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170595	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170596	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170598	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170603	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170617	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170621	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170622	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170623	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170624	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170625	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170626	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170627	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170628	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170629	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170630	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170631	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170632	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170637	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170640	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170641	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170643	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170645	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170656	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170664	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170681	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170693	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170698	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170701	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170707	Group 194	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170478	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170521	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170528	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170555	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170556	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170578	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170579	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170586	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170610	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170633	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170638	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170644	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170655	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170670	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170695	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170696	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170708	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170710	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170718	Group 195	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170612	Group 197	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170714	Group 198	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170677	Group 199	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170691	Group 206	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170711	Group 208	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170712	Group 208	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170649	Group 209	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170652	Group 209	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170620	Group 210	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170675	Group 210	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170497	Group 211	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170584	Group 211	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170530	Group 212	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170532	Group 212	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170534	Group 212	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170489	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170490	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170491	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170559	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170564	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170565	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170694	Group 215	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170576	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170582	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170466	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170467	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170468	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170470	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170473	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170474	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170476	Group 195	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170477	Group 114	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170479	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170482	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170485	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170487	Group 156	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170488	Group 155	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170493	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170499	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170500	Group 194	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170501	Group 157	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170505	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170506	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170507	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170509	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170512	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170517	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170518	Group 158	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170519	Group 158	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170520	Group 159	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170522	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170527	Group 159	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170529	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170531	Group 197	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170535	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170536	Group 113	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170539	Group 160	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170542	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170547	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170551	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170553	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170554	Group 193	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170560	Group 161	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170563	Group 156	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170566	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170568	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170569	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170581	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170583	Group 157	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170587	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170588	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170589	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170599	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170602	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170604	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170611	Group 162	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170634	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170639	Group 163	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170642	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170661	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170662	Group 163	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170663	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170669	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170672	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170676	Group 162	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170679	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170687	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170689	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170699	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170700	UNIQUE	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170713	Group 155	IN TREE	Letharia lupina	Trebouxia jamesii
+FJ170723	Group 160	REDUNDANT	Letharia lupina	Trebouxia jamesii
+FJ170728	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170729	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170731	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170732	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170733	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170741	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170745	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170760	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170764	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170736	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170738	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170743	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170748	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170749	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170752	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170759	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170761	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170762	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170763	Group 130	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170753	Group 166	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170754	Group 166	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170751	Group 196	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170757	Group 207	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170758	Group 207	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+AF242457	Group 111	IN TREE	Letharia vulpina	Trebouxia jamesii 'vulpinae'
+FJ170727	Group 111	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170730	Group 130	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170734	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170735	Group 164	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170737	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170739	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170740	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170742	Group 165	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170744	Group 166	REDUNDANT	Letharia vulpina	Trebouxia jamesii
+FJ170746	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170747	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170750	Group 196	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170755	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+FJ170756	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
+AF534385	Group 16	REDUNDANT	lichen Lecanora rupicola	Trebouxia sp.
+AF534386	Group 16	IN TREE	lichen Rimularia insularis	Trebouxia sp.
+AJ249576	Group 120	IN TREE	Melanelia glabra	Trebouxia impressa
+HQ026223	UNIQUE	IN TREE	Parmelia squarrosa	Trebouxia sp.
+HQ026225	Group 176	REDUNDANT	Parmelia squarrosa	Trebouxia sp.
+HQ026226	UNIQUE	IN TREE	Parmelia squarrosa	Trebouxia sp.
+EU683443	Group 70	REDUNDANT	Parmelia sulcata	Trebouxia sp.
+AJ249570	Group 125	IN TREE	Parmelina carporrhizans	Trebouxia impressa
+AJ007388	Group 118	IN TREE	Parmelina tiliacea	Trebouxia impressa
+FJ792800	UNIQUE	IN TREE	Parmotrema perlatum	Trebouxia sp.
+AB627415	Group 1	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177829	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573818	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573819	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627383	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627388	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627402	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627403	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627404	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627411	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627412	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627413	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627424	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627426	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627427	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627430	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573845	Group 2	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177832	Group 2	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627367	Group 2	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627370	Group 2	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627380	Group 2	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627409	Group 3	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177835	Group 3	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573851	Group 3	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573852	Group 3	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573858	Group 4	IN TREE	Parmotrema tinctorum	Trebouxia sp.
+AB573859	Group 4	REDUNDANT	Parmotrema tinctorum	Trebouxia sp.
+AB627420	Group 44	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177819	Group 44	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB177823	Group 44	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB177821	Group 45	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177825	Group 45	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB573855	Group 45	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627366	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627394	Group 47	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627393	Group 47	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627398	Group 48	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627395	Group 48	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627425	Group 48	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627406	Group 49	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627407	Group 49	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627371	Group 5	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627431	Group 50	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627433	Group 50	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627432	Group 1	REDUNDANT	Parmotrema tinctorum	Trebouxia corticola
+AB627396	Group 6	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627405	Group 7	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177817	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177818	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177820	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177822	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177824	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177827	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177828	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB177833	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573816	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573817	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573822	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573823	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573824	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573825	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573826	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573827	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573828	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573829	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573839	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573840	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573841	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573842	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573843	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573844	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573846	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573847	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573848	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573849	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573850	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573854	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573856	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB573857	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia sp.
+AB583690	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627369	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627372	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627373	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627374	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627375	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627378	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627379	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627382	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627384	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627385	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627386	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627387	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627389	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627390	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627391	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627392	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627397	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627399	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627400	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627401	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627408	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627410	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627416	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627417	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627418	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627419	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627421	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627422	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627423	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627428	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB627429	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AB630328	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+JX435366	UNIQUE	IN TREE	Parmotrema tinctorum	Trebouxia corticola
+AF389928	Group 120	REDUNDANT	Phaeophyscia orbicularis	Trebouxia impressa
+AF389929	UNIQUE	IN TREE	Phaeophyscia orbicularis	Trebouxia impressa
+AF389930	Group 116	REDUNDANT	Phaeophyscia orbicularis	Trebouxia impressa
+AF389931	Group 120	REDUNDANT	Phaeophyscia orbicularis	Trebouxia impressa
+AF389932	UNIQUE	IN TREE	Phaeophyscia orbicularis	Trebouxia impressa
+AJ007386	UNIQUE	IN TREE	Phaeophyscia orbicularis	Trebouxia impressa
+AJ293786	Group 118	REDUNDANT	Phaeophyscia orbicularis	Trebouxia sp.
+EU717919	UNIQUE	IN TREE	Physcia adscendens	Trebouxia decolorans
+AJ007383	UNIQUE	IN TREE	Physcia adscendens	Trebouxia impressa
+AJ007384	UNIQUE	IN TREE	Physcia adscendens	Trebouxia impressa
+AJ293771	Group 118	REDUNDANT	Physcia adscendens	Trebouxia sp.
+AJ293772	Group 118	REDUNDANT	Physcia adscendens	Trebouxia sp.
+AJ293773	Group 118	REDUNDANT	Physcia adscendens	Trebouxia sp.
+AJ293774	Group 118	REDUNDANT	Physcia adscendens	Trebouxia sp.
+AJ293775	UNIQUE	IN TREE	Physcia aipolia	Trebouxia sp.
+AJ293776	UNIQUE	IN TREE	Physcia aipolia	Trebouxia sp.
+EU416222	UNIQUE	IN TREE	Physcia aipolia	Trebouxia sp.
+AF389918	UNIQUE	IN TREE	Physcia caesia	Trebouxia impressa
+AF389919	UNIQUE	IN TREE	Physcia caesia	Trebouxia impressa
+AF389920	UNIQUE	IN TREE	Physcia caesia	Trebouxia impressa
+AF389921	Group 116	REDUNDANT	Physcia caesia	Trebouxia impressa
+AF389922	Group 117	REDUNDANT	Physcia caesia	Trebouxia impressa
+AY303139	UNIQUE	IN TREE	Physcia caesia	Trebouxia sp.
+AJ293787	UNIQUE	IN TREE	Physcia semipinnata	Trebouxia sp.
+JQ004570	UNIQUE	IN TREE	Physcia sp.	Trebouxia gelatinosa
+JQ004571	Group 185	IN TREE	Physcia sp.	Trebouxia gelatinosa
+JQ004577	Group 185	REDUNDANT	Physcia sp.	Trebouxia sp.
+JQ004578	Group 185	REDUNDANT	Physcia sp.	Trebouxia gelatinosa
+AF345890	UNIQUE	IN TREE	Physcia stellaris	Trebouxia impressa
+AF345891	UNIQUE	IN TREE	Physcia stellaris	Trebouxia impressa
+AJ293777	UNIQUE	IN TREE	Physcia stellaris	Trebouxia sp.
+AJ293778	UNIQUE	IN TREE	Physcia stellaris	Trebouxia sp.
+AF389933	UNIQUE	IN TREE	Physcia tenella	Trebouxia impressa
+AF389934	Group 121	REDUNDANT	Physcia tenella	Trebouxia impressa
+AF389935	Group 122	REDUNDANT	Physcia tenella	Trebouxia impressa
+AF389936	Group 118	REDUNDANT	Physcia tenella	Trebouxia impressa
+AF389937	Group 123	IN TREE	Physcia tenella	Trebouxia impressa
+AJ293788	Group 126	REDUNDANT	Physcia tenella	Trebouxia sp.
+EU717912	UNIQUE	IN TREE	Physcia tenella	Trebouxia sp.
+EU717913	UNIQUE	IN TREE	Physcia tenella	Trebouxia sp.
+EU717914	UNIQUE	IN TREE	Physcia tenella	Trebouxia sp.
+EU416221	UNIQUE	IN TREE	Physconia detersa	Trebouxia sp.
+EU795079	UNIQUE	IN TREE	Physconia detersa	Trebouxia sp.
+EU795064	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+AF389923	Group 115	REDUNDANT	Physconia distorta	Trebouxia impressa
+AF389924	Group 116	REDUNDANT	Physconia distorta	Trebouxia impressa
+AF389925	Group 118	REDUNDANT	Physconia distorta	Trebouxia impressa
+AF389926	Group 118	REDUNDANT	Physconia distorta	Trebouxia impressa
+AF389927	Group 119	IN TREE	Physconia distorta	Trebouxia impressa
+EU795052	Group 152	IN TREE	Physconia distorta	Trebouxia sp.
+EU795053	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795054	Group 118	REDUNDANT	Physconia distorta	Trebouxia sp.
+EU795055	Group 120	REDUNDANT	Physconia distorta	Trebouxia sp.
+EU795056	Group 120	REDUNDANT	Physconia distorta	Trebouxia sp.
+EU795057	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795058	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795059	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795060	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795061	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795062	Group 115	REDUNDANT	Physconia distorta	Trebouxia sp.
+EU795063	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795075	Group 153	IN TREE	Physconia distorta	Trebouxia sp.
+EU795082	UNIQUE	IN TREE	Physconia distorta	Trebouxia sp.
+EU795074	Group 153	REDUNDANT	Physconia enteroxantha	Trebouxia sp.
+EU795077	Group 118	REDUNDANT	Physconia enteroxantha	Trebouxia sp.
+EU795078	Group 118	REDUNDANT	Physconia enteroxantha	Trebouxia sp.
+EU795080	Group 154	IN TREE	Physconia enteroxantha	Trebouxia sp.
+EU795081	Group 154	REDUNDANT	Physconia enteroxantha	Trebouxia sp.
+EU795065	UNIQUE	IN TREE	Physconia grisea	Trebouxia sp.
+EU795066	Group 153	REDUNDANT	Physconia grisea	Trebouxia sp.
+EU795067	UNIQUE	IN TREE	Physconia grisea	Trebouxia sp.
+EU795068	UNIQUE	IN TREE	Physconia grisea	Trebouxia sp.
+EU795069	UNIQUE	IN TREE	Physconia grisea	Trebouxia sp.
+EU795070	Group 126	REDUNDANT	Physconia grisea	Trebouxia sp.
+EU795071	Group 118	REDUNDANT	Physconia grisea	Trebouxia sp.
+EU795072	Group 120	REDUNDANT	Physconia grisea	Trebouxia sp.
+EU795073	Group 115	REDUNDANT	Physconia grisea	Trebouxia sp.
+EU717916	UNIQUE	IN TREE	Physconia isidiigera	Trebouxia sp.
+EU717917	UNIQUE	IN TREE	Physconia isidiigera	Trebouxia sp.
+AJ293779	UNIQUE	IN TREE	Physconia perisidiosa	Trebouxia sp.
+EU795076	UNIQUE	IN TREE	Physconia servitii	Trebouxia sp.
+JX036214	Group 20	REDUNDANT	Polysporina frigida	Trebouxia sp.
+JX036190	Group 20	REDUNDANT	Polysporina sp.	Trebouxia sp.
+AY804022	Group 28	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133475	Group 43	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133479	Group 43	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY804023	Group 5	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY703901	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133489	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133490	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133491	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133492	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133493	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133494	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133495	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133498	Group 54	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133473	Group 55	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133487	Group 58	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133486	Group 61	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY703902	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY703903	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY703904	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY703907	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133476	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133480	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133481	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133482	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133483	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133484	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133485	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+DQ660907	Group 61	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY703905	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133496	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+GU339208	Group 77	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+GU339204	Group 77	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+GU339205	Group 77	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+GU339206	Group 77	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+GU339207	Group 77	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+GU339209	Group 77	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY703898	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY703900	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY703906	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY804016	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY804017	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY804019	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133474	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133477	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133478	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133488	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133497	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133499	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133500	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133501	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+DQ133502	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+GU339210	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY703899	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY804018	Group 140	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY804020	Group 140	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AY804021	UNIQUE	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
+AF242466	UNIQUE	IN TREE	Pseudevernia cladoniae	Trebouxia jamesii
+AF242458	UNIQUE	IN TREE	Pseudevernia consocians	Trebouxia jamesii
+EF457767	Group 143	REDUNDANT	Pseudevernia consocians	Trebouxia sp.
+EF457768	Group 144	IN TREE	Pseudevernia consocians	Trebouxia sp.
+EF457771	Group 143	IN TREE	Pseudevernia consocians	Trebouxia sp.
+EF457772	Group 145	IN TREE	Pseudevernia consocians	Trebouxia sp.
+EF457777	UNIQUE	IN TREE	Pseudevernia consocians	Trebouxia sp.
+EU416218	UNIQUE	IN TREE	Pseudevernia consocians	Trebouxia sp.
+EU416224	UNIQUE	IN TREE	Pseudevernia consocians	Trebouxia sp.
+AF242459	Group 112	REDUNDANT	Pseudevernia furfuracea	Trebouxia jamesii
+JQ004553	UNIQUE	IN TREE	Punctelia sp.	Trebouxia gelatinosa
+EU416219	UNIQUE	IN TREE	Punctelia subrudecta	Trebouxia sp.
+AY842268	UNIQUE	IN TREE	Ramalina anceps	Trebouxia sp.
+AY842269	UNIQUE	IN TREE	Ramalina anceps	Trebouxia sp.
+EU416220	Group 70	IN TREE	Ramalina dilacerata	Trebouxia sp.
+GU252193	Group 10	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252194	Group 10	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252202	Group 10	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252205	Group 10	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252206	Group 10	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523354	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252182	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252183	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252184	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252185	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252186	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252197	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252198	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252199	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252200	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252201	Group 11	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523350	Group 12	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523351	Group 12	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EU717925	Group 12	REDUNDANT	Ramalina farinacea	Trebouxia decolorans
+FJ418565	Group 12	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523352	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523353	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523355	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EF523356	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+FJ418566	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252171	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252172	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252173	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252174	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252175	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252176	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252177	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252178	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252179	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252180	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252181	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252187	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252188	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252189	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252190	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252191	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252192	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252195	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252196	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252203	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+GU252204	Group 14	REDUNDANT	Ramalina farinacea	Trebouxia sp.
+EU717936	Group 8	REDUNDANT	Ramalina farinacea	Trebouxia decolorans
+AY842264	Group 10	REDUNDANT	Ramalina farinaceae	Trebouxia sp
+AY842265	Group 3	REDUNDANT	Ramalina fraxinea	Trebouxia sp.
+AY842263	UNIQUE	IN TREE	Ramalina gracilis	Trebouxia sp.
+EU717926	Group 13	REDUNDANT	Ramalina leptocarpha	Trebouxia decolorans
+EU717921	UNIQUE	IN TREE	Ramalina leptocarpha	Trebouxia decolorans
+EU717935	UNIQUE	IN TREE	Ramalina leptocarpha	Trebouxia decolorans
+EU717922	Group 10	REDUNDANT	Ramalina menziesii	Trebouxia decolorans
+EU717924	Group 11	REDUNDANT	Ramalina menziesii	Trebouxia decolorans
+EU717931	Group 14	REDUNDANT	Ramalina menziesii	Trebouxia decolorans
+EU717933	Group 15	REDUNDANT	Ramalina menziesii	Trebouxia decolorans
+EU717911	Group 8	REDUNDANT	Ramalina menziesii	Trebouxia decolorans
+EU717920	Group 9	REDUNDANT	Ramalina menziesii	Trebouxia decolorans
+EU717923	UNIQUE	IN TREE	Ramalina menziesii	Trebouxia decolorans
+AY842270	UNIQUE	IN TREE	Ramalina peruviana	Trebouxia sp
+EF432561	UNIQUE	IN TREE	Ramalina pollinaria	Trebouxia sp.
+FJ792799	Group 10	REDUNDANT	Ramalina siliquosa	Trebouxia sp.
+JX036259	Group 107	IN TREE	Rhizoplaca macleanii	Trebouxia sp.
+JX036176	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036177	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036226	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036230	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036232	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036236	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036237	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036238	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036257	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036258	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036264	Group 19	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036222	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036223	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036233	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036254	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036265	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036266	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036267	Group 20	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036229	Group 22	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036255	Group 22	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036271	Group 22	REDUNDANT	Rhizoplaca macleanii	Trebouxia sp.
+JX036231	UNIQUE	IN TREE	Rhizoplaca macleanii	Trebouxia sp.
+JQ004575	Group 178	REDUNDANT	Rhizoplaca sp.	Trebouxia impressa
+JX036240	Group 108	REDUNDANT	Rhizoplaca sp.	Trebouxia sp.
+JX036239	Group 19	REDUNDANT	Rhizoplaca sp.	Trebouxia sp.
+JQ004569	UNIQUE	IN TREE	Rhizoplaca sp.	Trebouxia gelatinosa
+JQ004574	Group 178	IN TREE	Rhizoplaca sp.	Trebouxia impressa
+AF534387	Group 109	REDUNDANT	Rimularia insularis	Trebouxia sp.
+AJ293791	Group 53	REDUNDANT	Rinodina atrocinerea	Trebouxia sp.
+AJ293793	Group 122	IN TREE	Rinodina capensis	Trebouxia sp.
+AJ293794	UNIQUE	IN TREE	Rinodina milvina	Trebouxia sp.
+AJ293792	UNIQUE	IN TREE	Rinodina sp.	Trebouxia sp.
+AJ293789	Group 60	REDUNDANT	Rinodina tunicata	Trebouxia sp.
+AJ293790	UNIQUE	IN TREE	Rinodinella controversa	Trebouxia sp.
+JX036211	UNIQUE	IN TREE	Sarcogyne privigna	Trebouxia sp.
+HQ667308	Group 109	REDUNDANT	Schaereria dolodes	Trebouxia jamesii
+FJ792797	Group 18	REDUNDANT	Seirophora villosa	Trebouxia sp.
+FJ792802	UNIQUE	IN TREE	Teloschistes chrysophthalmus	Trebouxia sp.
+AJ969579	UNIQUE	IN TREE	Teloschistes chrysopthalmus	Trebouxia sp.
+EU551542	Group 109	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551526	Group 10	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551527	Group 10	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551546	Group 10	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551548	Group 10	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551477	Group 4	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551483	Group 4	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551479	Group 5	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551518	Group 7	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551523	Group 7	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551515	Group 10	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551538	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551545	Group 75	IN TREE	Tephromela atra	Trebouxia sp.
+EU551544	Group 75	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551474	Group 8	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551482	Group 8	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551528	Group 8	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551534	Group 8	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551475	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551476	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551478	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551480	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551481	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551514	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551517	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551519	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551520	UNIQUE	IN TREE	Tephromela atra	Trebouxia sp.
+EU551541	Group 109	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551543	Group 109	REDUNDANT	Tephromela atra	Trebouxia sp.
+EU551485	Group 6	REDUNDANT	Tephromela atra var. calcarea	Trebouxia sp.
+EU551484	Group 6	REDUNDANT	Tephromela atra var. calcarea	Trebouxia sp.
+EU551487	Group 8	REDUNDANT	Tephromela atra var. calcarea	Trebouxia sp.
+EU551486	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551488	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551489	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551490	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551508	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551509	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551510	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551524	UNIQUE	IN TREE	Tephromela atra var. calcarea	Trebouxia sp.
+EU551530	Group 10	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551531	Group 10	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551521	Group 11	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551491	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551492	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551493	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551494	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551495	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551496	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551533	Group 14	REDUNDANT	Tephromela atra var. torulosa	Trebouxia sp.
+EU551522	UNIQUE	IN TREE	Tephromela atra var. torulosa	Trebouxia sp.
+EU551532	UNIQUE	IN TREE	Tephromela atra var. torulosa	Trebouxia sp.
+FJ406575	Group 19	REDUNDANT	Tephromela disciformis	Trebouxia jamesii
+EU551504	Group 10	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551536	Group 65	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551540	Group 65	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551511	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU551535	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU551497	Group 8	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551499	Group 8	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551500	Group 8	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551503	Group 8	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551506	Group 8	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551539	Group 9	REDUNDANT	Tephromela grumosa	Trebouxia sp.
+EU551498	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU551501	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU551502	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU551507	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU551537	UNIQUE	IN TREE	Tephromela grumosa	Trebouxia sp.
+EU715045	Group 142	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715035	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715038	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715040	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715046	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715048	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715061	Group 76	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715059	Group 76	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715060	Group 76	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715034	Group 148	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715036	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715037	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715039	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715041	UNIQUE	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715042	UNIQUE	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715043	Group 142	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715044	Group 142	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715047	UNIQUE	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715049	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715050	Group 149	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715051	Group 149	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715052	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715053	Group 148	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715054	Group 150	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715055	Group 150	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+EU715056	Group 151	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715057	Group 151	REDUNDANT	Thamnolia vermicularis	Trebouxia sp.
+EU715058	Group 151	IN TREE	Thamnolia vermicularis	Trebouxia sp.
+AF344177	Group 41	REDUNDANT	Toninia sedifolia	Trebouxia asymmetrica
+EU683441	Group 143	REDUNDANT	Tuckermannopsis americana	Trebouxia sp.
+AJ431579	Group 60	IN TREE	Umbilicaria antarctica	Trebouxia sp.
+AJ431577	Group 60	REDUNDANT	Umbilicaria antarctica	Trebouxia sp.
+AJ431578	Group 60	REDUNDANT	Umbilicaria antarctica	Trebouxia sp.
+AJ431591	Group 60	REDUNDANT	Umbilicaria antarctica	Trebouxia sp.
+AJ431580	UNIQUE	IN TREE	Umbilicaria antarctica	Trebouxia sp.
+AJ315855	Group 109	REDUNDANT	Umbilicaria antarctica	Trebouxia jamesii
+AJ318779	Group 109	REDUNDANT	Umbilicaria antarctica	Trebouxia jamesii
+AJ431574	Group 109	IN TREE	Umbilicaria antarctica	Trebouxia jamesii
+AJ431575	Group 109	REDUNDANT	Umbilicaria antarctica	Trebouxia jamesii
+AJ431576	Group 109	REDUNDANT	Umbilicaria antarctica	Trebouxia jamesii
+JX036248	Group 19	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036161	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036162	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036163	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036184	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036185	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036186	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036193	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036196	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036234	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036235	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036242	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036243	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036244	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036249	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036250	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036256	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036274	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+JX036275	Group 20	REDUNDANT	Umbilicaria aprina	Trebouxia sp.
+AJ431583	UNIQUE	IN TREE	Umbilicaria decussata	Trebouxia sp.
+AJ431584	Group 127	REDUNDANT	Umbilicaria decussata	Trebouxia jamesii
+AJ431588	Group 109	REDUNDANT	Umbilicaria decussata	Trebouxia jamesii
+AJ431589	UNIQUE	IN TREE	Umbilicaria decussata	Trebouxia jamesii
+JQ004617	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004618	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004619	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004623	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004531	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004532	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004533	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004534	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004535	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004537	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004538	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004540	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004541	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004542	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004543	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+JQ004544	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004545	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004546	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004547	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004548	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004556	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004557	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004558	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004559	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004560	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004562	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004563	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004564	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004567	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+JQ004568	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+JQ004580	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004581	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004583	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004584	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004585	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004586	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004587	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004588	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004589	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004590	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004591	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004592	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004593	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004600	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004601	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004602	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004604	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004605	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004606	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004607	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004615	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004624	Group 201	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004626	Group 204	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+HQ026220	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+HQ026221	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+HQ026222	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+HQ026228	Group 181	IN TREE	Umbilicaria esculenta	Trebouxia sp.
+HQ026229	UNIQUE	IN TREE	Umbilicaria esculenta	Trebouxia sp.
+HQ026230	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+HQ026231	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+HQ026232	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia sp.
+JQ004530	Group 182	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004536	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004539	UNIQUE	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004561	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004582	UNIQUE	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004603	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004608	UNIQUE	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004614	Group 182	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004616	Group 180	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004620	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004621	Group 180	REDUNDANT	Umbilicaria esculenta	Trebouxia jamesii
+JQ004622	UNIQUE	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004625	UNIQUE	IN TREE	Umbilicaria esculenta	Trebouxia jamesii
+JQ004609	Group 109	REDUNDANT	Umbilicaria flocculosa	Trebouxia jamesii
+JQ004610	Group 186	IN TREE	Umbilicaria flocculosa	Trebouxia jamesii
+JQ004611	Group 186	REDUNDANT	Umbilicaria flocculosa	Trebouxia jamesii
+JQ004612	Group 186	REDUNDANT	Umbilicaria flocculosa	Trebouxia jamesii
+JQ004613	Group 186	REDUNDANT	Umbilicaria flocculosa	Trebouxia jamesii
+AJ431581	Group 127	IN TREE	Umbilicaria kappeni	Trebouxia jamesii
+AJ431582	Group 109	REDUNDANT	Umbilicaria kappeni	Trebouxia jamesii
+AJ315854	Group 127	REDUNDANT	Umbilicaria kappenii	Trebouxia jamesii
+AJ318780	UNIQUE	IN TREE	Umbilicaria kappenii	Trebouxia impressa
+JQ004634	Group 180	REDUNDANT	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004635	Group 180	REDUNDANT	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004628	Group 187	REDUNDANT	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004631	Group 187	REDUNDANT	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004627	Group 187	REDUNDANT	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004629	Group 188	REDUNDANT	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004630	Group 187	IN TREE	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004632	UNIQUE	IN TREE	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004633	UNIQUE	IN TREE	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004636	Group 188	IN TREE	Umbilicaria muehlenbergii	Trebouxia jamesii
+JQ004637	UNIQUE	IN TREE	Umbilicaria muehlenbergii	Trebouxia jamesii
+AJ431585	Group 109	REDUNDANT	Umbilicaria umbilicarioides	Trebouxia jamesii
+AJ431586	Group 127	REDUNDANT	Umbilicaria umbilicarioides	Trebouxia jamesii
+AJ431587	Group 109	REDUNDANT	Umbilicaria umbilicarioides	Trebouxia jamesii
+AJ431590	Group 109	REDUNDANT	Umbilicaria umbilicarioides	Trebouxia jamesii
+JX036160	UNIQUE	IN TREE	unidentified lichen	Trebouxia sp.
+AF242471	UNIQUE	IN TREE	Usnea arizonica	Trebouxia sp.
+EU416223	UNIQUE	IN TREE	Usnea glabrata	Trebouxia sp.
+FJ406573	Group 109	REDUNDANT	Usnea lambii	Trebouxia jamesii
+EU683442	UNIQUE	IN TREE	Usnea lapponica	Trebouxia sp.
+JN848816	UNIQUE	IN TREE	Usnea longissima	Trebouxia sp.
+AM159213	UNIQUE	IN TREE	Xanthomendoza sp.	Trebouxia sp.
+EU416215	UNIQUE	IN TREE	Xanthoparmelia chlorochroa	Trebouxia sp.
+AM920667	Group 55	REDUNDANT	Xanthoparmelia conspersa	Trebouxia incrustata
+FJ792801	Group 54	REDUNDANT	Xanthoparmelia tinctina	Trebouxia incrustata
+AJ969525	UNIQUE	IN TREE	Xanthoria fallax	Trebouxia sp.
+AJ969533	UNIQUE	IN TREE	Xanthoria fallax	Trebouxia sp.
+AJ007387	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia arboricola
+AJ969532	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia sp.
+EU717932	Group 15	REDUNDANT	Xanthoria tenax	Trebouxia decolorans
+EU717929	UNIQUE	IN TREE	Xanthoria tenax	Trebouxia decolorans
+EU717930	UNIQUE	IN TREE	Xanthoria tenax	Trebouxia decolorans
+EU717934	UNIQUE	IN TREE	Xanthoria tenax	Trebouxia decolorans
+AJ969605	UNIQUE	IN TREE	Xanthoria ulophyllodes	Trebouxia sp.
+JX509841	Group 109	REDUNDANT		Trebouxia jamesii
+JX509842	Group 109	REDUNDANT		Trebouxia jamesii
+JX509846	Group 109	REDUNDANT		Trebouxia jamesii
+JX509851	Group 109	REDUNDANT		Trebouxia jamesii
+JX509852	Group 109	REDUNDANT		Trebouxia jamesii
+JX509856	Group 109	REDUNDANT		Trebouxia jamesii
+JX509857	Group 109	REDUNDANT		Trebouxia jamesii
+JX509858	Group 109	REDUNDANT		Trebouxia jamesii
+JX509860	Group 109	REDUNDANT		Trebouxia jamesii
+JX509861	Group 109	REDUNDANT		Trebouxia jamesii
+JX518607	Group 109	REDUNDANT		Trebouxia jamesii
+JX518608	Group 109	REDUNDANT		Trebouxia jamesii
+GQ398411	Group 111	REDUNDANT		Trebouxia jamesii
+JX518610	Group 147	REDUNDANT		Trebouxia jamesii
+JX518611	Group 147	REDUNDANT		Trebouxia jamesii
+JX518612	Group 147	REDUNDANT		Trebouxia jamesii
+JX509859	Group 170	REDUNDANT		Trebouxia jamesii
+JX509845	Group 214	REDUNDANT		Trebouxia jamesii
+JX509847	Group 214	REDUNDANT		Trebouxia jamesii
+JX509848	Group 214	REDUNDANT		Trebouxia jamesii
+JX509849	Group 214	REDUNDANT		Trebouxia jamesii
+JX509850	Group 214	REDUNDANT		Trebouxia jamesii
+JX509853	Group 214	REDUNDANT		Trebouxia jamesii
+JX509854	Group 214	REDUNDANT		Trebouxia jamesii
+AB573820	Group 1	REDUNDANT		Trebouxia corticola
+AB573821	Group 1	REDUNDANT		Trebouxia corticola
+AB573830	Group 1	REDUNDANT		Trebouxia corticola
+AB573831	Group 1	REDUNDANT		Trebouxia corticola
+AB573832	Group 1	REDUNDANT		Trebouxia corticola
+AB573833	Group 1	REDUNDANT		Trebouxia corticola
+AB573834	Group 1	REDUNDANT		Trebouxia corticola
+AB573835	Group 1	REDUNDANT		Trebouxia corticola
+AB573836	Group 1	REDUNDANT		Trebouxia corticola
+AB573837	Group 1	REDUNDANT		Trebouxia corticola
+AB573838	Group 1	REDUNDANT		Trebouxia corticola
+AB583691	Group 1	REDUNDANT		Trebouxia corticola
+AB627434	Group 1	REDUNDANT		Trebouxia corticola
+AJ969527	Group 1	REDUNDANT		Trebouxia sp.
+AJ969559	Group 1	REDUNDANT		Trebouxia sp.
+AJ969592	Group 1	REDUNDANT		Trebouxia decolorans
+AJ969596	Group 1	REDUNDANT		Trebouxia decolorans
+AJ969598	Group 1	REDUNDANT		Trebouxia decolorans
+JF831910	Group 1	REDUNDANT		Trebouxia decolorans
+Z68703	Group 1	REDUNDANT		Trebouxia arboricola
+FJ705181	Group 10	IN TREE		Trebouxia decolorans
+EU551547	Group 10	REDUNDANT		Trebouxia sp.
+FJ626733	Group 10	REDUNDANT		Trebouxia jamesii
+JF414656	Group 10	REDUNDANT		Trebouxia sp.
+JN204818	UNIQUE	IN TREE		Trebouxia sp.
+JN980142	UNIQUE	IN TREE		Trebouxia sp.
+JN980143	Group 102	IN TREE		Trebouxia sp.
+JN980144	Group 102	REDUNDANT		Trebouxia sp.
+JN980149	Group 103	IN TREE		Trebouxia sp.
+JN980147	Group 103	REDUNDANT		Trebouxia sp.
+JN980150	UNIQUE	IN TREE		Trebouxia sp.
+JQ004554	Group 105	IN TREE		Trebouxia sp.
+JQ004572	Group 105	REDUNDANT		Trebouxia sp.
+JQ004594	Group 105	REDUNDANT		Trebouxia sp.
+JQ004565	Group 106	IN TREE		Trebouxia sp.
+JQ004595	Group 106	REDUNDANT		Trebouxia sp.
+JQ004599	Group 106	REDUNDANT		Trebouxia sp.
+FJ705187	Group 11	IN TREE		Trebouxia decolorans
+JF414630	Group 11	REDUNDANT		Trebouxia sp.
+JF414632	Group 11	REDUNDANT		Trebouxia sp.
+JF414634	Group 11	REDUNDANT		Trebouxia sp.
+JF414642	Group 11	REDUNDANT		Trebouxia sp.
+JF414643	Group 11	REDUNDANT		Trebouxia sp.
+JF414645	Group 11	REDUNDANT		Trebouxia sp.
+JF414651	Group 11	REDUNDANT		Trebouxia sp.
+JF414653	Group 11	REDUNDANT		Trebouxia sp.
+JF414655	Group 11	REDUNDANT		Trebouxia sp.
+FJ705206	Group 12	IN TREE		Trebouxia decolorans
+JF414631	Group 12	REDUNDANT		Trebouxia sp.
+JF414633	Group 12	REDUNDANT		Trebouxia sp.
+JF414635	Group 12	REDUNDANT		Trebouxia sp.
+JF414636	Group 12	REDUNDANT		Trebouxia sp.
+JF414637	Group 12	REDUNDANT		Trebouxia sp.
+JF414638	Group 12	REDUNDANT		Trebouxia sp.
+JF414639	Group 12	REDUNDANT		Trebouxia sp.
+JF414640	Group 12	REDUNDANT		Trebouxia sp.
+JF414641	Group 12	REDUNDANT		Trebouxia sp.
+JF414644	Group 12	REDUNDANT		Trebouxia sp.
+JF414652	Group 12	REDUNDANT		Trebouxia sp.
+JF414654	Group 12	REDUNDANT		Trebouxia sp.
+FJ705197	Group 13	IN TREE		Trebouxia decolorans
+JF414649	Group 13	REDUNDANT		Trebouxia sp.
+FJ705192	Group 14	IN TREE		Trebouxia decolorans
+JF414646	Group 14	REDUNDANT		Trebouxia sp.
+JF414647	Group 14	REDUNDANT		Trebouxia sp.
+JF414648	Group 14	REDUNDANT		Trebouxia sp.
+JF414650	Group 14	REDUNDANT		Trebouxia sp.
+JF414658	Group 14	REDUNDANT		Trebouxia sp.
+FJ705204	Group 15	IN TREE		Trebouxia decolorans
+AJ969560	Group 17	IN TREE		Trebouxia sp.
+FJ626725	Group 17	REDUNDANT		Trebouxia arboricola
+JN980139	Group 17	REDUNDANT		Trebouxia sp.
+JN980140	Group 17	REDUNDANT		Trebouxia sp.
+JN980145	Group 17	REDUNDANT		Trebouxia sp.
+JN980146	Group 17	REDUNDANT		Trebouxia sp.
+AJ969583	Group 18	IN TREE		Trebouxia sp.
+FJ705175	Group 19	IN TREE		Trebouxia decolorans
+JN204732	Group 19	REDUNDANT		Trebouxia sp.
+JN204739	Group 19	REDUNDANT		Trebouxia sp.
+JN204777	Group 19	REDUNDANT		Trebouxia sp.
+JN204814	Group 19	REDUNDANT		Trebouxia sp.
+AB627368	Group 2	REDUNDANT		Trebouxia corticola
+AB627376	Group 2	REDUNDANT		Trebouxia corticola
+AB627377	Group 2	REDUNDANT		Trebouxia corticola
+AB627381	Group 2	REDUNDANT		Trebouxia corticola
+AB627414	Group 2	REDUNDANT		Trebouxia corticola
+FJ705182	Group 20	IN TREE		Trebouxia decolorans
+JN204726	Group 20	REDUNDANT		Trebouxia sp.
+JN204733	Group 20	REDUNDANT		Trebouxia sp.
+JN204735	Group 20	REDUNDANT		Trebouxia sp.
+JN204737	Group 20	REDUNDANT		Trebouxia sp.
+JN204742	Group 20	REDUNDANT		Trebouxia sp.
+JN204754	Group 20	REDUNDANT		Trebouxia sp.
+JN204755	Group 20	REDUNDANT		Trebouxia sp.
+JN204756	Group 20	REDUNDANT		Trebouxia sp.
+JN204776	Group 20	REDUNDANT		Trebouxia sp.
+JN204779	Group 20	REDUNDANT		Trebouxia sp.
+JN204781	Group 20	REDUNDANT		Trebouxia sp.
+JN204782	Group 20	REDUNDANT		Trebouxia sp.
+JN204783	Group 20	REDUNDANT		Trebouxia sp.
+JN204785	Group 20	REDUNDANT		Trebouxia sp.
+JN204786	Group 20	REDUNDANT		Trebouxia sp.
+JN204789	Group 20	REDUNDANT		Trebouxia sp.
+JN204791	Group 20	REDUNDANT		Trebouxia sp.
+JN204817	Group 20	REDUNDANT		Trebouxia sp.
+JN204830	Group 20	REDUNDANT		Trebouxia sp.
+FJ705185	Group 21	IN TREE		Trebouxia decolorans
+JN204730	Group 21	REDUNDANT		Trebouxia sp.
+JN204736	Group 21	REDUNDANT		Trebouxia sp.
+JN204773	Group 21	REDUNDANT		Trebouxia sp.
+AJ249564	Group 22	REDUNDANT		Trebouxia sp.
+AJ969572	Group 22	REDUNDANT		Trebouxia sp.
+AJ969600	Group 22	REDUNDANT		Trebouxia decolorans
+AJ969603	Group 22	REDUNDANT		Trebouxia sp.
+JF831909	Group 22	REDUNDANT		Trebouxia decolorans
+AY804015	Group 28	IN TREE		Trebouxia sp.
+AJ969539	Group 22	REDUNDANT		Trebouxia sp.
+AB573853	Group 3	REDUNDANT		Trebouxia corticola
+AJ969508	Group 3	REDUNDANT		Trebouxia sp.
+AJ969517	Group 3	REDUNDANT		Trebouxia sp.
+AJ969543	Group 3	REDUNDANT		Trebouxia sp.
+AJ969555	Group 3	REDUNDANT		Trebouxia decolorans
+AJ969575	Group 3	REDUNDANT		Trebouxia sp.
+FJ626728	Group 3	REDUNDANT		Trebouxia decolorans
+JF831905	Group 3	REDUNDANT		Trebouxia decolorans
+JF831923	Group 3	REDUNDANT		Trebouxia decolorans
+AJ969546	Group 30	IN TREE		Trebouxia sp.
+AJ969548	Group 30	REDUNDANT		Trebouxia sp.
+AJ969573	Group 31	IN TREE		Trebouxia sp.
+AJ969591	Group 31	REDUNDANT		Trebouxia sp.
+AJ969608	Group 33	IN TREE		Trebouxia sp.
+AJ969587	Group 33	REDUNDANT		Trebouxia sp.
+AJ969589	Group 33	REDUNDANT		Trebouxia sp.
+AJ969602	Group 38	IN TREE		Trebouxia decolorans
+AJ969601	Group 38	REDUNDANT		Trebouxia decolorans
+JF831911	Group 38	REDUNDANT		Trebouxia decolorans
+JF831912	Group 38	REDUNDANT		Trebouxia decolorans
+JF831918	Group 38	REDUNDANT		Trebouxia decolorans
+AJ969595	Group 39	IN TREE		Trebouxia decolorans
+AJ969554	Group 39	REDUNDANT		Trebouxia decolorans
+AJ969599	Group 39	REDUNDANT		Trebouxia decolorans
+AJ970889	Group 39	REDUNDANT		Trebouxia decolorans
+AM159503	Group 39	REDUNDANT		Trebouxia decolorans
+Z68704	Group 39	REDUNDANT		Trebouxia arboricola
+AB573860	Group 4	REDUNDANT		Trebouxia sp.
+EU551473	Group 4	REDUNDANT		Trebouxia sp.
+AJ969597	Group 40	IN TREE		Trebouxia decolorans
+AJ969553	Group 40	REDUNDANT		Trebouxia sp.
+AJ969576	Group 40	REDUNDANT		Trebouxia sp.
+AM159202	Group 40	REDUNDANT		Trebouxia sp.
+JF831906	Group 40	REDUNDANT		Trebouxia decolorans
+JF831908	Group 40	REDUNDANT		Trebouxia decolorans
+JF831913	Group 40	REDUNDANT		Trebouxia decolorans
+JF831914	Group 40	REDUNDANT		Trebouxia decolorans
+JF831915	Group 40	REDUNDANT		Trebouxia decolorans
+JF831916	Group 40	REDUNDANT		Trebouxia decolorans
+JF831919	Group 40	REDUNDANT		Trebouxia decolorans
+JF831921	Group 40	REDUNDANT		Trebouxia decolorans
+AJ249565	Group 42	REDUNDANT		Trebouxia asymmetrica
+JQ359769	Group 43	REDUNDANT		Trebouxia asymmetrica
+AB630326	Group 5	REDUNDANT		Trebouxia corticola
+JQ993783	Group 52	IN TREE		Trebouxia gigantea
+JQ993782	Group 52	REDUNDANT		Trebouxia gigantea
+AJ293795	Group 53	IN TREE		Trebouxia incrustata
+JQ359766	Group 54	IN TREE		Trebouxia incrustata
+AF242470	Group 57	IN TREE		Trebouxia showmanii
+FJ626734	Group 57	REDUNDANT		Trebouxia showmanii
+AB630327	Group 6	REDUNDANT		Trebouxia corticola
+JN204734	Group 66	REDUNDANT		Trebouxia sp.
+JN204738	Group 66	REDUNDANT		Trebouxia sp.
+JN204741	Group 66	REDUNDANT		Trebouxia sp.
+JN204765	Group 66	REDUNDANT		Trebouxia sp.
+JN204769	Group 66	REDUNDANT		Trebouxia sp.
+JN204788	Group 66	REDUNDANT		Trebouxia sp.
+JN204794	Group 66	REDUNDANT		Trebouxia sp.
+JN204796	Group 66	REDUNDANT		Trebouxia sp.
+JN204798	Group 66	REDUNDANT		Trebouxia sp.
+JN204799	Group 66	REDUNDANT		Trebouxia sp.
+JN204802	Group 66	REDUNDANT		Trebouxia sp.
+JN204816	Group 66	REDUNDANT		Trebouxia sp.
+JN204821	Group 66	REDUNDANT		Trebouxia sp.
+JN204824	Group 66	REDUNDANT		Trebouxia sp.
+JN204825	Group 66	REDUNDANT		Trebouxia sp.
+JN204826	Group 66	REDUNDANT		Trebouxia sp.
+JN204827	Group 66	REDUNDANT		Trebouxia sp.
+JN204829	Group 66	REDUNDANT		Trebouxia sp.
+JN204831	Group 66	REDUNDANT		Trebouxia sp.
+JN204832	Group 66	REDUNDANT		Trebouxia sp.
+JN204837	Group 66	REDUNDANT		Trebouxia sp.
+JN204839	Group 66	REDUNDANT		Trebouxia sp.
+JN204840	Group 66	REDUNDANT		Trebouxia sp.
+JN204841	Group 66	REDUNDANT		Trebouxia sp.
+JN204842	Group 66	REDUNDANT		Trebouxia sp.
+JN204843	Group 66	REDUNDANT		Trebouxia sp.
+JN204844	Group 68	IN TREE		Trebouxia sp.
+AJ969536	Group 7	REDUNDANT		Trebouxia sp.
+AB630329	Group 7	REDUNDANT		Trebouxia corticola
+HM064495	UNIQUE	IN TREE		Trebouxia sp.
+HQ026158	Group 79	IN TREE		Trebouxia sp.
+HQ026148	Group 79	REDUNDANT		Trebouxia sp.
+HQ026149	Group 79	REDUNDANT		Trebouxia sp.
+FJ705194	Group 8	REDUNDANT		Trebouxia decolorans
+EU551505	Group 8	REDUNDANT		Trebouxia sp.
+FJ705193	Group 8	REDUNDANT		Trebouxia decolorans
+HQ026161	Group 80	IN TREE		Trebouxia sp.
+HQ026150	Group 80	REDUNDANT		Trebouxia sp.
+HQ026153	Group 80	REDUNDANT		Trebouxia sp.
+HQ026156	Group 80	REDUNDANT		Trebouxia sp.
+HQ026157	Group 80	REDUNDANT		Trebouxia sp.
+HQ026164	Group 80	REDUNDANT		Trebouxia sp.
+HQ026165	Group 80	REDUNDANT		Trebouxia sp.
+HQ026171	Group 80	REDUNDANT		Trebouxia sp.
+HQ026181	Group 80	REDUNDANT		Trebouxia sp.
+HQ026193	Group 80	REDUNDANT		Trebouxia sp.
+HQ026196	Group 80	REDUNDANT		Trebouxia sp.
+HQ026198	Group 80	REDUNDANT		Trebouxia sp.
+HQ026199	Group 80	REDUNDANT		Trebouxia sp.
+HQ026200	Group 80	REDUNDANT		Trebouxia sp.
+HQ026201	Group 80	REDUNDANT		Trebouxia sp.
+HQ026203	Group 80	REDUNDANT		Trebouxia sp.
+HQ026205	Group 80	REDUNDANT		Trebouxia sp.
+HQ026206	Group 80	REDUNDANT		Trebouxia sp.
+HQ026207	Group 80	REDUNDANT		Trebouxia sp.
+HQ026208	Group 80	REDUNDANT		Trebouxia sp.
+HQ026209	Group 80	REDUNDANT		Trebouxia sp.
+HQ026151	UNIQUE	IN TREE		Trebouxia sp.
+HQ026152	UNIQUE	IN TREE		Trebouxia sp.
+HQ026155	Group 83	IN TREE		Trebouxia sp.
+HQ026214	Group 83	REDUNDANT		Trebouxia sp.
+HQ026159	UNIQUE	IN TREE		Trebouxia sp.
+HQ026160	Group 85	IN TREE		Trebouxia sp.
+HQ026182	Group 85	REDUNDANT		Trebouxia sp.
+HQ026166	UNIQUE	IN TREE		Trebouxia sp.
+JQ004551	Group 87	IN TREE		Trebouxia sp.
+HQ026170	Group 87	REDUNDANT		Trebouxia sp.
+HQ026173	Group 87	REDUNDANT		Trebouxia sp.
+HQ026186	Group 87	REDUNDANT		Trebouxia sp.
+HQ026187	Group 87	REDUNDANT		Trebouxia sp.
+HQ026189	Group 87	REDUNDANT		Trebouxia sp.
+HQ026190	Group 87	REDUNDANT		Trebouxia sp.
+HQ026191	Group 87	REDUNDANT		Trebouxia sp.
+HQ026192	Group 87	REDUNDANT		Trebouxia sp.
+HQ026202	Group 87	REDUNDANT		Trebouxia sp.
+HQ026215	Group 87	REDUNDANT		Trebouxia sp.
+HQ026216	Group 87	REDUNDANT		Trebouxia sp.
+HQ026217	Group 87	REDUNDANT		Trebouxia sp.
+HQ026174	Group 88	REDUNDANT		Trebouxia sp.
+HQ026175	Group 88	REDUNDANT		Trebouxia sp.
+HQ026176	Group 88	REDUNDANT		Trebouxia sp.
+HQ026177	Group 88	REDUNDANT		Trebouxia sp.
+HQ026178	Group 89	IN TREE		Trebouxia sp.
+HQ026180	Group 89	REDUNDANT		Trebouxia sp.
+HQ026183	Group 89	REDUNDANT		Trebouxia sp.
+FJ705176	Group 9	IN TREE		Trebouxia decolorans
+EU551549	Group 9	REDUNDANT		Trebouxia sp.
+EU551550	Group 9	REDUNDANT		Trebouxia sp.
+HQ026179	UNIQUE	IN TREE		Trebouxia sp.
+HQ026185	UNIQUE	IN TREE		Trebouxia sp.
+HQ026197	UNIQUE	IN TREE		Trebouxia sp.
+HQ026213	UNIQUE	IN TREE		Trebouxia sp.
+HQ026218	UNIQUE	IN TREE		Trebouxia sp.
+JF414660	Group 95	IN TREE		Trebouxia sp.
+JF414657	Group 95	REDUNDANT		Trebouxia sp.
+JN204757	UNIQUE	IN TREE		Trebouxia sp.
+JN204774	Group 97	REDUNDANT		Trebouxia sp.
+JN204780	Group 98	IN TREE		Trebouxia sp.
+JN204784	Group 98	REDUNDANT		Trebouxia sp.
+JN204787	Group 99	REDUNDANT		Trebouxia sp.
+AF242468	UNIQUE	IN TREE		Trebouxia gigantea
+AJ249481	UNIQUE	IN TREE		Trebouxia arboricola
+AJ249482	UNIQUE	IN TREE		Trebouxia arboricola
+AJ249566	UNIQUE	IN TREE		Trebouxia corticola
+AJ249572	UNIQUE	IN TREE		Trebouxia sp.
+AJ249573	UNIQUE	IN TREE		Trebouxia usneae
+AJ249577	UNIQUE	IN TREE		Trebouxia gigantea
+AJ969505	UNIQUE	IN TREE		Trebouxia sp.
+AJ969506	UNIQUE	IN TREE		Trebouxia sp.
+AJ969507	UNIQUE	IN TREE		Trebouxia sp.
+AJ969509	UNIQUE	IN TREE		Trebouxia sp.
+AJ969510	UNIQUE	IN TREE		Trebouxia sp.
+AJ969511	UNIQUE	IN TREE		Trebouxia sp.
+AJ969512	UNIQUE	IN TREE		Trebouxia sp.
+AJ969513	UNIQUE	IN TREE		Trebouxia sp.
+AJ969514	UNIQUE	IN TREE		Trebouxia sp.
+AJ969515	UNIQUE	IN TREE		Trebouxia sp.
+AJ969516	UNIQUE	IN TREE		Trebouxia sp.
+AJ969518	UNIQUE	IN TREE		Trebouxia sp.
+AJ969519	UNIQUE	IN TREE		Trebouxia sp.
+AJ969520	UNIQUE	IN TREE		Trebouxia sp.
+AJ969521	UNIQUE	IN TREE		Trebouxia sp.
+AJ969522	UNIQUE	IN TREE		Trebouxia sp.
+AJ969523	UNIQUE	IN TREE		Trebouxia sp.
+AJ969524	UNIQUE	IN TREE		Trebouxia sp.
+AJ969526	UNIQUE	IN TREE		Trebouxia sp.
+AJ969528	UNIQUE	IN TREE		Trebouxia sp.
+AJ969529	UNIQUE	IN TREE		Trebouxia arboricola
+AJ969530	UNIQUE	IN TREE		Trebouxia sp.
+AJ969531	UNIQUE	IN TREE		Trebouxia sp.
+AJ969534	UNIQUE	IN TREE		Trebouxia sp.
+AJ969535	UNIQUE	IN TREE		Trebouxia sp.
+AJ969537	UNIQUE	IN TREE		Trebouxia sp.
+AJ969538	UNIQUE	IN TREE		Trebouxia sp.
+AJ969540	UNIQUE	IN TREE		Trebouxia sp.
+AJ969541	UNIQUE	IN TREE		Trebouxia sp.
+AJ969542	UNIQUE	IN TREE		Trebouxia sp.
+AJ969544	UNIQUE	IN TREE		Trebouxia sp.
+AJ969545	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969547	UNIQUE	IN TREE		Trebouxia sp.
+AJ969549	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969550	UNIQUE	IN TREE		Trebouxia sp.
+AJ969551	UNIQUE	IN TREE		Trebouxia sp.
+AJ969552	UNIQUE	IN TREE		Trebouxia sp.
+AJ969556	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969557	UNIQUE	IN TREE		Trebouxia sp.
+AJ969558	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969561	UNIQUE	IN TREE		Trebouxia sp.
+AJ969562	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969563	UNIQUE	IN TREE		Trebouxia sp.
+AJ969564	UNIQUE	IN TREE		Trebouxia sp.
+AJ969565	UNIQUE	IN TREE		Trebouxia sp.
+AJ969566	UNIQUE	IN TREE		Trebouxia sp.
+AJ969567	UNIQUE	IN TREE		Trebouxia sp.
+AJ969568	UNIQUE	IN TREE		Trebouxia sp.
+AJ969569	UNIQUE	IN TREE		Trebouxia sp.
+AJ969570	UNIQUE	IN TREE		Trebouxia sp.
+AJ969571	UNIQUE	IN TREE		Trebouxia sp.
+AJ969574	UNIQUE	IN TREE		Trebouxia sp.
+AJ969577	UNIQUE	IN TREE		Trebouxia sp.
+AJ969578	UNIQUE	IN TREE		Trebouxia sp.
+AJ969580	UNIQUE	IN TREE		Trebouxia sp.
+AJ969581	UNIQUE	IN TREE		Trebouxia sp.
+AJ969582	UNIQUE	IN TREE		Trebouxia sp.
+AJ969584	UNIQUE	IN TREE		Trebouxia sp.
+AJ969585	UNIQUE	IN TREE		Trebouxia sp.
+AJ969586	UNIQUE	IN TREE		Trebouxia sp.
+AJ969588	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969590	UNIQUE	IN TREE		Trebouxia sp.
+AJ969593	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969594	UNIQUE	IN TREE		Trebouxia decolorans
+AJ969604	UNIQUE	IN TREE		Trebouxia sp.
+AJ969606	UNIQUE	IN TREE		Trebouxia sp.
+AJ969607	UNIQUE	IN TREE		Trebouxia sp.
+AJ969609	UNIQUE	IN TREE		Trebouxia arboricola
+AJ969610	UNIQUE	IN TREE		Trebouxia arboricola
+AJ969611	UNIQUE	IN TREE		Trebouxia arboricola
+AM159204	UNIQUE	IN TREE		Trebouxia sp
+AM159205	UNIQUE	IN TREE		Trebouxia sp
+AM159206	UNIQUE	IN TREE		Trebouxia sp
+AM159207	UNIQUE	IN TREE		Trebouxia sp.
+AM159208	UNIQUE	IN TREE		Trebouxia sp
+AM159210	UNIQUE	IN TREE		Trebouxia sp.
+AM159215	UNIQUE	IN TREE		Trebouxia sp.
+AM159216	UNIQUE	IN TREE		Trebouxia sp.
+AY667580	UNIQUE	IN TREE		Trebouxia sp.
+DQ086103	UNIQUE	IN TREE		Trebouxia sp.
+FJ028715	UNIQUE	IN TREE		Trebouxia sp.
+FJ705177	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705178	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705179	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705180	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705183	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705184	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705186	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705188	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705189	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705190	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705191	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705195	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705196	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705198	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705199	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705200	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705201	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705202	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705203	UNIQUE	IN TREE		Trebouxia decolorans
+FJ705205	UNIQUE	IN TREE		Trebouxia decolorans
+HQ026154	UNIQUE	IN TREE		Trebouxia sp.
+HQ026167	UNIQUE	IN TREE		Trebouxia sp.
+HQ026168	UNIQUE	IN TREE		Trebouxia sp.
+HQ026184	UNIQUE	IN TREE		Trebouxia sp.
+HQ026224	UNIQUE	IN TREE		Trebouxia sp.
+HQ026227	UNIQUE	IN TREE		Trebouxia sp.
+HQ667310	UNIQUE	IN TREE		Trebouxia sp.
+JF414659	UNIQUE	IN TREE		Trebouxia sp.
+JF831903	UNIQUE	IN TREE		Trebouxia aggregata
+JF831904	UNIQUE	IN TREE		Trebouxia crenulata
+JF831907	UNIQUE	IN TREE		Trebouxia decolorans
+JF831917	UNIQUE	IN TREE		Trebouxia decolorans
+JF831920	UNIQUE	IN TREE		Trebouxia decolorans
+JF831922	UNIQUE	IN TREE		Trebouxia decolorans
+JN204727	UNIQUE	IN TREE		Trebouxia sp.
+JN204729	UNIQUE	IN TREE		Trebouxia sp.
+JN204731	UNIQUE	IN TREE		Trebouxia sp.
+JN204740	UNIQUE	IN TREE		Trebouxia sp.
+JN204744	UNIQUE	IN TREE		Trebouxia sp.
+JN204747	UNIQUE	IN TREE		Trebouxia sp.
+JN204760	UNIQUE	IN TREE		Trebouxia sp.
+JN204763	UNIQUE	IN TREE		Trebouxia sp.
+JN204764	UNIQUE	IN TREE		Trebouxia sp.
+JN204772	UNIQUE	IN TREE		Trebouxia sp.
+JN204775	UNIQUE	IN TREE		Trebouxia sp.
+JN204790	UNIQUE	IN TREE		Trebouxia sp.
+JN204803	UNIQUE	IN TREE		Trebouxia sp.
+JN204815	UNIQUE	IN TREE		Trebouxia sp.
+JN204822	UNIQUE	IN TREE		Trebouxia sp.
+JN204823	UNIQUE	IN TREE		Trebouxia sp.
+JN204828	UNIQUE	IN TREE		Trebouxia sp.
+JN204838	UNIQUE	IN TREE		Trebouxia sp.
+JN980141	UNIQUE	IN TREE		Trebouxia sp.
+JN980148	UNIQUE	IN TREE		Trebouxia sp.
+JQ004552	UNIQUE	IN TREE		Trebouxia sp.
+JQ004555	UNIQUE	IN TREE		Trebouxia sp.
+JQ004566	UNIQUE	IN TREE		Trebouxia sp.
+JQ004596	UNIQUE	IN TREE		Trebouxia sp.
+JQ004597	UNIQUE	IN TREE		Trebouxia sp.
+JQ004598	UNIQUE	IN TREE		Trebouxia sp.
+JQ359768	UNIQUE	IN TREE		Trebouxia gigantea
+JQ993772	UNIQUE	IN TREE		Trebouxia gigantea
+U551473	UNIQUE	REDUNDANT		Trebouxia sp.
+Z68705	UNIQUE	IN TREE		Trebouxia arboricola
+JX144654	UNIQUE	IN TREE		Trebouxia sp
+AF128270	Group 109	REDUNDANT		Trebouxia simplex
+AF128271	Group 110	IN TREE		Trebouxia angustilobata
+AF242467	Group 115	IN TREE		Trebouxia flava
+AF242469	UNIQUE	IN TREE		Trebouxia potteri
+AM159203	UNIQUE	IN TREE		Trebouxia sp.
+AM159209	UNIQUE	IN TREE		Trebouxia sp.
+AM159211	UNIQUE	IN TREE		Trebouxia sp.
+AM159212	UNIQUE	IN TREE		Trebouxia sp.
+AM159214	UNIQUE	IN TREE		Trebouxia sp.
+AM159502	UNIQUE	IN TREE		Trebouxia sp.
+FJ626726	UNIQUE	IN TREE		Trebouxia australis
+FJ626727	UNIQUE	IN TREE		Trebouxia brindabellae
+FJ626730	UNIQUE	IN TREE		Trebouxia gelatinosa
+FJ626735	Group 129	REDUNDANT		Trebouxia simplex
+JN243323	Group 110	REDUNDANT		Trebouxia jamesii
+JN243324	UNIQUE	IN TREE		Trebouxia jamesii
+JN243327	Group 112	REDUNDANT		Trebouxia jamesii
+JN243328	UNIQUE	IN TREE		Trebouxia jamesii
+JN243329	Group 138	REDUNDANT		Trebouxia jamesii
+JN243330	Group 109	REDUNDANT		Trebouxia jamesii
+JQ031784	UNIQUE	IN TREE		Trebouxia jamesii
+JQ031785	Group 181	REDUNDANT		Trebouxia jamesii
+JX144651	UNIQUE	IN TREE		Trebouxia sp.
+JX144652	UNIQUE	IN TREE		Trebouxia sp.
+JX144655	UNIQUE	IN TREE		Trebouxia sp.
+JX144656	UNIQUE	IN TREE		Trebouxia sp.
+JX144657	UNIQUE	IN TREE		Trebouxia sp.
+JX144658	UNIQUE	IN TREE		Trebouxia sp.
+JX509838	Group 109	REDUNDANT		Trebouxia jamesii
+JX509839	UNIQUE	IN TREE		Trebouxia jamesii
+JX509840	Group 109	REDUNDANT		Trebouxia jamesii
+JX509843	UNIQUE	IN TREE		Trebouxia jamesii
+JX509844	Group 109	REDUNDANT		Trebouxia jamesii
+JX509855	Group 170	IN TREE		Trebouxia jamesii
+JX518605	Group 191	IN TREE		Trebouxia jamesii
+JX518606	Group 109	REDUNDANT		Trebouxia jamesii
+JX518609	Group 147	REDUNDANT		Trebouxia jamesii
+Z68697	UNIQUE	IN TREE		Trebouxia gelatinosa
+Z68698	UNIQUE	IN TREE		Trebouxia gelatinosa
+Z68699	Group 136	IN TREE		Trebouxia jamesii
+Z68700	Group 192	IN TREE		Trebouxia jamesii
