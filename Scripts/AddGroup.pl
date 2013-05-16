@@ -55,9 +55,9 @@ while (<>){
 }
 
 foreach ( @seqs ) {
-  my @fields = split(/\s*\t\s*/, $_);
+  my @fields = split(/ *\t */, $_);
   my $accession = $fields[0];
-  if ( @fields == 2 ) { 
+  if ( @fields < 4 ) { 
     splice(@fields, 1, 0, ('', ''));
   }
   if ( $membership{$accession} ) {
