@@ -34,13 +34,29 @@ my @ids;
 while (<>) {
   chomp;
   push (@ids, $_);
+  if ( @ids == 100 ) { 
+    my $factory = Bio::DB::EUtilities->new(-eutil   => 'efetch',
+                                           -db      => 'nucleotide',
+                                           -rettype => 'gb',
+                                           -email   => $email,
+                                           -id      => \@ids);
+ 
+ 
+    $factory->get_Response(-file => "temp");
+    @ids = ();
+    print `cat temp >> $file`;
+  }
 }
 
-my $factory = Bio::DB::EUtilities->new(-eutil   => 'efetch',
-                                       -db      => 'nucleotide',
-                                       -rettype => 'gb',
-                                       -email   => $email,
-                                       -id      => \@ids);
+if ( @ids ) {
+  my $factory = Bio::DB::EUtilities->new(-eutil   => 'efetch',
+                                         -db      => 'nucleotide',
+                                         -rettype => 'gb',
+                                         -email   => $email,
+                                         -id      => \@ids);
  
  
-$factory->get_Response(-file => $file);
+  $factory->get_Response(-file => "temp");
+  print `cat temp >> $file`;
+}
+print `rm temp`
