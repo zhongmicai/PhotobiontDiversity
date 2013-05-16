@@ -8,8 +8,10 @@ my $infilename = shift;
 my $infile = Bio::SeqIO->new('-file' => $infilename,
          '-format' => 'fasta') or die "could not open seq file $infilename\n";
 
+#AJ632030 is the template sequence for the Nostoc_rbcX dataset
+#JQ993758 is the template sequence for the Trebouxia_ITS dataset
 while ( my $seq_obj = $infile->next_seq ) {
-  if ( $seq_obj->display_id eq 'AJ632030' ) {
+  if ( $seq_obj->display_id eq 'AJ632030' or $seq_obj->display_id eq 'JQ993758') {
     my $seq = $seq_obj->seq;
     my @starts;
     my @ends;
