@@ -54,7 +54,6 @@ GetOptions(
 'format:s' => \$outformat,
 'replace' => \$replace,
 'xformat:s' => \$informat,
-'number:s' => \$seq_num,
 'outfile:s' => \$outfilename,
 'help|?' => \$help,
 );
@@ -113,7 +112,6 @@ sub ConvertSeqs {
       my $infile = new Bio::SeqIO(-format => $in_format, 
                            -file   => $in_name);
       while ( my $seq = $infile->next_seq() ) {
-        if ( $trunc_start ) { $seq = SeqTrunc($seq); }
         $outfile->write_seq($seq);
       }
     }
@@ -192,9 +190,8 @@ sub WriteSeqs {
          '-format' => $outformat) or die "could not open seq file $outfilename\n\n$usage";
   foreach ( $aln->each_seq) {
     my $seq = $_;
-    if ( $trunc_start ) { $seq = SeqTrunc($seq); }
     my $string = $seq->seq;
-    $string =~ s/-//g;
+    #$string =~ s/-//g;
     $seq->seq($string);
     $outfile->write_seq($seq);
   }
