@@ -52,7 +52,9 @@ my %host = ('Collema', 'Lichen',
             'Encephalartos', 'Plant',
             'Geosiphon', 'Other',
             'Macrozamia', 'Plant',
-            'Nostoc', 'Free-living'
+            'Nostoc', 'Free-living',
+            'Gunnera', 'Plant',
+            'Cycas', 'Plant'
          );
             
 
@@ -81,10 +83,21 @@ my %specialists = ( 'Leptogium saturninum', '#C87A8A',
                     'Sticta hypochra', '#FFA500'
             );
 
+my %species_colors = ( 'other', '#FF2020', #Dark Red
+                'arboricola', '#C87A8A', #Light Red
+                'asymmetrica', '#8A4117', #Brown
+                'corticola', '#FFD000', #Yellow
+                'decolorans', '#4C99BE', #Light blue
+                'gelatinosa', '#A782C3', #purple
+                'gigantea', '#FFA500', #ornage
+                'impressa', '#28399F', #Dark blue
+                'incrustata', '#66CC66', #Light green
+                'jamesii', '#005C26',  #Dark Green
+                'simplex', '#FF2020', #Dark Red
+              );
 
 my @colors = ('#C87A8A', '#AE8B50', '#729C55', '#00A38F', '#4C99BE', '#A782C3');
 
-my $metadatafile = shift;
 my $treefilename = shift;
 my $comparison = shift;
 my %custom;
@@ -92,16 +105,7 @@ if ( $comparison =~ /custom/i ) {
   foreach ( @ARGV ) { $custom{$_} = shift(@colors); }
 }
 
-open(my $metadata, "<", $metadatafile );
-my %colours;
-while (<$metadata>){
-  my @fields = split(/\s*\t\s*/, $_);
-  $fields[3] =~ /^(\w+)/;
-  my $genus = $1;
-  #print "$genus\n";
-  $colours{$fields[0]} = $host_colors{$host{$genus}};
-}
-close($metadata);
+
 
 open(my $treefile, "<", $treefilename );
 my $tax_labels = 0;
@@ -112,12 +116,33 @@ while (my $line = <$treefile>){
   if ( $line =~ /^\s*taxlabels\s*$/ ) { $tax_labels = 1; }
   if ( $line =~ /^begin trees;$/ ) { $trees = 1; }
   if ( $line =~ /^\s*end;\s*/ ) { $tax_labels = 0; $trees = 0;}
-  if ( $tax_labels ) { $line = ColorTaxa($line, $comparison); }
+  if ( $tax_labels ) { 
+    if ( $comparison =~ /species/i ) { $line = ColorBySpecies($line); }
+    else {$line = ColorByGenus($line, $comparison); }
+  }
   if ( $trees ) { $line = AddSig($line); }
   print "$line\n";
 }
-  
-sub ColorTaxa {
+ 
+ sub ColorBySpecies {
+  my $line = shift;
+  my $multiple = 0;
+  my $group;
+  while ( $line =~ /[A-Z][a-z.]+ ([a-z]+)/g ) {
+    my $species = $1;
+    if ( $species eq 'sp' ) { next; }
+    if ( $group ) { $multiple = 1; }
+    elsif ( $species_colors{$species} ) { $group = $species_colors{$species}; }
+    else { $group = $species_colors{'other'}; }
+  }
+  if ( $multiple ) { $line .=  "[&!color=#000000]"; }
+  elsif ( $group ){ $line .=  "[&!color=$group]"; }
+  else { $line .=  "[&!color=#C0C0C0]"; }
+  return $line;
+}
+
+ 
+sub ColorByGenus {
   my $line = shift;
   my $comparison = shift;
   my $multiple = 0;
