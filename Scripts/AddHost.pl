@@ -11,19 +11,24 @@ my %hosts;  # host species unless it is a group in which case it is the group na
 my %group_info;  # counts of each species within a group (keyed by group name)
 while (<$hostfile>) {
   chomp;
-  (my $accession, my $group, my $in_tree, my $host)  = split(/\s*\t\s*/, $_);
-  if ( $group =~ /UNIQUE/ ) {
+  my @fields = split(/ *\t\ */, $_);
+  my $accession = $fields[0];
+  my $group = $fields[1];
+  my $in_tree = $fields[2];
+  my $host;
+  if ( $fields[3] ) { $host = $fields[3]; }
+  else { $host = 'unknown'; }
+  if ( $group =~ /UNIQUE/ ) {    #Add host info for unique sequences
     $hosts{$accession} = $host;
-    next;
   }
   else {
-    if ( $group_info{$group}{$host} ) {
+    if ( $group_info{$group}{$host} ) {  #increment the counter for this host species for this sequence type
     $group_info{$group}{$host} ++;
     }
     else {
-      $group_info{$group}{$host} = 1;
+      $group_info{$group}{$host} = 1;   #initialize counter for new species/sequence type combination
     }
-    if ( $in_tree =~ /IN TREE/ ) { $hosts{$accession} = $group; }
+    if ( $in_tree =~ /IN TREE/ ) { $hosts{$accession} = $group; } #representative sequence for a sequence type
   } 
 }
 
