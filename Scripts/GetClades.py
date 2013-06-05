@@ -62,9 +62,8 @@ def GetClade(tree_file):
   for key in species:
     ancestor = tree.get_common_ancestor(species[key])
     for leaf in ancestor:
-      if leaf.name in clades:
-        continue
-      clades[leaf.name] = key
+      if not leaf.name in clades:
+        clades[leaf.name] = key
   return clades  
    
 def GetGroups(file):
