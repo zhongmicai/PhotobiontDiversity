@@ -1,0 +1,59 @@
+blastn -query AsterochlorisS4_ITS.fa -db nt -evalue 1e-100 -max_target_seqs 1000 -out Asterochloris_ITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+
+cut -f3 Asterochloris_ITS.bl |sort|uniq|wc -l
+
+(312)
+
+awk '{if($4>1100) print $0'} Asterochloris_ITS.bl
+ 
+(1 result, 3036 bp)
+ 
+awk '{if($12>$13) print $0'} Asterochloris_ITS.bl |wc -l
+ 
+(0)
+ 
+cut -f3 Asterochloris_ITS.bl |sort >Asterochloris_ITS_acc.txt
+ 
+blastdbcmd -db nt -entry_batch Asterochloris_ITS_acc.txt |../Scripts/GetRedundant.pl >Asterochloris_ITS.fa
+ 
+grep ">" Asterochloris_ITS.fa |wc -l
+ 
+(379)
+
+usearch -cluster_fast Asterochloris_ITS.fa -id 1 -centroids Asterochloris_ITS_nr.fa -uc Asterochloris_ITS_groups.txt
+ 
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Asterochloris_ITS_nr.fa
+
+mafft Asterochloris_ITS_nr.fa >Asterochloris_ITS_aln.fa
+
+../Scripts/GetExcluded.pl Asterochloris_ITS_aln.fa |pbcopy
+
+trimal -in Asterochloris_ITS_aln.fa -phylip -select `pbpaste` >Asterochloris_ITS.phy
+
+phyml -i Asterochloris_ITS.phy
+
+grep ">" Asterochloris_ITS.fa |perl -p -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/$1/' >Asterochloris_ITS_acc.txt
+
+wc -l Asterochloris_ITS_acc.txt
+
+(379)
+
+../Scripts/GetGB.pl ../Scripts/GetGB.pl Asterochloris_ITS_acc.txt heath.obrien@gmail.com
+
+grep LOCUS Asterochloris_ITS.gbk |wc -l
+
+(379)
+
+../Scripts/ParseHost.pl Asterochloris_ITS.gbk >Asterochloris_ITS_metadata.txt
+
+../Scripts/GetGroups.py -g Asterochloris_ITS_groups.txt -m Asterochloris_ITS_metadata.txt >Asterochloris_ITS_metadata2.txt 
+
+cat Asterochloris_ITS.phy_phyml_tree.txt | ../Scripts/AddMetadata.pl Asterochloris_ITS_metadata2.txt species >Asterochloris_ITS_species.nwk
+
+../Scripts/ColourTree.pl Asterochloris_ITS_species.nwk species >Asterochloris_ITS_species_col.nwk
+
+cat Asterochloris_ITS.phy_phyml_tree.txt | ../Scripts/AddMetadata.pl Asterochloris_ITS_metadata2.txt host >Asterochloris_ITS_host.nwk
+
+../Scripts/ColourTree.pl Asterochloris_ITS_host.nwk genus >Asterochloris_ITS_host_col.nwk
+
+mv Asterochloris_ITS_metadata2.txt Asterochloris_ITS_metadata.txt

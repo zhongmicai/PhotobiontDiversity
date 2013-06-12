@@ -1,0 +1,319 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=227;
+	taxlabels[&!color=#A0A0A0]
+	'JN990655 Cladonia crispatula'[&!color=#-16777088][&!color=#-16777088]
+	'Group 174 Cladonia confusa[1] C. crispatula[1]'[&!color=#-16777088][&!color=#-16777088]
+	'JN990657 Cladonia crispatula'[&!color=#-16777088][&!color=#-16777088]
+	'AY842279 Cladina confusa'[&!color=#-16777088][&!color=#-16777088]
+	'JN990659 Cladonia didyma'[&!color=#-16777088][&!color=#-16777088]
+	'JQ359767 Cladonia confusa'[&!color=#-16777088][&!color=#-16777088]
+	'JN990651 Cladonia confusa'[&!color=#-16777088][&!color=#-16777088]
+	'JN990656 Cladonia crispatula'[&!color=#-16777088][&!color=#-16777088]
+	'AY842276 Cladonia verticillaris'[&!color=#-16777088][&!color=#-16777088]
+	'HE803040 Cladonia delavayi'[&!color=#-16777088][&!color=#-16777088]
+	'EU008658 Cladia aggregata'[&!color=#-16776961][&!color=#-16776961]
+	'Group 106 Cladonia subtenuis[26] C. evansii[7] C. leporina[1]'[&!color=#-16777088]
+	'AF345417 Cladonia rappii'[&!color=#-16777088][&!color=#-16777088]
+	'Group 108 Cladonia subtenuis[2]'[&!color=#-16777088]
+	'DQ482682 Cladonia subtenuis'[&!color=#-16777088]
+	'Group 107 Cladonia subtenuis[2] C. evansii[1]'[&!color=#-16777088]
+	'Group 110 Cladonia subtenuis[4] C. evansii[1]'[&!color=#-16777088]
+	'Group 109 Cladonia subtenuis[5]'[&!color=#-16777088]
+	'AY712692 Cladonia evansii'[&!color=#-16777088][&!color=#-16777088]
+	'Group 105 Cladonia subtenuis[2] C. evansii[2] C. leporina[1]'[&!color=#-16777088]
+	'Group 103 Cladonia subtenuis[21] C. evansii[15] C. leporina[5]'[&!color=#-16777088]
+	'AY712693 Cladonia evansii'[&!color=#-16777088][&!color=#-16777088]
+	'DQ482681 Cladonia subtenuis'[&!color=#-16777088]
+	'Group 104 Cladonia subtenuis[4] C. evansii[1]'[&!color=#-16777088]
+	'HE803041 Cladonia verticillata'[&!color=#-16777088][&!color=#-16777088]
+	'HE803038 Cladonia scabriuscula'[&!color=#-16777088][&!color=#-16777088]
+	'HE803039 Cladonia coniocraea'[&!color=#-16777088][&!color=#-16777088]
+	'Group 102 Cladonia subtenuis[8]'[&!color=#-16777088]
+	'HE803042 Cladonia delavayi'[&!color=#-16777088][&!color=#-16777088]
+	'HE803048 Cladonia praetermissa'[&!color=#-16777088][&!color=#-16777088]
+	'HE803044 Cladonia verticillata'[&!color=#-16777088][&!color=#-16777088]
+	'Group 022 Cladonia nea[1] C. variegata[1]'[&!color=#-16777088][&!color=#-16777088]
+	'HE803043 Cladonia scabriuscula'[&!color=#-16777088][&!color=#-16777088]
+	'DQ482676 Cladonia subtenuis'[&!color=#-16777088]
+	'AF345415 Cladonia didyma'[&!color=#-16777088][&!color=#-16777088]
+	'HE803049 Cladonia cariosa'[&!color=#-16777088][&!color=#-16777088]
+	'AF345416 Cladonia peltastica'[&!color=#-16777088][&!color=#-16777088]
+	'AY842277 Cladonia crinita'[&!color=#-16777088][&!color=#-16777088]
+	'Group 032 Cladonia fruticulosa[3]'[&!color=#-16777088][&!color=#-16777088]
+	'AF345443 Cladonia pulviniformis'[&!color=#-16777088][&!color=#-16777088]
+	'JN990660 Cladonia didyma'[&!color=#-16777088][&!color=#-16777088]
+	'JN990658 Cladonia didyma'[&!color=#-16777088][&!color=#-16777088]
+	'AY842278 Cladonia fissidens'[&!color=#-16777088][&!color=#-16777088]
+	'EU008684 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'DQ229884 Stereocaulon'[&!color=#-3381505][&!color=#-3381505]
+	'DQ229883 Pilophorus cf. cereolus'[&!color=#-10040065][&!color=#-10040065]
+	'Group 007 Lepraria caesioalba[4] glacier forefield[1] L. neglecta[5]'[&!color=#-65536]
+	'EU008688 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'DQ530191 Cladonia pocillum'[&!color=#-16777088][&!color=#-16777088]
+	'FJ756794 Cladonia pyxidata'[&!color=#-16777088][&!color=#-16777088]
+	'JF737801 limestone rock'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'Group 027 Cladonia pocillum[2]'[&!color=#-16777088][&!color=#-16777088]
+	'FJ756800 Cladonia pyxidata'[&!color=#-16777088][&!color=#-16777088]
+	'Group 028 Cladonia furcata[2]'[&!color=#-16777088][&!color=#-16777088]
+	'HE803037 Cladonia furcata'[&!color=#-16777088][&!color=#-16777088]
+	'JX435361 glacier forefield'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'EU008690 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'AM905993 Stereocaulon dactylophyllum'[&!color=#-3381505][&!color=#-3381505]
+	'AF345433 Stereocaulon dactylophyllum var. occidentale'[&!color=#-3381505][&!color=#-3381505]
+	'AF345436 Cladonia pyxidata'[&!color=#-16777088][&!color=#-16777088]
+	'HE803050 Cladonia pyxidata'[&!color=#-16777088][&!color=#-16777088]
+	'Group 001 Cladonia fimbriata[1] C. chlorophaea[2] C. subulata[1] C. pocillum[1] C. pyxidata[2] Diploschistes muscorum[1] glacier forefield[1] C. rei[2] C. furcata[3] C. coniocraea[1]'[&!color=#-16777216][&!color=#000000]
+	'DQ530180 Cladonia cornuta'[&!color=#-16777088][&!color=#-16777088]
+	'DQ530190 Cladonia pocillum'[&!color=#-16777088][&!color=#-16777088]
+	'FJ756801 Cladonia pocillum'[&!color=#-16777088][&!color=#-16777088]
+	'DQ229887 Stereocaulon paschale'[&!color=#-3381505][&!color=#-3381505]
+	'FM955669 Lepraria rigidula'[&!color=#-65536][&!color=#-65536]
+	'Group 131 Lepraria rigidula[2]'[&!color=#-65536][&!color=#-65536]
+	'Group 019 Lepraria membranacea[2] L. incana[1]'[&!color=#-65536]
+	'FN556039 Lepraria borealis'[&!color=#-65536][&!color=#-65536]
+	'Group 020 Lepraria sp.[2] L. caesioalba[2]'[&!color=#-65536]
+	'FN556040 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'FN556042 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'Group 016 unknown[3]'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'AF345434 Cladonia fimbriata'[&!color=#-16777088][&!color=#-16777088]
+	'EU008683 Lepraria nylanderiana'[&!color=#-65536][&!color=#-65536]
+	'FM205721 unknown'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'FM205725 unknown'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'Group 004 unknown[5]'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'AF345435 Cladonia rangiformis'[&!color=#-16777088][&!color=#-16777088]
+	'Group 025 unknown[2]'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'FN556033 Lepraria crassissima'[&!color=#-65536][&!color=#-65536]
+	'EU008687 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'EU008681 Lepraria nigrocincta'[&!color=#-65536][&!color=#-65536]
+	'Group 033 unknown[2]'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'DQ229886 Stereocaulon saxatile'[&!color=#-3381505][&!color=#-3381505]
+	'Group 012 Cladonia chlorophaea[2] C. subulata[1]'[&!color=#-16777088][&!color=#-16777088]
+	'Group 031 Lepraria sp.[1] L. borealis[10] L. caesioalba[3] Cladonia foliacea[1]'[&!color=#000000]
+	'EU008667 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'AF345437 Cladia aggregata'[&!color=#-16776961][&!color=#-16776961]
+	'Group 008 Lepraria borealis[2] Ochrolechia frigida[2]'[&!color=#-65536][&!color=#-65536]
+	'FN556035 Lepraria alpina'[&!color=#-65536][&!color=#-65536]
+	'FN556036 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'Group 029 Lepraria caesioalba[1] L. rigidula[1]'[&!color=#-65536][&!color=#-65536]
+	'FN556031 Lepraria rigidula'[&!color=#-65536][&!color=#-65536]
+	'Group 121 Lepraria caesioalba[2]'[&!color=#-65536]
+	'Group 018 Lepraria sp.[1] L. caesioalba[1] L. alpina[1]'[&!color=#-65536][&!color=#-65536]
+	'FN556029 Lepraria granulata'[&!color=#-65536][&!color=#-65536]
+	'AM905992 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'Group 120 Lepraria caesioalba[2]'[&!color=#-65536]
+	'Group 011 Cladonia cristatella[4]'[&!color=#-16777088][&!color=#-16777088]
+	'AF345442 Stereocaulon dactylophyllum'[&!color=#-3381505][&!color=#-3381505]
+	'Group 026 forest soil[2]'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'DQ229881 Stereocaulon subcoralloides'[&!color=#-3381505][&!color=#-3381505]
+	'Group 210 Cladonia arbuscula[1] Stereocaulon botryosum[1]'[&!color=#-16777216][&!color=#000000]
+	'FJ756797 Cladonia pyxidata'[&!color=#-16777088][&!color=#-16777088]
+	'AM906000 Cladonia arbuscula'[&!color=#-16777088][&!color=#-16777088]
+	'Group 002 Stereocaulon sp.[1] Cladonia coccifera[1] C. gracilis[5] C. cenotea[1] C. stellaris[1]'[&!color=#-16777216][&!color=#000000]
+	'AM905999 Stereocaulon pileatum'[&!color=#-3381505][&!color=#-3381505]
+	'JX435341 glacier forefield'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'AF345390 Cladina arbuscula'[&!color=#-16777088][&!color=#-16777088]
+	'AF345387 Cladonia strepsilis'[&!color=#-16777088][&!color=#-16777088]
+	'AY622840 Cladonia rangiferina'[&!color=#-16777088][&!color=#-16777088]
+	'AF345396 Cladonia floridana'[&!color=#-16777088][&!color=#-16777088]
+	'AF345382 Stereocaulon evolutoides'[&!color=#-3381505][&!color=#-3381505]
+	'AF345401 Cladonia strepsilis'[&!color=#-16777088][&!color=#-16777088]
+	'AF345402 Cladonia strepsilis'[&!color=#-16777088][&!color=#-16777088]
+	'Group 156 Cladonia rangiferina[1] C. subsetacea[1] Stereocaulon evolutoides[1] Diploschistes muscorum[1]'[&!color=#-16777216][&!color=#000000]
+	'AF345374 Anzina carneonivea'[&!color=#-16744448][&!color=#-16744448]
+	'AF345375 Cladonia strepsilis'[&!color=#-16777088][&!color=#-16777088]
+	'Group 000 Stereocaulon sp.[1] Cladonia deformis[1] C. gracilis[4] C. pyxidata[3] C. cervicornis subsp. verticillata[2] C. atlantica[1] C. caroliniana[1] C. grayi[1] C. subsetacea[23] S. pileatum[3] C. dimorphoclada[7] C. sp.[1] C. stellaris[1] C. strepsilis[1] C. dimorphoclada[1] C. coccifera[3] C. macilenta[1] C. pachycladodes[1] C. squamosa[1] C. rangiferina[3] C. mitis[26] C. pleurota[3]'[&!color=#000000]
+	'AF345386 Cladonia robbinsii'[&!color=#-16777088][&!color=#-16777088]
+	'FJ756790 Cladonia monomorpha'[&!color=#-16777088][&!color=#-16777088]
+	'AF345389 Pycnolia papillaria'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'AF345384 Cladina arbuscula'[&!color=#-16777088][&!color=#-16777088]
+	'AF345385 Cladonia grayi'[&!color=#-16777088][&!color=#-16777088]
+	'FM945363 Cladonia macilenta'[&!color=#-16777088][&!color=#-16777088]
+	'AY622833 Cladonia gracilis'[&!color=#-16777088][&!color=#-16777088]
+	'AF345392 Cladonia atlantica'[&!color=#-16777088][&!color=#-16777088]
+	'AF345376 Cladonia grayi'[&!color=#-16777088][&!color=#-16777088]
+	'AF345379 Cladonia grayi'[&!color=#-16777088][&!color=#-16777088]
+	'AF345383 Cladonia strepsilis'[&!color=#-16777088][&!color=#-16777088]
+	'Group 023 Cladonia ochrochlora[1] C. merochlorophaea[1]'[&!color=#-16777088][&!color=#-16777088]
+	'AF345380 Cladonia grayi'[&!color=#-16777088][&!color=#-16777088]
+	'Group 141 Cladonia subsetacea[4] C. dimorphoclada[1] C. pachycladodes[1] C. coniocraea[1]'[&!color=#-16777088]
+	'Group 009 Cladonia botrytes[1] C. squamosa[1] C. crita[1] C. gracilis[1]'[&!color=#-16777088][&!color=#-16777088]
+	'DQ530183 Cladonia ecmocyna'[&!color=#-16777088][&!color=#-16777088]
+	'Group 077 Cladonia grayi[1] C. strepsilis[1]'[&!color=#-16777088][&!color=#-16777088]
+	'AF345403 Cladonia'[&!color=#-16777088][&!color=#-16777088]
+	'AF345400 Cladonia strepsilis'[&!color=#-16777088][&!color=#-16777088]
+	'Group 017 Cladonia rangiferina[1] C. gracilis[1] C. bellidiflora[1]'[&!color=#-16777088][&!color=#-16777088]
+	'Group 005 Cladonia rangiferina[1] C. gracilis[1] C. pyxidata[1] C. uncialis[1]'[&!color=#-16777088][&!color=#-16777088]
+	'AF345414 Cladonia gracilis'[&!color=#-16777088][&!color=#-16777088]
+	'FM945376 Cladonia rangiferina'[&!color=#-16777088][&!color=#-16777088]
+	'DQ229885 Stereocaulon vesuvianum'[&!color=#-3381505][&!color=#-3381505]
+	'EU008670 Lepraria lobificans'[&!color=#-65536][&!color=#-65536]
+	'Group 079 Lepraria lobificans[1] L. caesiella[1] L. cf. caesioalba[1]'[&!color=#-65536][&!color=#-65536]
+	'EU008664 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'JX435356 glacier forefield'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'JX435369 glacier forefield'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'EU008685 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'Group 015 Lepraria lobificans[1] L. caesioalba[1] Cladonia caetecia[1]'[&!color=#-16777216][&!color=#000000]
+	'EU008671 Lepraria lobificans'[&!color=#-65536][&!color=#-65536]
+	'EU008691 Lepraria sp.'[&!color=#-65536][&!color=#-65536]
+	'Group 014 Lepraria sp.[1] L. lobificans[1] L. caesioalba[1] L. caesiella[1] L. nivalis[1]'[&!color=#-65536][&!color=#-65536]
+	'EU008675 Lepraria lobificans'[&!color=#-65536][&!color=#-65536]
+	'AM905996 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'EU008676 Lepraria lobificans'[&!color=#-65536][&!color=#-65536]
+	'EU008661 Lepraria caesiella'[&!color=#-65536][&!color=#-65536]
+	'EU008666 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'Group 021 Lepraria sp.[1] L. lobificans[4] L. rigidula[2] L. atrotomentosa[1] L. incana[1] L. cf. caesioalba[1]'[&!color=#-65536]
+	'EU008669 Lepraria incana'[&!color=#-65536][&!color=#-65536]
+	'DQ229877 Lepraria lobificans'[&!color=#-65536][&!color=#-65536]
+	'HE803033 Cladonia corymbescens'[&!color=#-16777088][&!color=#-16777088]
+	'Group 024 Cladonia corymbescens[1] C. furcata[1]'[&!color=#-16777088][&!color=#-16777088]
+	'HE803031 Cladonia pyxidata'[&!color=#-16777088][&!color=#-16777088]
+	'Group 132 Cladonia rangiferina[1] C. furcata[1]'[&!color=#-16777088][&!color=#-16777088]
+	'AF345424 Cladonia scabriuscula'[&!color=#-16777088][&!color=#-16777088]
+	'FJ626731 Cladonia sp.'[&!color=#-16777088][&!color=#-16777088]
+	'AF345420 Cladonia glauca'[&!color=#-16777088][&!color=#-16777088]
+	'AF345438 Cladonia ochrochlora'[&!color=#-16777088][&!color=#-16777088]
+	'Group 013 Cladonia staufferi[1] C. capitellata[1] Xanthoria parietina[1] C. sp.[1]'[&!color=#-16777088][&!color=#-16777088]
+	'FM945349 Cladonia chlorophaea'[&!color=#-16777088][&!color=#-16777088]
+	'FJ756789 Cladonia magyarica'[&!color=#-16777088][&!color=#-16777088]
+	'Group 030 Cladonia ochrochlora[1] C. rei[1]'[&!color=#-16777088][&!color=#-16777088]
+	'Group 180 Cladonia fimbriata[1] C. pocillum[1]'[&!color=#-16777088][&!color=#-16777088]
+	'Group 044 Lepraria caesioalba[1] Cladonia cervicornis subsp. verticillata[1] Diploschistes muscorum[1]'[&!color=#-16777216][&!color=#000000]
+	'AY712702 Cladonia prostrata'[&!color=#-16777088][&!color=#-16777088]
+	'FM945390 Diploschistes muscorum'[&!color=#-32768][&!color=#-32768]
+	'AF345427 Cladonia subulata'[&!color=#-16777088][&!color=#-16777088]
+	'DQ229882 Stereocaulon tomentosum'[&!color=#-3381505][&!color=#-3381505]
+	'GU017647 Varicellaria carneonivea'[&!color=#-16711936][&!color=#-16711936]
+	'JX435349 glacier forefield'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'Group 203 Lepraria neglecta[2]'[&!color=#-65536][&!color=#-65536]
+	'AM900490 Anzina carneonivea'[&!color=#-16744448][&!color=#-16744448]
+	'Group 010 Lepraria sp.[1] L. caesioalba[3] L. alpina[2]'[&!color=#-65536]
+	'Group 003 Cladonia fruticulosa[1] C. subulata[1] C. leporina[12] C. pyxidata[1] Stereocaulon tomentosum[1] C. rei[1] C. perforata[13] C. chlorophaea[1] C. subtenuis[7] Lepraria alpina[2] C. macilenta[1] L. caesioalba[6] C. rangiformis[1] C. prostrata[10] C. coniocraea[2] C. pachycladodes[7]'[&!color=#000000]
+	'DQ482675 Cladonia subtenuis'[&!color=#-16777088]
+	'EU008692 Pilophorus acicularis'[&!color=#-10040065][&!color=#-10040065]
+	'Group 145 Lepraria sp.[1] Pilophorus acicularis[1]'[&!color=#-16777216][&!color=#000000]
+	'AY712711 Cladonia pachycladodes'[&!color=#-16777088][&!color=#-16777088]
+	'DQ482673 Cladonia subtenuis'[&!color=#-16777088]
+	'AF345425 Cladonia cristatella'[&!color=#-16777088][&!color=#-16777088]
+	'Group 117 Cladonia subtenuis[2]'[&!color=#-16777088]
+	'DQ482674 Cladonia subtenuis'[&!color=#-16777088]
+	'Group 113 Cladonia subtenuis[2] C. pachycladodes[3] C. prostrata[7] C. leporina[5] C. perforata[13] C. pachycladodes[2]'[&!color=#-16777088]
+	'Group 115 Cladonia prostrata[2] C. leporina[1]'[&!color=#-16777088]
+	'AY842280 Cladonia perforata'[&!color=#-16777088][&!color=#-16777088]
+	'Group 116 Cladonia prostrata[1] C. pachycladodes[1]'[&!color=#-16777088]
+	'Group 114 Cladonia leporina[2]'[&!color=#-16777088]
+	'Group 119 Lepraria caesioalba[2]'[&!color=#-65536]
+	'DQ482671 Cladonia subtenuis'[&!color=#-16777088]
+	'DQ229878 Cladonia cf. bacillaris'[&!color=#-16777088][&!color=#-16777088]
+	'Group 112 Cladonia pachycladodes[1] C. prostrata[1] C. prostrata[1] C. perforata[10] C. pachycladodes[2]'[&!color=#-16777088]
+	'Group 111 Cladonia perforata[2]'[&!color=#-16777088]
+	'AF345426 Cladonia parasitica'[&!color=#-16777088][&!color=#-16777088]
+	'AM906007 Lepraria cf. caesioalba'[&!color=#-65536][&!color=#-65536]
+	'FN556044 Lepraria borealis'[&!color=#-65536][&!color=#-65536]
+	'FN556045 Lepraria caesioalba'[&!color=#-65536][&!color=#-65536]
+	'AY712706 Cladonia pachycladodes'[&!color=#-16777088][&!color=#-16777088]
+	'DQ530185 Cladonia macrophyllodes'[&!color=#-16777088][&!color=#-16777088]
+	'AY712705 Cladonia prostrata'[&!color=#-16777088][&!color=#-16777088]
+	'DQ482680 Cladonia subtenuis'[&!color=#-16777088]
+	'JX435388 glacier forefield'[&!color="#A0A0A0"][&!color=#A0A0A0]
+	'DQ530188 Cladonia chlorophaea'[&!color=#-16777088][&!color=#-16777088]
+	'FM945380 Cladonia rei'[&!color=#-16777088][&!color=#-16777088]
+	'AF345432 Cladonia farinacea'[&!color=#-16777088][&!color=#-16777088]
+	'AF345430 Cladonia symphycarpa'[&!color=#-16777088][&!color=#-16777088]
+	'Group 101 Cladonia subtenuis[3]'[&!color=#-16777088]
+	'Group 100 Cladonia subtenuis[8]'[&!color=#-16777088]
+	'Group 006 Cladonia fimbriata[1] glacier forefield[2] C. subulata[2] C. macilenta[1]'[&!color=#-16777088]
+	'AF345431 Cladonia chlorophaea'[&!color=#-16777088][&!color=#-16777088]
+	'DQ534198 Cladonia fimbriata'[&!color=#-16777088][&!color=#-16777088]
+	'Group 118 Cladonia subtenuis[8]'[&!color=#-16777088]
+	'AF345429 Cladonia furcata'[&!color=#-16777088][&!color=#-16777088]
+	'AF345428 Cladonia turgida'[&!color=#-16777088][&!color=#-16777088]
+	'JN990652 Cladonia confusa'[&!color=#-16777088][&!color=#-16777088]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('JN990655 Cladonia crispatula':0.00242877,('Group 174 Cladonia confusa[1] C. crispatula[1]':1.0E-8,('JN990657 Cladonia crispatula':2.5E-7,(('AY842279 Cladina confusa':2.0E-7,('JN990659 Cladonia didyma':0.01356374,'JQ359767 Cladonia confusa':0.00358699)[&label=0]:2.4636E-4)[&label=0]:0.00193785,('JN990651 Cladonia confusa':2.1E-7,(('JN990656 Cladonia crispatula':1.4E-7,'AY842276 Cladonia verticillaris':1.0E-8)[&label=1]:0.00769396,('HE803040 Cladonia delavayi':1.0E-8,('EU008658 Cladia aggregata':0.00260649,(('Group 106 Cladonia subtenuis[26] C. evansii[7] C. leporina[1]':1.4E-7,('AF345417 Cladonia rappii':1.0E-8,(('Group 108 Cladonia subtenuis[2]':0.00191346,'DQ482682 Cladonia subtenuis':0.00190631)[&label=0]:2.3E-7,('Group 107 Cladonia subtenuis[2] C. evansii[1]':1.0E-8,('Group 110 Cladonia subtenuis[4] C. evansii[1]':0.00190689,('Group 109 Cladonia subtenuis[5]':0.00190581,('AY712692 Cladonia evansii':1.0E-8,('Group 105 Cladonia subtenuis[2] C. evansii[2] C. leporina[1]':0.00190387,('Group 103 Cladonia subtenuis[21] C. evansii[15] C. leporina[5]':1.0E-8,('AY712693 Cladonia evansii':0.00190465,('DQ482681 Cladonia subtenuis':0.00191123,'Group 104 Cladonia subtenuis[4] C. evansii[1]':0.00193395)[&label=0]:1.8E-7)[&label=0]:1.6E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:0.00190542)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=1]:0.00383046,('HE803041 Cladonia verticillata':0.00196913,('HE803038 Cladonia scabriuscula':0.00384194,('HE803039 Cladonia coniocraea':1.0E-8,('Group 102 Cladonia subtenuis[8]':0.00190285,('HE803042 Cladonia delavayi':1.4E-7,('HE803048 Cladonia praetermissa':0.00790807,(('HE803044 Cladonia verticillata':1.0E-8,(('Group 022 Cladonia nea[1] C. variegata[1]':1.5E-7,('HE803043 Cladonia scabriuscula':1.0E-8,'DQ482676 Cladonia subtenuis':0.00382671)[&label=0]:1.0E-8)[&label=1]:0.00381619,(('AF345415 Cladonia didyma':0.01552054,('HE803049 Cladonia cariosa':1.0E-8,'AF345416 Cladonia peltastica':1.3E-7)[&label=0]:1.0E-8)[&label=0]:0.00190547,('AY842277 Cladonia crinita':0.00186221,'Group 032 Cladonia fruticulosa[3]':0.00653048)[&label=0]:0.00196573)[&label=0]:1.5E-7)[&label=0]:1.7E-7)[&label=0]:1.0E-8,(('AF345443 Cladonia pulviniformis':1.0E-8,('JN990660 Cladonia didyma':1.0E-8,('JN990658 Cladonia didyma':2.3E-7,'AY842278 Cladonia fissidens':0.01358302)[&label=0]:1.0E-8)[&label=0]:3.1E-7)[&label=1]:0.00382483,('EU008684 Lepraria sp.':0.00646591,(('DQ229884 Stereocaulon':0.0105254,'DQ229883 Pilophorus cf. cereolus':0.00389397)[&label=1]:0.00784363,(('Group 007 Lepraria caesioalba[4] glacier forefield[1] L. neglecta[5]':1.0E-8,'EU008688 Lepraria sp.':1.6E-7)[&label=0]:0.0018977,(('DQ530191 Cladonia pocillum':0.00261206,'FJ756794 Cladonia pyxidata':1.6E-7)[&label=1]:0.00963061,(('JF737801 limestone rock':0.02616962,(('Group 027 Cladonia pocillum[2]':1.7E-7,'FJ756800 Cladonia pyxidata':0.00428612)[&label=1]:0.00960486,('Group 028 Cladonia furcata[2]':0.00412825,'HE803037 Cladonia furcata':0.00624925)[&label=0]:0.0038284)[&label=0]:0.00187067)[&label=1]:0.00589018,(('JX435361 glacier forefield':0.01336535,('EU008690 Lepraria sp.':0.00635707,('AM905993 Stereocaulon dactylophyllum':1.0E-8,'AF345433 Stereocaulon dactylophyllum var. occidentale':0.00766948)[&label=1]:0.00584031)[&label=0]:1.55E-6)[&label=0]:0.00206575,(('AF345436 Cladonia pyxidata':0.00568963,(('HE803050 Cladonia pyxidata':0.00189836,'Group 001 Cladonia fimbriata[1] C. chlorophaea[2] C. subulata[1] C. pocillum[1] C. pyxidata[2] Diploschistes muscorum[1] glacier forefield[1] C. rei[2] C. furcata[3] C. coniocraea[1]':1.5E-7)[&label=0]:1.5E-7,('DQ530180 Cladonia cornuta':6.0E-8,('DQ530190 Cladonia pocillum':1.0E-8,('FJ756801 Cladonia pocillum':1.0E-8,'DQ229887 Stereocaulon paschale':1.6E-7)[&label=1]:0.00375059)[&label=0]:2.3E-7)[&label=0]:6.0E-8)[&label=0]:0.00375807)[&label=1]:0.00571576,((('FM955669 Lepraria rigidula':0.00188037,('Group 131 Lepraria rigidula[2]':1.7E-7,'Group 019 Lepraria membranacea[2] L. incana[1]':1.3E-7)[&label=0]:1.7E-7)[&label=1]:0.00686345,('FN556039 Lepraria borealis':2.5E-7,('Group 020 Lepraria sp.[2] L. caesioalba[2]':2.5E-7,('FN556040 Lepraria caesioalba':0.00654808,'FN556042 Lepraria caesioalba':0.00215648)[&label=0]:2.4E-7)[&label=1]:0.00434269)[&label=0]:0.00211144)[&label=1]:0.00463904,((('Group 016 unknown[3]':1.8E-7,('AF345434 Cladonia fimbriata':0.00190063,('EU008683 Lepraria nylanderiana':1.0E-8,('FM205721 unknown':1.0E-8,('FM205725 unknown':1.0E-8,('Group 004 unknown[5]':7.0E-8,('AF345435 Cladonia rangiformis':0.00190061,'Group 025 unknown[2]':1.6E-7)[&label=0]:1.7E-7)[&label=0]:7.0E-8)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:1.5E-7)[&label=0]:1.7E-7)[&label=1]:0.00570816,((('FN556033 Lepraria crassissima':8.0E-8,('EU008687 Lepraria sp.':0.00410104,('EU008681 Lepraria nigrocincta':0.0020779,('Group 033 unknown[2]':0.00644031,('DQ229886 Stereocaulon saxatile':0.00591778,('Group 012 Cladonia chlorophaea[2] C. subulata[1]':1.9E-7,('Group 031 Lepraria sp.[1] L. borealis[10] L. caesioalba[3] Cladonia foliacea[1]':1.0E-8,'EU008667 Lepraria caesioalba':0.00218152)[&label=0]:1.3E-7)[&label=0]:1.9E-7)[&label=0]:0.00285259)[&label=0]:0.0028579)[&label=0]:1.6E-7)[&label=0]:8.0E-8)[&label=1]:0.00570795,('AF345437 Cladia aggregata':0.00572877,('Group 008 Lepraria borealis[2] Ochrolechia frigida[2]':1.6E-7,('FN556035 Lepraria alpina':0.00218818,'FN556036 Lepraria caesioalba':1.0E-8)[&label=0]:0.00219133)[&label=1]:0.01112586)[&label=0]:0.00192279)[&label=0]:2.1E-7,(('Group 029 Lepraria caesioalba[1] L. rigidula[1]':0.00219413,'FN556031 Lepraria rigidula':1.0E-8)[&label=1]:0.0133443,(('Group 121 Lepraria caesioalba[2]':1.6E-7,('Group 018 Lepraria sp.[1] L. caesioalba[1] L. alpina[1]':1.5E-7,(('FN556029 Lepraria granulata':1.4E-7,'AM905992 Lepraria sp.':1.0E-8)[&label=0]:0.00189581,'Group 120 Lepraria caesioalba[2]':0.00219198)[&label=0]:1.5E-7)[&label=0]:0.00189797)[&label=1]:0.0057402,((('Group 011 Cladonia cristatella[4]':1.0E-8,('AF345442 Stereocaulon dactylophyllum':0.00382064,'Group 026 forest soil[2]':0.00771373)[&label=0]:1.6E-7)[&label=1]:0.00990111,(('DQ229881 Stereocaulon subcoralloides':1.7E-7,(('Group 210 Cladonia arbuscula[1] Stereocaulon botryosum[1]':1.0E-7,('FJ756797 Cladonia pyxidata':0.00192655,('AM906000 Cladonia arbuscula':1.0E-8,('Group 002 Stereocaulon sp.[1] Cladonia coccifera[1] C. gracilis[5] C. cenotea[1] C. stellaris[1]':1.0E-8,('AM905999 Stereocaulon pileatum':1.4E-7,'JX435341 glacier forefield':0.01002986)[&label=0]:1.7E-7)[&label=0]:1.7E-7)[&label=0]:1.7E-7)[&label=0]:1.7E-7)[&label=0]:1.0E-7,(('AF345390 Cladina arbuscula':1.0E-8,('AF345387 Cladonia strepsilis':0.0019085,('AY622840 Cladonia rangiferina':1.4E-7,(('AF345396 Cladonia floridana':0.00197121,(('AF345382 Stereocaulon evolutoides':0.00383202,('AF345401 Cladonia strepsilis':1.6E-7,'AF345402 Cladonia strepsilis':1.4E-7)[&label=0]:0.00190968)[&label=0]:1.4E-7,('Group 156 Cladonia rangiferina[1] C. subsetacea[1] Stereocaulon evolutoides[1] Diploschistes muscorum[1]':1.0E-8,('AF345374 Anzina carneonivea':0.0057983,'AF345375 Cladonia strepsilis':2.0E-8)[&label=0]:1.9E-7)[&label=1]:0.00191534)[&label=0]:1.4E-7)[&label=0]:1.4E-7,('Group 000 Stereocaulon sp.[1] Cladonia deformis[1] C. gracilis[4] C. pyxidata[3] C. cervicornis subsp. verticillata[2] C. atlantica[1] C. caroliniana[1] C. grayi[1] C. subsetacea[23] S. pileatum[3] C. dimorphoclada[7] C. sp.[1] C. stellaris[1] C. strepsilis[1] C. dimorphoclada[1] C. coccifera[3] C. macilenta[1] C. pachycladodes[1] C. squamosa[1] C. rangiferina[3] C. mitis[26] C. pleurota[3]':1.0E-8,('AF345386 Cladonia robbinsii':0.00191195,(('FJ756790 Cladonia monomorpha':0.00190938,('AF345389 Pycnolia papillaria':9.5563E-4,'AF345384 Cladina arbuscula':0.00200559)[&label=0]:9.6E-4)[&label=0]:1.6E-7,(('AF345385 Cladonia grayi':0.00191318,('FM945363 Cladonia macilenta':1.0E-8,'AY622833 Cladonia gracilis':0.00485864)[&label=0]:0.00733281)[&label=0]:1.3E-7,('AF345392 Cladonia atlantica':8.0E-8,(('AF345376 Cladonia grayi':0.00189831,('AF345379 Cladonia grayi':1.3E-7,('AF345383 Cladonia strepsilis':1.0E-8,('Group 023 Cladonia ochrochlora[1] C. merochlorophaea[1]':1.5E-7,('AF345380 Cladonia grayi':1.1E-7,('Group 141 Cladonia subsetacea[4] C. dimorphoclada[1] C. pachycladodes[1] C. coniocraea[1]':1.0E-8,'Group 009 Cladonia botrytes[1] C. squamosa[1] C. crita[1] C. gracilis[1]':1.4E-7)[&label=0]:2.4E-7)[&label=0]:1.1E-7)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:2.1E-7)[&label=0]:0.00206719,('DQ530183 Cladonia ecmocyna':0.0021074,('Group 077 Cladonia grayi[1] C. strepsilis[1]':0.0019119,('AF345403 Cladonia':1.3E-7,'AF345400 Cladonia strepsilis':1.0E-8)[&label=0]:1.3E-7)[&label=0]:2.1E-7)[&label=0]:1.4E-7)[&label=0]:2.3E-7)[&label=0]:1.5E-7)[&label=0]:1.6E-7)[&label=0]:1.6E-7)[&label=0]:1.3E-7)[&label=0]:2.5E-7)[&label=0]:2.6E-7)[&label=0]:2.6E-7)[&label=0]:1.4E-7)[&label=0]:0.00229068,('Group 017 Cladonia rangiferina[1] C. gracilis[1] C. bellidiflora[1]':1.0E-8,(('Group 005 Cladonia rangiferina[1] C. gracilis[1] C. pyxidata[1] C. uncialis[1]':1.6E-7,'AF345414 Cladonia gracilis':0.00192944)[&label=0]:0.00192309,('FM945376 Cladonia rangiferina':2.5E-7,'DQ229885 Stereocaulon vesuvianum':0.00195121)[&label=0]:2.2E-7)[&label=0]:1.3E-7)[&label=0]:1.0E-8)[&label=0]:0.00229696)[&label=0]:1.4E-7)[&label=1]:0.01684746,(('EU008670 Lepraria lobificans':1.0E-8,('Group 079 Lepraria lobificans[1] L. caesiella[1] L. cf. caesioalba[1]':1.7E-7,(('EU008664 Lepraria caesioalba':7.0E-8,('JX435356 glacier forefield':0.00227424,('JX435369 glacier forefield':0.0045666,('EU008685 Lepraria sp.':1.0E-8,('Group 015 Lepraria lobificans[1] L. caesioalba[1] Cladonia caetecia[1]':1.0E-7,'EU008671 Lepraria lobificans':1.6E-7)[&label=0]:1.0E-7)[&label=0]:2.1E-7)[&label=0]:1.4E-7)[&label=0]:7.0E-8)[&label=0]:0.00195692,('EU008691 Lepraria sp.':0.00225052,(('Group 014 Lepraria sp.[1] L. lobificans[1] L. caesioalba[1] L. caesiella[1] L. nivalis[1]':9.0E-8,(('EU008675 Lepraria lobificans':0.00263553,'AM905996 Lepraria caesioalba':0.00382073)[&label=0]:1.5E-7,('EU008676 Lepraria lobificans':1.7E-7,('EU008661 Lepraria caesiella':1.6E-7,('EU008666 Lepraria caesioalba':1.0E-8,'Group 021 Lepraria sp.[1] L. lobificans[4] L. rigidula[2] L. atrotomentosa[1] L. incana[1] L. cf. caesioalba[1]':9.0E-8)[&label=0]:1.5E-7)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:8.0E-8)[&label=0]:1.4E-7,('EU008669 Lepraria incana':0.00226861,'DQ229877 Lepraria lobificans':0.00194329)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:1.6E-7)[&label=0]:0.00190824)[&label=0]:2.0E-7)[&label=1]:0.01739942,('HE803033 Cladonia corymbescens':1.0E-8,('Group 024 Cladonia corymbescens[1] C. furcata[1]':1.0E-8,('HE803031 Cladonia pyxidata':1.5E-7,'Group 132 Cladonia rangiferina[1] C. furcata[1]':0.00188049)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=1]:0.00971616)[&label=0]:2.5E-7)[&label=0]:0.00381062)[&label=0]:0.00171281,((('AF345424 Cladonia scabriuscula':1.0E-8,('FJ626731 Cladonia sp.':0.00244589,('AF345420 Cladonia glauca':1.2E-7,('AF345438 Cladonia ochrochlora':0.0115101,'Group 013 Cladonia staufferi[1] C. capitellata[1] Xanthoria parietina[1] C. sp.[1]':1.2E-7)[&label=0]:1.2E-7)[&label=0]:1.0E-8)[&label=0]:0.00217799)[&label=1]:0.0043906,('FM945349 Cladonia chlorophaea':2.4E-7,'FJ756789 Cladonia magyarica':1.0E-8)[&label=0]:0.00189833)[&label=0]:0.00440378,('Group 030 Cladonia ochrochlora[1] C. rei[1]':1.2E-7,(('Group 180 Cladonia fimbriata[1] C. pocillum[1]':1.0E-8,('Group 044 Lepraria caesioalba[1] Cladonia cervicornis subsp. verticillata[1] Diploschistes muscorum[1]':1.0E-8,(('AY712702 Cladonia prostrata':0.00380688,'FM945390 Diploschistes muscorum':2.2E-7)[&label=0]:1.4E-7,(('AF345427 Cladonia subulata':0.00189831,('DQ229882 Stereocaulon tomentosum':0.00208209,('GU017647 Varicellaria carneonivea':1.6E-7,('JX435349 glacier forefield':1.0E-8,('Group 203 Lepraria neglecta[2]':0.00198365,('AM900490 Anzina carneonivea':1.0E-8,'Group 010 Lepraria sp.[1] L. caesioalba[3] L. alpina[2]':1.9E-7)[&label=0]:1.2E-7)[&label=0]:1.77E-6)[&label=0]:1.0E-8)[&label=0]:0.00190548)[&label=0]:1.5E-7)[&label=0]:0.0018997,('Group 003 Cladonia fruticulosa[1] C. subulata[1] C. leporina[12] C. pyxidata[1] Stereocaulon tomentosum[1] C. rei[1] C. perforata[13] C. chlorophaea[1] C. subtenuis[7] Lepraria alpina[2] C. macilenta[1] L. caesioalba[6] C. rangiformis[1] C. prostrata[10] C. coniocraea[2] C. pachycladodes[7]':1.0E-8,((('DQ482675 Cladonia subtenuis':2.4E-7,('EU008692 Pilophorus acicularis':1.0E-8,'Group 145 Lepraria sp.[1] Pilophorus acicularis[1]':2.6E-7)[&label=1]:0.00972282)[&label=0]:0.00188142,('AY712711 Cladonia pachycladodes':0.00191572,(('DQ482673 Cladonia subtenuis':1.0E-8,('AF345425 Cladonia cristatella':0.00190262,'Group 117 Cladonia subtenuis[2]':1.0E-8)[&label=0]:0.00190154)[&label=0]:0.0019016,('DQ482674 Cladonia subtenuis':1.0E-8,((('Group 113 Cladonia subtenuis[2] C. pachycladodes[3] C. prostrata[7] C. leporina[5] C. perforata[13] C. pachycladodes[2]':1.0E-8,'Group 115 Cladonia prostrata[2] C. leporina[1]':0.00381775)[&label=0]:1.0E-8,('AY842280 Cladonia perforata':0.00190022,'Group 116 Cladonia prostrata[1] C. pachycladodes[1]':0.00209368)[&label=0]:0.00192534)[&label=0]:1.0E-8,('Group 114 Cladonia leporina[2]':1.0E-8,('Group 119 Lepraria caesioalba[2]':0.0038097,('DQ482671 Cladonia subtenuis':1.0E-8,'DQ229878 Cladonia cf. bacillaris':1.3E-7)[&label=0]:0.00190061)[&label=0]:1.8E-7)[&label=0]:1.7E-7)[&label=1]:0.00190169)[&label=0]:1.0E-8)[&label=0]:0.00190148)[&label=0]:1.4E-7)[&label=0]:1.4E-7,('Group 112 Cladonia pachycladodes[1] C. prostrata[1] C. prostrata[1] C. perforata[10] C. pachycladodes[2]':0.00190065,'Group 111 Cladonia perforata[2]':0.00190059)[&label=0]:1.0E-8)[&label=0]:2.0E-7)[&label=0]:2.3E-7)[&label=0]:2.3E-7)[&label=0]:2.3E-7)[&label=0]:1.6E-7)[&label=0]:1.6E-7,('AF345426 Cladonia parasitica':1.3E-7,('AM906007 Lepraria cf. caesioalba':1.0E-8,('FN556044 Lepraria borealis':0.00219485,('FN556045 Lepraria caesioalba':0.00220363,('AY712706 Cladonia pachycladodes':4.069E-4,('DQ530185 Cladonia macrophyllodes':0.00209371,'AY712705 Cladonia prostrata':0.00400846)[&label=0]:1.9E-7)[&label=0]:4.0156E-4)[&label=0]:9.8334E-4)[&label=0]:1.0606E-4)[&label=0]:5.6E-7)[&label=0]:1.3E-7)[&label=1]:0.00187967)[&label=0]:1.6E-7)[&label=0]:0.00188886)[&label=0]:1.4E-7)[&label=0]:1.5E-7)[&label=0]:0.00187417)[&label=0]:9.5902E-4)[&label=0]:9.5766E-4,(('DQ482680 Cladonia subtenuis':0.00189462,(('JX435388 glacier forefield':0.006991,('DQ530188 Cladonia chlorophaea':0.00623065,('FM945380 Cladonia rei':0.00213401,('AF345432 Cladonia farinacea':0.00190049,('AF345430 Cladonia symphycarpa':0.00189927,('Group 101 Cladonia subtenuis[3]':1.0E-8,'Group 100 Cladonia subtenuis[8]':1.0E-8)[&label=1]:0.00379873)[&label=0]:1.3E-7)[&label=0]:1.3E-7)[&label=0]:1.3E-7)[&label=0]:1.5E-7)[&label=0]:1.5E-7,('Group 006 Cladonia fimbriata[1] glacier forefield[2] C. subulata[2] C. macilenta[1]':1.9E-7,('AF345431 Cladonia chlorophaea':1.0E-8,'DQ534198 Cladonia fimbriata':1.3E-7)[&label=1]:0.00189365)[&label=0]:1.3E-7)[&label=0]:1.3E-7)[&label=0]:0.00382087,('Group 118 Cladonia subtenuis[8]':0.00773952,('AF345429 Cladonia furcata':0.0057199,'AF345428 Cladonia turgida':0.003842)[&label=0]:0.00194728)[&label=0]:0.00188386)[&label=0]:0.00190548)[&label=0]:1.6E-7)[&label=0]:0.00132804)[&label=0]:5.6014E-4)[&label=0]:1.6E-7)[&label=0]:0.00189751)[&label=0]:1.5E-7)[&label=1]:0.00768215)[&label=0]:1.5E-7)[&label=0]:5.0E-7)[&label=0]:0.00381421)[&label=0]:2.3E-7)[&label=0]:0.00190741)[&label=0]:0.0019038)[&label=0]:1.0E-8)[&label=0]:1.5E-7)[&label=0]:1.6E-7)[&label=0]:1.0E-8)[&label=0]:1.9E-7)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=1]:0.00967555)[&label=0]:2.1E-7)[&label=1]:0.02280399)[&label=0]:2.5E-7)[&label=0]:3.2E-7,'JN990652 Cladonia confusa':1.98E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

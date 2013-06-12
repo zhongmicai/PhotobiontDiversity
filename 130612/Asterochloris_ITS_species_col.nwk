@@ -1,0 +1,319 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=227;
+	taxlabels[&!color=#C0C0C0]
+	'JN990655 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 174 Asterochloris[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990657 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY842279 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990659 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JQ359767 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990651 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990656 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY842276 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803040 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008658 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 106 Asterochloris sp.[34]'[&!color=#C0C0C0]
+	'AF345417 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 108 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'DQ482682 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 107 Asterochloris sp.[3]'[&!color=#C0C0C0]
+	'Group 110 Asterochloris sp.[5]'[&!color=#C0C0C0]
+	'Group 109 Asterochloris sp.[5]'[&!color=#C0C0C0]
+	'AY712692 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 105 Asterochloris sp.[5]'[&!color=#C0C0C0]
+	'Group 103 Asterochloris sp.[41]'[&!color=#C0C0C0]
+	'AY712693 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ482681 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 104 Asterochloris sp.[5]'[&!color=#C0C0C0]
+	'HE803041 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803038 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803039 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 102 Asterochloris sp.[8]'[&!color=#C0C0C0]
+	'HE803042 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803048 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803044 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 022 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803043 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ482676 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345415 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803049 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345416 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY842277 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 032 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345443 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990660 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990658 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY842278 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008684 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229884 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229883 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 007 Chlorophyta[1] Asterochloris sp.[9]'[&!color=#C0C0C0]
+	'EU008688 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ530191 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ756794 Trebouxia sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JF737801 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 027 Trebouxia sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ756800 Trebouxia sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 028 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803037 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JX435361 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008690 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AM905993 Asterochloris excentrica'[&!color=#-32768][&!color=#-32768]
+	'AF345433 Asterochloris excentrica'[&!color=#-32768][&!color=#-32768]
+	'AF345436 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803050 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 001 Trebouxia sp.[3] Chlorophyta[1] Asterochloris sp.[11]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ530180 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ530190 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ756801 Trebouxia sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229887 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM955669 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 131 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 019 Asterochloris sp.[3]'[&!color=#C0C0C0]
+	'FN556039 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 020 Asterochloris sp.[4]'[&!color=#C0C0C0]
+	'FN556040 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556042 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 016 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345434 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008683 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM205721 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM205725 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 004 Asterochloris sp.[5]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345435 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 025 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556033 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008687 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008681 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 033 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229886 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 012 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 031 Asterochloris sp.[15]'[&!color=#C0C0C0]
+	'EU008667 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345437 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 008 Asterochloris sp.[4]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556035 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556036 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 029 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556031 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 121 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'Group 018 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556029 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AM905992 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 120 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'Group 011 Asterochloris erici[4]'[&!color=#-16711936][&!color=#-16711936]
+	'AF345442 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 026 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229881 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 210 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ756797 Trebouxia sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AM906000 Asterochloris irregularis'[&!color=#-10040065][&!color=#-10040065]
+	'Group 002 Asterochloris irregularis[1] A. sp.[8]'[&!color=#-10040065][&!color=#-10040065]
+	'AM905999 Asterochloris irregularis'[&!color=#-10040065][&!color=#-10040065]
+	'JX435341 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345390 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345387 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY622840 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345396 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345382 Asterochloris glomerata'[&!color=#-65536][&!color=#-65536]
+	'AF345401 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345402 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 156 Asterochloris irregularis[1] A. sp.[2] A. glomerata[1]'[&!color=#-16777216][&!color=#000000]
+	'AF345374 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345375 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 000 Trebouxia sp.[1] Asterochloris sp.[84] T. pyriformis[2] A. glomerata[2]'[&!color=#000000]
+	'AF345386 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ756790 Trebouxia sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345389 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345384 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345385 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM945363 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY622833 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345392 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345376 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345379 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345383 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 023 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345380 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 141 Asterochloris sp.[7]'[&!color=#C0C0C0]
+	'Group 009 Asterochloris sp.[4]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ530183 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 077 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345403 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345400 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 017 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 005 Trebouxia sp.[1] Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345414 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM945376 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229885 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008670 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 079 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008664 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JX435356 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JX435369 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008685 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 015 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008671 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008691 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 014 Asterochloris sp.[5]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008675 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AM905996 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008676 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008661 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008666 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 021 Asterochloris sp.[10]'[&!color=#C0C0C0]
+	'EU008669 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229877 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803033 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 024 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'HE803031 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 132 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345424 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ626731 Asterochloris glomerata'[&!color=#-65536][&!color=#-65536]
+	'AF345420 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345438 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 013 Asterochloris sp.[2] A. magna[1] A. italiana[1]'[&!color=#-16777216][&!color=#000000]
+	'FM945349 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FJ756789 Trebouxia sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 030 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 180 Asterochloris sp.[2]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 044 Asterochloris sp.[3]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY712702 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM945390 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345427 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229882 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'GU017647 Asterochloris phycobiontica'[&!color=#-16777088][&!color=#-16777088]
+	'JX435349 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 203 Asterochloris phycobiontica[2]'[&!color=#-16777088][&!color=#-16777088]
+	'AM900490 Asterochloris phycobiontica'[&!color=#-16777088][&!color=#-16777088]
+	'Group 010 Asterochloris phycobiontica[6]'[&!color=#-16777088]
+	'Group 003 Trebouxia sp.[1] Asterochloris sp.[66]'[&!color=#C0C0C0]
+	'DQ482675 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'EU008692 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 145 Asterochloris sp.[1] A. magna[1]'[&!color=#-16744448][&!color=#-16744448]
+	'AY712711 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ482673 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345425 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 117 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'DQ482674 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 113 Asterochloris sp.[32]'[&!color=#C0C0C0]
+	'Group 115 Asterochloris sp.[3]'[&!color=#C0C0C0]
+	'AY842280 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 116 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'Group 114 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'Group 119 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'DQ482671 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ229878 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 112 Asterochloris sp.[15]'[&!color=#C0C0C0]
+	'Group 111 Asterochloris sp.[2]'[&!color=#C0C0C0]
+	'AF345426 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AM906007 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556044 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FN556045 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY712706 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ530185 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AY712705 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ482680 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JX435388 Chlorophyta'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ530188 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'FM945380 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345432 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345430 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 101 Asterochloris sp.[3]'[&!color=#C0C0C0]
+	'Group 100 Asterochloris sp.[8]'[&!color=#C0C0C0]
+	'Group 006 Chlorophyta[2] Asterochloris sp.[4]'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345431 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'DQ534198 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'Group 118 Asterochloris sp.[8]'[&!color=#C0C0C0]
+	'AF345429 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'AF345428 Asterochloris sp.'[&!color="#C0C0C0"][&!color=#C0C0C0]
+	'JN990652 Asterochloris'[&!color="#C0C0C0"][&!color=#C0C0C0]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('JN990655 Asterochloris':0.00242877,('Group 174 Asterochloris[2]':1.0E-8,('JN990657 Asterochloris':2.5E-7,(('AY842279 Asterochloris sp.':2.0E-7,('JN990659 Asterochloris':0.01356374,'JQ359767 Asterochloris sp.':0.00358699)[&label=0]:2.4636E-4)[&label=0]:0.00193785,('JN990651 Asterochloris':2.1E-7,(('JN990656 Asterochloris':1.4E-7,'AY842276 Asterochloris sp.':1.0E-8)[&label=1]:0.00769396,('HE803040 Asterochloris sp.':1.0E-8,('EU008658 Asterochloris sp.':0.00260649,(('Group 106 Asterochloris sp.[34]':1.4E-7,('AF345417 Asterochloris sp.':1.0E-8,(('Group 108 Asterochloris sp.[2]':0.00191346,'DQ482682 Asterochloris sp.':0.00190631)[&label=0]:2.3E-7,('Group 107 Asterochloris sp.[3]':1.0E-8,('Group 110 Asterochloris sp.[5]':0.00190689,('Group 109 Asterochloris sp.[5]':0.00190581,('AY712692 Asterochloris sp.':1.0E-8,('Group 105 Asterochloris sp.[5]':0.00190387,('Group 103 Asterochloris sp.[41]':1.0E-8,('AY712693 Asterochloris sp.':0.00190465,('DQ482681 Asterochloris sp.':0.00191123,'Group 104 Asterochloris sp.[5]':0.00193395)[&label=0]:1.8E-7)[&label=0]:1.6E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:0.00190542)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=0]:1.4E-7)[&label=1]:0.00383046,('HE803041 Asterochloris sp.':0.00196913,('HE803038 Asterochloris sp.':0.00384194,('HE803039 Asterochloris sp.':1.0E-8,('Group 102 Asterochloris sp.[8]':0.00190285,('HE803042 Asterochloris sp.':1.4E-7,('HE803048 Asterochloris sp.':0.00790807,(('HE803044 Asterochloris sp.':1.0E-8,(('Group 022 Asterochloris sp.[2]':1.5E-7,('HE803043 Asterochloris sp.':1.0E-8,'DQ482676 Asterochloris sp.':0.00382671)[&label=0]:1.0E-8)[&label=1]:0.00381619,(('AF345415 Asterochloris sp.':0.01552054,('HE803049 Asterochloris sp.':1.0E-8,'AF345416 Asterochloris sp.':1.3E-7)[&label=0]:1.0E-8)[&label=0]:0.00190547,('AY842277 Asterochloris sp.':0.00186221,'Group 032 Asterochloris sp.[3]':0.00653048)[&label=0]:0.00196573)[&label=0]:1.5E-7)[&label=0]:1.7E-7)[&label=0]:1.0E-8,(('AF345443 Asterochloris sp.':1.0E-8,('JN990660 Asterochloris':1.0E-8,('JN990658 Asterochloris':2.3E-7,'AY842278 Asterochloris sp.':0.01358302)[&label=0]:1.0E-8)[&label=0]:3.1E-7)[&label=1]:0.00382483,('EU008684 Asterochloris sp.':0.00646591,(('DQ229884 Asterochloris sp.':0.0105254,'DQ229883 Asterochloris sp.':0.00389397)[&label=1]:0.00784363,(('Group 007 Chlorophyta[1] Asterochloris sp.[9]':1.0E-8,'EU008688 Asterochloris sp.':1.6E-7)[&label=0]:0.0018977,(('DQ530191 Asterochloris sp.':0.00261206,'FJ756794 Trebouxia sp.':1.6E-7)[&label=1]:0.00963061,(('JF737801 Chlorophyta':0.02616962,(('Group 027 Trebouxia sp.[2]':1.7E-7,'FJ756800 Trebouxia sp.':0.00428612)[&label=1]:0.00960486,('Group 028 Asterochloris sp.[2]':0.00412825,'HE803037 Asterochloris sp.':0.00624925)[&label=0]:0.0038284)[&label=0]:0.00187067)[&label=1]:0.00589018,(('JX435361 Chlorophyta':0.01336535,('EU008690 Asterochloris sp.':0.00635707,('AM905993 Asterochloris excentrica':1.0E-8,'AF345433 Asterochloris excentrica':0.00766948)[&label=1]:0.00584031)[&label=0]:1.55E-6)[&label=0]:0.00206575,(('AF345436 Asterochloris sp.':0.00568963,(('HE803050 Asterochloris sp.':0.00189836,'Group 001 Trebouxia sp.[3] Chlorophyta[1] Asterochloris sp.[11]':1.5E-7)[&label=0]:1.5E-7,('DQ530180 Asterochloris sp.':6.0E-8,('DQ530190 Asterochloris sp.':1.0E-8,('FJ756801 Trebouxia sp.':1.0E-8,'DQ229887 Asterochloris sp.':1.6E-7)[&label=1]:0.00375059)[&label=0]:2.3E-7)[&label=0]:6.0E-8)[&label=0]:0.00375807)[&label=1]:0.00571576,((('FM955669 Asterochloris sp.':0.00188037,('Group 131 Asterochloris sp.[2]':1.7E-7,'Group 019 Asterochloris sp.[3]':1.3E-7)[&label=0]:1.7E-7)[&label=1]:0.00686345,('FN556039 Asterochloris sp.':2.5E-7,('Group 020 Asterochloris sp.[4]':2.5E-7,('FN556040 Asterochloris sp.':0.00654808,'FN556042 Asterochloris sp.':0.00215648)[&label=0]:2.4E-7)[&label=1]:0.00434269)[&label=0]:0.00211144)[&label=1]:0.00463904,((('Group 016 Asterochloris sp.[3]':1.8E-7,('AF345434 Asterochloris sp.':0.00190063,('EU008683 Asterochloris sp.':1.0E-8,('FM205721 Asterochloris sp.':1.0E-8,('FM205725 Asterochloris sp.':1.0E-8,('Group 004 Asterochloris sp.[5]':7.0E-8,('AF345435 Asterochloris sp.':0.00190061,'Group 025 Asterochloris sp.[2]':1.6E-7)[&label=0]:1.7E-7)[&label=0]:7.0E-8)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:1.5E-7)[&label=0]:1.7E-7)[&label=1]:0.00570816,((('FN556033 Asterochloris sp.':8.0E-8,('EU008687 Asterochloris sp.':0.00410104,('EU008681 Asterochloris sp.':0.0020779,('Group 033 Asterochloris sp.[2]':0.00644031,('DQ229886 Asterochloris sp.':0.00591778,('Group 012 Asterochloris sp.[3]':1.9E-7,('Group 031 Asterochloris sp.[15]':1.0E-8,'EU008667 Asterochloris sp.':0.00218152)[&label=0]:1.3E-7)[&label=0]:1.9E-7)[&label=0]:0.00285259)[&label=0]:0.0028579)[&label=0]:1.6E-7)[&label=0]:8.0E-8)[&label=1]:0.00570795,('AF345437 Asterochloris sp.':0.00572877,('Group 008 Asterochloris sp.[4]':1.6E-7,('FN556035 Asterochloris sp.':0.00218818,'FN556036 Asterochloris sp.':1.0E-8)[&label=0]:0.00219133)[&label=1]:0.01112586)[&label=0]:0.00192279)[&label=0]:2.1E-7,(('Group 029 Asterochloris sp.[2]':0.00219413,'FN556031 Asterochloris sp.':1.0E-8)[&label=1]:0.0133443,(('Group 121 Asterochloris sp.[2]':1.6E-7,('Group 018 Asterochloris sp.[3]':1.5E-7,(('FN556029 Asterochloris sp.':1.4E-7,'AM905992 Asterochloris sp.':1.0E-8)[&label=0]:0.00189581,'Group 120 Asterochloris sp.[2]':0.00219198)[&label=0]:1.5E-7)[&label=0]:0.00189797)[&label=1]:0.0057402,((('Group 011 Asterochloris erici[4]':1.0E-8,('AF345442 Asterochloris sp.':0.00382064,'Group 026 Asterochloris sp.[2]':0.00771373)[&label=0]:1.6E-7)[&label=1]:0.00990111,(('DQ229881 Asterochloris sp.':1.7E-7,(('Group 210 Asterochloris sp.[2]':1.0E-7,('FJ756797 Trebouxia sp.':0.00192655,('AM906000 Asterochloris irregularis':1.0E-8,('Group 002 Asterochloris irregularis[1] A. sp.[8]':1.0E-8,('AM905999 Asterochloris irregularis':1.4E-7,'JX435341 Chlorophyta':0.01002986)[&label=0]:1.7E-7)[&label=0]:1.7E-7)[&label=0]:1.7E-7)[&label=0]:1.7E-7)[&label=0]:1.0E-7,(('AF345390 Asterochloris sp.':1.0E-8,('AF345387 Asterochloris sp.':0.0019085,('AY622840 Asterochloris sp.':1.4E-7,(('AF345396 Asterochloris sp.':0.00197121,(('AF345382 Asterochloris glomerata':0.00383202,('AF345401 Asterochloris sp.':1.6E-7,'AF345402 Asterochloris sp.':1.4E-7)[&label=0]:0.00190968)[&label=0]:1.4E-7,('Group 156 Asterochloris irregularis[1] A. sp.[2] A. glomerata[1]':1.0E-8,('AF345374 Asterochloris sp.':0.0057983,'AF345375 Asterochloris sp.':2.0E-8)[&label=0]:1.9E-7)[&label=1]:0.00191534)[&label=0]:1.4E-7)[&label=0]:1.4E-7,('Group 000 Trebouxia sp.[1] Asterochloris sp.[84] T. pyriformis[2] A. glomerata[2]':1.0E-8,('AF345386 Asterochloris sp.':0.00191195,(('FJ756790 Trebouxia sp.':0.00190938,('AF345389 Asterochloris sp.':9.5563E-4,'AF345384 Asterochloris sp.':0.00200559)[&label=0]:9.6E-4)[&label=0]:1.6E-7,(('AF345385 Asterochloris sp.':0.00191318,('FM945363 Asterochloris sp.':1.0E-8,'AY622833 Asterochloris sp.':0.00485864)[&label=0]:0.00733281)[&label=0]:1.3E-7,('AF345392 Asterochloris sp.':8.0E-8,(('AF345376 Asterochloris sp.':0.00189831,('AF345379 Asterochloris sp.':1.3E-7,('AF345383 Asterochloris sp.':1.0E-8,('Group 023 Asterochloris sp.[2]':1.5E-7,('AF345380 Asterochloris sp.':1.1E-7,('Group 141 Asterochloris sp.[7]':1.0E-8,'Group 009 Asterochloris sp.[4]':1.4E-7)[&label=0]:2.4E-7)[&label=0]:1.1E-7)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:2.1E-7)[&label=0]:0.00206719,('DQ530183 Asterochloris sp.':0.0021074,('Group 077 Asterochloris sp.[2]':0.0019119,('AF345403 Asterochloris sp.':1.3E-7,'AF345400 Asterochloris sp.':1.0E-8)[&label=0]:1.3E-7)[&label=0]:2.1E-7)[&label=0]:1.4E-7)[&label=0]:2.3E-7)[&label=0]:1.5E-7)[&label=0]:1.6E-7)[&label=0]:1.6E-7)[&label=0]:1.3E-7)[&label=0]:2.5E-7)[&label=0]:2.6E-7)[&label=0]:2.6E-7)[&label=0]:1.4E-7)[&label=0]:0.00229068,('Group 017 Asterochloris sp.[3]':1.0E-8,(('Group 005 Trebouxia sp.[1] Asterochloris sp.[3]':1.6E-7,'AF345414 Asterochloris sp.':0.00192944)[&label=0]:0.00192309,('FM945376 Asterochloris sp.':2.5E-7,'DQ229885 Asterochloris sp.':0.00195121)[&label=0]:2.2E-7)[&label=0]:1.3E-7)[&label=0]:1.0E-8)[&label=0]:0.00229696)[&label=0]:1.4E-7)[&label=1]:0.01684746,(('EU008670 Asterochloris sp.':1.0E-8,('Group 079 Asterochloris sp.[3]':1.7E-7,(('EU008664 Asterochloris sp.':7.0E-8,('JX435356 Chlorophyta':0.00227424,('JX435369 Chlorophyta':0.0045666,('EU008685 Asterochloris sp.':1.0E-8,('Group 015 Asterochloris sp.[3]':1.0E-7,'EU008671 Asterochloris sp.':1.6E-7)[&label=0]:1.0E-7)[&label=0]:2.1E-7)[&label=0]:1.4E-7)[&label=0]:7.0E-8)[&label=0]:0.00195692,('EU008691 Asterochloris sp.':0.00225052,(('Group 014 Asterochloris sp.[5]':9.0E-8,(('EU008675 Asterochloris sp.':0.00263553,'AM905996 Asterochloris sp.':0.00382073)[&label=0]:1.5E-7,('EU008676 Asterochloris sp.':1.7E-7,('EU008661 Asterochloris sp.':1.6E-7,('EU008666 Asterochloris sp.':1.0E-8,'Group 021 Asterochloris sp.[10]':9.0E-8)[&label=0]:1.5E-7)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:8.0E-8)[&label=0]:1.4E-7,('EU008669 Asterochloris sp.':0.00226861,'DQ229877 Asterochloris sp.':0.00194329)[&label=0]:1.5E-7)[&label=0]:2.3E-7)[&label=0]:1.6E-7)[&label=0]:0.00190824)[&label=0]:2.0E-7)[&label=1]:0.01739942,('HE803033 Asterochloris sp.':1.0E-8,('Group 024 Asterochloris sp.[2]':1.0E-8,('HE803031 Asterochloris sp.':1.5E-7,'Group 132 Asterochloris sp.[2]':0.00188049)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=1]:0.00971616)[&label=0]:2.5E-7)[&label=0]:0.00381062)[&label=0]:0.00171281,((('AF345424 Asterochloris sp.':1.0E-8,('FJ626731 Asterochloris glomerata':0.00244589,('AF345420 Asterochloris sp.':1.2E-7,('AF345438 Asterochloris sp.':0.0115101,'Group 013 Asterochloris sp.[2] A. magna[1] A. italiana[1]':1.2E-7)[&label=0]:1.2E-7)[&label=0]:1.0E-8)[&label=0]:0.00217799)[&label=1]:0.0043906,('FM945349 Asterochloris sp.':2.4E-7,'FJ756789 Trebouxia sp.':1.0E-8)[&label=0]:0.00189833)[&label=0]:0.00440378,('Group 030 Asterochloris sp.[2]':1.2E-7,(('Group 180 Asterochloris sp.[2]':1.0E-8,('Group 044 Asterochloris sp.[3]':1.0E-8,(('AY712702 Asterochloris sp.':0.00380688,'FM945390 Asterochloris sp.':2.2E-7)[&label=0]:1.4E-7,(('AF345427 Asterochloris sp.':0.00189831,('DQ229882 Asterochloris sp.':0.00208209,('GU017647 Asterochloris phycobiontica':1.6E-7,('JX435349 Chlorophyta':1.0E-8,('Group 203 Asterochloris phycobiontica[2]':0.00198365,('AM900490 Asterochloris phycobiontica':1.0E-8,'Group 010 Asterochloris phycobiontica[6]':1.9E-7)[&label=0]:1.2E-7)[&label=0]:1.77E-6)[&label=0]:1.0E-8)[&label=0]:0.00190548)[&label=0]:1.5E-7)[&label=0]:0.0018997,('Group 003 Trebouxia sp.[1] Asterochloris sp.[66]':1.0E-8,((('DQ482675 Asterochloris sp.':2.4E-7,('EU008692 Asterochloris sp.':1.0E-8,'Group 145 Asterochloris sp.[1] A. magna[1]':2.6E-7)[&label=1]:0.00972282)[&label=0]:0.00188142,('AY712711 Asterochloris sp.':0.00191572,(('DQ482673 Asterochloris sp.':1.0E-8,('AF345425 Asterochloris sp.':0.00190262,'Group 117 Asterochloris sp.[2]':1.0E-8)[&label=0]:0.00190154)[&label=0]:0.0019016,('DQ482674 Asterochloris sp.':1.0E-8,((('Group 113 Asterochloris sp.[32]':1.0E-8,'Group 115 Asterochloris sp.[3]':0.00381775)[&label=0]:1.0E-8,('AY842280 Asterochloris sp.':0.00190022,'Group 116 Asterochloris sp.[2]':0.00209368)[&label=0]:0.00192534)[&label=0]:1.0E-8,('Group 114 Asterochloris sp.[2]':1.0E-8,('Group 119 Asterochloris sp.[2]':0.0038097,('DQ482671 Asterochloris sp.':1.0E-8,'DQ229878 Asterochloris sp.':1.3E-7)[&label=0]:0.00190061)[&label=0]:1.8E-7)[&label=0]:1.7E-7)[&label=1]:0.00190169)[&label=0]:1.0E-8)[&label=0]:0.00190148)[&label=0]:1.4E-7)[&label=0]:1.4E-7,('Group 112 Asterochloris sp.[15]':0.00190065,'Group 111 Asterochloris sp.[2]':0.00190059)[&label=0]:1.0E-8)[&label=0]:2.0E-7)[&label=0]:2.3E-7)[&label=0]:2.3E-7)[&label=0]:2.3E-7)[&label=0]:1.6E-7)[&label=0]:1.6E-7,('AF345426 Asterochloris sp.':1.3E-7,('AM906007 Asterochloris sp.':1.0E-8,('FN556044 Asterochloris sp.':0.00219485,('FN556045 Asterochloris sp.':0.00220363,('AY712706 Asterochloris sp.':4.069E-4,('DQ530185 Asterochloris sp.':0.00209371,'AY712705 Asterochloris sp.':0.00400846)[&label=0]:1.9E-7)[&label=0]:4.0156E-4)[&label=0]:9.8334E-4)[&label=0]:1.0606E-4)[&label=0]:5.6E-7)[&label=0]:1.3E-7)[&label=1]:0.00187967)[&label=0]:1.6E-7)[&label=0]:0.00188886)[&label=0]:1.4E-7)[&label=0]:1.5E-7)[&label=0]:0.00187417)[&label=0]:9.5902E-4)[&label=0]:9.5766E-4,(('DQ482680 Asterochloris sp.':0.00189462,(('JX435388 Chlorophyta':0.006991,('DQ530188 Asterochloris sp.':0.00623065,('FM945380 Asterochloris sp.':0.00213401,('AF345432 Asterochloris sp.':0.00190049,('AF345430 Asterochloris sp.':0.00189927,('Group 101 Asterochloris sp.[3]':1.0E-8,'Group 100 Asterochloris sp.[8]':1.0E-8)[&label=1]:0.00379873)[&label=0]:1.3E-7)[&label=0]:1.3E-7)[&label=0]:1.3E-7)[&label=0]:1.5E-7)[&label=0]:1.5E-7,('Group 006 Chlorophyta[2] Asterochloris sp.[4]':1.9E-7,('AF345431 Asterochloris sp.':1.0E-8,'DQ534198 Asterochloris sp.':1.3E-7)[&label=1]:0.00189365)[&label=0]:1.3E-7)[&label=0]:1.3E-7)[&label=0]:0.00382087,('Group 118 Asterochloris sp.[8]':0.00773952,('AF345429 Asterochloris sp.':0.0057199,'AF345428 Asterochloris sp.':0.003842)[&label=0]:0.00194728)[&label=0]:0.00188386)[&label=0]:0.00190548)[&label=0]:1.6E-7)[&label=0]:0.00132804)[&label=0]:5.6014E-4)[&label=0]:1.6E-7)[&label=0]:0.00189751)[&label=0]:1.5E-7)[&label=1]:0.00768215)[&label=0]:1.5E-7)[&label=0]:5.0E-7)[&label=0]:0.00381421)[&label=0]:2.3E-7)[&label=0]:0.00190741)[&label=0]:0.0019038)[&label=0]:1.0E-8)[&label=0]:1.5E-7)[&label=0]:1.6E-7)[&label=0]:1.0E-8)[&label=0]:1.9E-7)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=1]:0.00967555)[&label=0]:2.1E-7)[&label=1]:0.02280399)[&label=0]:2.5E-7)[&label=0]:3.2E-7,'JN990652 Asterochloris':1.98E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RADIAL";
+	set layout.zoom=248;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
