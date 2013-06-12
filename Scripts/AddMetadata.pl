@@ -15,6 +15,7 @@ open(my $hostfile, "<", $hostfilename);
 
 my %hosts;  # host species unless it is a group in which case it is the group name
 my %group_info;  # counts of each species within a group (keyed by group name)
+my %group_reps;
 while (<$hostfile>) {
   chomp;
   my @fields = split(/ *\t\ */, $_);
@@ -34,38 +35,40 @@ while (<$hostfile>) {
     else {
       $group_info{$group}{$host} = 1;   #initialize counter for new species/sequence type combination
     }
-    if ( $in_tree =~ /IN TREE/ ) { $hosts{$accession} = $group; } #representative sequence for a sequence type
+    if ( $in_tree =~ /IN TREE/ ) {  #representative sequence for a sequence type
+      if ( $group_reps{$group} ) {  warn "multiple representatives of $group in tree\n"; }
+      else { 
+        $hosts{$accession} = $group;
+        $group_reps{$group} = $accession;
+      }
+    }
   } 
 }
 
-my %groups; #groups names, keyed by accession
-foreach my $accession (keys %hosts ) {
-  my $group = $hosts{$accession};
-  if ( $group_info{$group} ) {
-    my @host_info;
-    foreach my $host ( keys %{$group_info{$group} } ) {
-      my $num_seq = $group_info{$group}{$host};
-      foreach ( @host_info ) { 
-        $_ =~ /(^\w+)/;
-        if ( $host =~ /$1/ ) { $host =~ s/(^\w)\w*/$1./; last;}  #abbreviate genus names after first usage on branch (this will fail if there are multiple genera that start with the same letter)
-      }
-      push(@host_info, $host . '[' . $num_seq . ']');
+foreach my $group (sort keys %group_info ) {
+  my @host_info;
+  foreach my $host ( keys %{$group_info{$group} } ) {
+    my $num_seq = $group_info{$group}{$host};
+    foreach ( @host_info ) { 
+      $_ =~ /(^\w+)/;
+      if ( $host =~ /$1/ ) { $host =~ s/(^\w)\w*/$1./; last;}  #abbreviate genus names after first usage on branch (this will fail if there are multiple genera that start with the same letter)
     }
-    $hosts{$accession} = join(" ", @host_info);
-    $group_info{$accession} = $group;
+    push(@host_info, $host . '[' . $num_seq . ']');
   }
+  if ( $group_reps{$group} ) {
+    $hosts{$group_reps{$group}} = join(" ", @host_info);       # modify host info to contain info about all hosts/species
+  }
+  else { warn "no representatives sequences in tree for $group\n"; }
 }
 
 
 while (my $tree = <>){
   chomp($tree);
   foreach ( keys %hosts ) {
-    if ( $group_info{$_} ) {
-      $tree =~ s/$_/$group_info{$_} $hosts{$_}/;
-    }
-    else {
-      $tree =~ s/$_/$_ $hosts{$_}/;
-    }
+    unless ( $tree =~ s/$_/$_ $hosts{$_}/ ) { warn "Sequences $_ not in tree\n"; }
   }
+  foreach (keys %group_reps ) {
+    unless ( $tree =~ s/$group_reps{$_}/$_/ ) { warn "Representaitve seq for $_ not in tree\n"; }   
+  } 
   print "$tree\n";
 }
