@@ -1,0 +1,20 @@
+cat ~/Downloads/sequences.fasta >> ../Nostoc_rbcX.fa
+
+cat ~/Downloads/sequences.fasta | perl -p -e 's/>gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' > new_seqs.fa
+
+cp ../Nostoc_rbcX_metadata.txt ./
+
+grep ">" new_seqs.fa | perl -p -e 's/>(\w+)/$1\tUNIQUE\tIN TREE\tGunnera magellanica/' >> Nostoc_rbcX_metadata.txt
+
+mafft --add new_seqs.fa ../Nostoc_rbcX_nr_aln.fa >Nostoc_rbcX_aln.fa
+ 
+../Scripts/GetExcluded.pl Nostoc_rbcX_aln.fa |pbcopy
+
+trimal -in Nostoc_rbcX_aln.fa -phylip -select `pbpaste` >Nostoc_rbcX.phy 
+
+phyml -i Nostoc_rbcX.phy 
+
+../Scripts/AddMetadata.pl Nostoc_rbcX_metadata.txt host <Nostoc_rbcX.phy_phyml_tree.txt >Nostoc_rbcX.nwk
+
+../Scripts/ColourTree.pl Nostoc_rbcX.nwk host >Nostoc_rbcX_host.nwk
+
