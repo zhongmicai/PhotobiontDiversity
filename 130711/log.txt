@@ -1,0 +1,58 @@
+blastn -query Coccomyxa_peltigerae_ITS.fa -db nt -evalue 1e-100 -out Coccomyxa_ITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+
+cut -f3 Coccomyxa_ITS.bl |sort|uniq|wc -l
+
+(62)
+
+awk '{if($4>3000) print $0}' Coccomyxa_ITS.bl 
+ 
+(0)
+ 
+awk '{if ($12>$13) print $0}' Coccomyxa_ITS.bl 
+ 
+(0)
+ 
+cut -f3 Coccomyxa_ITS.bl |sort|uniq>Coccomyxa_ITS_acc.txt
+ 
+blastdbcmd -db nt -entry_batch Coccomyxa_ITS_acc.txt |../Scripts/GetRedundant.pl >Coccomyxa_ITS.fa
+ 
+grep ">" Coccomyxa_ITS.fa |wc -l
+ 
+(62)
+
+usearch -cluster_fast Coccomyxa_ITS.fa -id 1 -centroids Coccomyxa_ITS_nr.fa -uc Coccomyxa_ITS_groups.txt
+ 
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Coccomyxa_ITS_nr.fa 
+
+mafft Coccomyxa_ITS_nr.fa >Coccomyxa_ITS_aln.fa
+
+../Scripts/GetExcluded.pl Coccomyxa_ITS_aln.fa |pbcopy
+
+trimal -in Coccomyxa_ITS_aln.fa -phylip -select `pbpaste` >Coccomyxa_ITS.phy
+
+phyml -i Coccomyxa_ITS.phy
+
+../Scripts/GetGB.pl Coccomyxa_ITS.gbk heath.obrien@gmail.com <Coccomyxa_ITS_acc.txt
+
+grep LOCUS Coccomyxa_ITS.gbk |wc -l
+
+(62)
+
+../Scripts/ParseHost.pl Asterochloris_ITS.gbk >Asterochloris_ITS_metadata.txt
+
+../Scripts/GetGroups.py -g Coccomyxa_ITS_groups.txt -m Coccomyxa_ITS_metadata.txt > Coccomyxa_ITS_metadata2.txt
+
+mv Coccomyxa_ITS_metadata2.txt Coccomyxa_ITS_metadata.txt 
+
+[ Expanded representative sequences from Lohtander et al. 2003 in Coccomyxa_ITS_metadata.txt ]
+
+wc -l Coccomyxa_ITS_metadata.txt
+
+(80)
+
+../Scripts/AddSig.pl Coccomyxa_ITS.phy_phyml_tree.txt >Coccomyxa_ITS.nwk
+
+cat Coccomyxa_ITS.nwk | ../Scripts/AddMetadata.pl Coccomyxa_ITS_metadata.txt host > Coccomyxa_ITS_host.nwk
+
+
+

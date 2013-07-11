@@ -1,0 +1,3489 @@
+LOCUS       AB260896                2433 bp    DNA     linear   ENV 02-JUL-2010
+DEFINITION  Uncultured Trebouxiophyceae genes for 18S rRNA, ITS1, 5.8S rRNA,
+            ITS2, partial and complete sequence.
+ACCESSION   AB260896
+VERSION     AB260896.1  GI:162809309
+KEYWORDS    ENV.
+SOURCE      uncultured Trebouxiophyceae
+  ORGANISM  uncultured Trebouxiophyceae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            environmental samples.
+REFERENCE   1
+  AUTHORS   Hoshina,R. and Imamura,N.
+  TITLE     Multiple origins of the symbioses in Paramecium bursaria
+  JOURNAL   Protist 159 (1), 53-63 (2008)
+   PUBMED   17936071
+REFERENCE   2  (bases 1 to 2433)
+  AUTHORS   Hoshina,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2006) Contact:Ryo Hoshina Ritsumeikan University;
+            Noji Higashi 1-1-1, Kusatsu, Shiga 525-8577, Japan
+FEATURES             Location/Qualifiers
+     source          1..2433
+                     /organism="uncultured Trebouxiophyceae"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Paramecium bursaria CCAP 1660/13"
+                     /specimen_voucher="1660/13 (Culture Collection of Algae
+                     and Protozoa, UK)"
+                     /db_xref="taxon:167235"
+                     /environmental_sample
+                     /country="United Kingdom: Cambridge"
+     rRNA            <1..1801
+                     /product="18S ribosomal RNA"
+     primer_bind     1..20
+     misc_RNA        1802..2051
+                     /note="internal transcribed spacer 1 (ITS1)"
+     rRNA            2052..2203
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        2204..2433
+                     /note="internal transcribed spacer (ITS2)"
+ORIGIN      
+        1 tacctggttg atcctgccag tagtcatatg cttgtctcaa agattaagcc atgcatgtct
+       61 aagtataaac tgctttatac tgtgaaactg cgaatggctc attaaatcag ttatagttta
+      121 tttgatggta ccttactact cggataaccg tagtaattct agagctaata cgtgcggaaa
+      181 tcccgacttc tggaagggac gtatttatta gataaaaggc cgaccgggct tgcccgaatc
+      241 gcggtgaatc atgataactc cacgaatcgc atggcctcag cgccggcgat gtttcattca
+      301 aatttctgcc ctatcaactt tcgacggtaa ggtattggct taccgtggtg gtaacgggtg
+      361 acggaggatt agggttcgat tccggagagg gagcctgaga aacggctacc acatccaagg
+      421 aaggcagcag gcgcgcaaat tacccaatct tgacacaagg aggtagtgac aataaataac
+      481 aataccgggg tttttcaact ctggtaattg gaatgagtac aatctaaacc ccttaacgag
+      541 gatcaattgg agggcaagtc tggtgccagc agccgcggta attccagctc caatagcgta
+      601 tatttaagtt gttgcagtta aaaagctcgt agttggattt cgggcgggcc cggccggtcc
+      661 gccttcgggt gtgcactgac cggggccgtc ttgttgccgg ggacgggctc ctgggcttaa
+      721 ctgtccggga ctcggagtcg gcgaggttac tttgagtaaa ttagagtgtt caaagcaggc
+      781 ctacgctctg aatacattag catggaataa cacgatagga ctctggccta tcttgttggt
+      841 ctgtgggacc ggagtaatga ttaagaggga cagtcggggg cattcgtatt tcattgtcag
+      901 aggtgaaatt cttggattta tgaaagacga actactgcga aagcatttgc caaggatgtt
+      961 ttcattaatc aagaacgaaa gttgggggct cgaagacgat tagataccgt cctagtctca
+     1021 accataaacg atgccgacta gggattggcg ggcgttcttt tgatgacccc gccagcacct
+     1081 tatgagaaat caaagttttt gggttccggg gggagtatgg tcgcaaggct gaaacttaaa
+     1141 ggaattgacg gaagggcacc accaggcgtg gagcctgcgg cttaatttga ctcaacacgg
+     1201 gaaaacttac caggtccaga catagtgagg attgacagat tgagagctct ttcttgattc
+     1261 tatgggtggt ggtgcatggc cgttcttagt tggtgggttg ccttgtcagg ttgattccgg
+     1321 taacgaacga gacctcagcc tgctaactag tcacgattgg ttcttccagt cggccgactt
+     1381 cttagaggga ctattggcga ctagccaatg gaagtgtgag gcaataacag gtctgtgatg
+     1441 cccttagatg ttctgggccg cacgcgcgct acactgatgc aatcaacgag cctagccttg
+     1501 gccgacaggt ccgggtaatc tttgaaactg catcgtgatg gggatagatg attgcaatta
+     1561 ttcatcttca acgaggaatg cctagtaagc gcgagtcatc agctcgcgtt gattacgtcc
+     1621 ctgccctttg tacacaccgc ccgtcgctcc taccgattgg gtgtgctggt gaagcgttcg
+     1681 gattggcggc agtgcgcggt tcgccgctcg ctgcagccga gaagttcgtt aaaccctccc
+     1741 acctagagga aggagaagtc gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt
+     1801 gcatcgatcg aacacaaacc gcgaacccac gtatccccgc agaaggcttt ttctacaaga
+     1861 ggaagccggc tgtgcgcttg tccccgtccg gcgctccggc gaccggtcgg gtctggcggg
+     1921 ccggggaggc cgcatttccc taaccgggag gcagcctcga aacccggctg gcgaaacccc
+     1981 attcaatcca caaccggaat acacctgaag atctcgacgg ccgtattttg cggtcgtctc
+     2041 caaccgaaga caactctcaa caacggatat cttggctccc gtatcgatga agaacgcagc
+     2101 gaaatgcgat acgtagtgtg aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa
+     2161 ttgcactcga ggctccggcc gagagtatgt ctgcctcagc gtcggcttca ccctcacccc
+     2221 tcctttacac gggaggcgtg gacctggccg tcccggttga tctgaccggg tctgccgaag
+     2281 aacagaggct cgaacgagga cccgatcggg acaacagtct ggtaggtgac ccgtcaggga
+     2341 tcgcatgccg ctgtcggccc gggacctcgt tgtaagccgg caggaatcgc cggtctttct
+     2401 ctcaacaggg aaaggccgcg cgacacaccc ttt
+//
+
+LOCUS       AY293932                 625 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C12 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293932
+VERSION     AY293932.1  GI:34559456
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C12
+  ORGANISM  Coccomyxa sp. C12
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Coccomyxa sp. C12"
+                     /mol_type="genomic DNA"
+                     /strain="C12"
+                     /db_xref="taxon:243092"
+                     /note="specimen voucher of lichen = Lutzoni 930822-8"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..625
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc acccccccaa
+      421 tcgggaggcg tggacctggc agtcccggtc ggcaacgacc gggtccgctg aagaccagag
+      481 gctcgagcaa ggacccgcat gggaaaacag tctggtaggt gacccgcaag ggcgcatgcc
+      541 gctgttcgcc cggagccttg ctggaagccg gcaggaatcg tcggtcgccc ttagcggggc
+      601 ggccgtgcga acaccctttt cgacc
+//
+
+LOCUS       AY293933                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C18 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293933
+VERSION     AY293933.1  GI:34559457
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C18
+  ORGANISM  Coccomyxa sp. C18
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C18"
+                     /mol_type="genomic DNA"
+                     /strain="C18"
+                     /db_xref="taxon:243093"
+                     /note="specimen voucher of lichen = Lutzoni 930822-3"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggagccct ctttccctct agggggaaag ggccgaaccc ggtcgccaaa accccattca
+      181 atccaaaacc cgaaacgttc taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc accccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgaaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293934                 625 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C10 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293934
+VERSION     AY293934.1  GI:34559458
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C10
+  ORGANISM  Coccomyxa sp. C10
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Coccomyxa sp. C10"
+                     /mol_type="genomic DNA"
+                     /strain="C10"
+                     /db_xref="taxon:243094"
+                     /note="specimen voucher of lichen = Lutzoni 930724-1"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..625
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc acccccccaa
+      421 tcgggaggcg tggacctggc agtcccggtc ggcaacgacc gggtccgctg aagaccagag
+      481 gctcgagcaa ggacccgcat gggaaaacag tctggtaggt gacccggaag ggcgcatgcc
+      541 gctgttcgcc tggagccttg ctggaagccg gcaggaatcg tcggtcgccc ttagcggggc
+      601 ggccgtgcga acaccctttt cgacc
+//
+
+LOCUS       AY293935                 625 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C1 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293935
+VERSION     AY293935.1  GI:34559459
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C1
+  ORGANISM  Coccomyxa sp. C1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Coccomyxa sp. C1"
+                     /mol_type="genomic DNA"
+                     /strain="C1"
+                     /db_xref="taxon:243095"
+                     /note="specimen voucher of lichen = Lutzoni 930812-2"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..625
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc acccccccaa
+      421 tcgggaggcg tggacctggc agtcccggtc ggcaacgacc gggtccgctg aataccagag
+      481 gctcgagcaa ggacccgcat gggaaaacag tctggtaggt gacccgaaag ggcgcatgcc
+      541 gctgttcgcc tggagccttg ctggaagccg gcaggaatcg tcggtcgccc ttagcggggc
+      601 ggccgtgcga acaccctttt cgacc
+//
+
+LOCUS       AY293936                 625 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C13 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293936
+VERSION     AY293936.1  GI:34559460
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C13
+  ORGANISM  Coccomyxa sp. C13
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Coccomyxa sp. C13"
+                     /mol_type="genomic DNA"
+                     /strain="C13"
+                     /db_xref="taxon:243096"
+                     /note="specimen voucher of lichen = Lutzoni 930822-6"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..625
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaatcc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac ccagcgaaat
+      301 gcgaaacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc acccccccaa
+      421 tcgggaggcg tggacctggc agtcccggtc ggcaacgacc gggtccgctg aagaccagag
+      481 gctcgagcaa ggacccgcat gggaaaacag tctggtaggt gacccgaaag ggcgcatgcc
+      541 gctgttcgcc tggagccttg ctggaagccg gcaggaatcg tcggtcgccc ttagcggggc
+      601 ggccgtgcga acaccctttt cgacc
+//
+
+LOCUS       AY293937                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C6 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293937
+VERSION     AY293937.1  GI:34559461
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C6
+  ORGANISM  Coccomyxa sp. C6
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C6"
+                     /mol_type="genomic DNA"
+                     /strain="C6"
+                     /db_xref="taxon:243097"
+                     /note="specimen voucher of lichen = Lutzoni 930724-3"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgttc taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc accccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgaaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293938                 625 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C8 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293938
+VERSION     AY293938.1  GI:34559462
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C8
+  ORGANISM  Coccomyxa sp. C8
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Coccomyxa sp. C8"
+                     /mol_type="genomic DNA"
+                     /strain="C8"
+                     /db_xref="taxon:243098"
+                     /note="specimen voucher of lichen = Lutzoni 930724-2"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..625
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc acccccccaa
+      421 tcgggaggcg tggacctggc agtcccggtc ggcaacgacc gggtccgctg aagaccagag
+      481 gctcgagcaa ggacccgcat gggaaaacag tctggtaggt gacccgaaag ggcgcatgcc
+      541 gctgttcgcc tggagccttg ctggaagccg gcaggaatcg tcggtcgccc ttagcggggc
+      601 ggccgtgcga acaccctttt cgacc
+//
+
+LOCUS       AY293939                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C15 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293939
+VERSION     AY293939.1  GI:34559463
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C15
+  ORGANISM  Coccomyxa sp. C15
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C15"
+                     /mol_type="genomic DNA"
+                     /strain="C15"
+                     /db_xref="taxon:243099"
+                     /note="specimen voucher of lichen = Lutzoni 930812-1"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcgtgga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcgccaaa accccattca
+      181 atccaaaacc cgaaacgtgc taaagacttt gacgaccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgc tcccgtatcg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      361 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca ccctcccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgcaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293940                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C2 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293940
+VERSION     AY293940.1  GI:34559464
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C2
+  ORGANISM  Coccomyxa sp. C2
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C2"
+                     /mol_type="genomic DNA"
+                     /strain="C2"
+                     /db_xref="taxon:243100"
+                     /note="specimen voucher of lichen = Lutzoni 930810-2"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgc tcccgtatcg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      361 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca cccccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga ataccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccggaagg gcgcatgccg
+      541 ctgttcgcct ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293941                 623 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C4 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293941
+VERSION     AY293941.1  GI:34559465
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C4
+  ORGANISM  Coccomyxa sp. C4
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 623)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 623)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..623
+                     /organism="Coccomyxa sp. C4"
+                     /mol_type="genomic DNA"
+                     /strain="C4"
+                     /db_xref="taxon:243101"
+                     /note="specimen voucher of lichen = Lutzoni 930724-6"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..623
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa tcacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgttc taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgc tcccgtatcg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      361 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca ccccccaatc
+      421 gggaggcgtg gacctggcag tcccggtcgg caacgaccgg gtccgctgaa gaccagaggc
+      481 tcgagcaagg acccgcatgg gaaaacagtc tggtaggtga cccgaaaggg cgcatgccgc
+      541 tgttcgcccg gagccttgct ggaagccggc aggaatcgtc ggtcgccctt agcggggcgg
+      601 ccgtgcgaac acccttttcg acc
+//
+
+LOCUS       AY293942                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C5 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293942
+VERSION     AY293942.1  GI:34559466
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C5
+  ORGANISM  Coccomyxa sp. C5
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C5"
+                     /mol_type="genomic DNA"
+                     /strain="C5"
+                     /db_xref="taxon:243102"
+                     /note="specimen voucher of lichen = Lutzoni 930805-5"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct cttttcctct agggggaaag ggccgaactc ggtcggcaaa accccattca
+      181 atcaaaaccc gaaacgtact aaagactttg acggccgccc agtgcggacg tcgccaacca
+      241 aagacaactc tcaacaacgg atatcttggc tcccgtatcg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      361 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca cccccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgaaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293943                 625 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C7 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293943
+VERSION     AY293943.1  GI:34559467
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C7
+  ORGANISM  Coccomyxa sp. C7
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Coccomyxa sp. C7"
+                     /mol_type="genomic DNA"
+                     /strain="C7"
+                     /db_xref="taxon:243103"
+                     /note="specimen voucher of lichen = Lutzoni 930724-5"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..625
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgtac taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc acccccccaa
+      421 tcgggaggcg tggacctggc agtcccggtc ggcaacgacc gggtccgctg aagaccagag
+      481 gctcgagcaa ggacccgcat gggaaaacag tctggtaggt gacccgaaag ggcgcatgcc
+      541 gctgttcgcc tggagccttg ctggaagccg gcaggaatcg tcggtcgccc ttagcggggc
+      601 ggccgtgcga acaccctttt cgacc
+//
+
+LOCUS       AY293944                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C9 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293944
+VERSION     AY293944.1  GI:34559468
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C9
+  ORGANISM  Coccomyxa sp. C9
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C9"
+                     /mol_type="genomic DNA"
+                     /strain="C9"
+                     /db_xref="taxon:243104"
+                     /note="specimen voucher of lichen = Lutzoni 930822-2"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgcgccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaacc cgaaacgttc taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc accccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgaaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293945                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C19 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293945
+VERSION     AY293945.1  GI:34559469
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C19
+  ORGANISM  Coccomyxa sp. C19
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C19"
+                     /mol_type="genomic DNA"
+                     /strain="C19"
+                     /db_xref="taxon:243105"
+                     /note="specimen voucher of lichen = Lutzoni 930822-4"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcgccaaa accccattca
+      181 atccaaaacc cgaaacgttc taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat
+      301 gcgatacgta gtgtgaattg cagataatgt gaatcatcga atctttgaac gcaaattgca
+      361 ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg ctttaccctc accccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgaaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293946                 626 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C20 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293946
+VERSION     AY293946.1  GI:34559470
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C20
+  ORGANISM  Coccomyxa sp. C20
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 626)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Coccomyxa sp. C20"
+                     /mol_type="genomic DNA"
+                     /strain="C20"
+                     /db_xref="taxon:243106"
+                     /note="specimen voucher of lichen = Lutzoni 930822-5"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..626
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg aatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttttcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcggcaaa accccattca
+      181 atccaaaaac ccgaaacgta ctaaagactt tgacggccgc ccagtgcgga cgtcgccaac
+      241 caaagacaac tctcaacaac ggatatcttg gctcccgtat cgatgaagaa cgcagcgaaa
+      301 tgcgatacgt agtgtgaatt gcagataatg tgaatcatcg aatctttgaa cgcaaattgc
+      361 actcgaggct ccggccaaga gtatgtctgc ctcagcgtcg gctttaccct caccccccca
+      421 atcgggaggc gtggacctgg cagtcccggt cggcaacgac cgggtccgct gaagaccaga
+      481 ggctcgagca aggacccgca tgggaaaaca gtctggtagg tgacccgcaa gggcgcatgc
+      541 cgctgttcgc ctggagcctt gctggaagcc ggcaggaatc gtcggtcgcc cttagcgggg
+      601 cggccgtgcg aacacccttt tcgacc
+//
+
+LOCUS       AY293947                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C16 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293947
+VERSION     AY293947.1  GI:34559471
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C16
+  ORGANISM  Coccomyxa sp. C16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C16"
+                     /mol_type="genomic DNA"
+                     /strain="C16"
+                     /db_xref="taxon:243107"
+                     /note="specimen voucher of lichen = Lutzoni 930811-6"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcggggc ccggtgaggt ctggcgggct
+      121 ggggaggcct ctttccctct agggggaaag ggccgaaccc ggtcgccaaa accccattca
+      181 atccaaaacc cgaaacgttc taaagacttt gacggccgcc cagtgcggac gtcgccaacc
+      241 aaagacaact ctcaacaacg gatatcttgc tcccgtatcg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      361 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca ccccccaacc
+      421 gggaggcgtg gacctggcag tcccggtcgg caacgaccgg gtccgctgaa gaccagaggc
+      481 tcgagcaagg acccgcatgg gaaaacagtc tggtaggtga cccgaaaggg cgcatgccgc
+      541 tgttcgcccg gagccttgct ggaagccggc aggaatcgtc ggtcgccctt agcggggcgg
+      601 ccgtgcgaaa cacccttttc gacc
+//
+
+LOCUS       AY293948                 624 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa sp. C14 internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293948
+VERSION     AY293948.1  GI:34559472
+KEYWORDS    .
+SOURCE      Coccomyxa sp. C14
+  ORGANISM  Coccomyxa sp. C14
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Coccomyxa sp. C14"
+                     /mol_type="genomic DNA"
+                     /strain="C14"
+                     /db_xref="taxon:243108"
+                     /note="specimen voucher of lichen = Lutzoni 930805-6"
+     misc_RNA        1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..403
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        404..624
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaaccaacg tatccccgca ggcggcccta cccgggctgc
+       61 ctgtgcgctt gtccctgatc ggcgccccgg ttctcgggga ccggtgaggt ctggcgggct
+      121 ggggaggcct cttttcctct agggggaaag ggccgaactc ggtcggcaaa accccattca
+      181 atcaaaaccc gaaacgtact aaagactttg acggccgccc agtgcggacg tcgccaacca
+      241 aagacaactc tcaacaacgg atatcttggc tcccgtatcg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      361 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca cccccccaat
+      421 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      481 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgaaagg gcgcatgccg
+      541 ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgccct tagcggggcg
+      601 gccgtgcgaa cacccttttc gacc
+//
+
+LOCUS       AY293964                 610 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa peltigerae var. variolosae internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AY293964
+VERSION     AY293964.1  GI:34559488
+KEYWORDS    .
+SOURCE      Coccomyxa peltigerae-variolosae
+  ORGANISM  Coccomyxa peltigerae-variolosae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 610)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 610)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..610
+                     /organism="Coccomyxa peltigerae-variolosae"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 271"
+                     /variety="variolosae"
+                     /db_xref="taxon:243126"
+     misc_RNA        1..610
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg gggacccacg tatccccgcg gccttctgtc tttctcttcg
+       61 gggaaagaga gccggccgtg cgcttgtncc tgtccggttc cgcttcggcg gaaagggcag
+      121 gtctagcggg ctggggaggc cgctctccca accgggggag ggccgaaccc ccggctggca
+      181 aaaccccatt cgatccaaaa ccagnaaana actgaagatc cggacagctg ttcaagaaca
+      241 gccgtctcca gccaaagaca actctcaaca acggatatct tggctcccgt atcgatgaag
+      301 aacgcagcga aatgcgatac gtagtgtgaa ttgcagataa tgtgaatcat cgaatctttg
+      361 aacgcaaatt gcactcgtag gctccggccg agagtatgtc tgcctcagcg tcggcttcac
+      421 cctcacccct ctccaccgag aggcgtggac ctggccgtcc cggttaatgc aaccgggtct
+      481 gccgaagaac agaggctcga acgaggaccc aatcgggaca acagtctggt aggtgacccg
+      541 tcaggnatcg catgccgctg tcggcccngg acctcgttgt angccgncan gaatcgncgn
+      601 tcgctttttt
+//
+
+LOCUS       AY293965                 650 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa solarinae var. croceae internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AY293965
+VERSION     AY293965.1  GI:34559489
+KEYWORDS    .
+SOURCE      Coccomyxa solorinae-croceae
+  ORGANISM  Coccomyxa solorinae-croceae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 650)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 650)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..650
+                     /organism="Coccomyxa solorinae-croceae"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 276"
+                     /variety="croceae"
+                     /db_xref="taxon:243128"
+     misc_RNA        1..650
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaacccacg tatccccgcg gccttctgtc tttctcttcg
+       61 gggaaagaga gccgcccgtg cgcttgtccc tgtccggttc cgcttcggcg gaaagggcag
+      121 gtctagcggg ctggggaggc cgctctccct taaccggggg agggccgaac cccggctggc
+      181 aaaaacccca ttcgatccaa aaccagaaaa taactgaaga tccggacagc tgttcaagaa
+      241 cagccgtctc caaccaaaga caactctcaa caacggatat cttggctccc gtatcgatga
+      301 agaacgcagc gaaatgcgat acgtagtgtg aattgcagat aatgtgaatc atcgaatctt
+      361 tgaacgcaaa ttgcactcga ggctccggcc gagagtatgt ctgcctcagc gtcggcttca
+      421 ccctcacccc tctccaccga gaggcgtgga cctggccgtc ccggttaatg caaccgggtc
+      481 tgccgaagaa cagaggctcg aacgaggacc caatcgggac aacagtctgg taggtgaccc
+      541 gtcagggatc gcatgccgct gtcggcccgg acctcgttgt aagccggcag gaatcggcgg
+      601 tcgctttttt ttagaaaaag gagcggccnn acgacacacc cttttcgacc
+//
+
+LOCUS       AY293966                 651 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa solarinae var. bisporae internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AY293966
+VERSION     AY293966.1  GI:34559490
+KEYWORDS    .
+SOURCE      Coccomyxa solorinae-bisporae
+  ORGANISM  Coccomyxa solorinae-bisporae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 651)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /organism="Coccomyxa solorinae-bisporae"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 275"
+                     /variety="bisporae"
+                     /db_xref="taxon:243129"
+     misc_RNA        1..651
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaacccacg tatccccgcg gccttctgtc tttctcttcg
+       61 gggaaagaga gccggccgtg cgcttgtccc tgtccggttc cgcttcggcg gaaagggcag
+      121 gtctagcggg ctggggaggc cgctctccct taaccggggg agggccgaac cccggctggc
+      181 aaaaacccca ttcgatccaa aaccagaaaa taactgaaga tccggacagc tgttcaagaa
+      241 cagccgtctc caaccaaaga caactctcaa caacggatat cttggctccc gtatcgatga
+      301 agaacgcagc gaaatgcgat acgtagtgtg aattgcagat aatgtgaatc atcgaatctt
+      361 tgaacgcaga ttgcactcga ggctccggcc gagagtatgt ctgcctcagc gtcggcttca
+      421 ccctcacccc tctccaccga gaggcgtgga cctggccgtc ccggttaatg caaccgggtc
+      481 tgccgaagaa cagaggctcg aacgaggacc caatcgggac aacagtctgg taggtgaccc
+      541 gtcagggatc gcatgccgct gtcggcccgg gacctcgttg taagccggca ggaatcggcg
+      601 gtcgcttttt tttagaaaaa ggagcgggcg cacgacacac ccttttcgac c
+//
+
+LOCUS       AY293967                 651 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa solarinae var. saccatae internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AY293967
+VERSION     AY293967.1  GI:34559491
+KEYWORDS    .
+SOURCE      Coccomyxa solorinae-saccatae
+  ORGANISM  Coccomyxa solorinae-saccatae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 651)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /organism="Coccomyxa solorinae-saccatae"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 277"
+                     /variety="saccatae"
+                     /db_xref="taxon:243130"
+     misc_RNA        1..651
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacaaaccg cgaacccacg tatccccgcg gccttctgtc tttctcttcg
+       61 gggaaagaga gccggccgtg cgcttgtccc tgtccggttc cgcttcggcg gaaagggcag
+      121 gtctagcggg ctggggaggc cgctctccct taaccggggg agggccgaac cccggctggc
+      181 aaaaacccca ttcgatccaa aaccagaaaa taactgaaga tccggacagc tgttcaagaa
+      241 cagccgtctc caaccaaaga caactctcaa caacggatat cttggctccc gtatcgatga
+      301 agaacgcagc gaaatgcgat acgtagtgtg aattgcagat aatgtgaatc atcgaatctt
+      361 tgaacgcaaa ttgcactcga ggctccggcc gagagtatgt ctgcctcagc gtcggcttca
+      421 ccctcacccc tctccaccga gaggcgtgga cctggccgtc ccggttaatg caaccgggtc
+      481 tgccgaagaa cagaggctcg aacgaggacc caatcgggac aacagtctgg taggtgaccc
+      541 gtcagggatc gcatgccgct gtcggcccgg gacctcgttg taagccggca ggaatcggcg
+      601 gtcgcttttt tttagaaaaa ggagcggccg cacgacacac ccttttcgac c
+//
+
+LOCUS       AY293968                 619 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa chodatii internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY293968
+VERSION     AY293968.1  GI:34559492
+KEYWORDS    .
+SOURCE      Choricystis chodatii
+  ORGANISM  Choricystis chodatii
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Choricystis.
+REFERENCE   1  (bases 1 to 619)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 619)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Research Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..619
+                     /organism="Choricystis chodatii"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 266"
+                     /db_xref="taxon:243131"
+     misc_RNA        1..619
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2"
+ORIGIN      
+        1 catcgatcaa acacacaccg cgaacccacg tatccccgcg ggcggctact tttccttcgt
+       61 gagangtcag ccggctgtgc gcttgtccct gccgcaacac cggcaggtct ggcgggccgg
+      121 ggaggccgct ctcctctaac cgggagagga cctaatccgg tcggcaaaac cccaatcgat
+      181 cccaaccaga aaccgcctga agacgtcgac ggctgtctga cagccgtctc caaccaaaga
+      241 caactctcaa caacggatat cttggctccc gtatcgatga agaacgcagc gaaatgcgat
+      301 acgtagtgtg aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa ttgcactcga
+      361 ggctccggcc gagagtatgt ctgcctcagc gtcggcttta ccctcacccc tctttcaagg
+      421 aggcgtggac ctggccgtcc cggttgactt aaccgggtct gccgaagaac agaggctcga
+      481 acgaggaccc aatcggggac gactgtctgg taggtgaccc gccagggatc gcatgccgcc
+      541 gtcggcccgg acctggttgt aacgccgcag gaatcgtcgg ccgctctccg agaagccgtg
+      601 cgacacaccc ctttcgacc
+//
+
+LOCUS       AY328522                 725 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa peltigerae strain SAG 216-5 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY328522
+VERSION     AY328522.1  GI:37595482
+KEYWORDS    .
+SOURCE      Coccomyxa peltigerae
+  ORGANISM  Coccomyxa peltigerae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 725)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 725)
+  AUTHORS   Zoller,S., Lutzoni,F., Beck,A. and Friedl,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Reasearch Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..725
+                     /organism="Coccomyxa peltigerae"
+                     /mol_type="genomic DNA"
+                     /strain="SAG 216-5"
+                     /db_xref="taxon:243125"
+     rRNA            <1..58
+                     /product="18S ribosomal RNA"
+     misc_RNA        59..317
+                     /product="internal transcribed spacer 1"
+     rRNA            318..470
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        471..710
+                     /product="internal transcribed spacer 2"
+     rRNA            711..>725
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 tagaggaagg agaagtcgta acaaggtttc cgtnggtgaa ncctgcggan ggntnttgnc
+       61 tcnntcaaan acaaaccgcg gaccaacgta tccccgcggc cttctgtctt tctcttcggg
+      121 gaaagagagc cggccgtgcg cttgtcctgt ccggttccgc ttcggcggaa agggcaggtc
+      181 tagcgggctg gggaggccgc tctcccttaa ccgggggagg gccgaacccc ggctggcaaa
+      241 aaccccattc gatccaaaac cagaaaataa ctgaagatcc ggacagctgt tcaagaacag
+      301 ccgtctccaa ccaaagacaa ctctcaacaa cggatatctt ggctcccgta tcgatgaaga
+      361 acgcagcgaa atgcgatacg tagtgtgaat tgcagataat gtgaatcatc gaatctttga
+      421 acgcaaattg cactcgaggc tccggccgag agtatgtctg cctcagcgtc ggcttcaccc
+      481 tcacccctct ccaccgagag gcgtggacct ggccgtcccg gttaatgcaa ccgggtctgc
+      541 cgaagaacag aggctcgaac gaggacccaa tcgggacaac agtctggtag gtgacccgtc
+      601 agggatcgca tgccgctgtc ggcccgggac ctcgttgtaa gccggcagga atcggcggtc
+      661 gctttttttt agaaaaagga gcggggccgc acgacacacc ctttcgacct gagttcaggc
+      721 aanaa
+//
+
+LOCUS       AY328523                 702 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa subellipsoidea strain SAG 216-13 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY328523
+VERSION     AY328523.1  GI:37595483
+KEYWORDS    .
+SOURCE      Coccomyxa subellipsoidea
+  ORGANISM  Coccomyxa subellipsoidea
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 702)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Zoller,S., Lutzoni,F., Beck,A. and Friedl,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Reasearch Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Coccomyxa subellipsoidea"
+                     /mol_type="genomic DNA"
+                     /strain="SAG 216-13"
+                     /db_xref="taxon:248742"
+     rRNA            <1..58
+                     /product="18S ribosomal RNA"
+     misc_RNA        59..300
+                     /product="internal transcribed spacer 1"
+     rRNA            301..453
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        454..679
+                     /product="internal transcribed spacer 2"
+     rRNA            680..>702
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 tagaggaagg agaagtcgta acaaggtttc cgtaggtgaa cctgcggaag gatcattgca
+       61 tcgatcaaac acaaaccgcg aaccaacgta tcccccgcag gcggccctac ccgggctgcc
+      121 tgtgcgcttg tcctgatcgg cgcccggttc tcgggcccgg tgaggtctgg cgggctgggg
+      181 aggctctttc cctctagggg gaaagggccg aacccggtcg gcaaaacccc attcaatcca
+      241 aaacccgaaa cgttctaaag actttgacgg ccgcccagtg cggacgtcgc caaccaaaga
+      301 caactctcaa caacggatat cttggctccc gtatcgatga agaacgcagc gaaatgcgat
+      361 acgtagtgtg aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa ttgcactcga
+      421 ggctccggcc aagagtatgt ctgcctcagc gtcggcttta ccctcacccc ccaaccggga
+      481 ggcgtggacc tggcagtccc ggtcggcaac gaccgggtcc gctgaagacc agaggctcga
+      541 gcaaggaccc gcatgggaaa acagtctggt aggtgacccg aaagggcgca tgccgctgtt
+      601 cgcccggagc cttgctggaa gccggcagga atcgtcggtc gcccttagcg gggcggccgt
+      661 gcgaacaccc ttttcgacct gagttcaggc aagaacaccc cg
+//
+
+LOCUS       AY328524                 696 bp    DNA     linear   PLN 13-NOV-2003
+DEFINITION  Coccomyxa rayssiae strain SAG 216-8 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY328524
+VERSION     AY328524.1  GI:37595484
+KEYWORDS    .
+SOURCE      Coccomyxa rayssiae
+  ORGANISM  Coccomyxa rayssiae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 696)
+  AUTHORS   Zoller,S. and Lutzoni,F.
+  TITLE     Slow algae, fast fungi: exceptionally high nucleotide substitution
+            rate differences between lichenized fungi Omphalina and their
+            symbiotic green algae Coccomyxa
+  JOURNAL   Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)
+   PUBMED   14615198
+REFERENCE   2  (bases 1 to 696)
+  AUTHORS   Zoller,S., Lutzoni,F., Beck,A. and Friedl,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-2003) North Carolina Supercomputing Center, 3021
+            Cornwallis Rd., Reasearch Triangle Park, NC 27709, USA
+FEATURES             Location/Qualifiers
+     source          1..696
+                     /organism="Coccomyxa rayssiae"
+                     /mol_type="genomic DNA"
+                     /strain="SAG 216-8"
+                     /db_xref="taxon:248743"
+     rRNA            <1..56
+                     /product="18S ribosomal RNA"
+     misc_RNA        57..297
+                     /product="internal transcribed spacer 1"
+     rRNA            298..449
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        450..673
+                     /product="internal transcribed spacer 2"
+     rRNA            674..>696
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 gaggaaggag aantcgtaac aaggtttccg tagntgnncc tgcggaagga tcattgcatc
+       61 gatcaaacac acaccgcgaa ccaacgtatc cccgcgggcg gctcctttnc cttcgggaga
+      121 agtcagccgg ctgtgcgctt gtccctgctg caacaccggc aggtctggcg ggctggggag
+      181 gccgctctcc tttaaccggg agaggaccta acccggtcgg caaaacccca atcgatccca
+      241 accagaaacc gcctgaagac gtcgacggct gtctgacagc cgtctccaac caaagacaac
+      301 tctcaacaac ggatatcttg gctcccgtat cgatgaagaa cgcagcgaaa tgcgatacgt
+      361 agtgtgaatt gcagataatg tgaatcatcg aatctttgaa cgcaaattgc actcgaggct
+      421 ccggccgaga gtatgtctgc ctcagcgtcg gctttaccct caccctctct caagaggcgt
+      481 ggacctggcc gtcccggtta aattaaccgg gtctgccgaa gaacagaggc tcgaacgagg
+      541 acccaatcgg gacgacagtc tggtaggtga cccgccaggg atcgcatgcc gccgtcggcc
+      601 cgggacctcg ttgtaagccc gcaggaatcg tcggccgctc tccgagaagc cgtgcgacac
+      661 acccctttcg acctgagttc aggcaagaac acccgc
+//
+
+LOCUS       AY333647                 612 bp    DNA     linear   PLN 30-OCT-2003
+DEFINITION  Green photobiont of Nephroma arcticum Wehr 59 internal transcribed
+            spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer
+            2, complete sequence.
+ACCESSION   AY333647
+VERSION     AY333647.1  GI:37595584
+KEYWORDS    .
+SOURCE      chlorobiont of Nephroma arcticum Wehr 59
+  ORGANISM  chlorobiont of Nephroma arcticum Wehr 59
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            unclassified Trebouxiophyceae.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Genetic diversity of green algal and cyanobacterial photobionts in
+            Nephroma (Peltigerales)
+  JOURNAL   Lichenologist (Lond.) 35 (4), 325-339 (2003)
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2003) Department of Applied Biology, University
+            of Helsinki, P.O. Box 27, Helsinki 00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="chlorobiont of Nephroma arcticum Wehr 59"
+                     /mol_type="genomic DNA"
+                     /strain="Wehr 59"
+                     /host="Nephroma arcticum"
+                     /db_xref="taxon:253324"
+     misc_RNA        1..255
+                     /product="internal transcribed spacer 1"
+     rRNA            256..421
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        422..612
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atcattgcat cgatcaaaca caaaccgcga acccacgtat ccccgcggcc ttctgtcttt
+       61 ctcttcgggg aaagagagcc ggccgtgcgc ttgtccctgt ccggttccgc ttcgghggaa
+      121 agggcaggtc tagcgggctg gggaggccgc tctcccttaa ccgggggagg gccgaacccc
+      181 ggctggcaaa aaccccattc gatccaaaac cagaaaataa ctgaagatcc ggacagctgt
+      241 tcaagaacag ccgtctccaa ccaaagacaa ctctcaacaa cggatatctt ggctcccgta
+      301 tcgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagataat gtgaatcatc
+      361 gaatctttga acgcaaattg cactcgaggc tccggccgag agtatgtctg cctcagcgtc
+      421 ggcttcaccc tcacccctct ccaccgagag gcgtggacct ggccgtcccg gttaatgcaa
+      481 ccgggtctgc cgaagaacag aggctcgaac gaggacccaa tcgggacaac agtctggtag
+      541 gtgacccgtc agggatcgca tgccgctgtc ggcccgggac ctcgttgtaa gccggcagga
+      601 atcggcggtc gc
+//
+
+LOCUS       AY333648                 612 bp    DNA     linear   PLN 30-OCT-2003
+DEFINITION  Green photobiont of Nephroma arcticum Rikkinen 004009 internal
+            transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence.
+ACCESSION   AY333648
+VERSION     AY333648.1  GI:37595585
+KEYWORDS    .
+SOURCE      chlorobiont of Nephroma arcticum Rikkinen 004009
+  ORGANISM  chlorobiont of Nephroma arcticum Rikkinen 004009
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            unclassified Trebouxiophyceae.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Genetic diversity of green algal and cyanobacterial photobionts in
+            Nephroma (Peltigerales)
+  JOURNAL   Lichenologist (Lond.) 35 (4), 325-339 (2003)
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2003) Department of Applied Biology, University
+            of Helsinki, P.O. Box 27, Helsinki 00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="chlorobiont of Nephroma arcticum Rikkinen
+                     004009"
+                     /mol_type="genomic DNA"
+                     /strain="Rikkinen 004009"
+                     /host="Nephroma arcticum"
+                     /db_xref="taxon:253325"
+     misc_RNA        1..255
+                     /product="internal transcribed spacer 1"
+     rRNA            256..421
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        422..612
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atcattgcat cgatcaaaca caaaccgcga acccacgtat ccccgcggcc ttctgtcttt
+       61 ctcttcgggg aaagagagcc ggccgtgcgc ttgtccctgt ccggttccgc ttcggcggaa
+      121 agggcaggtc tagcgggctg gggaggccgc tctcccttaa ccgggggagg gccgaacccc
+      181 ggctggcaaa aaccccattc gatccaaaac cagnaaataa ctgaagatcc ggacagctgt
+      241 tcaagaacag ccgtctccaa ccaaagacaa ctctcaacaa cggatatctt ggctcccgta
+      301 tcgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagataat gtgaatcatc
+      361 gaatctttga acgcaaattg cactcgaggc tccggccgag agtatgtctg cctcagcgtc
+      421 ggcttcaccc tcacccctct ccaccgagag gcgtggacct ggccgtcccg gttaatgcaa
+      481 ccgggtctgc cgaagaacag aggctcgaac gaggacccaa tcgggacaac agtctggtag
+      541 gtgacccgtc agggatcgca tgccgctgtc ggcccgggac ctcgttgtaa gccggcagga
+      601 atcggcggtc gc
+//
+
+LOCUS       AY333649                 612 bp    DNA     linear   PLN 28-OCT-2003
+DEFINITION  Chlorophyte photobiont of Nephroma expallidum strain Ulvinen 15
+            July 1999 internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY333649
+VERSION     AY333649.1  GI:37595586
+KEYWORDS    .
+SOURCE      chlorobiont of Nephroma expallidum
+  ORGANISM  chlorobiont of Nephroma expallidum
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            unclassified Trebouxiophyceae.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Genetic diversity of green algal and cyanobacterial photobionts in
+            Nephroma (Peltigerales)
+  JOURNAL   Lichenologist (Lond.) 35 (4), 325-339 (2003)
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2003) Department of Applied Biology, University
+            of Helsinki, P.O. Box 27, Helsinki 00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="chlorobiont of Nephroma expallidum"
+                     /mol_type="genomic DNA"
+                     /strain="Ulvinen 15 July 1999"
+                     /host="Nephroma expallidum"
+                     /db_xref="taxon:248543"
+     misc_RNA        1..255
+                     /product="internal transcribed spacer 1"
+     rRNA            256..421
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        422..612
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atcattgcat cgatcaaaca caaaccgcga acccacgtat ccccgcggcc ttctgtcttt
+       61 ctcttcgggg aaagagagcc ggccgtgcgc ttgtccctgt ccggttccgc ttcgghggaa
+      121 agggcaggtc tagcgggctg gggaggccgc tctcccttaa ccgggggagg gccgaacccc
+      181 ggctggcaaa aaccccattc gatccaaaac cagtaaataa ctgaagatcc ggacagctgt
+      241 tcaagaacag ccgtctccaa ccaaagacaa ctctcaacaa cggatatctt ggctcccgta
+      301 tcgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagataat gtgaatcatc
+      361 gaatctttga acgcaaattg cactcgaggc tccggccgag agtatgtctg cctcagcgtc
+      421 ggcttcaccc tcacccctct ccaccgagag gcgtggacct ggccgtcccg gttaatgcaa
+      481 ccgggtctgc cgaagaacag aggctcgaac gaggacccaa tcgggacaac agtctggtag
+      541 gtgacccgtc agggatcgca tgccgctgtc ggcccgggac ctcgttgtaa gccggcagga
+      601 atcggcggtc gc
+//
+
+LOCUS       AY333650                 597 bp    DNA     linear   PLN 30-OCT-2003
+DEFINITION  Green photobiont of Peltigera britannica Rikkinen 98A16 internal
+            transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence.
+ACCESSION   AY333650
+VERSION     AY333650.1  GI:37595587
+KEYWORDS    .
+SOURCE      chlorobiont of Peltigera britannica Rikkinen 98A16
+  ORGANISM  chlorobiont of Peltigera britannica Rikkinen 98A16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            unclassified Trebouxiophyceae.
+REFERENCE   1  (bases 1 to 597)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Genetic diversity of green algal and cyanobacterial photobionts in
+            Nephroma (Peltigerales)
+  JOURNAL   Lichenologist (Lond.) 35 (4), 325-339 (2003)
+REFERENCE   2  (bases 1 to 597)
+  AUTHORS   Lohtander,K., Oksanen,I. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2003) Department of Applied Biology, University
+            of Helsinki, P.O. Box 27, Helsinki 00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..597
+                     /organism="chlorobiont of Peltigera britannica Rikkinen
+                     98A16"
+                     /mol_type="genomic DNA"
+                     /strain="Rikkinen 98A16"
+                     /host="Peltigera britannica"
+                     /db_xref="taxon:253326"
+     misc_RNA        1..244
+                     /product="internal transcribed spacer 1"
+     rRNA            245..367
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        368..597
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atcattgcat cgatcaaaca caaaccgcga accaacgtat ccccgcaggc ggccctaccc
+       61 gggctgcctg tgcgcttgtc ctgatcggcg ccccggttct cggggcccgg tgaggtctgg
+      121 cgggctgggg aggcctcttt ccctccaagg ggaaagggcc gaacccggtc ggcaaaaacc
+      181 ccactcaatc caaaacccga atcgtactga agattttgac ggccgcccag tgcggacgtc
+      241 gccaaccaaa gacaactctc aacaacggat atcttggctc ccgtatcgat gaagaacgca
+      301 gcgaaatgcg atacgtagtg tgaattgcag ataatgtgaa tcatcgaatc tttgaacgca
+      361 aattgcactc gaggctccgg ccaagagtat gtctgcctca gcgtcggctt taccctcacc
+      421 cctccccaat cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga
+      481 agaccagagg ctcgagcaag gacccacatg ggaaaacagt ctggtaggtg acccgaaagg
+      541 gcgcatgccg ctgttcgccc ggagccttgc tggaagccgg caggaatcgt cggtcgc
+//
+
+LOCUS       FN298926                2414 bp    DNA     linear   PLN 12-APR-2011
+DEFINITION  Pseudococcomyxa simplex 18S rRNA gene (partial), ITS1, 5.8S rRNA
+            gene, ITS2 and 28S rRNA gene (partial), strain SAG 216-9a.
+ACCESSION   FN298926
+VERSION     FN298926.1  GI:328349682
+KEYWORDS    .
+SOURCE      Pseudococcomyxa simplex
+  ORGANISM  Pseudococcomyxa simplex
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Pseudococcomyxa.
+REFERENCE   1
+  AUTHORS   Proschold,T., Darienko,T., Silva,P.C., Reisser,W. and Krienitz,L.
+  TITLE     The systematics of Zoochlorella revisited employing an integrative
+            approach
+  JOURNAL   Environ. Microbiol. 13 (2), 350-364 (2011)
+   PUBMED   20874732
+REFERENCE   2  (bases 1 to 2414)
+  AUTHORS   Proeschold,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2009) Proeschold T., Scottish Association for
+            Marine Science, Culture Collection of Algae and Protozoa,
+            Dunstaffnage Marine Laboratory, Dunbeg by Oban, Argyll, PA37 1QA,
+            UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..2414
+                     /organism="Pseudococcomyxa simplex"
+                     /mol_type="genomic DNA"
+                     /strain="SAG 216-9a"
+                     /culture_collection="SAG:216-9a"
+                     /db_xref="taxon:464287"
+     gene            <1..1782
+                     /gene="18S rRNA"
+     rRNA            <1..1782
+                     /gene="18S rRNA"
+                     /product="18S ribosomal RNA"
+     misc_feature    1783..2022
+                     /note="internal transcribed spacer 1, ITS1"
+     gene            2023..2181
+                     /gene="5.8S rRNA"
+     rRNA            2023..2181
+                     /gene="5.8S rRNA"
+                     /product="5.8S ribosomal RNA"
+     misc_feature    2182..2393
+                     /note="internal transcribed spacer 2, ITS2"
+     gene            2394..>2414
+                     /gene="28S rRNA"
+     rRNA            2394..>2414
+                     /gene="28S rRNA"
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tagtcatatg cttgtctcaa agattaagcc atgcatgtct aagtataaac tgctttatac
+       61 tgtgaaactg cgaatggctc attaaatcag ttatagttta tttgatggta ccttactact
+      121 cggataaccg tagtaattct agagctaata cgtgcggaaa tcccgacttc tggaagggac
+      181 gtatttatta gataaaaggc cgaccgggct tgcccgaaac gcggtgaatc atgataactc
+      241 cacgaatcgc atggcctcag tgccggcgat gtttcattca aatttctgcc ctatcaactt
+      301 tcgacggtaa ggtattggct taccgtggtg gtaacgggtg acggaggatt agggttcgat
+      361 tccggagagg gagcctgaga aacggctacc acatccaagg aaggcagcag gcgcgcaaat
+      421 tacccaatct tgacacaagg aggtagtgac aataaataac aataccgggg tttttcaact
+      481 ctggtaattg gaatgagtac aatctaaacc ccttaacgag gatcaattgg agggcaagtc
+      541 tggtgccagc agccgcggta attccagctc caatagcgta tatttaagtt gttgcagtta
+      601 aaaagctcgt agttggattt cgggcgggcc cggccggtcc gccttcgggt gtgcactgac
+      661 cgggcccgtc ttgttgccgg ggacgggctc ctgggcttca ctgtccggga ctcggagtcg
+      721 gcgaggttac tttgagtaaa ttagagtgtt caaagcaggc ctacgctctg aatacattag
+      781 catggaataa cacgatagga ctctggccta tcttgttggt ctgtgggacc ggagtaatga
+      841 ttaagaggga cagtcggggg cattcgtatt tcattgtcag aggtgaaatt cttggattta
+      901 tgaaagacga actactgcga aagcatttgc caaggatgtt ttcattaatc aagaacgaaa
+      961 gttgggggct cgaagacgat tagataccgt cctagtctca accataaacg atgccgacta
+     1021 gggattggcg ggcgttcttt tgatgacccc gccagcacct tatgagaaat caaagttttt
+     1081 gggttccggg gggagtatgg tcgccaaggc tgaaacttaa aggaattgac ggaagggcac
+     1141 caccaggcgt ggagcctgcg gcttaatttg actcaacacg ggaaaactta ccaggtccag
+     1201 acatagtgag gattgacaga ttgagagctc tttcttgatt ctatgggtgg tggtgcatgg
+     1261 ccgttcttag ttggtgggtt gccttgtcag gttgattccg gtaacgaacg agacctcagc
+     1321 ctgctaacta gtcacgattg gttcttccag tcggccgact tcttagaggg actattggcg
+     1381 actagccaat ggaagtgtga ggcaataaca ggtctgtgat gcccttagat gttctgggcc
+     1441 gcacgcgcgc tacactgatg caatcaacga gcctagcctt ggccgacagg tccgggtaat
+     1501 ctttgaaact gcatcgtgat ggggatagat gattgcaatt attcatcttc aacgaggaat
+     1561 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+     1621 cccgtcgctc ctaccgattg ggtgtgctgg tgaagcgttc ggattggcgg cagtgcgcgg
+     1681 ttcgccgctc gctgcagccg agaagttcgt taaaccctcc cacctagagg aaggagaagt
+     1741 cgtaacaagg tttccgtagg tgaacctgcg gaaggatcat tgcatcgatc aaacacacac
+     1801 cgcgaaccca cgtatccccg cgggcggctc cttttccttc gggagaagtc agccggctgt
+     1861 gcgcttgtcc ctgctgcaac accggcaggt ctggcgggct ggggaggccg ctctccttta
+     1921 accgggagag gacctaaccc ggtcggcaaa accccaatcg atcccaacca gaaaccgcct
+     1981 gaagacgtcg acggctgtct gacagccgtc tccaaccaaa gacaactctc aacaacggat
+     2041 atcttggctc ccgtatcgat gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag
+     2101 ataatgtgaa tcatcgaatc tttgaacgca aattgcactc gaggctccgg ccgagagtat
+     2161 gtctgcctca gcgtcggctt taccctcacc ctctctcaag aggcgtggac ctggccgtcc
+     2221 cggttaattt aaccgggtct gccgaagaac agaggctcga acgaggaccc aatcgggacg
+     2281 acagtctggt aggtgacccg ccagggatcg catgccgccg tcggcccggg acctcgttgt
+     2341 aagccggcag gaatcgtcgg ccgctctccg agaagccgtg cgacacaccc ctttcgacct
+     2401 gagttcaggc aaga
+//
+
+LOCUS       FN298927                2434 bp    DNA     linear   PLN 12-APR-2011
+DEFINITION  Coccomyxa sp. CCAP 216/24 18S rRNA gene (partial), ITS1, 5.8S rRNA
+            gene, ITS2 and 28S rRNA gene (partial), strain CCAP 216/24.
+ACCESSION   FN298927
+VERSION     FN298927.1  GI:328349683
+KEYWORDS    .
+SOURCE      Coccomyxa sp. CCAP 216/24
+  ORGANISM  Coccomyxa sp. CCAP 216/24
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Proschold,T., Darienko,T., Silva,P.C., Reisser,W. and Krienitz,L.
+  TITLE     The systematics of Zoochlorella revisited employing an integrative
+            approach
+  JOURNAL   Environ. Microbiol. 13 (2), 350-364 (2011)
+   PUBMED   20874732
+REFERENCE   2  (bases 1 to 2434)
+  AUTHORS   Proeschold,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2009) Proeschold T., Scottish Association for
+            Marine Science, Culture Collection of Algae and Protozoa,
+            Dunstaffnage Marine Laboratory, Dunbeg by Oban, Argyll, PA37 1QA,
+            UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..2434
+                     /organism="Coccomyxa sp. CCAP 216/24"
+                     /mol_type="genomic DNA"
+                     /strain="CCAP 216/24"
+                     /culture_collection="CCAP:216/24"
+                     /db_xref="taxon:634939"
+     gene            <1..1781
+                     /gene="18S rRNA"
+     rRNA            <1..1781
+                     /gene="18S rRNA"
+                     /product="18S ribosomal RNA"
+     misc_feature    1782..2030
+                     /note="internal transcribed spacer 1, ITS1"
+     gene            2031..2189
+                     /gene="5.8S rRNA"
+     rRNA            2031..2189
+                     /gene="5.8S rRNA"
+                     /product="5.8S ribosomal RNA"
+     misc_feature    2190..2413
+                     /note="internal transcribed spacer 2, ITS2"
+     gene            2414..>2434
+                     /gene="28S rRNA"
+     rRNA            2414..>2434
+                     /gene="28S rRNA"
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tagtcatatg cttgtctcaa agattaagcc atgcatgtct aagtataaac tgctttatac
+       61 tgtgaaactg cgaatggctc attaaatcag ttatagttta tttgatggta ccttactact
+      121 cggataaccg tagtaattct agagctaata cgtgcggaaa tcccgacttc tggaagggac
+      181 gtatttatta gataaaaggc cgaccgggct tgcccgaatc gcggtgaatc atgataactc
+      241 cacgaatcgc atggcctcag cgccggcgat gtttcattca aatttctgcc ctatcaactt
+      301 tcgacggtaa ggtattggct taccgtggtg gtaacgggtg acggaggatt agggttcgat
+      361 tccggagagg gagcctgaga aacggctacc acatccaagg aaggcagcag gcgcgcaaat
+      421 tacccaatct tgacacaagg aggtagtgac aataaataac aataccgggg tttttcaact
+      481 ctggtaattg gaatgagtac aatctaaacc ccttaacgag gatcaattgg agggcaagtc
+      541 tggtgccagc agccgcggta attccagctc caatagcgta tatttaagtt gttgcagtta
+      601 aaaagctcgt agttggattt cgggcgggcc cggccggtcc gccttcgggt gtgcactgac
+      661 cggggccgtc ttgttgccgg ggacgggctc ctgggcttaa ctgtccggga ctcggagtcg
+      721 gcgaggttac tttgagtaaa ttagagtgtt caaagcaggc ctacgctctg aatacattag
+      781 catggaataa cacgatagga ctctggccta tcttgttggt ctgtgggacc ggagtaatga
+      841 ttaagaggga cagtcggggg cattcgtatt tcattgtcag aggtgaaatt cttggattta
+      901 tgaaagacga actactgcga aagcatttgc caaggatgtt ttcattaatc aagaacgaaa
+      961 gttgggggct cgaagacgat tagataccgt cctagtctca accataaacg atgccgacta
+     1021 gggattggcg ggcgttcttt tgatgacccc gccagcacct tatgagaaat caaagttttt
+     1081 gggttccggg gggagtatgg tcgcaaggct gaaacttaaa ggaattgacg gaagggcacc
+     1141 accaggcgtg gagcctgcgg cttaatttga ctcaacacgg gaaaacttac caggtccaga
+     1201 catagtgagg attgacagat tgagagctct ttcttgattc tatgggtggt ggtgcatggc
+     1261 cgttcttagt tggtgggttg ccttgtcagg ttgattccgg taacgaacga gacctcagcc
+     1321 tgctaactag tcacgattgg ttcttccagt cggccgactt cttagaggga ctattggcga
+     1381 ctagccaatg gaagtgtgag gcaataacag gtctgtgatg cccttagatg ttctgggccg
+     1441 cacgcgcgct acactgatgc aatcaacgag cctagccttg gccgacaggt ccgggtaatc
+     1501 tttgaaactg catcgtgatg gggatagatg attgcaatta ttcatcttca acgaggaatg
+     1561 cctagtaagc gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc
+     1621 ccgtcgctcc taccgattgg gtgtgctggt gaagcgttcg gattggcggc agtgcgcggt
+     1681 tcgccgctcg ctgcagccga gaagttcgtt aaaccctccc acctagagga aggagaagtc
+     1741 gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt gcatcgatcg aacacaaacc
+     1801 gcgaacccac gtatccccgc agaaggcttt ttctacaaga ggaagccggc tgtgcgcttg
+     1861 tccccgtccg gcgctccggc gaccggtcgg gtctggcggg ccggggaggc cgcatttccc
+     1921 taaccgggag gcagcctcga aacccggctg gcgaaacccc attcaatcca caaccggaat
+     1981 acacctgaag atctcgacgg ccgtattttg cggtcgtctc caaccgaaga caactctcaa
+     2041 caacggatat cttggctccc gtatcgatga agaacgcagc gaaatgcgat acgtagtgtg
+     2101 aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa ttgcactcga ggctccggcc
+     2161 gagagtatgt ctgcctcagc gtcggcttca ccctcacccc tcctttacac gggaggcgtg
+     2221 gacctggccg tcccggttga tctgaccggg tctgccgaag aacagaggct cgaacgagga
+     2281 cccgatcggg acaacagtct ggtaggtgac ccgtcaggga tcgcatgccg ctgtcggccc
+     2341 gggacctcgt tgtaagccgg caggaatcgc cggtctttct ctcaacaggg aaaggccgcg
+     2401 cgacacaccc ttttcgacct gagttcaggc aaga
+//
+
+LOCUS       FN298928                2452 bp    DNA     linear   PLN 12-APR-2011
+DEFINITION  Coccomyxa sp. CCAP 211/97 18S rRNA gene (partial), ITS1, 5.8S rRNA
+            gene, ITS2 and 28S rRNA gene (partial), strain CCAP 211/97.
+ACCESSION   FN298928
+VERSION     FN298928.1  GI:328349684
+KEYWORDS    .
+SOURCE      Coccomyxa sp. CCAP 211/97
+  ORGANISM  Coccomyxa sp. CCAP 211/97
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Proschold,T., Darienko,T., Silva,P.C., Reisser,W. and Krienitz,L.
+  TITLE     The systematics of Zoochlorella revisited employing an integrative
+            approach
+  JOURNAL   Environ. Microbiol. 13 (2), 350-364 (2011)
+   PUBMED   20874732
+REFERENCE   2  (bases 1 to 2452)
+  AUTHORS   Proeschold,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2009) Proeschold T., Scottish Association for
+            Marine Science, Culture Collection of Algae and Protozoa,
+            Dunstaffnage Marine Laboratory, Dunbeg by Oban, Argyll, PA37 1QA,
+            UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..2452
+                     /organism="Coccomyxa sp. CCAP 211/97"
+                     /mol_type="genomic DNA"
+                     /strain="CCAP 211/97"
+                     /culture_collection="CCAP:211/97"
+                     /db_xref="taxon:634940"
+     gene            <1..1781
+                     /gene="18S rRNA"
+     rRNA            <1..1781
+                     /gene="18S rRNA"
+                     /product="18S ribosomal RNA"
+     misc_feature    1782..2039
+                     /note="internal transcribed spacer 1, ITS1"
+     gene            2040..2198
+                     /gene="5.8S rRNA"
+     rRNA            2040..2198
+                     /gene="5.8S rRNA"
+                     /product="5.8S ribosomal RNA"
+     misc_feature    2199..2431
+                     /note="internal transcribed spacer 2, ITS2"
+     gene            2432..>2452
+                     /gene="28S rRNA"
+     rRNA            2432..>2452
+                     /gene="28S rRNA"
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tagtcatatg cttgtctcaa agattaagcc atgcatgtct aagtataaac tgctttatac
+       61 tgtgaaactg cgaatggctc attaaatcag ttatagttta tttgatggta ccttactact
+      121 cggataaccg tagtaattct agagctaata cgtgcggaaa tcccgacttc tggaagggac
+      181 gtatttatta gataaaaggc cgaccggact cgtccgactc gcggtgaatc atgataactc
+      241 cacgaatcgc atggcctcag cgccggcgat gtttcattca aatttctgcc ctatcaactt
+      301 tcgacggtaa ggtattggct taccgtggtg gtaacgggtg acggaggatt agggttcgat
+      361 tccggagagg gagcctgaga aacggctacc acatccaagg aaggcagcag gcgcgcaaat
+      421 tacccaatct tgacacaagg aggtagtgac aataaataac aataccgggg tttttcaact
+      481 ctggtaattg gaatgagtac aatctaaacc ccttaacgag gatcaattgg agggcaagtc
+      541 tggtgccagc agccgcggta attccagctc caatagcgta tatttaagtt gttgcagtta
+      601 aaaagctcgt agttggattt cgggcgggcc cggccggtcc gcctcagggt gtgcactgac
+      661 cgggcccgtc ttgctgccgg ggacgggctc ctgggcttca ctgtccggga ctcggagtcg
+      721 gcgaggttac tttgagtaaa ttagagtgtt caaagcaggc ctacgctctg aatacattag
+      781 catggaataa cacgatagga ctctggccta tcttgttggt ctgtgggacc ggagtaatga
+      841 ttaagaggga cagtcggggg cattcgtatt tcattgtcag aggtgaaatt cttggattta
+      901 tgaaagacga actactgcga aagcatttgc caaggatgtt ttcattaatc aagaacgaaa
+      961 gttgggggct cgaagacgat tagataccgt cctagtctca accataaacg atgccgacta
+     1021 gggattggcg ggcgttcctt tgatgacccc gccagcacct tatgagaaat caaagttttt
+     1081 gggttccggg gggagtatgg tcgcaaggct gaaacttaaa ggaattgacg gaagggcacc
+     1141 accaggcgtg gagcctgcgg cttaatttga ctcaacacgg gaaaacttac caggtccaga
+     1201 catagtgagg attgacagat tgagagctct ttcttgattc tatgggtggt ggtgcatggc
+     1261 cgttcttagt tggtgggttg ccttgtcagg ttgattccgg taacgaacga gacctcagcc
+     1321 tgctaactag tcacgattgg tgcttccagt cggccgactt cttagaggga ctattggcga
+     1381 ctagccaatg gaagtgtgag gcaataacag gtctgtgatg cccttagatg ttctgggccg
+     1441 cacgcgcgct acactgatgc gatcaacgag cctagccttg gccgacaggt ccgggtaatc
+     1501 ttgcaaaccg catcgtgatg gggatagatg attgcaatta ttcatcttca acgaggaatg
+     1561 cctagtaagc gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc
+     1621 ccgtcgctcc taccgattgg gtgtgctggt gaagcgttcg gattggcggc agtgcgcggt
+     1681 tcgccgcgtg ttgtagccga gaagttcgtt aaaccctccc acctagagga aggagaagtc
+     1741 gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt gcatcgatcg aacacaaacc
+     1801 cgtgaacctt ccgtatcccc gctcttgatg aaacgttgtt tttctctcag gaggaagcac
+     1861 tctcatcagg agtgcgcctg tccctgatgg atgcttcatc aggtctggcg ggccggggag
+     1921 gcctttcctc ttctccgaac aggaggggcc gctcatcccg gtcggcaaaa ccccactacc
+     1981 aaatccaaat tccaaacgga ctgaagctct tcgactcgag cagtcgaaaa aaccgaagac
+     2041 aactctcaac aacggatatc ttggctcccg tatcgatgaa gaacgcagcg aaatgcgata
+     2101 cgtagtgtga attgcagata atgtgaatca tcgaatcttt gaacgcaaat tgcactcgag
+     2161 gctccggccg agagtatgtc tgcctcagcg tcggcttcac cctcacacac ccgctcgagc
+     2221 gggcgatgtg gatctggcag tcccggttcc atcagaaccg ggtccgctga agaccagagg
+     2281 ctcgagcgag gacccgatcg ggacaacagt ctggtaggtg tttccccacc gggaacgcat
+     2341 gccgctgtcg gcccgggacc ccgctgtaag ccggcaggaa ttttggtttc gtgcgccgtg
+     2401 aaaagcctcg aggaccaaac cttttcaaca ttcgacctga gttcaggcaa ga
+//
+
+LOCUS       HE586504                2412 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Pseudococcomyxa simplex genomic DNA containing 18S rRNA gene, ITS1,
+            5.8S rRNA gene and ITS2, strain CAUP H 102.
+ACCESSION   HE586504
+VERSION     HE586504.1  GI:410610360
+KEYWORDS    .
+SOURCE      Pseudococcomyxa simplex
+  ORGANISM  Pseudococcomyxa simplex
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Pseudococcomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2412)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2412
+                     /organism="Pseudococcomyxa simplex"
+                     /mol_type="genomic DNA"
+                     /strain="CAUP H 102"
+                     /isolation_source="host culture"
+                     /host="Paramecium bursaria"
+                     /culture_collection="CAUP:H 102"
+                     /db_xref="taxon:464287"
+                     /country="Czech Republic:Prague"
+                     /PCR_primers="fwd_name: 18S-F, fwd_seq:
+                     aacctggttgatcctgccagt, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..2412
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 tctaagtata aactgcttta tactgtgaaa ctgcgaatgg ctcattaaat cagttatagt
+       61 ttatttgatg gtaccttact actcggataa ccgtagtaat tctagagcta atacgtgcgg
+      121 aaatcccgac ttctggaagg gacgtattta ttagataaaa ggccgaccgg gcttgcccga
+      181 aacgcggtga atcatgataa ctccacgaat cgcatggcct cagtgccggc gatgtttcat
+      241 tcaaatttct gccctatcaa ctttcgacgg taaggtattg gcttaccgtg gtggtaacgg
+      301 gtgacggagg attagggttc gattccggag agggagcctg agaaacggct accacatcca
+      361 aggaaggcag caggcgcgca aattacccaa tcttgacaca aggaggtagt gacaataaat
+      421 aacaataccg gggtttttca actctggtaa ttggaatgag tacaatctaa accccttaac
+      481 gaggatcaat tggagggcaa gtctggtgcc agcagccgcg gtaattccag ctccaatagc
+      541 gtatatttaa gttgttgcag ttaaaaagct cgtagttgga tttcgggcgg gcccggccgg
+      601 tccgccttcg ggtgtgcact gaccgggccc gtcttgttgc cggggacggg ctcctgggct
+      661 tcactgtccg ggactcggag tcggcgaggt tactttgagt aaattagagt gttcaaagca
+      721 ggcctacgct ctgaatacat tagcatggaa taacacgata ggactctggc ctatcttgtt
+      781 ggtctgtggg accggagtaa tgattaagag ggacagtcgg gggcattcgt atttcattgt
+      841 cagaggtgaa attcttggat ttatgaaaga cgaactactg cgaaagcatt tgccaaggat
+      901 gttttcatta atcaagaacg aaagttgggg gctcgaagac gattagatac cgtcctagtc
+      961 tcaaccataa acgatgccga ctagggattg gcgggcgttc ttttgatgac cccgccagca
+     1021 ccttatgaga aatcaaagtt tttgggttcc ggggggagta tggtcgcaag gctgaaactt
+     1081 aaaggaattg acggaagggc accaccaggc gtggagcctg cggcttaatt tgactcaaca
+     1141 cgggaaaact taccaggtcc agacatagtg aggattgaca gattgagagc tctttcttga
+     1201 ttctatgggt ggtggtgcat ggccgttctt agttggtggg ttgccttgtc aggttgattc
+     1261 cggtaacgaa cgagacctca gcctgctaac tagtcacgat tggttcttcc agtcggccga
+     1321 cttcttagag ggactattgg cgactagcca atggaagtgt gaggcaataa caggtctgtg
+     1381 atgcccttag atgttctggg ccgcacgcgc gctacactga tgcaatcaac gagcctagcc
+     1441 ttggccgaca ggtccgggta atctttgaaa ctgcatcgtg atggggatag atgattgcaa
+     1501 ttattcatct tcaacgagga atgcctagta agcgcgagtc atcagctcgc gttgattacg
+     1561 tccctgccct ttgtacacac cgcccgtcgc tcctaccgat tgggtgtgct ggtgaagcgt
+     1621 tcggattggc ggcagtgcgc ggttcgccgc tcgctgcagc cgagaagttc gttaaaccct
+     1681 cccacctaga ggaaggagaa gtcgtaacaa ggtttccgta ggtgaacctg crgaaggatc
+     1741 attgattcga tcaaacacac accgcgaacc cacgtatccc cgcgggcggc tccttttcct
+     1801 tcgggagaag tcagccggct gtgcgcttgt ccctgctgca acaccggcag gtctggcggg
+     1861 ctggggaggc cgctctcctt traccgggag aggrcckaac ccggtcggca aaaccccaat
+     1921 cgatcccaac cagaaaccgc ctgaagacgt cgacggctgt ctgacagccg tctccaacca
+     1981 aagacaactc tcaacaacgg atatcttggc tcccgtatcg atgaagaacg cagcgaaatg
+     2041 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+     2101 tcgaggctcc ggccgagagt atgtctgcct cagcgtcggc tttaccctca ccctctctca
+     2161 agaggcgtgg acctggccgt cccggttaaw ttaaccgggt ctgccgaaga acagaggctc
+     2221 gaacgaggac ccaatcggga cgacagtctg gtaggtgacc cgccagggat cgcatgccgc
+     2281 cgtcggcccg ggacctcgtt gtaagccsgc aggaatcgtc ggccgctctc cgagaagccg
+     2341 tgcgacacac ccctttcgac ctgagttcag gcaagaacac ccgctgaact taagcatatc
+     2401 aataagcgga gg
+//
+
+LOCUS       HE586510                2807 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-C13 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain C13.
+ACCESSION   HE586510
+VERSION     HE586510.1  GI:410610366
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-C13
+  ORGANISM  Coccomyxa sp. KN-2011-C13
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2807)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2807
+                     /organism="Coccomyxa sp. KN-2011-C13"
+                     /mol_type="genomic DNA"
+                     /strain="C13"
+                     /isolation_source="rotting wood"
+                     /db_xref="taxon:1082360"
+                     /country="Czech Republic"
+                     /PCR_primers="fwd_name: 18S-F, fwd_seq:
+                     aacctggttgatcctgccagt, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..2807
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 aacctggttg atcctgccag tagtcatatg cttgtctcaa agattaagcc atgcatgtct
+       61 aagtataaac tgctttatac tgtgaaactg cgaatggctc attaaatcag ttatagttta
+      121 tttgatggta ccttactact cggataaccg tagtaattct agagctaata cgtgcggaaa
+      181 tcccgacttc tggaagggac gtatttatta gataaaaggc cgaccgggct ctgcccgaat
+      241 cgcggtgaat catgataact ccacgaatcg catggcccca gtgccngcga tgtttcattc
+      301 aaatttctgc cctatcaact ttcgacggta aggtattggc ttaccgtggt ggtaacgggt
+      361 gacggaggat tagggttcga ttccggagag ggagcctgag aaacggctac cacatccaag
+      421 gaaggcagca ggcgcgcaaa ttacccaatc ttgacacaag gaggtagtga caataaataa
+      481 caataccggg gtttttcaac tctggtaatt ggaatgagta caatctaaac cccttaacga
+      541 ggatcaattg gagggcaagt ctggtggacg tttcaacaca cgctgttgac gccagagata
+      601 gtggggcggt tgcgtgctgc agccgttacg cccgctagtc gagcagtcgg ttccgatcgg
+      661 gtgactgccg gcaagacgac ctggaacggg gaaggccttt cattcgaaag aatggctaat
+      721 ccccgtggcg agcttggcac ccgggcgacc ggtgcgaagc cnnnnnnnnn nnnnnnnnnn
+      781 nnnnccgagt cggtttaagg ggacgtgcta aaccccatcc gatgaaaaag gatgcccccg
+      841 gacaatagat cccgatcatc gaaggtctgg ggggatgaca gcgcagggag gaaatgcctt
+      901 gcgctatccc ggtaggttca cggcagtcgc cgtgacattg gccagcagcc gcggtaattc
+      961 cagctccaat agcgtatatt taagttgttg cagttaaaaa gctcgtagtt ggatttcggg
+     1021 cgggcccggc cggtccgcct tttggtgtgc actgaccggg cccgtcttgt tgccggggac
+     1081 gggctcctgg gcttaactgt ccgggactcg gagtcggcga ggttactttg agtaaattag
+     1141 agtgttcaaa gcaggcctac gctctgaata cattagcatg gaataacacg ataggactct
+     1201 ggcctatctt gttggtctgt gggaccggag taatgattaa gagggacagt cgggggcatt
+     1261 cgtatttcat tgtcagaggt gaaattcttg gatttatgaa agacgaacta ctgcgaaagc
+     1321 atttgccaag gatgttttca ttaatcaaga acgaaagttg ggggctcgaa gacgattaga
+     1381 taccgtccta gtctcaacca taaacgatgc cgactaggga ttggcgggcg ttcttttgat
+     1441 gaccccgcca gcaccttatg agaaatcaaa gtttttgggt tccgggggga gtatggtcgc
+     1501 aaggctgaaa cttaaaggaa ttgacggaag ggcaccacca ggcgtggagc ctgcggctta
+     1561 atttgactca acacgggaaa acttaccagg tccagacata gtgaggattg acagattgag
+     1621 agctctttct tgattctatg ggtggtggtg catggccgtt cttagttggt gggttgcctt
+     1681 gtcaggttga ttccggtaac gaacgagacc tcagcctgct aactagtcac gattggttct
+     1741 tccagtcggc cgacttctta gagggactat tggcgactag ccaatggaag tgtgaggcaa
+     1801 taacaggtct gtgatgccct tagatgttct gggccgcacg cgcgctacac tgatgcaatc
+     1861 aacgagccta gccttggccg acaggtccgg gtaatctttg aaactgcatc gtgatgggga
+     1921 tagatgattg caattattca tcttcaacga ggaatgccta gtaagcgcga gtcatcagct
+     1981 cgcgttgatt acgtccctgc cctttgtaca caccgcccgt cgctcctacc gattgggtgt
+     2041 gctggtgaag cgttcggatt ggcggcagtg cgcggttcgc cgctcgctgc agccgagaag
+     2101 ttcgtnaaan cctcccacct agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac
+     2161 ctgcggaagg atcattgcat cgatcaaaca caaaccgcga accaacgtat ccccgcaggc
+     2221 ggccctaccc gggctgcctg tgcgcttgtc cctgatcggc gccccggttt tcggggaccg
+     2281 gtgaggtctg gcgggctggg gaggcctctt tccctctagg gggaaagggc cgaacccggt
+     2341 cggcaaaacc ccattcaatc caaaacccga aacgtactaa agactttgac ggccgcccag
+     2401 tgcggacgtc gccaaccaaa gacaactctc aacaacggat atcttggctc ccgtatcgat
+     2461 gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag ataatgtgaa tcatcgaatc
+     2521 tttgaacgca aattgcactc gaggctccgg ccaagagtat gtctgcctca gcgtcggctt
+     2581 taccctcacc cccccaatcg ggaggcgtgg acctggcagt cccggtcggc aacgaccggg
+     2641 tccgctgaag accagaggct cgagcaagga cccgcatggg aaaacagtct ggtaggtgac
+     2701 ccgmaagggc gcatgccgct gttcgccygg agccttgctg gaagccggca ggartcgtcg
+     2761 gtcgccctta gcggggcggc cgtgcgaaca cccttttcga cctgagt
+//
+
+LOCUS       HE586511                2849 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-C14 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain C14.
+ACCESSION   HE586511
+VERSION     HE586511.1  GI:410610367
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-C14
+  ORGANISM  Coccomyxa sp. KN-2011-C14
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2849)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2849
+                     /organism="Coccomyxa sp. KN-2011-C14"
+                     /mol_type="genomic DNA"
+                     /strain="C14"
+                     /isolation_source="rotting wood"
+                     /db_xref="taxon:1082361"
+                     /country="Czech Republic"
+                     /PCR_primers="fwd_name: 18S-F, fwd_seq:
+                     aacctggttgatcctgccagt, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..2849
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 aacctggttg atcctgccag tagtcatatg cttgtctcaa agattaagcc atgcatgtct
+       61 aagtataaac tgctttatac tgtgaaactg cgaatggctc attaaatcag ttatagttta
+      121 tttgatggta ccttactact cggataaccg tagtaattct agagctaata cgtgcggaaa
+      181 tcccgacttc tggaagggac gtatttatta gataaaaggc cgaccgggct ctgcccgaat
+      241 cgcggtgaat catgataact ccacgaatcg catggcccca gtgccggcga tgtttcattc
+      301 aaatttctgc cctatcaact ttcgacggta aggtattggc ttaccgtggt ggtaacgggt
+      361 gacggaggat tagggttcga ttccggagag ggagcctgag aaacggctac cacatccaag
+      421 gaaggcagca ggcgcgcaaa ttacccaatc ttgacacaag gaggtagtga caataaataa
+      481 caataccggg gtttttcaac tctggtaatt ggaatgagta caatctaaac cccttaacga
+      541 ggatcaattg gagggcaagt ctggtggacg tttcaacaga cgctgttgac gccagagata
+      601 gtggggcggt tgcgtgctgc agccgttaag cccgctagtc gagcagtcgg ttccgatcgg
+      661 gtgactgccg gcaagacgac ctggaacggg gaaggccttc attcgaaaga atggctaatc
+      721 ccgtggcgag cttgcaccgg gcgaccggtg cgaagccgtc gtaacgcacg gaaaggcgtc
+      781 ggccgactcc ccgagtcggt ttaagggacg tgctaaaccc atccgatgaa aaagggtgcc
+      841 ccggacaata gatcccgatc atcgaaggtc tgggggggat gacagcgcag ggaggaaatg
+      901 ccttgcgcta tccggtaggt tcacggcagt cgccgtgaca ttggccagca gccgcggtaa
+      961 ttccagctcc aatagcgtat atttaagttg ttgcagttaa aaagctcgta gttggatttc
+     1021 gggcgggccc ggccggtccg ccttttggtg tgcactgacc gggcccgtct tgttgccggg
+     1081 gacgggctcc tgggcttaac tgtccgggac tcggagtcgg cgaggttact ttgagtaaat
+     1141 tagagtgttc aaagcaggcc tacgctctga atacattagc atggaataac acgataggac
+     1201 tctggcctat cttgttggtc tgtgggaccg gagtaatgat taagagggac agtcgggggc
+     1261 attcgtattt cattgtcaga ggtgaaattc ttggatttat gaaagacgaa ctactgcgaa
+     1321 agcatttgcc aaggatgttt tcattaatca agaacgaaag ttgggggctc gaagacgatt
+     1381 agataccgtc ctagtctcaa ccataaacga tgccgactag ggattggcgg gcgttctttt
+     1441 gatgaccccg ccagcacctt atgagaaatc aaagtttttg ggttccgggg ggagtatggt
+     1501 cgcaaggctg aaacttaaag gaattgacgg aagggcacca ccaggcgtgg agcctgcggc
+     1561 ttaatttgac tcaacacggg aaaacttacc aggtccagac atagtgagga ttgacagatt
+     1621 gagagctctt tcttgattct atgggtggtg gtgcatggcc gttcttagtt ggtgggttgc
+     1681 cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaactagt cacgattggt
+     1741 tcttccagtc ggccgacttc ttagagggac tattggcgac tagccaatgg aagtgtgagg
+     1801 caataacagg tctgtgatgc ccttagatgt tctgggccgc acgcgcgcta cactgatgca
+     1861 atcaacgagc ctagccttgg ccgacaggtc cgggtaatct ttgaaactgc atcgtgatgg
+     1921 ggatagatga ttgcaattat tcatcttcaa cgaggaatgc ctagtaagcg cgagtcatca
+     1981 gctcgcgttg attacgtccc tgccctttgt acacaccgcc cgtcgctcct accgattggg
+     2041 tgtgctggtg aagcgttcgg attggcggca gtgcgcggtt cgccgctcgc tgcagccgag
+     2101 aagttcgtta aancctccca cctagaggaa ggagaagtcg taacaaggtt tccgtaggtg
+     2161 aacctgcgga aggatcattg catcgatcaa acacaaaccg cgaaccaacg tatccccgca
+     2221 ggcggcccta cccgggctgc ctgtgcgctt gyccctgatc ggcgccccgg ttytcggggm
+     2281 ccggtgaggt ctggcgggct ggggaggcct ctttccctct agggggaaag ggccgaaccc
+     2341 ggtcggcaaa accccattca atccaaaacc cgaaacgtac taaagacttt gacggccgcc
+     2401 cagtgcggac gtcgccaacc aaagacaact ctcaacaacg gatatcttgg ctcccgtatc
+     2461 gatgaagaac gcagcgaaat gcgatacgta gtgtgaattg cagataatgt gaatcatcga
+     2521 atctttgaac gcaaattgca ctcgaggctc cggccaagag tatgtctgcc tcagcgtcgg
+     2581 ctttaccctc acccycccaa tcgggaggcg tggacctggc agtcccggtc ggcaacgacc
+     2641 gggtccgctg aagaccagag gctcgagcaa ggacccgcat gggaaaacag tctggtaggt
+     2701 gacccgnaag ggcgcatgcc gctgttcgcc cggagccttg ctggaagccg gcaggaatcg
+     2761 tcggtcgccc ttagcggggc ggccgtgcga acaccctttt cgacctgagt tcaggcaaga
+     2821 acacccgctg aacttaagca tatcaataa
+//
+
+LOCUS       HE586513                2443 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-E4 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain E4.
+ACCESSION   HE586513
+VERSION     HE586513.1  GI:410610369
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-E4
+  ORGANISM  Coccomyxa sp. KN-2011-E4
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2443)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2443
+                     /organism="Coccomyxa sp. KN-2011-E4"
+                     /mol_type="genomic DNA"
+                     /strain="E4"
+                     /isolation_source="host photobiont"
+                     /host="Peltigera aphtosa"
+                     /db_xref="taxon:1082374"
+                     /country="Austria"
+                     /PCR_primers="fwd_name: NS1, fwd_seq: gtagtcatatgcttgtct,
+                     rev_name: ITS4, rev_seq: tcctccgcttattgatatgc"
+     misc_feature    1..2443
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 tctaagtata aactgcttta tactgtgaaa ctgcgaatgg ctcattaaat cagttatagt
+       61 ttatttgatg gtaccttact actcggataa ccgtagtaat tctagagcta atacgtgcgg
+      121 aaatcccgac ttctggaagg gacgtattta ttagataaaa ggccgaccgg gcttgcccga
+      181 aacgcggtga atcatgataa ctccacgaat cgcatggcct cagtgccggc gatgtttcat
+      241 tcaaatttct gccctatcaa ctttcgacgg taaggtattg gcttaccgtg gtggtaacgg
+      301 gtgacggagg attagggttc gattccggag agggagcctg agaaacggct accacatcca
+      361 aggaaggcag caggcgcgca aattacccaa tcttgacaca aggaggtagt gacaataaat
+      421 aacaataccg gggtttttca actctggtaa ttggaatgag tacaatctaa accccttaac
+      481 gaggatcaat tggagggcaa gtctggtgcc agcagccgcg gtaattccag ctccaatagc
+      541 gtatatttaa gttgttgcag ttaaaaagct cgtagttgga tttcgggcgg gcccggccgg
+      601 tccgccttcg ggtgtgcact gaccgggccc gtcttgttgc cggggacggg ctcctgggct
+      661 tcactgtccg ggactcggag tcggcgaggt tactttgagt aaattagagt gttcaaagca
+      721 ggcctacgct ctgaatacat tagcatggaa taacacgata ggactctggc ctatcttgtt
+      781 ggtctgtggg accggagtaa tgattaagag ggacagtcgg gggcattcgt atttcattgt
+      841 cagaggtgaa attcttggat ttatgaaaga cgaactactg cgaaagcatt tgccaaggat
+      901 gttttcatta atcaagaacg aaagttgggg gctcgaagac gattagatac cgtcctagtc
+      961 tcaaccataa acgatgccga ctagggattg gcgggcgttc ttttgatgac cccgccagca
+     1021 ccttatgaga aatcaaagtt tttgggttcc ggggggagta tggtcgcaag gctgaaactt
+     1081 aaaggaattg acggaagggc accaccaggc gtggagcctg cggcttaatt tgactcaaca
+     1141 cgggaaaact taccaggtcc agacatagtg aggattgaca gattgagagc tctttcttga
+     1201 ttctatgggt ggtggtgcat ggccgttctt agttggtggg ttgccttgtc aggttgattc
+     1261 cggtaacgaa cgagacctca gcctgctaac tagtcacgat tggttcttcc agtcggccgr
+     1321 cttcttagag ggactattgg cgactagcca atggaagtgt gaggcaataa caggtctgtg
+     1381 atgcccttag atgttctggg ccgcacgcgc gctacactga tgcagtcaac gagcctagcc
+     1441 ttggccgaca ggtccgggta atctttgaaa ctgcatcgtg atggggatag atgattgcaa
+     1501 ttattcatct tcaacgagga atgcctagta agcgcgagtc atcagctcgc gttgattacg
+     1561 tccctgccct ttgtacacac cgcccgtcgc tcctaccgat tgggtgtgct ggtgaagcgt
+     1621 tcggattggc ggcagtgcgc ggttcgccgc tcgctgcagc cgagaagttc gttaaaccyt
+     1681 cccacntaga ggaaggagaa gtcgtaacaa ggtttccgta ggtgaacntg cggaaggatc
+     1741 attgcatcga tcaaacacaa accgygaacc cacgtatccc cgcggccttc tgtctttctc
+     1801 ttcggggaaa gagagccggc cgtgcgcttg tccctgtccg gttccgcttc ggcggaaagg
+     1861 gcaggtctag cgggctgggg aggccgctct cccttaaccg ggggagggcc gaammccggc
+     1921 tggcaaaaac cccattcgat ccaaaaccag waaataactg aagatccgga cagctgttca
+     1981 agaacagccg tctccaacca aagacaactc tcaacaacgg atatcttggc tcccgtatcg
+     2041 atgaagaacg cagcgaaatg cgatacgtag tgtgaattgc agataatgtg aatcatcgaa
+     2101 tctttgaacg caaattgcac tcgaggctcc ggccgagagt atgtctgcct cagcgtcggc
+     2161 ttcaccctca cccctctcca ccgagaggcg tggacctggc cgtcccggtt aatgcaaccg
+     2221 ggtctgccga agaacagagg ctcgaacgag gacccaatcg ggacaacagt ctggtaggtg
+     2281 acccgtcagg gatcgcatgc cgctgtcggc ccgggacctc gttgtaagcc ggcaggaatc
+     2341 ggcggtcgct tttttttagr aaaaggagcg gccgcacgac acaccctttt cgacctgagt
+     2401 tcaggcaaga acacccgctg aacttaagca tatcaataag ccg
+//
+
+LOCUS       HE586515                2802 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-T3 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain T3.
+ACCESSION   HE586515
+VERSION     HE586515.1  GI:410610371
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-T3
+  ORGANISM  Coccomyxa sp. KN-2011-T3
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2802)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2802
+                     /organism="Coccomyxa sp. KN-2011-T3"
+                     /mol_type="genomic DNA"
+                     /strain="T3"
+                     /isolation_source="host bark"
+                     /host="Cleistocalyx operculata"
+                     /db_xref="taxon:1082380"
+                     /country="Indonesia:Java"
+                     /PCR_primers="fwd_name: 18S-F, fwd_seq:
+                     aacctggttgatcctgccagt, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..2802
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 tctaagtata aactgcttta tactgtgaaa ctgcgaatgg ctcattaaat cagttatagt
+       61 ttatttgatg gtacnntact actcggataa ccgtagtaat tctagagcta atacgtgcgt
+      121 aaatcccgac ttctggaagg gacgtattta ttagataaaa ggccgaccgg actctgtccg
+      181 actcgcggtg aatcatgata actccacgga tcgcatggcc tcgagccggc gatgtttcat
+      241 tcaaatttct gccctatcaa ctttcgacgg taaggtattg gcttaccgtg gtggtaacgg
+      301 gtgacggagg attagggttc gattccggag agggagcctg agaaacggct accacatcca
+      361 aggaaggcag caggcgcgca aattacccaa tcttgacaca aggaggtagt gacaataaat
+      421 aacaataccg gggtttttca actctggtaa ttggaatgag tacaatctaa accccttaac
+      481 gaggatcaat tggagggcaa gtctggtgga cgctcaacaa tcccaatcgc tgttgacgcc
+      541 agagatagta gggcggctgc caagcggcaa ccgctaagcc tgctagtcga gcagtcgcat
+      601 gaacggatcg ggtgactgcc ggcaagacga cctggaacgg ggaaggccct caatcaatag
+      661 aggctaatcc cgtggcgagc tcacacgggg cgacccgtgt gaaagccgtc gtaacgcacg
+      721 gtaaggcgtc ggccggtctc tcggagccgg tttaagggac gtgctaaacc catccgatga
+      781 caaaggatgc cccggacatt agatcccgtt catcgagggt ctgggggggt gacagcgcag
+      841 ggaggaaatg ccttgcgcta cccggtaccg catccttcgg gatgcattgg ccagcagccg
+      901 cggtaattcc agctccaata gcgtatattt aagttgttgc agttaaaaag ctcgtagttg
+      961 gatttcgggc gggctcggcc ggtccgccta tcggtgtgca ctgaccgagc ccgtcttgtt
+     1021 gccggggacg ggctcctggg cttaactgtc cgggactcgg agtcggcgag gttactttga
+     1081 gtaaattaga gtgttcaaag caggcctacg ctctgaatac attagcatgg aataacacga
+     1141 taggactctg gcctatcttg ttggtctgtg ggaccggagt aatgattaag agggacagtc
+     1201 gggggcattc gtatttcatt gtcagaggtg aaattcttgg atttatgaaa gacgaactac
+     1261 tgcgaaagca tttgccaagg atgttttcat taatcaagaa cgaaagttgg gggctcgaag
+     1321 acgattagat accgtcctag tctcaaccat aaacgatgcc gactagggat tggcgggcgt
+     1381 tcttttgatg acctcgccag caccttatga gaaatcaaag tttttgggtt ccggggggag
+     1441 tatggtcgca aggctgaaac ttaaaggaat tgacggaagg gcaccaccag gcgtggagcc
+     1501 tgcggcttaa tttgactcaa cacgggaaaa cttaccaggt ccagacatag tgaggattga
+     1561 cagattgaga gctctttctt gattctatgg gtggtggtgc atggccgttc ttagttggtg
+     1621 ggttgccttg tcaggttgat tccggtaacg aacgagacct cagcctgcta actagtcacg
+     1681 gttggtttta ccagccggcc gacttcttag agggactatt ggcgactagc caatggaagt
+     1741 gtgaggcaat aacaggtctg tgatgccctt agatgttctg ggccgcacgc gcgctacact
+     1801 gatgcaatca acgagcctag ccttggccga gaggtccggg taatctttga aactgcatcg
+     1861 tgatggggat agattattgc aattattaat cttcaacgag gaatgcctag taagcgcgag
+     1921 tcatcagctc gcgttgatta cgtccctgcc ctttgtacac accgcccgtc gctcctaccg
+     1981 attgggtgtg ctggtgaagc gttcggattg gcggcttcag gcggttcgcc gcccgatgca
+     2041 gccgagaagt tcgttaaacc ctcccaccta gaggaaggag aagtcgtaac aaggtttccg
+     2101 taggtgaacc tgcggaagga tcattgcatc gatcaaacac aaaccgcgaa ccacgtatcc
+     2161 ccactgcgcg gccctcctcg gaggccgaca gtgcgcctgt ccctgaccgt gtcctcggtt
+     2221 ctcgaggcgc ggaaggtctg gcgggccggg gagacctctc tccgatctac ccgatcggat
+     2281 gacgtctttc gggtcggcaa aaccccaatc acaaccacaa cccaacaaag cctgaagctg
+     2341 tcgacggctg cctcgtgcgg tcgtcaccaa ccaatgacaa ctctcaacaa tggatgtctt
+     2401 ggctcccgta tcgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagataat
+     2461 gtgaatcatc gaatctttga acgcaaattg cactcgaggc tccggccaag agtatgtctg
+     2521 cctcagcgtc ggcttcaccc tctcgccccc ccgtcacacg gggcggcgga catggcagtc
+     2581 ccggtcgatc cgaccgggtc cgctgaagac cagaggctcg agcaaggacc caatcgggac
+     2641 aacagtctgg taggtgaccc gcaagggatc gcatgccgct gtcggcccgg gactttgctg
+     2701 gaggccggta ggcgcggccg gttatgggaa ccggcgcatc atctcattcg acctgagttc
+     2761 aggcaagggc acccgctgaa cttaagcata tcaataagcg ga
+//
+
+LOCUS       HE586517                2822 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U2 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain U2.
+ACCESSION   HE586517
+VERSION     HE586517.1  GI:410610373
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U2
+  ORGANISM  Coccomyxa sp. KN-2011-U2
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2822)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2822
+                     /organism="Coccomyxa sp. KN-2011-U2"
+                     /mol_type="genomic DNA"
+                     /strain="U2"
+                     /isolation_source="mucilaginous overgrow on rotting wood"
+                     /db_xref="taxon:1082384"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: 18S-F, fwd_seq:
+                     aacctggttgatcctgccagt, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..2822
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 tgtctcaaga ttaagccatg catgtctaag tataaactgc tttatactgt gaaactgcga
+       61 atggctcatt aaatcagtta tagtttattt gatggtacct tactactcgg ataaccgtag
+      121 taattctaga gctaatacgt gcggaaatcc cgacttctgg aagggacgta tttattagat
+      181 aaaaggccga ccgggctctg cccgaatcgc ggtgaatcat gataactcca cgaatcgcat
+      241 ggccccagtg ccggcgatgt ttcattcaaa tttctgccct atcaactttc gacggtaagg
+      301 tattggctta ccgtggtggt aacgggtgac ggaggattag ggttcgattc cggagaggga
+      361 gcctgagaaa cggctaccac atccaaggaa ggcagcaggc gcgcaaatta cccaatcttg
+      421 acacaaggag gtagtgacaa taaataacaa taccggggtt tttcaactct ggtaattgga
+      481 atgagtacaa tctaaacccc ttaacgagga tcaattggag ggcaagtctg gtggacgttt
+      541 caacagacgc tgttgacgcc agagatagtg gggcggttgc gtgctgcagc cgttacgccc
+      601 gctagtcgag cagtcggttc cgatcgggtg actgccggca agacgacctg gaacggggaa
+      661 ggccttcatt cgaaagaatg gctaatcccg tggcgagctt gcaccgggcg accggtgcga
+      721 agccgtcgta acgcacggaa aggcgtcggc cgactctccg agtcggttta agggacgtgc
+      781 taaacccatc cgatgaaaaa ggatgccccg gacaatagat cccgatcatc gaaggtctgg
+      841 ggggatgaca gcgcaggagg aaatgccttg cgctatccgg taggttcacg gcagtcgccg
+      901 tgacattggc cagcagccgc ggtaattcca gctccaatag cgtatattta agttgttgca
+      961 gttaaaaagc tcgtagttgg atttcgggcg ggcccggccg gtccgccttt tggtgtgcac
+     1021 tgaccgggcc cgtcttgttg ccggggacgg gctcctgggc ttaactgtcc gggactcgga
+     1081 gtcggcgagg ttactttgag taaattagag tgttcaaagc aggcctacgc tctgaataca
+     1141 ttagcatgga ataacacgat aggactctgg cctatcttgt tggtctgtgg gaccggagta
+     1201 atgattaaga gggacagtcg ggggcattcg tatttcattg tcagaggtga aattcttgga
+     1261 tttatgaaag acgaactact gcgaaagcat ttgccaagga tgttttcatt aatcaagaac
+     1321 gaaagttggg ggctcgaaga cgattagata ccgtcctagt ctcaaccata aacgatgccg
+     1381 actagggatt ggcgggcgtt cttttgatga ccccgccagc accttatgag aaatcaaagt
+     1441 ttttgggttc cggggggagt atggtcgcaa ggctgaaact taaaggaatt gacggaaggg
+     1501 caccaccagg cgtggagcct gcggcttaat ttgactcaac acgggaaaac ttaccaggtc
+     1561 cagacatagt gaggattgac agattgagag ctctttcttg attctatggg tggtggtgca
+     1621 tggccgttct tagttggtgg gttgccttgt caggttgatt ccggtaacga acgagacctc
+     1681 agcctgctaa ctagtcacga ttggttcttc cagtcggccg acttcttaga gggactattg
+     1741 gcgactagcc aatggaagtg tgaggcaata acaggtctgt gatgccctta gatgttctgg
+     1801 gccgcacgcg cgctacactg atgcaatcaa cgagcctagc cttggccgac aggtccgggt
+     1861 aatctttgaa actgcatcgt gatggggata gatgattgca attattcatc ttcaacgagg
+     1921 aatgcctagt aagcgcgagt catcagctcg cgttgattac gtccctgccc tttgtacaca
+     1981 ccgcccgtcg ctcctaccga ttgggtgtgc tggtgaagcg ttcggattgg cggcagtgcg
+     2041 cggttcgccg ctcgctgcag ccgagaagtt cgttaaaccc tcccacctag aggaaggaga
+     2101 agtcgtaaca aggtttccgt annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnca
+     2161 aaccgcgaac caacgtatcc ccgcaggcgg ccctacccgg gctgcctgtg cgcttgtccc
+     2221 tgatcggcgc cnnggttttc ggggaccggt gaggtctggc gggctgggga ggcctctttc
+     2281 cctctagggg gaaagggccg aacccggtcg gcaaaacccc attcaatcca aaacccgaaa
+     2341 cgtactaaag actttgacgg ccgcccagtg cggacgtcgc caaccaaaga caactctcaa
+     2401 caacggatat cttggctccc gtatcgatga agaacgcagc gaaatgcgat acgtagtgtg
+     2461 aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa ttgcactcga ggctccggcc
+     2521 aagagtatgt ctgcctcagc gtcggcttta ccctcacccc cccaatcggg aggcgtggac
+     2581 ctggcagtcc cggtcggcaa cgaccgggtc cgctgaagac cagaggctcg agcaaggacc
+     2641 cgcatgggaa aacagtctgg taggtgaccc gcaagggcgc atgccgctgt tcgcccggag
+     2701 ccttgctgga agccggcagg aatcgtcggt cgcccttagc ggggcggccg tgcgaacacc
+     2761 cttttcgacc tgagttcagg caagaacacc cgctgaactt aagcatatca ataagcggag
+     2821 ga
+//
+
+LOCUS       HE586518                2419 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Choricystis sp. GSE4G genomic DNA containing 18S rRNA gene, ITS1,
+            5.8S rRNA gene and ITS2, strain GSE4G.
+ACCESSION   HE586518
+VERSION     HE586518.1  GI:410610374
+KEYWORDS    .
+SOURCE      Choricystis sp. GSE4G
+  ORGANISM  Choricystis sp. GSE4G
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Choricystis.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2419)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..2419
+                     /organism="Choricystis sp. GSE4G"
+                     /mol_type="genomic DNA"
+                     /strain="GSE4G"
+                     /isolation_source="limestone"
+                     /db_xref="taxon:1082356"
+                     /country="USA"
+                     /PCR_primers="fwd_name: 18S-F, fwd_seq:
+                     aacctggttgatcctgccagt, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..2419
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 agtcatatgc ttgtctcaaa gattaagcca tgcatgtcta agtataaact gctttatact
+       61 gtgaaactgc gaatggctca ttaaatcagt tatagtttat ttgatggtac cttactactc
+      121 ggataaccgt agtaattcta gagctaatac gtgcggaaat cccgacttct ggaagggacg
+      181 tatttattag ataaaaggcc gaccgggctt gcccgaatcg cggtgaatca tgataactcc
+      241 acgaatcgca tggcctcagc gccggcgatg tttcattcaa atttctgccc tatcaacttt
+      301 cgacggtaag gtattggctt accgtggtgg taacgggtga cggaggatta gggttcgatt
+      361 ccggagaggg agcctgagaa acggctacca catccaagga aggcagcagg cgcgcaaatt
+      421 acccaatctt gacacaagga ggtagtgaca ataaataaca ataccggggt ttttcaactc
+      481 tggtaattgg aatgagtaca atctaaaccc cttaacgagg atcaattgga gggcaagtct
+      541 ggtgccagca gccgcggtaa ttccagctcc aatagcgtat atttaagttg ttgcagttaa
+      601 aaagctcgta gttggatttc gggcgggccc ggccggtccg ccttctggtg tgcactgacc
+      661 gggcccgtct tgttgccggg gacgggctcc tgggcttcac tgtccgggac tcggagtcgg
+      721 cgaggttact ttgagtaaat tagagtgttc aaagcaggcc tacgctctga atacattagc
+      781 atggaataac acgataggac tctggcctat cttgttggtc tgtgggaccg gagtaatgat
+      841 taagagggac agtcgggggc attcgtattt cattgtcaga ggtgaaattc ttggatttat
+      901 gaaagacgaa ctactgcgaa agcatttgcc aaggatgttt tcattaatca agaacgaaag
+      961 ttgggggctc gaagacgatt agataccgtc ctagtctcaa ccataaacga tgccgactag
+     1021 ggattggcgg gcgttctttt gatgaccccg ccagcacctt atgagaaatc aaagtttttg
+     1081 ggttccgggg ggagtatggt cgcaaggctg aaacttaaag gaattgacgg aagggcacca
+     1141 ccaggcgtgg agcctgcggc ttaatttgac tcaacacggg aaaacttacc aggtccagac
+     1201 atagtgagga ttgacagatt gagagctctt tcttgattct atgggtggtg gtgcatggcc
+     1261 gttcttagtt ggtgggttgc cttgtcaggt tgattccggt aacgaacgag acctcagcct
+     1321 gctaactagt cacgattggt tcttccagtc ggccgacttc ttagagggac tattggcgac
+     1381 tagccaatgg aagtgtgagg caataacagg tctgtgatgc ccttagatgt tctgggccgc
+     1441 acgcgcgcta cactgatgca atcaacgagc ctagccttgg ccgacaggtc cgggtaatct
+     1501 ttgaaactgc atcgtgatgg ggatagatga ttgcaattat tcatcttcaa cgaggaatgc
+     1561 ctagtaagcg cgagtcatca gctcgcgttg attacgtccc tgccctttgt acacaccgcc
+     1621 cgtcgctcct accgattggg tgtgctggtg aagcgttcgg attggcggca gtgcgcggtt
+     1681 cgccgctcgc tgcagccgag aagttcgtta aaccctccca cctagaggaa ggagaagtcg
+     1741 taacaaggtt tccgtaggtg aacctgcgga aggatcattg catcgatcga acacaaaccg
+     1801 cgaaccaacg tatccccgcg gccggtggct ctcttctccg aagaagcagc cggccgtgcg
+     1861 cttgtccctg tccggagccc ttcggggcgc cgaggcaggt ctggcgggct ggggaggccg
+     1921 ttctcctctc accgggagag cgccgaaccc ggctggcgaa aaccccactc aatccaaaac
+     1981 ccaagcattt ctgaagatct tgacggccgc ctggcgcggt cgtctccaac caaagacaac
+     2041 tctcaacaac ggatatcttg gctcccgtat cgatgaagaa cgcagcgaaa tgcgatacgt
+     2101 agtgtgaatt gcagataatg tgaatcatcg aatctttgaa cgcaaattgc actcgaggct
+     2161 ccggccgaga gtatgtctgc ctcagcgtcg gcttcaccct cacccctcct caccgggagg
+     2221 cgtggacctg gccgtcccgg tcgttgcgac cgggtccgcc gaagaacaga ggctcgaacg
+     2281 aggacccaat cgggacaaca gtctggtagg tgacccgcga gggatcgcat gccgctgtcg
+     2341 gcccgggacc tcgttgtaag ccggcaggaa tcgccggtcg acctttcctg accgaaaggc
+     2401 aaccgcgcga cacaccctt
+//
+
+LOCUS       HE586520                 822 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Pseudococcomyxa simplex genomic DNA containing 18S rRNA gene, ITS1,
+            5.8S rRNA gene and ITS2, intragenomic variability copy A, strain
+            CAUP H 103.
+ACCESSION   HE586520
+VERSION     HE586520.1  GI:410610376
+KEYWORDS    .
+SOURCE      Pseudococcomyxa simplex
+  ORGANISM  Pseudococcomyxa simplex
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Pseudococcomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 822)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="Pseudococcomyxa simplex"
+                     /mol_type="genomic DNA"
+                     /strain="CAUP H 103"
+                     /isolation_source="wet sandstone rocks"
+                     /culture_collection="CAUP:H 103"
+                     /db_xref="taxon:464287"
+                     /country="Czech Republic:Adrspach"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy A"
+     misc_feature    1..822
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 gcccgtcgct cctaccgatt gggtgtgctg gtgaagcgtt cggattggcg gcagtgcgcg
+       61 gttcgccgcg tgttgtagcc gagaagttcg ttaaaccctc ccacctagag gaaggagaag
+      121 tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca ttgcatcgat caaacacaaa
+      181 cctgtgaacc tttcgtatcc ccgcttcttt gtgaagcgtt attgttttct cctcctcgga
+      241 gtgagcactt tcgtttcgtg aggagtgcgc ctgtccctga tgatctgatc atcaggtctg
+      301 gcgggccggg gaggcccctt tattgaaaag gagccgctta tcccggtcgg caaaacccca
+      361 ctaccgaatc caaattccat gtcaactaaa gctcttcgac tcgagaagtc gaaaaaacca
+      421 aagacaactc tcaacaacgg atatcttggc tcccgtatcg atgaagaacg cagcgaaatg
+      481 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      541 tcgaggctcc ggccgagagt atgtctgcct cagcgtcggc ttcaccctca cacccccatt
+      601 cattcgagtg ggcgatgtgg atctggcagt cccggtccga tcaggaccgg gtccgctgaa
+      661 gaccagaggc tcgagcgagg acccaatcgg gacaacagtc tggtaggtgt ttccccaccg
+      721 ggaacgcatg ccgctgtcgg cccgggaccc cgctgtaagc cggcaggaat ttcgggctcg
+      781 tgtgccgtga aaagcctcga accggaacac tcaacattcg ac
+//
+
+LOCUS       HE586521                 824 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Pseudococcomyxa simplex genomic DNA containing 18S rRNA gene, ITS1,
+            5.8S rRNA gene and ITS2, intragenomic variability copy B, strain
+            CAUP H 103.
+ACCESSION   HE586521
+VERSION     HE586521.1  GI:410610377
+KEYWORDS    .
+SOURCE      Pseudococcomyxa simplex
+  ORGANISM  Pseudococcomyxa simplex
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Pseudococcomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 824)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..824
+                     /organism="Pseudococcomyxa simplex"
+                     /mol_type="genomic DNA"
+                     /strain="CAUP H 103"
+                     /isolation_source="wet sandstone rocks"
+                     /culture_collection="CAUP:H 103"
+                     /db_xref="taxon:464287"
+                     /country="Czech Republic:Adrspach"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy B"
+     misc_feature    1..824
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 gcccgtcgct cctaccgatt gggtgtgctg gtgaagcgtt cggattggcg gcagtgcgcg
+       61 gttcgccgcg tgttgtagcc gagaagttcg ttaaaccctc ccacctagag gaaggagaag
+      121 tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca ttgcatcgat caaacacaaa
+      181 ccagtgaacc tttcgtatcc ccgcttcttt atgaggcgat cttgttttct cctcctcgga
+      241 gtgagcactt tcgtttcatg aggagtgcgc ctgtccctga tgatctgatc atcaggtctg
+      301 gcgggccggg gacgcctctt ttcctggaag agaggccgct tatcccggtc ggcaaaaacc
+      361 cactaccgaa tccaaattcc atgtcaacta aagctcttcg acttgagaag tcgaaaaaac
+      421 caaagacaac tctcaacaac ggatatcttg gctcccgtat cgatgaagaa cgcagcgaaa
+      481 tgcgatacgt agtgtgaatt gcagataatg tgaatcatcg aatctttgaa cgcaaattgc
+      541 actcgaggct ccggccgaga gtatgtctgc ctcagcgtcg gcttcaccct cacacaccca
+      601 ttcactcgag tgggcattgt ggatctggca gtcccggttc gatgaggacc gggtccgctg
+      661 aagaccagag gctcgagcga ggacccaatc gggacaacag tctggtaggt gtttccccaa
+      721 cgggaacgca tgccgctgtt ggcccgggac cccgctgtaa gccggcagga atttcgggct
+      781 cgtgtgccgt gaaaagcctc gaaccggaac actcaacatt cgac
+//
+
+LOCUS       HE586524                 924 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Paradoxia multiseta genomic DNA containing 18S rRNA gene, ITS1,
+            5.8S rRNA gene and ITS2, strain UTEX LB 2460.
+ACCESSION   HE586524
+VERSION     HE586524.1  GI:410610380
+KEYWORDS    .
+SOURCE      Paradoxia multiseta
+  ORGANISM  Paradoxia multiseta
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Paradoxia.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 924)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..924
+                     /organism="Paradoxia multiseta"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX LB 2460"
+                     /culture_collection="UTEX:LB 2460"
+                     /db_xref="taxon:249350"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..924
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 tctttgaact gcatcgtgat ggggatagat gattgcaatt attcatcttc aacgaggaat
+       61 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+      121 cccgtcgctc ctaccgattg ggtgtgctgg tgaagcgttc ggattggcgg cagtgcgcgg
+      181 ttcgccgctc gctgcagccg agaagttcgt taaaccctcc cacctagagg aaggagaagt
+      241 cgtaacaagg tttccgtagg tgaacctgcg gaaggatcat tgcatcgatc gaacacaaac
+      301 cgcgaaccca cgtatccccg cgggcggctc gtctttcttt ccgaataaag agagccggcc
+      361 gtgcgcttgt ccctgtccgg ttccgcttcg gcggaacggg cgggtctggc gggctgggga
+      421 ggccgctctc cctthaccgg graagggccg aacccsgsyk gsmaaaaccc cattcgatcc
+      481 gaaaccagaa acsacctgaa gatccggacg gctgttsgac agccgtctcc aaccgaagac
+      541 aactctcaac aacggatatc ttggctcccg tatcgatgaa gaacgcagcg aaatgcgata
+      601 cgtagtgtga attgcagata atgtgaatca tcgaatcttt gaacgcaaat tgcactcgag
+      661 gctccggccg agagtatgtc tgcctcagcg tcggcttcac cctcacccct ctccatcgag
+      721 aggcgtggac ctggccgtcc cggttaatgc aaccgggtct gccgaagaac agaggctcga
+      781 acgaggaccc attcgggacg acagtctggt aggtgacccg tcagggatcg catgccgctg
+      841 tcggcccggg acctcgttgt aagccggcag gaatcggcgt tcgcttcttt gtaaaaagag
+      901 tagcggccgc gcgagacacc cctt
+//
+
+LOCUS       HE586525                 602 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Pseudococcomyxa sp. KN-2011-A1 genomic DNA containing ITS1, 5.8S
+            rRNA gene and ITS2, intragenomic variability copy A, strain A1.
+ACCESSION   HE586525
+VERSION     HE586525.1  GI:410610381
+KEYWORDS    .
+SOURCE      Pseudococcomyxa sp. KN-2011-A1
+  ORGANISM  Pseudococcomyxa sp. KN-2011-A1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Pseudococcomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 602)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..602
+                     /organism="Pseudococcomyxa sp. KN-2011-A1"
+                     /mol_type="genomic DNA"
+                     /strain="CCALA 816"
+                     /sub_strain="A1"
+                     /db_xref="taxon:1082388"
+                     /country="Sweden:Abisco"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy A"
+     misc_feature    1..602
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 aacacacacc gcgaacccac gtatccccgc gggcggctmc ttttccttcg tgagaagtca
+       61 gccggctgtg cgcttgtccc tgccgcaaca ccggcaggtc tggcgggccg gggaggccgc
+      121 tctcctctaa ccgggagagg acctaatccg gtcggcaaaa ccccaatcga tcccaaccag
+      181 aaaccgcctg aagacgtcga cggctgtctg acagccgtct ccaaccawag acaactctca
+      241 acaacggata tcttggctcc cgtatcgatg aagaacgcag cgaaatgcga tacgtagtgt
+      301 gaattgcaga taatgtgaat catcgaatct ttgaacgcaa attgcactcg aggctccggc
+      361 cgagagtatg tctgcctcag cgtcggctta ccctcacccc tctttsaaga ggcgtggacc
+      421 tggccgtccc ggttraytta accgggtctg ccgaagaaca gaggctckaa cgaggaccca
+      481 atcgggacga cwgtctggta ggtgacccgc magggatmgc atgccgccgt cggcccggga
+      541 cctcgttgta agccggcagg aatcgtcggc cgctctccga gaagccgtgc gacacacccc
+      601 tt
+//
+
+LOCUS       HE586526                 603 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Pseudococcomyxa sp. KN-2011-A1 genomic DNA containing ITS1, 5.8S
+            rRNA gene and ITS2, intragenomic variability copy B, strain A1.
+ACCESSION   HE586526
+VERSION     HE586526.1  GI:410610382
+KEYWORDS    .
+SOURCE      Pseudococcomyxa sp. KN-2011-A1
+  ORGANISM  Pseudococcomyxa sp. KN-2011-A1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Pseudococcomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Pseudococcomyxa sp. KN-2011-A1"
+                     /mol_type="genomic DNA"
+                     /strain="CCALA 816"
+                     /sub_strain="A1"
+                     /db_xref="taxon:1082388"
+                     /country="Sweden:Abisco"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy B"
+     misc_feature    1..603
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 aacacacacc gcgaacccac gtatccccgc gggcggctmc ttttccttcg tgagaagtca
+       61 gccggctgtg cgcttgtccc tgccgcaaca ccggcaggtc tggcgggccg gggaggccgc
+      121 tctcctctaa ccgggagagg acctaatccg gtcggcaaaa ccccaatcga tcccaaccag
+      181 aaaccgcctg aagacgtcga cggctgtctg acagccgtct ccaaccawag acaactctca
+      241 acaacggata tcttggctcc cgtatcgatg aagaacgcag cgaaatgcga tacgtagtgt
+      301 gaattgcaga taatgtgaat catcgaatct ttgaacgcaa attgcactcg aggctccggc
+      361 cgagagtatg tctgcctcag cgtcggcttt accctcaccc ctctttsaag aggcgtggac
+      421 ctggccgtcc cggttraytt aaccgggtct gccgaagaac agaggctcka acgaggaccc
+      481 aatcgggacg acwgtctggt aggtgacccg cmagggatmg catgccgccg tcggcccggg
+      541 acctcgttgt aagccggcag gaatcgtcgg ccgctctccg agaagccgtg cgacacaccc
+      601 ctt
+//
+
+LOCUS       HE586527                 649 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-C1 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, strain C1.
+ACCESSION   HE586527
+VERSION     HE586527.1  GI:410610383
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-C1
+  ORGANISM  Coccomyxa sp. KN-2011-C1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 649)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Coccomyxa sp. KN-2011-C1"
+                     /mol_type="genomic DNA"
+                     /strain="C1"
+                     /isolation_source="soil in spring area"
+                     /db_xref="taxon:1082357"
+                     /country="Czech Republic"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..649
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 cgtatccccg caggcggccc cacccgggcc gcctgtgcgc ctgtccctga tcggcgcccc
+       61 ggttctcggg gaccggtcag gtctggcggg ctggggaggc ctcttccctt caccgggaag
+      121 ggccraaccc ggtcggcaaa acccccaatc aaatccacaa cccgaaacat cctaaagata
+      181 ttgacggccg ccctgtgcgg acgtcgccaa ccaaagacaa ctctcaacaa cggatatctt
+      241 ggctcccgta tcgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagataat
+      301 gtgaatcatc gaatctttga acgcaaattg cactcgaggc tccggccaag agtatgtctg
+      361 cctcagcgtc ggctttaccc tcaccccccc aatcgggggc gtggacctgg cagtcccggt
+      421 cggcaacgac cgggtccgct gaagaccaga ggctcgagca aggacccaca tgggaaaaca
+      481 gtctggtagg tgacccgcga gggcgcatgc cactgttcgc ccggagactt gctggaagcc
+      541 ggcaggaatc gccggtcgcc cttagcgggg cgcccgtgcg acacaccctt ttcgacctga
+      601 gttcaggcaa gaacacccgc tgaacttaag catatcaata agcggagga
+//
+
+LOCUS       HE586540                 845 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-C15 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, intragenomic variability copy A,
+            strain C15.
+ACCESSION   HE586540
+VERSION     HE586540.1  GI:410610396
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-C15
+  ORGANISM  Coccomyxa sp. KN-2011-C15
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Coccomyxa sp. KN-2011-C15"
+                     /mol_type="genomic DNA"
+                     /strain="C15"
+                     /isolation_source="rotting wood"
+                     /db_xref="taxon:1082362"
+                     /country="Czech Republic"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy A"
+     misc_feature    1..845
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 acacaccgcc cgtcgctcct accgattggg tgtgctggtg aagcgttcgg attggcggca
+       61 gtgcgcggtt cgccgcgtgt tgtagccgag aagttcgtta aaccctccca cctagaggaa
+      121 ggagaagtyg taacaaggtt tccgtaggtg aacctgcgga aggatcattg catcgatcaa
+      181 acacaaacct gtgaaccttt cgtatccccg cttctttgtg aagcgttatt gttttctcct
+      241 cctcggagtg agcactttcg tttcgtgagg agtgcgcctg tccctgatga tctgatcatc
+      301 aggtctggcg ggccggggag gcccctttat tgaaaaggag ccgcttatcc cggtcggcaa
+      361 aaccccacta ccgaatccaa attccatgtc aactaaagct cttcgactcg agaagtcgaa
+      421 aaaaccaaag acaactctca acaacggata tcttggctcc cgtatcgatg aagaacgcag
+      481 cgaaatgcga tacgtagtgt gaattgcaga taatgtgaat catcgaatct ttgaacgcaa
+      541 attgcactcg aggctccggc cgagagtatg tctgcctcag cgtcggcttc accctcacac
+      601 ccccattcat tcgagtgggc gatgtggatc tggcagtccc ggtccgatca ggaccgggtc
+      661 cgctgaagac cagaggctcg agcgaggacc caatcgggac aacagtctgg taggtgtttc
+      721 cccaacggga acgcatgccg ctgtcggccc gggaccccgc tgtaagccgg caggaatttc
+      781 gggctcgtgt gccgtgaaaa gcctcgaacc ggaacactca acattcgacc tgagttcagg
+      841 caaga
+//
+
+LOCUS       HE586541                 844 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-C15 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, intragenomic variability copy B,
+            strain C15.
+ACCESSION   HE586541
+VERSION     HE586541.1  GI:410610397
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-C15
+  ORGANISM  Coccomyxa sp. KN-2011-C15
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 844)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Coccomyxa sp. KN-2011-C15"
+                     /mol_type="genomic DNA"
+                     /strain="C15"
+                     /isolation_source="rotting wood"
+                     /db_xref="taxon:1082362"
+                     /country="Czech Republic"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy B"
+     misc_feature    1..844
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 acacaccgcc cgtcgctcct accgattggg tgtgctggtg aagcgttcgg attggcggca
+       61 gtgcgcggtt cgccgcgtgt tgtagccgag aagttcgtta aaccctccca cctagaggaa
+      121 ggagaagtyg taacaaggtt tccgtaggtg aacctgcgga aggatcattg catcgatcaa
+      181 acacaaacct gtgaaccttt cgtatccccg cttctttgtg aagcgttatt gttttctcct
+      241 cctcggagtg agcactttcg tttcgtgagg agtgcgcctg tccctgatga tctgatcatc
+      301 aggtctggcg ggccggggag gcccctttat tgaaaaggag ccgcttatcc cggtcggcaa
+      361 aacccactac cgaatccaaa ttccatgtca actaaagctc ttcgactcga gaagtcgaaa
+      421 aaaccaaaga caactctcaa caacggatat cttggctccc gtatcgatga agaacgcagc
+      481 gaaatgcgat acgtagtgtg aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa
+      541 ttgcactcga ggctccggcc gagagtatgt ctgcctcagc gtcggcttca ccctcacacc
+      601 cccattcatt cgagtgggcg atgtggatct ggcagtcccg gtccgatcag gaccgggtcc
+      661 gctgaagacc agaggctcga gcgaggaccc aatcgggaca acagtctggt aggtgtttcc
+      721 ccaacgggaa cgcatgccgc tgtcggcccg ggaccccgct gtaagccggc aggaatttcg
+      781 ggctcgtgtg ccgtgaaaag cctcgaaccg gaacactcaa cattcgacct gagttcaggc
+      841 aaga
+//
+
+LOCUS       HE586542                 833 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-E1 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain E1.
+ACCESSION   HE586542
+VERSION     HE586542.1  GI:410610398
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-E1
+  ORGANISM  Coccomyxa sp. KN-2011-E1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 833)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..833
+                     /organism="Coccomyxa sp. KN-2011-E1"
+                     /mol_type="genomic DNA"
+                     /strain="E1"
+                     /isolation_source="host photobiont"
+                     /host="Solorina bisporae"
+                     /db_xref="taxon:1082371"
+                     /country="Spain"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..833
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 cacagactaa acggcagtgg gttcccggtc gggagcttaa gatatagtcg gaccgccccg
+       61 gaaggggagc caatgggagg atctgttaat tsrgagagag cccattggga gcggmctagt
+      121 agttgtcggg gygacccggt caacggcagt cgatacttga cggccygccg ctcggagtaa
+      181 tcgaggtgaa cctgcggaag gatcattgca tcgatcaaac acaaaccgcg aaccaacgta
+      241 tccccgcagg cggccctacc cgggctgcct gtgcgcttgt ccctgatcgg cgccccggtt
+      301 ytcggggmcc ggtgaggtct ggcgggctgg ggaggcctct ttccctctag ggggaaaggg
+      361 ccgaacccgg tcggcaaaac cccattcaat ccaaaacccg aaacgtacta aagactttga
+      421 cggccgccca gtgcggacgt cgccaaccaa agacaactct caacaacgga tatcttggct
+      481 cccgtatcga tgaagaacgc agcgaaatgc gatacgtagt gtgaattgca gataatgtga
+      541 atcatcgaat ctttgaacgc aaattgcact cgaggctccg gccaagagta tgtctgcctc
+      601 agcgtcggct ttaccctcac ccycccaatc gggaggcgtg gacctggcag tcccggtcgg
+      661 caacgaccgg gtccgctgaa gaccagaggc tcgagcaagg acccgcatgg gaaaacagtc
+      721 tggtaggtga cccgmaaggg cgcatgccgc tgttcgccyg gagccttgct ggaagcmggc
+      781 aggaatcgtc ggtcgccctt agcggggcgg ccgtgcgaac acccttttcg acc
+//
+
+LOCUS       HE586543                 611 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-E2 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, strain E2.
+ACCESSION   HE586543
+VERSION     HE586543.1  GI:410610399
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-E2
+  ORGANISM  Coccomyxa sp. KN-2011-E2
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 611)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Coccomyxa sp. KN-2011-E2"
+                     /mol_type="genomic DNA"
+                     /strain="E2"
+                     /isolation_source="host photobiont"
+                     /host="Solorina crocea"
+                     /db_xref="taxon:1082372"
+                     /country="Spain"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..611
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 cgtatccccg caggcggccc tacccgggct gcctgtgcgc ttgtccctga tcggcgcccc
+       61 ggttytcggg gaccggtgag gtctggcggg ctggggaggc ctctttccct ctagggggaa
+      121 agggccgaac ccggtcggca aaaccccatt caatccaaaa cccsaaacgt actaaagact
+      181 ttgacggccg cccagtgcgg acgtcgccaa ccaaagacaa ctctcaacaa cggatatctt
+      241 ggctcccgta tcgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagataat
+      301 gtgaatcatc gaatctttga acgcaaattg cactcgaggc tccggccaag agtatgtctg
+      361 cctcagcgtc ggctttaccc tcacccyccc aatcgggagg cgtggacctg gcagtcccgg
+      421 tcggcaacga ccgggtccgc tgaagaccag aggctcgagc aaggacccgc atgggaaaac
+      481 agtctggtag gtgacccgca agggcgcatg ccgctgttcg ccyggagcct tgctggaagc
+      541 cggcaggaat cgtcggtcgc ccttagckgg gcgrccgtgc gaacaccctt ttcgacctga
+      601 gttcaggcaa g
+//
+
+LOCUS       HE586544                 662 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-E3 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, strain E3.
+ACCESSION   HE586544
+VERSION     HE586544.1  GI:410610400
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-E3
+  ORGANISM  Coccomyxa sp. KN-2011-E3
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 662)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..662
+                     /organism="Coccomyxa sp. KN-2011-E3"
+                     /mol_type="genomic DNA"
+                     /strain="E3"
+                     /isolation_source="host photobiont"
+                     /host="Solorina saccata"
+                     /db_xref="taxon:1082373"
+                     /country="Spain"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..662
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 aaccgcgaac caacgtatcc ccgcaggcgg ccctacccgg gctgcctgtg cgcttgtccc
+       61 tgatcggcgc cccggttytc ggggaccggt gaggtctggc gggctgggga ggcctctttc
+      121 cctctagggg gaaagggccg aacccggtcg gcaaaacccc attcaatcca aaacccgaaa
+      181 cgtactaaag actttgacgg ccgcccagtg cggacgtcgc caaccaaaga caactctcaa
+      241 caacggatat cttggctccc gtatcgatga agaacgcagc gaaatgcgat acgtagtgtg
+      301 aattgcagat aatgtgaatc atcgaatctt tgaacgcaaa ttgcactcga ggctccggcc
+      361 aagagtatgt ctgcctcagc gtcggcttta ccctcacccy cccaatcggg aggcgtggac
+      421 ctggcagtcc cggtcggcaa cgaccgggtc cgctgaagac cagaggctcg agcaaggacc
+      481 cgcatgggaa aacagtctgg taggtgaccc gmaagggcgc atgccgctgt tcgccyggag
+      541 ccttgctgga agccggcagg aatcgtcggt cgcccttagc kgggcgrccg tgcgaacacc
+      601 cttttcgacc tgagttcagg caagaacacc cgctgaactt aagcatatca ataagcggag
+      661 ga
+//
+
+LOCUS       HE586545                 973 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-E5 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain E5.
+ACCESSION   HE586545
+VERSION     HE586545.1  GI:410610401
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-E5
+  ORGANISM  Coccomyxa sp. KN-2011-E5
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 973)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..973
+                     /organism="Coccomyxa sp. KN-2011-E5"
+                     /mol_type="genomic DNA"
+                     /strain="E5"
+                     /isolation_source="host photobiont"
+                     /host="Peltigera leucophlebia"
+                     /db_xref="taxon:1082375"
+                     /country="Spain"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..973
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 gatgcagtca acgagcctag ccttggccga caggtccggg taatttttga aactgcatcg
+       61 tgatgggata gatgattgca attattcatt ttcaacgagg aatgcctagt aagcgcgagt
+      121 catcagctcg cgttgattac gtccctgccc tttgtacaca ccgcccgtcg ctcctaccga
+      181 ttgggtgtgc tggtgaagcg ttcggattgg cggcagtgcg cggttcgccg ctcgctgcag
+      241 ccgagaagtt cgttaaaccc tcccacctag aggaaggaga agtcgtaaca aggtttccgt
+      301 aggtgaacct gcggaaggat cattgcatcg atcaaacaca aaccgcgaac ccacgtatcc
+      361 ccgcggcctt ctgtctttct cttcggggaa agagagccgg ccgtgcgctt gtccctgtcc
+      421 ggttccgctt cggmggaaag ggcaggtcta gcgggctggg gaggccgctc tcccttaacc
+      481 gggggagggc cgaammccgg ctggcaaaaa ccccattmga tccaaaacca gwaaayamct
+      541 gaagatccgg acagctgttc aagaacagcc gtctccaacc aaagacaact ctcaacaacg
+      601 gatatcttgg ctcccgtatc gatgaagaac gcagcgaaat gcgatacgta gtgtgaattg
+      661 cagataatgt gaatcatcga atctttgaac gcaaattgca ctcgaggctc cggccgagag
+      721 tatgtctgcc tcagcgtcgg cttcaccctc acccctctcc accgagaggc gtggacctgg
+      781 ccgtcccggt taatgcaacc gggtctgccg aagaacagag gctcgaacga ggacccaatc
+      841 gggacaacag tctggtaggt gacccgtcag ggatcgcatg ccgctgtcgg cccgggacct
+      901 cgttgtaagc cggcaggaat cggcggtcgc tttttttwag raaamggagc ggccgcacga
+      961 cacacccttt tcg
+//
+
+LOCUS       HE586550                 656 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-T1 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain T1.
+ACCESSION   HE586550
+VERSION     HE586550.1  GI:410610406
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-T1
+  ORGANISM  Coccomyxa sp. KN-2011-T1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 656)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /organism="Coccomyxa sp. KN-2011-T1"
+                     /mol_type="genomic DNA"
+                     /strain="T1"
+                     /isolation_source="tree bark"
+                     /db_xref="taxon:1082378"
+                     /country="Singapore"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..656
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 ggaaggatca ttgcatcgat caaacacaaa ccgcgaacca cgtatcccca ctgcgcggcc
+       61 ctcctcggag gccgacagtg cgcctgtccc tgaccgtgtc ctcggttctc gaggcgcgga
+      121 aggtctggcg ggccggggag acctctctcc gatctacccg atcggatgac gtctttcggg
+      181 tcggcaaaac cccaatcaca accacaaccc aacaaagcct gaagctgtcg acggctgcct
+      241 cgtgcggtcg tcaccaacca atgacaactc tcaacaatgg atgtcttggc tcccgtatcg
+      301 atgaagaacg cagcgaaatg cgatacgtag tgtgaattgc agataatgtg aatcatcgaa
+      361 tctttgaacg caaattgcac tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc
+      421 ttcaccctct cgcccccccg tcacacgggg cggcggacat ggcagtcccg gtcgatccga
+      481 ccgggtccgc tgaagaccag aggctcgagc aaggacccaa tcgggacaac agtctggtag
+      541 gtgacccgca agggatcgca tgccgctgtc ggcccgggac tttgctggag gccggtaggc
+      601 gcggccggtt atgggaaccg gcgcatcatc tcattcgacc tgagttcagg caaggg
+//
+
+LOCUS       HE586551                 632 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-T5 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, strain T5.
+ACCESSION   HE586551
+VERSION     HE586551.1  GI:410610407
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-T5
+  ORGANISM  Coccomyxa sp. KN-2011-T5
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Coccomyxa sp. KN-2011-T5"
+                     /mol_type="genomic DNA"
+                     /strain="T5"
+                     /isolation_source="tree bark"
+                     /db_xref="taxon:1082382"
+                     /country="Singapore"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..632
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 aaccacgtat ccccgcggcc ttctgtcttt ctcttcsggg aaagagagcc ggccgtgcgc
+       61 ttgtccctgt ccggttccgc ttcggcggaa agggcaggtc tagcgggctg gggaggccgc
+      121 tctcccttaa ccgggggagg gccgaacccc ggctggcaaa aaccccattc gatccaaaac
+      181 cagtaaataa ctgaagatcc ggacagctgt tcaagaacag ccgtctccaa ccaaagacaa
+      241 ctctcaacaa cggatatctt ggctcccgta tcgatgaaga acgcagcgaa atgcgatacg
+      301 tagtgtgaat tgcagataat gtgaatcatc gaatctttga acgcaaattg cactcgaggc
+      361 tccggccgag agtatgtctg cctcagcgtc ggcttcaccc tcacccctct ccaccgagag
+      421 gcgtggacct ggccgtcccg gttaatgcaa ccgggtctgc cgaagaacag aggctcgaac
+      481 gaggacccaa tcgggacaac agtctggtag gtgacccgtc agggatcgca tgccgctgtc
+      541 ggcccgggac ctcgttgtaa gccggcagga atcggcggtc gctttttttw agraaaagga
+      601 gcggccgcac gacacaccct ttcgacctga gt
+//
+
+LOCUS       HE586552                 687 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U1 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, intragenomic variability copy A,
+            strain U1.
+ACCESSION   HE586552
+VERSION     HE586552.1  GI:410610408
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U1
+  ORGANISM  Coccomyxa sp. KN-2011-U1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 687)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..687
+                     /organism="Coccomyxa sp. KN-2011-U1"
+                     /mol_type="genomic DNA"
+                     /strain="U1"
+                     /isolation_source="mucilaginous overgrow on rotting wood"
+                     /db_xref="taxon:1082383"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy A"
+     misc_feature    1..687
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 gaawcttgac ggccckccgc ttggagtaat cgaggtgaac ctgcggaagg atcattgcat
+       61 cgatcaaaca caaaccgcga accaacgtat ccccgcaggc ggccctaccc gggctgcctg
+      121 tgcgcttgtc cctgatcggc gccccggtty tcggggaccg gtgaggtctg gcgggctggg
+      181 gaggcctctt tccctctagg gggaaagggc cgaacccggt cggcaaaacc ccattcaatc
+      241 caaaacccga aacgtactaa agactttgac ggccgcccag tgcggacgtc gccaaccaaa
+      301 gacaactctc aacaacggat atcttggctc ccgtatcgat gaagaacgca gcgaaatgcg
+      361 atacgtagtg tgaattgcag ataatgtgaa tcatcgaatc tttgaacgca aattgcactc
+      421 gaggctccgg ccaagagtat gtctgcctca gcgtcggctt taccctcacc ctcccaatcg
+      481 ggaggcgtgg acctggcagt cccggtcggc aacgaccggg tccgctgaag accagaggct
+      541 cgagcaagga cccgcatggg aaaacagtct ggtaggtgac ccgcaagggc gcatgccgct
+      601 gttcgcccgg agccttgctg gaagccggca ggaatcgtcg gtcgccctta gcggggcggc
+      661 cgtgcgaaca cccttttcga ccctagt
+//
+
+LOCUS       HE586553                 688 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U1 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, intragenomic variability copy B,
+            strain U1.
+ACCESSION   HE586553
+VERSION     HE586553.1  GI:410610409
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U1
+  ORGANISM  Coccomyxa sp. KN-2011-U1
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 688)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..688
+                     /organism="Coccomyxa sp. KN-2011-U1"
+                     /mol_type="genomic DNA"
+                     /strain="U1"
+                     /isolation_source="mucilaginous overgrow on rotting wood"
+                     /db_xref="taxon:1082383"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy B"
+     misc_feature    1..688
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 gaawcttgac ggccckccgc ttggagtaat cgaggtgaac ctgcggaagg atcattgcat
+       61 cgatcaaaca caaaccgcga accaacgtat ccccgcaggc ggccctaccc gggctgcctg
+      121 tgcgcttgtc cctgatcggc gccccggtty tcggggaccg gtgaggtctg gcgggctggg
+      181 gaggcctctt tccctcttag ggggaaaggg ccgaacccgg tcggcaaaac cccattcaat
+      241 ccaaaacccg aaacgtacta aagactttga cggccgccca gtgcggacgt cgccaaccaa
+      301 agacaactct caacaacgga tatcttggct cccgtatcga tgaagaacgc agcgaaatgc
+      361 gatacgtagt gtgaattgca gataatgtga atcatcgaat ctttgaacgc aaattgcact
+      421 cgaggctccg gccaagagta tgtctgcctc agcgtcggct ttaccctcac cctcccaatc
+      481 gggaggcgtg gacctggcag tcccggtcgg caacgaccgg gtccgctgaa gaccagaggc
+      541 tcgagcaagg acccgcatgg gaaaacagtc tggtaggtga cccgcaaggg cgcatgccgc
+      601 tgttcgcccg gagccttgct ggaagccggc aggaatcgtc ggtcgccctt agcggggcgg
+      661 ccgtgcgaac acccttttcg accctagt
+//
+
+LOCUS       HE586554                 847 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U3 genomic DNA containing 18S rRNA gene,
+            ITS1, 5.8S rRNA gene and ITS2, strain U3.
+ACCESSION   HE586554
+VERSION     HE586554.1  GI:410610410
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U3
+  ORGANISM  Coccomyxa sp. KN-2011-U3
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 847)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /organism="Coccomyxa sp. KN-2011-U3"
+                     /mol_type="genomic DNA"
+                     /strain="U3"
+                     /isolation_source="mucilaginous overgrow on rotting wood"
+                     /db_xref="taxon:1082385"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..847
+                     /note="sequence contains 18S rRNA gene, ITS1, 5.8S rRNA
+                     gene and ITS2"
+ORIGIN      
+        1 cgggagctta agatatagtc ggaccgcccc ggaaggggag ccaatgggag gatctgttaa
+       61 ttcagagaga gcccaytggg agcggcctag tagttgtcgg ggcgacccgg tcaacggcag
+      121 tcgaaacttg acggcccgcc gctcggagta atcgaggtga acctgcggaa ggatcattgc
+      181 atcgatcaaa cacaaaccgc gaaccaacgt atccccgcag gcggccctac ccgggctgcc
+      241 tgtgcgcttg tccctgatcg gcgccccggt tttcggggac cggtgaggtc tggcgggctg
+      301 gggaggcctc tttccctcta gggggaaagg gccgaacccg gtcggcaaaa ccccattcaa
+      361 tccaaaaccc gaaacgtact aaagactttg acggccgccc agtgcggacg tcgccaacca
+      421 aagacaactc tcaacaacgg atatcttggc tcccgtatcg atgaagaacg cagcgaaatg
+      481 cgatacgtag tgtgaattgc agataatgtg aatcatcgaa tctttgaacg caaattgcac
+      541 tcgaggctcc ggccaagagt atgtctgcct cagcgtcggc tttaccctca cccccccaat
+      601 cgggaggcgt ggacctggca gtcccggtcg gcaacgaccg ggtccgctga agaccagagg
+      661 ctcgagcaag gacccgcatg ggaaaacagt ctggtaggtg acccgmaagg gcgcatgccg
+      721 ctgttcgccy ggagccttgc tggaagccgg caggartcgt cggtcgccct tagcggggcg
+      781 gccgtgcgaa cacccttttc gacctgagtt caggcaagaa cacccgctga acttaagcat
+      841 atcaata
+//
+
+LOCUS       HE586555                 617 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U4 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, intragenomic variability copy A, strain U4.
+ACCESSION   HE586555
+VERSION     HE586555.1  GI:410610411
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U4
+  ORGANISM  Coccomyxa sp. KN-2011-U4
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Coccomyxa sp. KN-2011-U4"
+                     /mol_type="genomic DNA"
+                     /strain="U4"
+                     /isolation_source="host rotting wood"
+                     /host="Abies sp."
+                     /db_xref="taxon:1082386"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy A"
+     misc_feature    1..617
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 ccccgcaggc ggccctaccc gggctgcctg tgcgcttgtc cctgatcggc gccccggttt
+       61 tcggggaccg gtgaggtttg gcgggctggg gaggcctctt tccctctagg gggaaagggc
+      121 cgaacccggt cggcaaaacc ccattcaatc caaaacccga aacgtactaa agactttgac
+      181 ggccgcccag tgcggacgtc gccaaccaaa gacaactctc aacaacggat atcttggctc
+      241 ccgtatcgat gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag ataatgtgaa
+      301 tcatcgaatc tttgaacgca aattgcactc gaggctccgg ccaagagtat gtstgcctca
+      361 gcgtcggctt taccctcacc ctcccaatcg ggaggcgtgg acctggcagt cccggtcggc
+      421 aacgaccggg tccgctgaag accagaggct cgagcaagga cccgcatggg aaaacagtct
+      481 ggtaggtgac ccgcaagggc gcatgccgct gttcgcccgg agccttgctg gaagccggca
+      541 ggaatcgtcg gtcgccctta gcggggcggc cgtgcgaaca cccttttcga cctgagttca
+      601 ggcaagaaca cccgctg
+//
+
+LOCUS       HE586556                 618 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U4 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, intragenomic variability copy B, strain U4.
+ACCESSION   HE586556
+VERSION     HE586556.1  GI:410610412
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U4
+  ORGANISM  Coccomyxa sp. KN-2011-U4
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Coccomyxa sp. KN-2011-U4"
+                     /mol_type="genomic DNA"
+                     /strain="U4"
+                     /isolation_source="host rotting wood"
+                     /host="Abies sp."
+                     /db_xref="taxon:1082386"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="intragenomic variability copy B"
+     misc_feature    1..618
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 ccccgcaggc ggccctaccc gggctgcctg tgcgcttgtc cctgatcggc gccccggttt
+       61 tcggggaccg gtgaggtttg gcgggctggg gaggcctctt tccctcttag ggggaaaggg
+      121 ccgaacccgg tcggcaaaac cccattcaat ccaaaacccg aaacgtacta aagactttga
+      181 cggccgccca gtgcggacgt cgccaaccaa agacaactct caacaacgga tatcttggct
+      241 cccgtatcga tgaagaacgc agcgaaatgc gatacgtagt gtgaattgca gataatgtga
+      301 atcatcgaat ctttgaacgc aaattgcact cgaggctccg gccaagagta tgtstgcctc
+      361 agcgtcggct ttaccctcac cctcccaatc gggaggcgtg gacctggcag tcccggtcgg
+      421 caacgaccgg gtccgctgaa gaccagaggc tcgagcaagg acccgcatgg gaaaacagtc
+      481 tggtaggtga cccgcaaggg cgcatgccgc tgttcgcccg gagccttgct ggaagccggc
+      541 aggaatcgtc ggtcgccctt agcggggcgg ccgtgcgaac acccttttcg acctgagttc
+      601 aggcaagaac acccgctg
+//
+
+LOCUS       HE586557                 659 bp    DNA     linear   PLN 02-NOV-2012
+DEFINITION  Coccomyxa sp. KN-2011-U5 genomic DNA containing ITS1, 5.8S rRNA
+            gene and ITS2, strain U5.
+ACCESSION   HE586557
+VERSION     HE586557.1  GI:410610413
+KEYWORDS    .
+SOURCE      Coccomyxa sp. KN-2011-U5
+  ORGANISM  Coccomyxa sp. KN-2011-U5
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Nemjova,K., Elias,M., Neustupa,J., Kaufnerova,V. and Gaisina,L.
+  TITLE     Ecological preferences in phylogenetically defined clades of
+            Coccomyxa Schmidle and Pseudococcomyxa Korshikov strains
+            (Trebouxiophyceae, Chlorophyta)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 659)
+  AUTHORS   Nemjova,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2011) Charles University in Prague, Department of
+            Botany, Benatska 2, 12800, CZECH REPUBLIC
+FEATURES             Location/Qualifiers
+     source          1..659
+                     /organism="Coccomyxa sp. KN-2011-U5"
+                     /mol_type="genomic DNA"
+                     /strain="U5"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1082387"
+                     /country="Ukraine"
+                     /PCR_primers="fwd_name: Al 1500af, fwd_seq:
+                     gcgcgctacactgatgc, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_feature    1..659
+                     /note="sequence contains ITS1, 5.8S rRNA gene and ITS2"
+ORIGIN      
+        1 cgcgaactca acgtatcccc gcaggaggcc ctacccgggc ctcctgtgcg cttgtccctg
+       61 atcggcgccc cggttctcgg ggaccggtga ggtctggcgg gctggggagg cctcttttct
+      121 ctcggggaaa gggccgaacc ccggccggca aaacccccat ccaatccaaa ccagaaatca
+      181 tctaaagatt tgacggccgc ccagtgcgga cgtcgccaac caaagacaac tctcaacaac
+      241 ggatatcttg gctcccgtat cgatgaagaa cgcagcgaaa tgcgatacgt agtgtgaatt
+      301 gcagataatg tgaatcatcg aatctttgaa cgcaaattgc actcgaggct ccggccaaga
+      361 gtatgtctgc ctcagcgtcg gctttaccct caccccccca gtcgggaggc gtggacctgg
+      421 cagtcccggt cggcaacgac cgggtccgct gaagaccaga ggctcgagca aggacccaca
+      481 tgggaaaaca gtctggtagg tgacccgaaa ggggcgcatg ccgctgctcg cccggaacct
+      541 tgttggaagc cggcaggaat cgtcggtcgc tcttagcggg gcggccgtgc gaacaccctt
+      601 ttcgacctga gttcaggcaa gaacacccgc tgaacttaag catatcaata agcggagga
+//
+
+LOCUS       HQ335215                 720 bp    DNA     linear   PLN 29-AUG-2011
+DEFINITION  Coccomyxa sp. S2 internal transcribed spacer 1, partial sequence;
+            5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   HQ335215
+VERSION     HQ335215.1  GI:344190131
+KEYWORDS    .
+SOURCE      Coccomyxa sp. S2
+  ORGANISM  Coccomyxa sp. S2
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 720)
+  AUTHORS   Zhang,Q. and Shi,Q.L.
+  TITLE     Algae separation and purification from lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 720)
+  AUTHORS   Zhang,Q. and Shi,Q.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2010) School of Basic Medicine and Biological
+            Sciences, Soochow University, Ren'ai Road 199#, Suzhou, Jiangsu
+            215123, China
+FEATURES             Location/Qualifiers
+     source          1..720
+                     /organism="Coccomyxa sp. S2"
+                     /mol_type="genomic DNA"
+                     /isolate="S2"
+                     /db_xref="taxon:1004378"
+     misc_RNA        <1..>720
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2; may also
+                     contain 18S ribosomal RNA and 28S ribosomal RNA"
+ORIGIN      
+        1 ccagcatgat acgcggagga gtggatgtca aagtcgtaac aaggtaaccg catatcaata
+       61 accaggagga ggggtgcctt ttttaacgaa gacagccggc tgtgcgcttg tccctgtccc
+      121 aggcgccctt cggggacctg gcaggtctgg cgggctgggg aggccgctct cctctgaccg
+      181 ggagagggcc gaaccccggc tggcaaaaac cccattcaat ccaaaaccag aaacttgctg
+      241 aagatcccga cggctgtcca acagtcgtct ccaaccaaag acaactctca acaacggata
+      301 tcttggctcc cgtatcgatg aagaacgcag cgaaatgcga tacgtagtgt gaattgcaga
+      361 taatgtgaat catcgaatct ttgaacgcaa attgcactcg aggctccggc cgagagtatg
+      421 tctgcctcag cgtcggcttt accctcaccc ctccgatgag gaggcgtgga cctggccgtc
+      481 ccggttttca accgggtctg ccgaagaaca gaggctcgaa cgaggacccc atcgggacaa
+      541 cagtctggta ggtgacccgt cagggatcgc atgccgctgt cggcccggga cctcgttgta
+      601 agccggcagg aatcgccggt cgctccttgg aaaaagaagc ggccgcgcga cacacccttt
+      661 tcgacctgag ttcaggcaag aacacccgct gaacttaagc atatcaataa gccggaggaa
+//
+
+LOCUS       HQ335216                 719 bp    DNA     linear   PLN 29-AUG-2011
+DEFINITION  Coccomyxa sp. S10 internal transcribed spacer 1, partial sequence;
+            5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   HQ335216
+VERSION     HQ335216.1  GI:344190132
+KEYWORDS    .
+SOURCE      Coccomyxa sp. S10
+  ORGANISM  Coccomyxa sp. S10
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1  (bases 1 to 719)
+  AUTHORS   Zhang,Q. and Shi,Q.L.
+  TITLE     Algae separation and purification from lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 719)
+  AUTHORS   Zhang,Q. and Shi,Q.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2010) School of Basic Medicine and Biological
+            Sciences, Soochow University, Ren'ai Road 199#, Suzhou, Jiangsu
+            215123, China
+FEATURES             Location/Qualifiers
+     source          1..719
+                     /organism="Coccomyxa sp. S10"
+                     /mol_type="genomic DNA"
+                     /isolate="S10"
+                     /db_xref="taxon:1004377"
+     misc_RNA        <1..>719
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2; may also
+                     contain 18S ribosomal RNA and 28S ribosomal RNA"
+ORIGIN      
+        1 ccagcaatga ttacgggagg agtggatgtc aaagtcgtaa caaggtaacc gcatatcaat
+       61 aaccaggagg aggggtgcct tttttaacga agacagccgg ctgtgcgctt gtccctgtcc
+      121 caggcgccct tcggggacct ggcaggtctg gcgggctggg gaggccgctc tcctctgacc
+      181 gggagagggc cgaaccccgg ctggcaaaaa ccccattcaa tccaaaacca gaaacttgct
+      241 gaagatcccg acggctgtcc aacagtcgtc tccaaccaaa gacaactctc aacaacggat
+      301 atcttggctc ccgtatcgat gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag
+      361 ataatgtgaa tcatcgaatc tttgaacgca aattgcactc gaggctccgg ccgagagtat
+      421 gtctgcctca gcgtcggctt taccctcacc cctccgatga ggaggcgtgg acctggccgt
+      481 cccggttttc aaccgggtct gccgaagaac agaggctcga acgaggaccc catcgggaca
+      541 acagtctggt aggtgacccg tcagggatcg catgccgctg tcggcccggg acctcgttgt
+      601 aagccggcag gaatcgccgg tcgctccttg gaaaaagaag cggccgcgcg acacaccctt
+      661 ttcgacctga gttcaggcaa gaacacccgc tgaacttaag catatcataa gcggtggaa
+//
+
