@@ -5,6 +5,7 @@ Scripts:
 
 AddGroup.pl -add information about redundant sequence groupings to metadata file
 AddMetadata.pl -add host or algal species information to taxon names in a tree file
+AddSig.pl -modify aLRT values to be either 1 (>=0.9) or 0 (<0.9)
 ColourTree.pl -color taxa in trees according to host taxonomy
 ConvertSeq.pl -convert among different sequence/alignment file formats
 CountAssociations.py -produces a matrix of host genus / algal clade assocaitions
