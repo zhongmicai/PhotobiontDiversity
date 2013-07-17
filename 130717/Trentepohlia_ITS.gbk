@@ -1,0 +1,3528 @@
+LOCUS       JF727811                1229 bp    DNA     linear   PLN 05-JUL-2012
+DEFINITION  Printzina lagenifera isolate TreFl 13 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JF727811
+VERSION     JF727811.1  GI:347559987
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1229)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Culture experiments on lichenised Trentepohliales from humid and
+            tropical rainforest habitats
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1229)
+  AUTHORS   Hametner,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2011) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1229
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 13"
+                     /host="Graphis scripta BLU1"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     misc_RNA        <1..>1229
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN      
+        1 ggcgtggagc ctgcggctta atttgactca acacggggaa acttaccagg tccagacatg
+       61 ggtaggattg acagattgat agctctttct tgattctatg ggtggtggtg catggccgtt
+      121 cttagttggt gggttggctt gtcaggttga ttccggtaac gaacgagacc tcagcctgct
+      181 aaatagtagc tttcggttcg ccgggaggca gacttcttag agggactatt agcgactatc
+      241 agctaattga agtatgaggc aataacaggt ctgtgatgcc cttagatgtt ctgggccgca
+      301 cgcgcgctac actgacgcaa tcaacgagcc tcctggcctc gagagggtcg ggtaatcttg
+      361 taaactgcgt cgtgatgggg ctagagcttt gtaattattg ctctttaacg aggaatgcct
+      421 agtaagcgcg agtcatcagc tcgcgttgat tacgtccctg ccctttgtac acaccgcccg
+      481 tcgctccttc cgattgggtg tgctggtgaa gagttcggac tggaccaggc tagcaatagc
+      541 cccggttcgg gaagtccttt gaaccctctc gcctagagga aggagaagtc gtaacaaggt
+      601 ttccgtaggt gaacctgcgg aaggatcatt taattcgata aaaacaccgc cagtatggta
+      661 acttttaaac gttcgccgtc cgtcgtcgtt ccttccctct cgggaggggg cggcccggac
+      721 ggggttgttt taaacaacaa caacaaccgc aagaagtgtt tattaagaaa tgcaagtcgt
+      781 ccaccgtcga cctcgtcgcg gggggcgcaa ctaaccaaga ataaccccta acaacggatg
+      841 tcttggctct cgcaacgatg aagaacgcag cgaaatgcga tatgtagtgt gaattgcaga
+      901 attacgtgaa tcatcgaatc tttgaacgca tatggcaccc gagacttcgg tcgagggtat
+      961 gtctgtctca gagtcgacgt aaaaacatcc ccaaggaaag accaacgcgt ctatccttcg
+     1021 ggggagctgg cccccccggg agccgggttt cggcccaagc ccccgggtcg gctgaaggta
+     1081 agagacgggg gaccgcatgc gccgggcagc cacgattttg gtgggaggac ctcgtgtccg
+     1141 catcacagat cgtgcgtcca acctttagcg tgcggccgtt tggaccccgc cattgcagga
+     1201 aacaacaaaa tatgttttcg acctgagat
+//
+
+LOCUS       JF727814                1301 bp    DNA     linear   PLN 05-JUL-2012
+DEFINITION  Printzina lagenifera isolate TreFl 14 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JF727814
+VERSION     JF727814.1  GI:347559988
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1301)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Culture experiments on lichenised Trentepohliales from humid and
+            tropical rainforest habitats
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1301)
+  AUTHORS   Hametner,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2011) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1301
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 14"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Italy"
+                     /note="photobiont"
+     misc_RNA        <1..>1301
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN      
+        1 tttctgggtt ccggggggag tatggtcgca aggctgaaac ttaaaggaat tgacggaagg
+       61 gcaccaccag gcgtggagcc tgcggcttaa tttgactcaa cacggggaaa cttaccaggt
+      121 ccagacatgg gtaggattga cagattgata gctctttctt gattctatgg gtggtggtgc
+      181 atggccgttc ttagttggtg ggttggcttg tcaggttgat tccggtaacg aacgagacct
+      241 cagcctgcta aatagtagct ttcggttcgc cgggaggcag acttcttaga gggactatta
+      301 gcgactatca gctaattgaa gtatgaggca ataacaggtc tgtgatgccc ttagatgttc
+      361 tgggccgcac gcgcgctaca ctgacgcaat caacgagcct cctggcctcg agagggtcgg
+      421 gtaatcttgt aaactgcgtc gtgatggggc tagagctttg taattattgc tctttaacga
+      481 ggaatgccta gtaagcgcga gtcatcagct cgcgttgatt acgtccctgc cctttgtaca
+      541 caccgcccgt cgctccttcc gattgggtgt gctggtgaag agttcggact ggaccaggct
+      601 agcaatagcc ccggttcggg aagtcctttg aaccctctcg cctagaggaa ggagaagtcg
+      661 taacaaggtt tccgtaggtg aacctgcgga aggatcattt aattcgataa aaacaccgcc
+      721 agtatggtaa cttttaaacg ttcgccgtcc gtcgtcgttc cttccctctc gggagggggc
+      781 ggcccggacg gggttgtttt aaacaacaac aacaaccgca agaagtgttt attaagaaat
+      841 gcaagtcgtc caccgtcgac ctcgtcgcgg ggggcgcaac taaccaagaa taacccctaa
+      901 caacggatgt cttggctctc gcaacgatga agaacgcagc gaaatgcgat atgtagtgtg
+      961 aattgcagaa ttacgtgaat catcgaatct ttgaacgcat atggcacccg agacttcggt
+     1021 cgagggtatg tctgtctcag agtcgacgta aaaacatccc caaggaaaga ccaacgcgtc
+     1081 tatccttcgg gggagctggc ccccccggga gccgggtttc ggcccaagcc cccgggtcgg
+     1141 ctgaaggtaa gagacggggg accgcatgcg ccgggcagcc acgattttgg tgggaggacc
+     1201 tcgtgtccgc atcacagatc gtgcgtccaa ccttagcgtg cggccgtttg gaccccgcca
+     1261 ttgcaggaaa caacaaaata tgttttcgac ctgagatcag g
+//
+
+LOCUS       JF727819                 797 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina sp. TreFl 53 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   JF727819
+VERSION     JF727819.1  GI:347559990
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 53
+  ORGANISM  Printzina sp. TreFl 53
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 797)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Culture experiments on lichenised Trentepohliales from humid and
+            tropical rainforest habitats
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 797)
+  AUTHORS   Hametner,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2011) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..797
+                     /organism="Printzina sp. TreFl 53"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 53"
+                     /host="Graphis submarginata"
+                     /db_xref="taxon:1262858"
+                     /country="Argentina"
+                     /note="photobiont"
+     misc_RNA        <1..>797
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN      
+        1 agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac cgcccgtcgc
+       61 tccttccgat tgggtgtgct ggtgaagagt tcggactgga cttggctagc aatagcccta
+      121 gttcgggaag tcctttgaac cctctcgcct agaggaagga gaagtcgtaa caaggtttcc
+      181 gtaggtgaac ctgcggaagg atcatttaat tcgataaaaa caccgccatt atggtaacct
+      241 gtaaacgttc accgcgcgaa gttcccctcg cctcggcggg gggagcccgt gcggggggtt
+      301 gttcacacaa caaccaaaca acgccacaag tgtttaaacg aaaactcaag tcgtctaccg
+      361 tcgactcagt cgcgggaggc gcaactaacc aagaaataac ccctaacaac ggatgtcttg
+      421 gctctcgcaa cgatgaagaa cgcagcgaaa tgcgatatgt agtgtgaatt gcagaattac
+      481 gtgaatcatc gaatctttga acgcatatgg cacccgagat ttcggtcgag ggtatgtctg
+      541 tctcagagtc ggcgtaaaaa catccccaag gaaactgacc ttcgcgtcgc tttccgacgg
+      601 gggagctggc cttcccggac gcggggcttg ccctgacggc cgggttggct gaaggataga
+      661 gacgggggac cgcacgcgcc cgggcagcca cgattttggt ggggaggact tcgcgtccgc
+      721 atcattgatc gtgctaccca actcatagtg tgtcggtcgt ttggaccccg ccactgcaga
+      781 aatattatca tagttcc
+//
+
+LOCUS       JQ687379                 937 bp    DNA     linear   PLN 14-APR-2012
+DEFINITION  Trentepohlia aurea isolate SAG_483_1 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JQ687379
+VERSION     JQ687379.1  GI:383510934
+KEYWORDS    .
+SOURCE      Trentepohlia aurea
+  ORGANISM  Trentepohlia aurea
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 937)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 937)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..937
+                     /organism="Trentepohlia aurea"
+                     /mol_type="genomic DNA"
+                     /isolate="SAG_483_1"
+                     /db_xref="taxon:173376"
+     misc_RNA        <1..>937
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN      
+        1 gtgacctacg aggatgccta gtagcgcgag tcatcagctc gcgttgatta cgtccctgcc
+       61 ctttgtacac accgcccgtc gctccttccg attgggtgtg ctggtgaaga gttcggactg
+      121 gaccatggct agcgatagcc ccggtacggg aagttctttg aaccctctcg cctagaggaa
+      181 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattt aattcgataa
+      241 aaacaccgcc atcatggtaa cctgtaaaag tttaatccgt cgtgcgcctt ggggtgtcgg
+      301 ggggctggat ctggggagag attcgctttt ccttcccccc tccctcctcg gacgcggcgg
+      361 ggggcggttg tctcacgaca accaccaaat ctcacatcgc aagaaagagt ttactacgaa
+      421 gtaaaaagcc gtaccaccgt cgacctcgtc gcgggggacg caactaacca agaataaccc
+      481 ctaacaacgg atgtcttggc tcgcgcaacg atgaagaacg cagcgaaatg cgatatgtag
+      541 tgtgaattgc agaattacgt gaatcatcga atctttgaac gcatatggca cccgagactt
+      601 cggtcgaggg tatgtctgtc tcagagtcgg cgtaaaaaca tccccgagaa caccctccgg
+      661 ggcgttcgag ggggagctgg ccctcccggg ttctcctatc gcaaggtggg ggaggttccc
+      721 gggttggctg aagggtagag acgggggacc ggatacgccg ggcagccacg atttggtgga
+      781 tggacctccg agtccgcgac actcgtcgtg ctcccgatca aatgtatccc ggtctagccc
+      841 cgccgtgcag gaaaaattat acatcatagt tccgacctga gatcacgcaa gatcacccgc
+      901 tgaacttaag catatcaata aagggggaga aaataga
+//
+
+LOCUS       JQ617948                 803 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Trentepohlia aurea isolate TreFl 25 18S ribosomal RNA gene, partial
+            sequence; and internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence.
+ACCESSION   JQ617948
+VERSION     JQ617948.1  GI:386872864
+KEYWORDS    .
+SOURCE      Trentepohlia aurea
+  ORGANISM  Trentepohlia aurea
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 803)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 803)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..803
+                     /organism="Trentepohlia aurea"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 25"
+                     /host="Gyalecta jenensis"
+                     /db_xref="taxon:173376"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..141
+                     /product="18S ribosomal RNA"
+     misc_RNA        142..662
+                     /product="internal transcribed spacer 1"
+     rRNA            663..803
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 tagtaagcgc gagtcatcag ctcgcgttga ttacgtccct gccctttgta cacaccgccc
+       61 gtcgctcctt ccgattgggt gtgctggtga agagttcgga ctggaccatg gctagcgata
+      121 gccccggtac gggaagttct ttgaaccctc tcgcctagag gaaggagaag tcgtaacaag
+      181 gtttccgtag gtgaacctgc ggaaggatca tttaattcga taaaaacacc gccatcatgg
+      241 taacctgtaa aagtttaatc cgtcgtgcgc cttggggtgt cggggggctg gatctgggga
+      301 gagattcgct tttccttccc cccctccctc ctcggacgcg gcggggggcg gttgtctcac
+      361 gacaaccacc aaatctcaca tcgcaagaaa gagtttacta cgaagtaaaa agccgtacca
+      421 ccgtcgacct cgtcgcgggg gacgcaacta accaagaata acccctaaca acggatgtct
+      481 tggctctcgc aacgatgaag aacgcagcga aatgcgatat gtagtgtgaa ttgcagaatt
+      541 acgtgaatca tcgaatcttt gaacgcatat ggcacccgag acttcggtcg agggtatgtc
+      601 tgtctcagag tcggcgtaaa aacatccccg agaacaccct ccggggcgtt cgagggggag
+      661 ctggccctcc cgggttctcc tatcgcaagg tgggggaggt tcccgggttg gctgaagggt
+      721 agagacgggg gaccggatac gccgggcagc cacgattttg gtggatggac ctcgcgtgtc
+      781 cgcaacactc gtcgtgctcc caa
+//
+
+LOCUS       JQ617949                1116 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina sp. TreFl 26 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   JQ617949
+VERSION     JQ617949.1  GI:386872865
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 26
+  ORGANISM  Printzina sp. TreFl 26
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1116)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1116)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1116
+                     /organism="Printzina sp. TreFl 26"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 26"
+                     /host="Pyrenula laevigata"
+                     /db_xref="taxon:1185474"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..902
+                     /product="internal transcribed spacer 1"
+     rRNA            903..1058
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1059..>1116
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctctcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttca acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacct ggctggcaac agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaacttttt
+      541 aaacgttcac cgtccggcgc ccaccccgcc tcggcgggga ggggctccgg gcggggttgt
+      601 tttcacaaca acaaccaccg ctatagaagt gtttactcac gaaacccaaa gccgtccacc
+      661 gtcgacctcg tcgcgggggg cgcaaataac caagaaataa cccctaacaa cggatgtctt
+      721 ggctctcgca acgatgaaga acgcagcgaa atgcgatatg tagtgtgaat tgcagaatta
+      781 cgtgaatcat cgaatctttg aacgcatatg gcacccgaga cttcggtcga gggtatatct
+      841 gtctcagagt cgacgttaaa acaatcccca aggagaccaa cgcgtactcc tttgggggag
+      901 ctggcccccc cggttgcggg cttttaccgg tccagcgccg ggtcggctga aggtgagaga
+      961 cgggggaccg cgttgcgccg ggcagccacg attttggtgg gaggacttcg cgtccgcatc
+     1021 actgatcgag cgccctaaca agctcgcggc cgtttgggcc ccgcccttgc aggaagcaac
+     1081 aaataaacat gttttcgacc tgagatcagt aagatc
+//
+
+LOCUS       JQ617950                 789 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina sp. TreFl 65 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   JQ617950
+VERSION     JQ617950.1  GI:386872866
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 65
+  ORGANISM  Printzina sp. TreFl 65
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 789)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 789)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..789
+                     /organism="Printzina sp. TreFl 65"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 65"
+                     /isolation_source="with mycobiont Dimerella pineti"
+                     /db_xref="taxon:1185476"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..134
+                     /product="18S ribosomal RNA"
+     misc_RNA        135..603
+                     /product="internal transcribed spacer 1"
+     rRNA            604..759
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        760..>789
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gcgcgagtca tcagctcgcg ttgattacgt ccctgccctt tgtacacacc gcccgtcgct
+       61 ccttccgatt gggtgtgctg gtgaagagtt cggactggac ctggctggca acagccccgg
+      121 ttcgggaagt cctttgaacc ctctcgccta gaggaaggag aagtcgtaac aaggtttccg
+      181 taggtgaacc tgcggaagga tcatttaatt cgataaaaac accgccgtat ggtaactttt
+      241 taaacgttca ccgtccggcg cccaccccgc ctcggcgggg aggggctccg ggcggggttg
+      301 ttttcacaac aacaaccacc gctatagaag tgtttactca cgaaacccaa agccgtccac
+      361 cgtcgacctc gtcgcggggg gcgcaaataa ccaagaaata acccctaaca acggatgtct
+      421 tggctctcgc aacgatgaag aacgcagcga aatgcgatat gtagtgtgaa ttgcagaatt
+      481 acgtgaatca tcgaatcttt gaacgcatat ggcacccgag acttcggtcg agggtatatc
+      541 tgtctcagag tcgacgttaa aacaatcccc aaggagacca acgcgtactc ctttggggga
+      601 gctggccccc ccggttgcgg gcttttaccg gtccagcgcc gggtcggctg aaggtgagag
+      661 acgggggacc gcgttgcgcc gggcagccac gattttggtg ggaggacttc gcgtccgcat
+      721 cactgatcga gcgccctaac aagctcgcgg ccgtttgggc cccgcccttg caggaagcaa
+      781 cgaataaac
+//
+
+LOCUS       JQ617951                1121 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina sp. TreFl 28 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   JQ617951
+VERSION     JQ617951.1  GI:386872867
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 28
+  ORGANISM  Printzina sp. TreFl 28
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1121)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1121)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1121
+                     /organism="Printzina sp. TreFl 28"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 28"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:1185475"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..433
+                     /product="18S ribosomal RNA"
+     misc_RNA        434..906
+                     /product="internal transcribed spacer 1"
+     rRNA            907..1062
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1063..>1121
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctctcggc tccgccggga ggcagacttc ttagagggac tattagcgac tatcagctaa
+      121 ttgaagtatg aggcaataac aggtctgtga tgcccttaga tgttctgggc cgcacgcgcg
+      181 ctacactgac gcaatcaacg agcctcctgg cctcgagagg gtcgggtaat cttgtaaact
+      241 gcgtcgtgat ggggctagag ctttgtaatt attgctcttt aacgaggaat gcctagtaag
+      301 cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg cccgtcgctc
+      361 cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctggcaa cagccccggt
+      421 tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca aggtttccgt
+      481 aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccattat ggtaaccttt
+      541 tgaacgttcg ccgccccgaa ccccgcttgc gcctcggcgt ggtggggcga agggcggggg
+      601 ttgttttcac aacaacaacc accgctatag aagtgtttac tcacgaaact aaaagccgtc
+      661 caccgtcgac ctcgtcgcgg ggggcgcaaa taaccaagaa ataaccccta acaacggatg
+      721 tcttggctct cgcaacgatg aagaacgcag cgaaatgcga tatgtagtgt gaattgcaga
+      781 attacgtgaa tcatcgaatc tttgaacgca tatggcaccc gagacttcgg tcgagggtat
+      841 atctgtctca gagtcgacgt taaaacaatc cccaaggaga ccatctcgta ctcttttggg
+      901 ggagctggcc cccccggttg cggtccttta tcggtccagc gccgggtcgg ctgaaggtga
+      961 gagacggggg accgcgttgc gccgggcagc cacgattttg gtgggaggac tccgcgtcca
+     1021 caacactgat cgagcgccta acatagcacg cggccgtttg gaccccgctt ttgcaggaag
+     1081 caacaactta tgttttcgac ctgagatcag taagatcacc c
+//
+
+LOCUS       JQ617952                 832 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 12 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617952
+VERSION     JQ617952.1  GI:386872868
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 832)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 832)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..832
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 12"
+                     /host="Arthonia cinnabarina"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..136
+                     /product="18S ribosomal RNA"
+     misc_RNA        137..605
+                     /product="internal transcribed spacer 1"
+     rRNA            606..756
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        757..>832
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 aagcgcgagt catcagctcg cgttgattac gtccctgccc tttgtacaca ccgcccgtcg
+       61 ctccttccga ttgggtgtgc tggtgaagag ttcggactgg accaggctag caatagcccc
+      121 ggttcgggaa gtcctttgaa ccctctcgcc tagaggaagg agaagtcgta acaaggtttc
+      181 cgtaggtgaa cctgcggaag gatcatttaa ttcgataaaa acaccgccag tatggtaact
+      241 tttaaacgtt cgccgtccgt cgtcgttcct tccctctcgg gagggggcgg cccggacggg
+      301 gttgttttaa acaacaacaa caaccgcaag aagtgtttat taagaaatgc aagtcgtcca
+      361 ccgtcgacct cgtcgcgggg ggcgcaacta accaagaata acccctaaca acggatgtct
+      421 tggctctcgc aacgatgaag aacgcagcga aatgcgatat gtagtgtgaa ttgcagaatt
+      481 acgtgaatca tcgaatcttt gaacgcatat ggcacccgag acttcggtcg agggtatgtc
+      541 tgtctcagag tcgacgtaaa aacatcccca aggaaagacc aacgcgtcta tccttcgggg
+      601 gagctggccc ccccgggagc cgggtttcgg cccaagcccc cgggtcggct gaaggtaaga
+      661 gacgggggac cgcatgcgcc gggcagccac gattttggtg ggaggacctc gtgtccgcat
+      721 cacagatcgt gcgtccaacc ttagcgtgcg gccgtttgga ccccgccatt gcaggaaaca
+      781 acaaaatatg ttttcgacct gagatcagca agatcacccg ctgaacttaa gc
+//
+
+LOCUS       JQ617953                 818 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 29 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617953
+VERSION     JQ617953.1  GI:386872869
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 818)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 818)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..818
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 29"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..135
+                     /product="18S ribosomal RNA"
+     misc_RNA        136..604
+                     /product="internal transcribed spacer 1"
+     rRNA            605..755
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        756..>818
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac cgcccgtcgc
+       61 tccttccgat tgggtgtgct ggtgaagagt tcggactgga ccaggctagc aatagccccg
+      121 gttcgggaag tcctttgaac cctctcgcct agaggaagga gaagtcgtaa caaggtttcc
+      181 gtaggtgaac ctgcggaagg atcatttaat tcgataaaaa caccgccagt atggtaactt
+      241 ttaaacgttc gccgtccgtc gtcgttcctt ccctctcggg agggggcggc ccggacgggg
+      301 ttgttttaaa caacaacaac aaccgcaaga agtgtttatt aagaaatgca agtcgtccac
+      361 cgtcgacctc gtcgcggggg gcgcaactaa ccaagaataa cccctaacaa cggatgtctt
+      421 ggctctcgca acgatgaaga acgcagcgaa atgcgatatg tagtgtgaat tgcagaatta
+      481 cgtgaatcat cgaatctttg aacgcatatg gcacccgaga cttcggtcga gggtatgtct
+      541 gtctcagagt cgacgtaaaa acatccccaa ggaaagacca acgcgtctat ccttcggggg
+      601 agctggcccc cccgggagcc gggtttcggc ccaagccccc gggtcggctg aaggtaagag
+      661 acgggggacc gcatgcgccg ggcagccacg attttggtgg gaggacctcg tgtccgcatc
+      721 acagatcgtg cgtccaacct tagcgtgcgg ccgtttggac cccgccattg caggaaacaa
+      781 caaaatatgt tttcgacctg agatcaggca agatcacc
+//
+
+LOCUS       JQ617954                1134 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 143 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617954
+VERSION     JQ617954.1  GI:386872870
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1134)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1134)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1134
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 143"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="United Kingdom"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1052
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1053..>1134
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg ccgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccgtcgtc gttccttccc tctcgggagg gggcggcccg gacggggttg
+      601 ttttaaacaa caacaacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tccccaagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtgcgt ccaaccttag cgtgcggccg tttggacccc gccattgcag gaaacaacaa
+     1081 aatatgtttt cgacctgaga tcaggcaaga tcacccgctg aacttaagca tatc
+//
+
+LOCUS       JQ617955                1134 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 30 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617955
+VERSION     JQ617955.1  GI:386872871
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1134)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1134)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1134
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 30"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1052
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1053..>1134
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccgtcgtc gttccttccc tctcgggagg gggcggcccg gacggggttg
+      601 ttttaaacaa caacaacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tccccaagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtgcgt ccaaccttag cgtgcggccg tttggacccc gccattgcag gaaacaacaa
+     1081 aatatgtttt cgacctgaga tcaggcaaga tcacccgctg aacttaagca tatc
+//
+
+LOCUS       JQ617956                1126 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 20 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617956
+VERSION     JQ617956.1  GI:386872872
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1126)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1126)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1126
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 20"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1052
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1053..>1126
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccgtcgtc gttccttccc tctcgggagg gggcggcccg gacggggttg
+      601 ttttaaacaa caacaacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tccccaagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtgcgt ccaaccttag cgtgcggccg tttggacccc gccattgcag gaaacaacaa
+     1081 aatatgtttt cgacctgaga tcaggcaaga tcacccgctg aactaa
+//
+
+LOCUS       JQ617957                1122 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 27 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617957
+VERSION     JQ617957.1  GI:386872873
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1122)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1122)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1122
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 27"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1052
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1053..>1122
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccgtcgtc gttccttccc tctcgggagg gggcggcccg gacggggttg
+      601 ttttaaacaa caacaacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tccccaagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtgcgt ccaaccttag cgtgcggccg tttggacccc gccattgcag gaaacaacaa
+     1081 aatatgtttt cgacctgaga tcaggcaaga tcacccgctg ac
+//
+
+LOCUS       JQ617958                1123 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 21 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617958
+VERSION     JQ617958.1  GI:386872874
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1123)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1123)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1123
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 21"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1052
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1053..>1123
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccgtcgtc gttccttccc tctcgggagg gggcggcccg gacggggttg
+      601 ttttaaacaa caacaacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tccccaagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtgcgt ccaaccttag cgtgcggccg tttggacccc gccattgcag gaaacaacaa
+     1081 aatatgtttt cgacctgaga tcaggcaaga tcacccgctg acc
+//
+
+LOCUS       JQ617959                1121 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina lagenifera isolate TreFl 19 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JQ617959
+VERSION     JQ617959.1  GI:386872875
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1121)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1121)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1121
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 19"
+                     /host="Graphis scripta"
+                     /db_xref="taxon:374114"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1052
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        1053..>1121
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccgtcgtc gttccttccc tctcgggagg gggcggcccg gacggggttg
+      601 ttttaaacaa caacaacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tccccaagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtgcgt ccaaccttag cgtgcggccg tttggacccc gccattgcag gaaacaacaa
+     1081 aatatgtttt cgacctgaga tcaggcaaga tcacccgctg a
+//
+
+LOCUS       JQ617960                1027 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina cf. lagenifera TreFl 22 18S ribosomal RNA gene, partial
+            sequence; and internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence.
+ACCESSION   JQ617960
+VERSION     JQ617960.1  GI:386872876
+KEYWORDS    .
+SOURCE      Printzina cf. lagenifera TreFl 22
+  ORGANISM  Printzina cf. lagenifera TreFl 22
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1027)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1027)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1027
+                     /organism="Printzina cf. lagenifera TreFl 22"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 22"
+                     /host="Thelotrema lepadinum"
+                     /db_xref="taxon:1185472"
+                     /country="Austria"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..901
+                     /product="internal transcribed spacer 1"
+     rRNA            902..1027
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccggcgtc cctccttccc tctcgggagg gggcggcccg gggggggttg
+      601 ttttaaacaa caaccacccc cccaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtcga cgtaaaaaca tcccccagga aagaccaacg cgtctatcct tcgggggagc
+      901 tggccccccc gggagccggg tttcggccca agcccccggg tcggctgaag gtaagagacg
+      961 ggggaccgca tgcgccgggc agccacgatt ttggtgggag gacctcgtgt ccgcatcaca
+     1021 gatcgtg
+//
+
+LOCUS       JQ617961                 848 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina cf. lagenifera TreFl 137 18S ribosomal RNA gene, partial
+            sequence; and internal transcribed spacer 1, complete sequence.
+ACCESSION   JQ617961
+VERSION     JQ617961.1  GI:386872877
+KEYWORDS    .
+SOURCE      Printzina cf. lagenifera TreFl 137
+  ORGANISM  Printzina cf. lagenifera TreFl 137
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Printzina cf. lagenifera TreFl 137"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 137"
+                     /host="Arthonia cinnabarina"
+                     /db_xref="taxon:1185471"
+                     /country="United Kingdom"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..848
+                     /product="internal transcribed spacer 1"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctttcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggt ctcgagaggg tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacca ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccagtatg gtaactttta
+      541 aacgttcgcc gtccggcgtc cttccctccc tctcgggggg gggcggcccg gagggggttg
+      601 ttttaaacaa caaccacaac cgcaagaagt gtttattaag aaatgcaagt cgtccaccgt
+      661 cgacctcgtc gcggggggcg caactaacca agaataaccc ctaacaacgg atgtcttggc
+      721 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      781 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      841 tcagagtc
+//
+
+LOCUS       JQ617962                 928 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Printzina sp. TreFl 135 18S ribosomal RNA gene, partial sequence;
+            and internal transcribed spacer 1 and 5.8S ribosomal RNA gene,
+            complete sequence.
+ACCESSION   JQ617962
+VERSION     JQ617962.1  GI:386872878
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 135
+  ORGANISM  Printzina sp. TreFl 135
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 928)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Printzina sp. TreFl 135"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 135"
+                     /host="Pyrenula laevigata"
+                     /db_xref="taxon:1185473"
+                     /country="United Kingdom"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..921
+                     /product="internal transcribed spacer 1"
+     rRNA            922..928
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctcccggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggt ctcgagagga tcgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttca acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacct ggctagcaat agccccggta
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccaatatg gtaacttgta
+      541 aacgttcctg ccgcaaggcg gaccgctctt tcccccgtct cgacgggggg cgagggggac
+      601 gtcgcgcggg gttgtttttc acaacaacca cccccaccgc caaagaagtg tttaaacgaa
+      661 aaacaaagcc gtccgccgtc gacctcgtcg cggagggcgc aactaaccaa gaaataaccc
+      721 ctaacaacgg atgtcttggc tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag
+      781 tgtgaattgc agaattacgt gaatcatcga atctttgaac gcatatggca cccgagactt
+      841 cggtcgaggg tatgtctgtc tcagagtcgg cgtaaaaaat ccccaaggaa aagaccttgc
+      901 gtccttccga tggggggagc tggcctcc
+//
+
+LOCUS       JQ617977                 892 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Trentepohlia sp. TreFl 156 18S ribosomal RNA gene, partial
+            sequence; and internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence.
+ACCESSION   JQ617977
+VERSION     JQ617977.1  GI:386872893
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl 156
+  ORGANISM  Trentepohlia sp. TreFl 156
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 892)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 892)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..892
+                     /organism="Trentepohlia sp. TreFl 156"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 156"
+                     /host="Acrocordia gemmata"
+                     /db_xref="taxon:1185492"
+                     /country="United Kingdom"
+                     /note="photobiont"
+     rRNA            <1..431
+                     /product="18S ribosomal RNA"
+     misc_RNA        432..885
+                     /product="internal transcribed spacer 1"
+     rRNA            886..892
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 tgcgtccggt ccgccgggcg tctaacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg cgtccaacga gcctcctggt cacgagagga ccgggtaatc ttgtaaaccg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gatcgaataa ggctagcaat ggcccggttc
+      421 gaaaagttct ttgaaccctc tcgcctagag gaaggagaag tcgtaacaag gtttccgtag
+      481 gtgaacctgc ggaaggatca tttaattcga tcaaaacacc gccaatatgg taactcgtaa
+      541 ccgttcctgg gtcccccggg gtaacacccg ggtcccgggg ttgtttaaaa cacaaccgct
+      601 aaagcgttta tatcaaaaca aaagtcgctc gaaccgtcgg cctagccgcg gagggcgcaa
+      661 ataaccaaga aaaaacccct aacaacggat gtcttggctc tcgcaacgat gaagaacgca
+      721 gcgaaatgcg atatgtagtg tgaattgcag aattacgtga atcatcgaat ctttgaacgc
+      781 atatggcacc cgagacctcg gtcgagggta tgtctgcctc agagtcggcg taaaaacatc
+      841 cccaaggaca ccgacctctg cgtcggtcgc tcggcggggg gagctggctc cc
+//
+
+LOCUS       JQ617979                 837 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Trentepohlia sp. TreFl 155 18S ribosomal RNA gene, partial
+            sequence; and internal transcribed spacer 1, complete sequence.
+ACCESSION   JQ617979
+VERSION     JQ617979.1  GI:386872895
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl 155
+  ORGANISM  Trentepohlia sp. TreFl 155
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 837)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 837)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..837
+                     /organism="Trentepohlia sp. TreFl 155"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 155"
+                     /host="Arthonia radiata"
+                     /db_xref="taxon:1185491"
+                     /country="United Kingdom"
+                     /note="photobiont"
+     rRNA            <1..433
+                     /product="18S ribosomal RNA"
+     misc_RNA        434..837
+                     /product="internal transcribed spacer 1"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 cacgtttggt tcgccagacg gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg cgttcaacga gcctcctggt cacgagagga ccgggtaatc ttgtaaaccg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc aactcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactgtacca tggttcgcaa gaaccaaggt
+      421 tcgggaagtt ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca aggtttccgt
+      481 aggtgaacct gcggaaggat catttaattc gatcataaca cgccaataat ggtaacctgt
+      541 aactgttatc ccccggcccc gggtccgccc ggggacacgc gggggggggt gtgttccaaa
+      601 acacaaccgc caaagcgttt aacacgataa aaaaaagtct cggggtttcc tccgtcgacc
+      661 tagtccgcgg gcctcgcaaa caaccaagaa aaaaacccct aacaacggat gtcttggctc
+      721 tcgcaacgat gaagaacgca gcgaaatgcg atatgtagtg tgaattgcag aattacgtga
+      781 atcatcgaat ctttgaacgc atatggcacc cgagactcgg tcggagggta tgtctgc
+//
+
+LOCUS       JQ617981                 833 bp    DNA     linear   PLN 15-JAN-2013
+DEFINITION  Trentepohlia sp. TreFl 154 18S ribosomal RNA gene, partial
+            sequence; and internal transcribed spacer 1, complete sequence.
+ACCESSION   JQ617981
+VERSION     JQ617981.1  GI:386872897
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl 154
+  ORGANISM  Trentepohlia sp. TreFl 154
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 833)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic data of trentepohlioid photobionts from selected
+            lichens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 833)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..833
+                     /organism="Trentepohlia sp. TreFl 154"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 154"
+                     /db_xref="taxon:1185490"
+                     /country="United Kingdom"
+                     /note="photobiont"
+     rRNA            <1..432
+                     /product="18S ribosomal RNA"
+     misc_RNA        433..833
+                     /product="internal transcribed spacer 1"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 cacatctggt ttaccgggtg gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg cgatcaacga gcctcctggt cacgagagga ccgggtaatc ttgtaaaccg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gaccggattt ggcccgcaag ggccctggtt
+      421 cgagaagttc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg atcaaaacat cgccaatatg gtaacttatc
+      541 ttgttcctcc accttccggt ttaccgggat tgtcgggggg ttggtcgccc ggctgctttt
+      601 gcttttatca ccaacagtaa agtcgcgtat tcgtcaacct agttgccgta gcgtgcaact
+      661 gatcaacacg aaacccctaa caacggatgt cttggctctc gcaacgatga agaacgcagc
+      721 gaaatgcgat atgtagtgtg aattgcagaa ttacgtgaat catcgaatct ttgaacgcac
+      781 atggcatccc cagacttcgg tccacggtat gtctgcctca gagtcggcgt aaa
+//
+
+LOCUS       JX675732                1134 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina sp. TreFl 55 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and
+            internal transcribed spacer 2, complete sequence; and 28S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   JX675732
+VERSION     JX675732.1  GI:414148002
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 55
+  ORGANISM  Printzina sp. TreFl 55
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 1134)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1134)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..1134
+                     /organism="Printzina sp. TreFl 55"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 55"
+                     /host="Graphis lineola"
+                     /db_xref="taxon:1262859"
+                     /country="Argentina"
+     rRNA            <1..319
+                     /product="18S ribosomal RNA"
+     misc_RNA        320..692
+                     /product="internal transcribed spacer 1"
+     rRNA            693..851
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        852..1090
+                     /product="internal transcribed spacer 2"
+     rRNA            1091..>1134
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctctcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggt ctcgagagga ccgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggactt ggctagcaat agccctagtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccattatg gtaacctgta
+      541 aacgttcacc gcgcgaagtt cctctcgcct cggcgggggg aacccgtgcg ggggttgttc
+      601 acacaacaac caaacaacgc cacaagtgtt taaacgaaaa ctcaagtcgt ctaccgtcga
+      661 ctcggtcgcg ggaggcgcaa ctaaccaaga aataacccct aacaacggat gtcttggctc
+      721 tcgcaacgat gaagaacgca gcgaaatgcg atatgtagtg tgaattgcag aattacgtga
+      781 atcatcgaat ctttgaacgc atatggcacc cgagatttcg gtcgagggta tgtctgtctc
+      841 agagtcggcg taaaaacatc cccaaggaat ctgaccttcg cgtcgctttc cgacggggga
+      901 gctggccttc cggacgcggg gcttgccctg acggccgggt cggctgaagg atagagacgg
+      961 gggatcgcac gcgccgggca gccacgattt tggtgggagg acttcgcgtc cgcatcattg
+     1021 atcgtgctac ccaactcata gtgtgtcggt cgtttggacc ccgccactgc aggaaatatt
+     1081 atcatagttc cgacctgaga tcaggcaaga tcacccgctg aacttaagca tatc
+//
+
+LOCUS       JX675733                 834 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina sp. TreFl 69 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and
+            internal transcribed spacer 2, complete sequence; and 28S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   JX675733
+VERSION     JX675733.1  GI:414148003
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 69
+  ORGANISM  Printzina sp. TreFl 69
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 834)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 834)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..834
+                     /organism="Printzina sp. TreFl 69"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 69"
+                     /host="Graphis apertella"
+                     /db_xref="taxon:1262860"
+                     /country="Argentina"
+     rRNA            <1..29
+                     /product="18S ribosomal RNA"
+     misc_RNA        30..402
+                     /product="internal transcribed spacer 1"
+     rRNA            403..561
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        562..800
+                     /product="internal transcribed spacer 2"
+     rRNA            801..>834
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 cctagtaagc gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc
+       61 ccgtcgctcc ttccgattgg gtgtgctggt gaagagttcg gactggactt ggctagcaat
+      121 agccctagtt cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa
+      181 ggtttccgta ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccattatg
+      241 gtaacctgta aacgttcacc gcgcgaagtt cctctcgcct cggcgggggg aacccgtgcg
+      301 ggggttgttc acacaacaac caaacaacgc cacaagtgtt taaacgaaaa ctcaagtcgt
+      361 ctaccgtcga ctcggtcgcg ggaggcgcaa ctaaccaaga aataacccct aacaacggat
+      421 gtcttggctc tcgcaacgat gaagaacgca gcgaaatgcg atatgtagtg tgaattgcag
+      481 aattacgtga atcatcgaat ctttgaacgc atatggcacc cgagatttcg gtcgagggta
+      541 tgtctgtctc agagtcggcg taaaaacatc cccaaggaat ctgaccttcg cgtcgctttc
+      601 cgacggggga gctggccttc cggacgcggg gcttgccctg acggccgggt cggctgaagg
+      661 atagagacgg gggatcgcac gcgccgggca gccacgattt tggtgggagg acttcgcgtc
+      721 cgcatcattg atcgtgctac ccaactcata gtgtgtcggt cgtttggacc ccgccactgc
+      781 aggaaatatt atcatagttc cgacctgaga tcaggcaaga tcacccgctg aact
+//
+
+LOCUS       JX675734                 967 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina sp. TreFl 57 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   JX675734
+VERSION     JX675734.1  GI:414148004
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl 57
+  ORGANISM  Printzina sp. TreFl 57
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 967)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 967)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..967
+                     /organism="Printzina sp. TreFl 57"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl 57"
+                     /host="Graphis leptocarpa"
+                     /db_xref="taxon:1262861"
+                     /country="Argentina"
+     rRNA            <1..319
+                     /product="18S ribosomal RNA"
+     misc_RNA        320..693
+                     /product="internal transcribed spacer 1"
+     rRNA            694..852
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        853..>967
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctctcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggt ctcgagagga ccgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttta acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggactt ggctagcaat agccctagtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccattatg gtaacctgta
+      541 aacgttcacc gcgcgaagtt cccctcgcct cggcgggggg agcccgtgcg gggggttgtt
+      601 cacacaacaa ccaaacaacg ccacaagtgt ttaaacgaaa actcaagtcg tctaccgtcg
+      661 acctcgtcgc ggggggcgca actaaccaag aaataacccc taacaacgga tgtcttggct
+      721 ctcgcaacga tgaagaacgc agcgaaatgc gatatgtagt gtgaattgca gaattacgtg
+      781 aatcatcgaa tctttgaacg catatggcac ccgagacttc ggtcgagggt atgtctgtct
+      841 cagagtcggc gtaaaaacat ccccaaggaa actgaccttc tcgtcgcttt ccaacggggg
+      901 agctggcctt ccggacacgg ggcttgccct gacggccggg tttggctgaa ggtaaaagac
+      961 gggggga
+//
+
+LOCUS       JX675735                 582 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina sp. fTA58 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   JX675735
+VERSION     JX675735.1  GI:414148005
+KEYWORDS    .
+SOURCE      Printzina sp. fTA58
+  ORGANISM  Printzina sp. fTA58
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 582)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 582)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Printzina sp. fTA58"
+                     /mol_type="genomic DNA"
+                     /isolate="fTA58"
+                     /db_xref="taxon:1256527"
+                     /country="Brazil"
+                     /collected_by="M.Ceceres & A.Aptroot"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..380
+                     /product="internal transcribed spacer 1"
+     rRNA            381..539
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        540..>582
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggact tggctggcga
+      121 cggccctggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gatcaaaaca tcgccaatat
+      241 ggtaacttat attgttcccc tccagcgtgg ctttcccggg tgctgggggg tggttaacac
+      301 ctttgctccc tccatcatct cataaaagtt tatcacgatt acaacaactt ggttgccgtc
+      361 caccgtcatt aatcaagaaa caacccctaa caacggatgt cttggctctc gcaacgatga
+      421 agaacgcagc gaaatgcgat atgtagtgtg aattgcagaa ttacgtgaat catcgaatct
+      481 ttgaacgcat atggcacccg agacttcggt cgagggtatg tctgtctaag agtcggctga
+      541 aaaaaactcc gcggatacac atctgcgagg gacctggctt tc
+//
+
+LOCUS       JX675738                 745 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Trentepohlia arborum isolate fTTW 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   JX675738
+VERSION     JX675738.1  GI:414148008
+KEYWORDS    .
+SOURCE      Trentepohlia arborum
+  ORGANISM  Trentepohlia arborum
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 745)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 745)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..745
+                     /organism="Trentepohlia arborum"
+                     /mol_type="genomic DNA"
+                     /isolate="fTTW"
+                     /db_xref="taxon:173375"
+                     /country="Thailand"
+                     /collected_by="C.Hametner"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..428
+                     /product="internal transcribed spacer 1"
+     rRNA            429..587
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        588..>745
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgcctagta agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac
+       61 cgcccgtcgc tccttccgat tgggtgtgct ggtgaagagt tcggactgga cctggctagc
+      121 aatagccccg gttcgggaag tcctttgaac cctctcgcct agaggaagga gaagtcgtaa
+      181 caaggtttcc gtaggtgaac ctgcggaagg atcatttaat tcgataaaaa aaatcgccag
+      241 tcatggtaac cagcagagcg ttgttttttt cccctcctct cggcccgccc cgcgcggacg
+      301 aggggaggaa gggggggaac ttgtcttccc cccggtcacc gccagaaaga agtgttttac
+      361 accagcaaac atgcaaaaag ccgtcccctc gccggccacg tcgcgcgggg gacgcaacca
+      421 accaagaata acccctaaca acggatgtct tggctctcgc aacgatgaag aacgcagcga
+      481 aatgcgatat gtagtgtgaa ttgcagaatt acgtgaatca tcgaatcttt gaacgcatat
+      541 ggcacccgag acctcggtcg agggtatgtc tgtctcagaa tcggcgtgaa aaaccatccc
+      601 cgtgggagct ttcccgacgg tgggagctgg ccccccggct gggcgacgga ggtcttccgc
+      661 cgggtcggct gaaagtgaga gacaggggac cggacacgcc gggcggccac gattttgttg
+      721 ggaggaccta tcgtccgcat caatc
+//
+
+LOCUS       JX675739                 534 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina cf. lagenifera fT7 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and
+            5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   JX675739
+VERSION     JX675739.1  GI:414148009
+KEYWORDS    .
+SOURCE      Printzina cf. lagenifera fT7
+  ORGANISM  Printzina cf. lagenifera fT7
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 534)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 534)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Printzina cf. lagenifera fT7"
+                     /mol_type="genomic DNA"
+                     /isolate="fT7"
+                     /db_xref="taxon:1256526"
+                     /country="Austria"
+                     /collected_by="C.Hametner"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..399
+                     /product="internal transcribed spacer 1"
+     rRNA            400..>534
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctagcaa
+      121 tagcctcggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgcccgtat
+      241 gggaactttt taacgttttc cccccccgct ttccctcggg ggagagggga tagggttgtg
+      301 ttaaaaaaca caacaaacac ccccgctata aagtgtttaa taagaaaaca aagccgtcca
+      361 ccgtcgacct cgtcgcgggg ggcgcaacta aacaagaaat aacccctaac aacggatgtc
+      421 ttggctctcg caacgatgaa gaacgcagcg aaatgcgata tgtagtgtga attgcagaat
+      481 tacgtgaatc atcgaatctt tgaacgcata tggcacccga gacttcggtc gagg
+//
+
+LOCUS       JX675740                 785 bp    DNA     linear   PLN 26-NOV-2012
+DEFINITION  Printzina lagenifera isolate fT74 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   JX675740
+VERSION     JX675740.1  GI:414148010
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 785)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Culture experiments on lichenized Trentepohliales from selected
+            lichen species of Graphidaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 785)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E., Grube,M. and Rindi,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstrasse 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..785
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="fT74"
+                     /db_xref="taxon:374114"
+                     /country="Brazil"
+                     /collected_by="E.Stocker"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..413
+                     /product="internal transcribed spacer 1"
+     rRNA            414..572
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        573..>785
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctagcaa
+      121 tagccccggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccagtat
+      241 ggtaactttt aaacgttctc ccttcccccg tccccctgcc cctcgggcgg ggtggggcgt
+      301 ggatgggggg ttgttttaaa acaacaacca ccaaaccacc gcaagtgttt aatacgaaca
+      361 cgcataagcc gtccaccgtc gacttcctcc cggggggcgc aactaaccca gaataacccc
+      421 taacaacgga tgtcttggct ctcgcaacga tgaagaacgc agcgaaatgc gatatgtagt
+      481 gtgaattgca gaattacgtg aatcatcgaa tctttgaacg catatggcac ccgagacctc
+      541 ggtcgagggt atgtctgtct cagagtcgac gttaaaacat ccccaaggaa aaacctccgt
+      601 gtttcgcctt tggggagctg gccctccggg atggtggggt cctgctacac gccgctttcg
+      661 ggtcggctga aggtagagac gggggccgca tgcgccggat accactattt ggtgggagga
+      721 cctcgcgtcg catcatcgat cagcgccgtt aatagcatac gccgcttgga cccgcctttg
+      781 cagaa
+//
+
+LOCUS       JX866795                 744 bp    DNA     linear   PLN 11-DEC-2012
+DEFINITION  Cephaleuros virescens isolate SAG 25.83 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   JX866795
+VERSION     JX866795.1  GI:428230167
+KEYWORDS    .
+SOURCE      Cephaleuros virescens
+  ORGANISM  Cephaleuros virescens
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Cephaleuros.
+REFERENCE   1  (bases 1 to 744)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Phylogenetic study of trentepohlialean lichen photobionts in
+            temperate regions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 744)
+  AUTHORS   Hametner,C., Stocker-Woergoetter,E. and Grube,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2012) Organismic Biology, University of Salzburg,
+            Hellbrunnerstreet 34, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..744
+                     /organism="Cephaleuros virescens"
+                     /mol_type="genomic DNA"
+                     /isolate="SAG 25.83"
+                     /db_xref="taxon:173371"
+     rRNA            <1..39
+                     /product="18S ribosomal RNA"
+     misc_RNA        40..418
+                     /product="internal transcribed spacer 1"
+     rRNA            419..577
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        578..>744
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggaatgccta gtaagcgcga gtcatcagct cgcgttgatt acgtccctgc cctttgtaca
+       61 caccgcccgt cgctccttcc gattgggtgt gctggtgaag agttcggact ggaccatggc
+      121 tggcaacagc cccggtacgg gaagtccttt gaaccctctc gcctagagga aggagaagtc
+      181 gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt taattcgata aaaaaaaatt
+      241 caaacgccat gatggtaacc ttcttgaagt gtccgcggcg cgtccgggga cccgtcctcg
+      301 gcgtgccgcg ccgttgttgg cttcaacgac aacaacaacc gcaagagaac tttgacgatg
+      361 gacgaaacaa aagtcgccgg ccgtcgacct cgtcgcggtg ggtgcgatta accaagaata
+      421 acccctaaca acggatgtct tggctctcgc aacgatgaag aacgcagcga aatgcgatat
+      481 gtagtgtgaa ttgcagaatt acgtgaatca tcgaatcttt gaacgcatat ggcacccgag
+      541 acttcggtcg agggtatgtc tgtctcaaag tcggcgttaa aaacaccccg agcggatgcg
+      601 ttccgtgtgg ggggaagctg gccccccggc gggcaagcct ttggcttgta tcgccgggtc
+      661 ggccgaagga tagagacggg ggaccggcgg atgccggacg gccacgattt tggtgggagg
+      721 acctcgcgtc cacaacctcg atcg
+//
+
+LOCUS       KC489112                 850 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina lagenifera isolate DS29 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC489112
+VERSION     KC489112.1  GI:469736335
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 850)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 850)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..850
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="DS29"
+                     /isolation_source="Graphis sp."
+                     /db_xref="taxon:374114"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..36
+                     /product="18S ribosomal RNA"
+     misc_RNA        37..419
+                     /product="internal transcribed spacer 1"
+     rRNA            420..578
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        579..>850
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 aggaatgcct agtaagcgcg agtcatcagc tcgcgttgat tacgtccctg ccctttgtac
+       61 acaccgcccg tcgctccttc cgattgggtg tgctggtgaa gagttcggac tggatttggc
+      121 tggcaacagc cctagttcgg gaagttcttt gaaccctctc gcctagagga aggagaagtc
+      181 gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt taattcgata aaaacaccgc
+      241 caatatggta acctttaaat gttttccgcg tgacttctct ggggctcttt attgggtcct
+      301 catgggaagc gcgcgggggt tgtttctcac aacaaccacc accgctataa cgatttttta
+      361 aacgagaaac aaagtcgtca accgtcggcc tagccgcggg gggcgcaact aaccaagaat
+      421 aacccctaac aacggatgtc ttggctctcg caacgatgaa gaacgcagcg aaatgcgata
+      481 tgtagtgtga attgcagaat tacgtgaatc atcgaatctt tgaacgcata tggcacccga
+      541 gacctcggtc gagggtatgt ctgtctcaga gtcggcgtaa aaacatcccc gaggaaaaga
+      601 ggtcgagaga ccttctatcc acgggggagc tggccccccg gaggacctga gatatggttc
+      661 ccgggtcggc tgaaggtcag agacggggga ccgcacgcgt cgggcaacca cgattttggt
+      721 gggaggacct cgcgtccgca tcatcgatcg ggtacccaat acagcgtgag gtcgtttgga
+      781 ccccgctttt gcaggaacta tctcatcaag ttccgacctg agatcaggca agatcacccg
+      841 ctgaacttaa
+//
+
+LOCUS       KC489113                 844 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina lagenifera isolate DS30 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC489113
+VERSION     KC489113.1  GI:469736336
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 844)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 844)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="DS30"
+                     /isolation_source="Graphis sp."
+                     /db_xref="taxon:374114"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..413
+                     /product="internal transcribed spacer 1"
+     rRNA            414..572
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        573..>844
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggatt tggctggcaa
+      121 cagccctagt tcgggaagtt ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccaatat
+      241 ggtaaccttt aaatgttttc cgcgtgactt ctctggggct ctttattggg tcctcatggg
+      301 aagcgcgcgg gggttgtttc tcacaacaac caccaccgct ataacgattt tttaaacgag
+      361 aaacaaagtc gtcaaccgtc ggcctagccg cggggggcgc aactaaccaa gaataacccc
+      421 taacaacgga tgtcttggct ctcgcaacga tgaagaacgc agcgaaatgc gatatgtagt
+      481 gtgaattgca gaattacgtg aatcatcgaa tctttgaacg catatggcac ccgagacctc
+      541 ggtcgagggt atgtctgtct cagagtcggc gtaaaaacat ccccgaggaa aagaggtcga
+      601 gagaccttct atccacgggg gagctggccc cccggaggac ctgagatatg gttcccgggt
+      661 cggctgaagg tcagagacgg gggaccgcac gcgtcgggca accacgattt tggtgggagg
+      721 acctcgcgtc cgcatcatcg atcgggtacc caatacagcg tgaggtcgtt tggaccccgc
+      781 ttttgcagga actatctcat caagttccga cctgagatca ggcaagatca cccgctgaac
+      841 ttag
+//
+
+LOCUS       KC489114                 838 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina lagenifera isolate DS24 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC489114
+VERSION     KC489114.1  GI:469736337
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 838)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 838)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..838
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="DS24"
+                     /isolation_source="Graphis sp."
+                     /db_xref="taxon:374114"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..410
+                     /product="internal transcribed spacer 1"
+     rRNA            411..569
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        570..>838
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggatt tggctggcaa
+      121 cagccctagt tcgggaagtt ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccagtat
+      241 ggtaacctgt aaatgttttc cgcgtggcct tccctctggg cttttcggcc ctttgggaac
+      301 cgcgcggggg ttgtttttca caacaaccac caccgcaata acaattttta aaacgagaaa
+      361 caaagtcgtc aaccgtcggc ctggccgcgg ggggcgcaac taaccaagaa taacccctaa
+      421 caacggatgt cttggctctc gcaacgatga agaacgcagc gaaatgcgat atgtagtgtg
+      481 aattgcagaa ttacgtgaat catcgaatct ttgaacgcat atggcacccg agacctcggt
+      541 cgagggtatg tctgtctcag agtcggcgta aaaacatccc cgaggataaa tatatctatc
+      601 cacgggggag ctggcccccc ggaggacctg agacacggtt cccgggtcgg ctgaaggtta
+      661 gagacggggg accgcacgcg tcgggcaacc acgattttgg tgggaggacc tcgcgtccgc
+      721 atcatcgatc gggtacccaa tctagtgtga ggtcgtttgg gccccgcttt tgcaggaact
+      781 atcttatcaa gttccgacct gagatcaggc aagatcaccc gctgaactta agcatatc
+//
+
+LOCUS       KC489115                 861 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. DS22 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489115
+VERSION     KC489115.1  GI:469736338
+KEYWORDS    .
+SOURCE      Trentepohlia sp. DS22
+  ORGANISM  Trentepohlia sp. DS22
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Trentepohlia sp. DS22"
+                     /mol_type="genomic DNA"
+                     /isolate="DS22"
+                     /isolation_source="Mycoporum sp."
+                     /db_xref="taxon:1283249"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..414
+                     /product="internal transcribed spacer 1"
+     rRNA            415..573
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        574..>861
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctagcaa
+      121 tagccccggt acgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccagttt
+      241 ggtaacttgt caacgttttc cgccccggtg tacccgtcgc cctcgcggcg cgggggcctg
+      301 gggtggggtt gttttcacga caaccaccaa aacccaccgc aaggagtgtt tatcaccgaa
+      361 aacgcaaagt cgtccaccgt cgacctcgtc gcggggggcg caactaacca agaataaccc
+      421 ctaacaacgg atgtcttggc tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag
+      481 tgtgaattgc agaattacgt gaatcatcga atctttgaac gcatatggca cccgagactt
+      541 cggtcgaggg tatgtctgtc tcagagtcgg cgtaaaaaca tcccccaagg aaaggtgacc
+      601 ttgcgtcgcc cgaccgacgg gggagctggc cctccggaga tgggtatttt cccgcttttc
+      661 cgggtcggct gaaggcgaga gacgggggac cgctcgcgcg gacaagccac gattttggtg
+      721 ggaggacctc tcgtccgcat catcgatcgg gccgtccaac tcgaaagcgt gccggtcgtt
+      781 tgggccccgc tactgcagga aactcttttt tacccacagt tccgacctga gatcaggcaa
+      841 gatcacccgc tgaacttaag c
+//
+
+LOCUS       KC489116                 702 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. DS35 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489116
+VERSION     KC489116.1  GI:469736339
+KEYWORDS    .
+SOURCE      Trentepohlia sp. DS35
+  ORGANISM  Trentepohlia sp. DS35
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 702)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Trentepohlia sp. DS35"
+                     /mol_type="genomic DNA"
+                     /isolate="DS35"
+                     /isolation_source="Graphis sp."
+                     /db_xref="taxon:1283250"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..416
+                     /product="internal transcribed spacer 1"
+     rRNA            417..575
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        576..>702
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgcctagta agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac
+       61 cgcccgtcgc tccttccgat tgggtgtgct ggtgaagagt tcggactgga cctggctagc
+      121 aatagccccg gtacgggaag tcctttgaac cctctcgcct agaggaagga gaagtcgtaa
+      181 caaggtttcc gtaggtgaac ctgcggaagg atcatttaat tcgataaaaa caccgccagt
+      241 ttggtaactt ggcaacgttt tccgccccgg tgtacccctc gccctcgcgg cgcgggggcc
+      301 tggggtgggg ttgttttcac gacaaccacc aaaacccacc gcaaggagtg tttatcaccg
+      361 aaaacgcaaa gtcgtccacc gtcgacctcg tcgcgggggg cgcaactaac caagaataac
+      421 ccctaacaac ggatgtcttg gctctcgcaa cgatgaagaa cgcagcgaaa tgcgatatgt
+      481 agtgtgaatt gcagaattac gtgaatcatc gaatctttga acgcatatgg cacccgagac
+      541 ttcggtcgag ggtatgtctg tctcagagtc ggcgtaaaaa catcccccaa ggaaaggtga
+      601 ccttgctctc gcccgaccga cgggggagct ggccctccgg agatgggtat tttcccgctt
+      661 ttccgggtcg gctgaaggcg agagacgggg gaccgctcgc gc
+//
+
+LOCUS       KC489117                 852 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. TreFl106 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489117
+VERSION     KC489117.1  GI:469736340
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl106
+  ORGANISM  Printzina sp. TreFl106
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 852)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 852)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..852
+                     /organism="Printzina sp. TreFl106"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl106"
+                     /isolation_source="Phaeographis inusta"
+                     /db_xref="taxon:1283236"
+                     /country="Australia"
+                     /note="photobiont"
+     rRNA            <1..29
+                     /product="18S ribosomal RNA"
+     misc_RNA        30..415
+                     /product="internal transcribed spacer 1"
+     rRNA            416..574
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        575..>852
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 cctagtaagc gcgagtcatc aactcgcgtt gattacgtcc ctgccctttg tacacaccgc
+       61 ccgtcgctcc ttccgattgg gtgtgctggt gaagagttcg gactggacct gactggcaac
+      121 agccccggtt cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa
+      181 ggtttccgta ggtgaacctg cggaaggatc atttaattcg ataaaaaaca ccgccaatat
+      241 ggtaaccctg taaacgttaa ttttccgcaa ggcggaggat gcccctcggg gatgagcccg
+      301 ccgcgcgggg ttgtttctca caacaaccac ccccaccgcc aaaagaagtg tttacacgag
+      361 aaaataaagt cgtccgccgt cgacctcgtc gcggagggcg caactaacca agaaataacc
+      421 cctaacaacg gatgtcttgg ctctcgcaac gatgaagaac gcagcgaaat gcgatatgta
+      481 gtgtgaattg cagaattacg tgaatcatcg aatctttgaa cgcatatggc acccgagact
+      541 tcggtcgagg gtatgtctgt ctcagagtcg gcgtaaaaat atccccaagg aaaaggacct
+      601 tgcgtcctct ccgacggggg agctggcctt ccgggacctg ccccgcgagg ggatcagtcc
+      661 gcccgggtcg gctgaaggtg agagacgggg gaccgcacgc gccgggcagc cacgattttg
+      721 gtgggaggac ctcgcgtccg catcatcgat cggactccca acagcgtggg gtatacccgc
+      781 tttagcagga aattttaaac catagttccg acctgagatc aggcaagatc acccgctgaa
+      841 cttaagcata tc
+//
+
+LOCUS       KC489118                 854 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. TreFl118 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489118
+VERSION     KC489118.1  GI:469736341
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl118
+  ORGANISM  Printzina sp. TreFl118
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 854)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 854)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..854
+                     /organism="Printzina sp. TreFl118"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl118"
+                     /isolation_source="Arthonia cinnabarina"
+                     /db_xref="taxon:1283237"
+                     /country="Australia"
+                     /note="photobiont"
+     rRNA            <1..35
+                     /product="18S ribosomal RNA"
+     misc_RNA        36..421
+                     /product="internal transcribed spacer 1"
+     rRNA            422..580
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        581..>854
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 ggaatgccta gtaagcgcga gtcatcaact cgcgttgatt acgtccctgc cctttgtaca
+       61 caccgcccgt cgctccttcc gattgggtgt gctggtgaag agttcggact ggacctgact
+      121 ggcaacagcc ccggttcggg aagtcctttg aaccctctcg cctagaggaa ggagaagtcg
+      181 taacaaggtt tccgtaggtg aacctgcgga aggatcattt aattcgataa aaaacaccgc
+      241 caatatggta accctgtaaa cgttaatttt ccgcaaggcg gaggatgccc ctcggggatg
+      301 agcccgccgc gcggggttgt ttctcacaac aaccaccccc accgccaaaa gaagtgttta
+      361 cacgagaaaa taaagtcgtc cgccgtcgac ctcgtcgcgg agggcgcaac taaccaagaa
+      421 ataaccccta acaacggatg tcttggctct cgcaacgatg aagaacgcag cgaaatgcga
+      481 tatgtagtgt gaattgcaga attacgtgaa tcatcgaatc tttgaacgca tatggcaccc
+      541 gagacttcgg tcgagggtat gtctgtctca gagtcggcgt aaaaatatcc ccaaggaaaa
+      601 ggaccttgcg tcctctccga cgggggagct ggccttccgg gacctgcccc gcgaggggat
+      661 cagtccgccc gggtcggctg aaggtgagag acgggggacc gcacgcgccg ggcagccacg
+      721 attttggtgg gaggacctcg cgtccgcatc atcgatcgga ctcccaacag cgtggggtat
+      781 acccgcttta gcaggaaatt ttaaaccata gttccgacct gagatcaggc aagatcaccc
+      841 gctgaactta agca
+//
+
+LOCUS       KC489119                 847 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. TreFl98 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489119
+VERSION     KC489119.1  GI:469736342
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl98
+  ORGANISM  Printzina sp. TreFl98
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 847)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 847)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /organism="Printzina sp. TreFl98"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl98"
+                     /isolation_source="Phaeographis subdividens"
+                     /db_xref="taxon:1283242"
+                     /country="Brazil"
+                     /note="photobiont"
+     rRNA            <1..31
+                     /product="18S ribosomal RNA"
+     misc_RNA        32..417
+                     /product="internal transcribed spacer 1"
+     rRNA            418..576
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        577..>847
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 tgcctagtaa gcgcgagtca tcaactcgcg ttgattacgt ccctgccctt tgtacacacc
+       61 gcccgtcgct ccttccgatt gggtgtgctg gtgaagagtt cggactggac ctgactggca
+      121 acagccccgg ttcgggaagt cctttgaacc ctctcgccta gaggaaggag aagtcgtaac
+      181 aaggtttccg taggtgaacc tgcggaagga tcatttaatt cgataaaaaa caccgccaat
+      241 atggtaaccc tgtaaacgtt aattttccgc aaggcggagg atgcccctcg gggatgagcc
+      301 cgccgcgcgg ggttgtttct cacaacaacc acccccaccg ccaaaagaag tgtttacacg
+      361 agaaaataaa gtcgtccgcc gtcgacctcg tcgcggaggg cgcaactaac caagaaataa
+      421 cccctaacaa cggatgtctt ggctctcgca acgatgaaga acgcagcgaa atgcgatatg
+      481 tagtgtgaat tgcagaatta cgtgaatcat cgaatctttg aacgcatatg gcacccgaga
+      541 cttcggtcga gggtatgtct gtctcagagt cggcgtaaaa atatccccaa ggaaaaggac
+      601 cttgcgtcct ctccgacggg ggagctggcc ttccgggacc tgccccgcga ggggatcagt
+      661 ccgcccgggt cggctgaagg tgagagacgg gggaccgcac gcgccgggca gccacgattt
+      721 tggtgggagg acctcgcgtc cgcatcatcg atcggactcc caacagcgtg gggtataccc
+      781 gctttagcag gaaattttaa accatagttc cgacctgaga tcaggcaaga tcacccgctg
+      841 aactaag
+//
+
+LOCUS       KC489123                 541 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl51 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC489123
+VERSION     KC489123.1  GI:469736346
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl51
+  ORGANISM  Trentepohlia sp. TreFl51
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 541)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 541)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..541
+                     /organism="Trentepohlia sp. TreFl51"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl51"
+                     /isolation_source="Diorygma pruinosum"
+                     /db_xref="taxon:1283273"
+                     /country="Brazil"
+                     /note="photobiont"
+     rRNA            <1..26
+                     /product="18S ribosomal RNA"
+     misc_RNA        27..394
+                     /product="internal transcribed spacer 1"
+     rRNA            395..>541
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 agtaagcgcg agtcatcagc tcgcgttgat tacgtccctg ccctttgtac acaccgcccg
+       61 tcgctccttc cgattgggtg tgctggtgaa gagttcggac tggacgcggc tagcgatagc
+      121 tagcgttcgg gaagtccttt gaaccctctc gcctagagga aggagaagtc gtaacaaggt
+      181 ttccgtaggt gaacctgcgg aaggatcatt taattcgata aaaacaccgc cattatggta
+      241 accaggtgaa cgttctctcc ccgcctcccg agagggggtg cggggagggc tgttgttctt
+      301 cgcagcaaca atcaccaacg caaccaagtg tttactaaca agcaaaagcc gtccaccgtc
+      361 gacctcgtcg cggggggcgc aactaaccaa gaaataaccc ctaacaacgg atgtcttggc
+      421 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      481 gaatcatcga atctttgaac gcatatggca cccgagactt cggtcgaggg tatgtctgtc
+      541 t
+//
+
+LOCUS       KC489127                 616 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia arborum isolate TreFl104 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KC489127
+VERSION     KC489127.1  GI:469736350
+KEYWORDS    .
+SOURCE      Trentepohlia arborum
+  ORGANISM  Trentepohlia arborum
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trentepohlia arborum"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl104"
+                     /isolation_source="Coenogonium sp."
+                     /db_xref="taxon:173375"
+                     /country="Costa Rica"
+                     /note="photobiont"
+     rRNA            <1..31
+                     /product="18S ribosomal RNA"
+     misc_RNA        32..408
+                     /product="internal transcribed spacer 1"
+     rRNA            409..567
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        568..>616
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 tgcctagtaa gcgcgagtca tcagctcgcg ttgattacgt ccctgccctt tgtacacacc
+       61 gcccgtcgct ccttccgatt gggtgtgctg gtgaagagtt cggactggac ctggctggca
+      121 acagccccgg ttcgggaagt cctttgaacc ctctcgccta gaggaaggag aagtcgtaac
+      181 aaggtttccg taggtgaacc tgcggaagga tcatttaatt cgataaaaaa acaaccgcca
+      241 gccatggtaa ccagtcagtg ttttcccctc ctctcggctc gccctcacgg gcgggacggt
+      301 ggggaggagg gttccacgac aacggcaaca cccgcaatga gtttttaacc tgaaaatttg
+      361 aagccgtcaa ccgtcgacct agtcgcgggg ggggcaacta accaagaata acccctaaca
+      421 acggatgtct tggctctcgc aacgatgaag aacgcagcga aatgcgatat gtagtgtgaa
+      481 ttgcagaatt acgtgaatca tcgaatcttt gaacgcatat ggcacccgag acttcggtcg
+      541 agggtatgtc tgtctcagag tcgacgtata acaatcccca aggaaaagac tatgcgcttt
+      601 tccgatgggg gagctg
+//
+
+LOCUS       KC489129                 846 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. Cf43 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489129
+VERSION     KC489129.1  GI:469736352
+KEYWORDS    .
+SOURCE      Printzina sp. Cf43
+  ORGANISM  Printzina sp. Cf43
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /organism="Printzina sp. Cf43"
+                     /mol_type="genomic DNA"
+                     /isolate="Cf43"
+                     /isolation_source="Coenogonium flavoviride"
+                     /db_xref="taxon:1283229"
+                     /country="Brazil"
+                     /collected_by="M. C Ceres & A. Aprtoot"
+                     /note="photobiont"
+     rRNA            <1..36
+                     /product="18S ribosomal RNA"
+     misc_RNA        37..432
+                     /product="internal transcribed spacer 1"
+     rRNA            433..591
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        592..>846
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 aggaatgcct agtaagcgcg agtcatcagc tcgcgttgat tacgtccctg ccctttgtac
+       61 acaccgcccg tcgctccttc cgattgggtg tgctggtgaa gagttcggat tggacctggc
+      121 gggcgaccgc cccggttcga gaagtccttt gaaccctctc gcctagagga aggagaagtc
+      181 gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt taattcgatg aaaaacaccg
+      241 ccattatggt aacctctgaa cgttttgggg cgccttaggg cccccgcggc ggttgtcctt
+      301 ttcctttcct tttcgcaaag gaaggatttg ggcttccacc atttttaact cacatcacca
+      361 gaagtgttta acctgaaaaa tacaagtcgt ggtcgcgtcc tgccagggac cggcgatgca
+      421 aacaaccaag aataacccct aacaacggat gtcttggctc tcgcaacgat gaagaacgca
+      481 gcgaaatgcg atatgtagtg tgaattgcag aattacgtga atcatcgaat ctttgaacgc
+      541 atatggcacc cgagacctcg gtcgagggta cgtctgtctc agagtcggcg taaaaacatc
+      601 cccacggaaa gatttacttc tttgcgttgg gggagctggc cttccggcgc tttagcggcg
+      661 ccgggtcggc tgaaggtgag agacagggga ccgcacgcgc cgggccaagc cacgattttg
+      721 gtgggaggac ctcgcgtccg caccgtcgat cctggcgccc gcttcgaagc gtgccggtga
+      781 tcctttctgg caggaaactt aactagagtt ccgacctgag atcaggcgag atcacccgct
+      841 gactta
+//
+
+LOCUS       KC489131                 798 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. Cl17 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489131
+VERSION     KC489131.1  GI:469736354
+KEYWORDS    .
+SOURCE      Trentepohlia sp. Cl17
+  ORGANISM  Trentepohlia sp. Cl17
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 798)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 798)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..798
+                     /organism="Trentepohlia sp. Cl17"
+                     /mol_type="genomic DNA"
+                     /isolate="Cl17"
+                     /isolation_source="Coenogonium leprieurii"
+                     /db_xref="taxon:1283246"
+                     /country="Brazil"
+                     /collected_by="M. C Ceres & A. Aprtoot"
+                     /note="photobiont"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..404
+                     /product="internal transcribed spacer 1"
+     rRNA            405..563
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        564..>798
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggact tggctggcaa
+      121 cagccccggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gatcaaaaca ccgccagtat
+      241 ggtaacttgt aaaggttttc cgcgcggtat actcccgtcc tcggtcgcgt aggacggcgg
+      301 ggtggttgtt tacccaacaa ccaacaccgc cacagagtgt ttatcttaaa aaactcaagt
+      361 cgtcaaccgt cgacctggtc gcggggggcg caactaacca agaataaccc ctaacaacgg
+      421 atgtcttggc tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc
+      481 agaattacgt gaatcatcga atctttgaac gcatatggca cccgagacct cggtcgaggg
+      541 tacgtctgtc tcagagtccg cgtaaaaaca tccccgagga aggcgacctt ccgatggggg
+      601 agctggcctc ccggagaccc gtatctccgg gttggctgaa ggtgacagac gggggaccgc
+      661 acgcgccggg caacacgatt ttggtgggag gactccgcgt ccgcatcatc gatcgggttc
+      721 ccatcacagc gtctggtcgt atttgggccc cgctttatca ggaatttatc tttgttccga
+      781 cctgagatca gcgagatc
+//
+
+LOCUS       KC489132                 736 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. Cs19 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489132
+VERSION     KC489132.1  GI:469736355
+KEYWORDS    .
+SOURCE      Printzina sp. Cs19
+  ORGANISM  Printzina sp. Cs19
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 736)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 736)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..736
+                     /organism="Printzina sp. Cs19"
+                     /mol_type="genomic DNA"
+                     /isolate="Cs19"
+                     /isolation_source="Coenogonium cf. stramineum"
+                     /db_xref="taxon:1283230"
+                     /country="Brazil"
+                     /collected_by="M. C Ceres & A. Aprtoot"
+                     /note="photobiont"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..368
+                     /product="internal transcribed spacer 1"
+     rRNA            369..526
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        527..>736
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctggcca
+      121 cagccccggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccgttat
+      241 ggtaaccctg caaacgttgg cccgacgtag gctggccgcg ccgcggaacc gcccaaagca
+      301 agcgtttcgt agcaagcaac agcaagccgc gcccctcctg ggggtgacgc gcgtgcctaa
+      361 ccgagaaaaa cccctaacaa cggatgtctt ggctctcgca acgatgaaga acgcagcgaa
+      421 atgcgatatg tagtgtgaat tgcagaatta cgtgaatcat cgaatctttg aacgcatatg
+      481 gcacccgaga cttccgtcga gggtatgtct gcctcagagt cggcgtaaaa catccacccc
+      541 ggaccgtgct atcagggtcg gtagctggtg ttccatccct tgttgggatg ggtcggccga
+      601 aggggagaca cgtaggaccc ccatccggcg aagaccacga tttggtggga ggacctcggt
+      661 ccgcagcagc gtcacggatc cgcccgacag gccccggttc gccgcaagac ccatcatcac
+      721 gacctgagat catgca
+//
+
+LOCUS       KC489133                 841 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. Cs87 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489133
+VERSION     KC489133.1  GI:469736356
+KEYWORDS    .
+SOURCE      Trentepohlia sp. Cs87
+  ORGANISM  Trentepohlia sp. Cs87
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 841)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 841)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..841
+                     /organism="Trentepohlia sp. Cs87"
+                     /mol_type="genomic DNA"
+                     /isolate="Cs87"
+                     /isolation_source="Coenogonium subluteum"
+                     /db_xref="taxon:1283248"
+                     /country="Brazil"
+                     /collected_by="M. C Ceres & A. Aprtoot"
+                     /note="photobiont"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..410
+                     /product="internal transcribed spacer 1"
+     rRNA            411..568
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        569..>841
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctagcaa
+      121 tagccccggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaagaac cgccaagtta
+      241 tggtaactct gtaaaagttt tttaccgcgc gtgggggagg gtccgccctt cccccgcgcg
+      301 gggggttgtt cttaacaacg acagccaccg caaaaaaagt gtttaacgta cgagaaaaaa
+      361 agtcgctttc cgacggcctt cggtcgcggg gggcgcaacc aaccaagaaa taacccctaa
+      421 caacggatgt cttggctctc gcaacgatga agaacgcagc gaaatgcgat atgtagtgtg
+      481 aattgcagaa ttacgtgaat catcgaatct ttgaacgcat atggcacccg agacttcggt
+      541 cgagggtatg tctgtctcag agtcggttaa tttcccgtcc cctaggaaag caacgcaacg
+      601 cgcctttccg aagggggagc tggtcctccg ggtgcgggct cgaaagggcg cgcgagaccc
+      661 gggttggccg aaggacagat acgggggtcc gcacgcgacg gacagccacg attttggtgg
+      721 gaggacccag cgtccgcatc atcgatcgtg cgtccaccac gagcgagcgg tgacgccccg
+      781 cctttgcagg atatataacc cgttttcgac ctgagatcag gcaagatcac ccgctgactt
+      841 a
+//
+
+LOCUS       KC489134                 835 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. Cs67 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489134
+VERSION     KC489134.1  GI:469736357
+KEYWORDS    .
+SOURCE      Printzina sp. Cs67
+  ORGANISM  Printzina sp. Cs67
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 835)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 835)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..835
+                     /organism="Printzina sp. Cs67"
+                     /mol_type="genomic DNA"
+                     /isolate="Cs67"
+                     /isolation_source="Coenogonium subdilutum"
+                     /db_xref="taxon:1283231"
+                     /country="Brazil"
+                     /collected_by="M. C Ceres & A. Aprtoot"
+                     /note="photobiont"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..402
+                     /product="internal transcribed spacer 1"
+     rRNA            403..561
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        562..>835
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggact tggctagcaa
+      121 tagccctagt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccagtat
+      241 ggtaacctgt aaacgttcac cgcgcgaagt tccccccgcc tcggcggagg gagcccgtgc
+      301 gggggttgtt cacacaacca ccaaacaacg ccacaagtgt ttaaacgaaa actcaagtcg
+      361 tctaccgtcg actcggtcgc gggaggcgca actaaccaag aataacccct aacaacggat
+      421 gtcttggctc tcgcaacgat gaagaacgca gcgaaatgcg atatgtagtg tgaattgcag
+      481 aattacgtga atcatcgaat ctttgaacgc atatggcacc cgagatttcg gtcgagggta
+      541 tgtctgtctc agagtcggcg taaaaacatc cccaaggaaa gtgaccttcg cgtcgctttc
+      601 cgacggggga gctggccttc cggacgaggg gctcgcctcg acgccgggtc ggctgaagga
+      661 tagagacggg ggaccgcacg cgccgggcag ccacgatttt gggtgggagg acttcgcgtc
+      721 cgcatcattg atcgtgctac ccaactcata gtgtgccggt cgtctggacc ccgccactgc
+      781 aggaaaatac tcatagttcc gacctgagat caggcaagat cacccgctga attaa
+//
+
+LOCUS       KC489135                 761 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. Csfd 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489135
+VERSION     KC489135.1  GI:469736358
+KEYWORDS    .
+SOURCE      Printzina sp. Csfd
+  ORGANISM  Printzina sp. Csfd
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 761)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 761)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..761
+                     /organism="Printzina sp. Csfd"
+                     /mol_type="genomic DNA"
+                     /isolate="Csfd"
+                     /isolation_source="Coenogonium siquirrense f.
+                     denticulatum"
+                     /db_xref="taxon:1283232"
+                     /country="Brazil"
+                     /collected_by="M. C Ceres & A. Aprtoot"
+                     /note="photobiont"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..417
+                     /product="internal transcribed spacer 1"
+     rRNA            418..576
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        577..>761
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggacc tggctagcaa
+      121 cagccccggt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgcccgtat
+      241 gggaacctgt ctacgtttct ccccgtggcg tcccttccct tccggggggc ggcccgtgcg
+      301 ggggcggggt ggtcggtcag ggggttgccc cccccaacca ccctccacca gtttttatga
+      361 aataagacaa aaccgtccac cgcctacctc cccgaggggg gcgcaaccaa ccaagaataa
+      421 cccctaacaa cggatgtctt ggctctcgca acgatgaaga acgcagcgaa atgcgatatg
+      481 tagtgtgaat tgcagaatta cgtgaatcat cgaatctttg aacgcatatg gcacccgaga
+      541 cctcggtcga gggtatgtct gtctcagagt cgcagtaaaa acatccccag ggtcccaacc
+      601 cctggggcag ctggccctcc ggacctcctg gcccgggtcg gctgaatgcg agagacgggg
+      661 gaccgcaagc gccgggctgc cagacttttg gtggcaggac ctcgcgtcct cttcatggac
+      721 tggggaccca acagcgtcgt ccccttgccg gccggaagaa c
+//
+
+LOCUS       KC489136                 650 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia arborum isolate TreFl31 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KC489136
+VERSION     KC489136.1  GI:469736359
+KEYWORDS    .
+SOURCE      Trentepohlia arborum
+  ORGANISM  Trentepohlia arborum
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 650)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 650)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..650
+                     /organism="Trentepohlia arborum"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl31"
+                     /isolation_source="Coenogonium interpositum"
+                     /db_xref="taxon:173375"
+                     /country="Brazil"
+                     /note="photobiont"
+     rRNA            <1..27
+                     /product="18S ribosomal RNA"
+     misc_RNA        28..426
+                     /product="internal transcribed spacer 1"
+     rRNA            427..585
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        586..>650
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 tagtaagcgc gagtcatcag ctcgcgttga ttacgtccct gccctttgta cacaccgccc
+       61 gtcgctcctt ccgattgggt gtgctggtga agagttcgga ttggacctgg ttggcaacaa
+      121 ccccggttcg agaagtcctt tgaaccctct cgcctagagg aaggagaagt cgtaacaagg
+      181 tttccgtagg tgaacctgcg gaaggatcat ttaattcgat aaaaacaccg ccagtatggt
+      241 aaccgtctga aagtatttcc tctcttttct cccgatcctc ctcacggggg ggagggggtt
+      301 ctcgaggggg agggggttgc ctaacccgca ccccccccaa ccaatcaccc cgccaaaaat
+      361 tttttacaac aaattcaaaa gtctttccac cccgacctcg tcgcggggaa cgcaaccaac
+      421 caagaataac ccctaacaac ggatgtcttg gctctcgcaa cgatgaagaa cgcagcgaaa
+      481 tgcgatatgt agtgtgaatt gcagaattac gtgaatcatc gaatctttga acgcatatgg
+      541 cacccgagac ctcggtcgag ggtatgtctg tctcagagtc ggcgtaaaaa aacccccaaa
+      601 cccgcgtacg cgcagggaga gggggagctg gccttccggg gcccgggtaa
+//
+
+LOCUS       KC489138                 781 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia aurea isolate TreFl38 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC489138
+VERSION     KC489138.1  GI:469736361
+KEYWORDS    .
+SOURCE      Trentepohlia aurea
+  ORGANISM  Trentepohlia aurea
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 781)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 781)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..781
+                     /organism="Trentepohlia aurea"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl38"
+                     /isolation_source="Coenogonium linkii"
+                     /db_xref="taxon:173376"
+                     /country="Argentina"
+                     /note="photobiont"
+     rRNA            <1..21
+                     /product="18S ribosomal RNA"
+     misc_RNA        22..380
+                     /product="internal transcribed spacer 1"
+     rRNA            381..539
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        540..>781
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcgcgagtca tcagctcgcg ttgattacgt ccctgccctt tgtacacacc gcccgtcgct
+       61 ccttccgatt gggtgtgctg gtgaagagtt cggactggac caggctagcg atagccccgg
+      121 ttcgggaagt cctttgaacc ctctcgccta gaggaaggag aagtcgtaac aaggtttccg
+      181 taggtgaacc tgcggaagga tcatttaatt cgataaaaac accgccagta tggtaacttt
+      241 gtaaacgttt tcccctcgca agaggggaag gttgttttac cacaaccaaa aaatcatcac
+      301 accgccacta agtgtttagc tcgaaagctc aaagccgtcc cacgacgacc tcgtcgcggg
+      361 ggacgcaact aaccaaaaaa taacccctaa caacggatgt cttggctctc gcaacgatga
+      421 agaacgcagc gaaatgcgat atgtagtgtg aattgcagaa ttacgtgaat catcgaatct
+      481 ttgaacgcat atggcacccg agacctcggt cgagggtatg tctgtctcag agtcggcgta
+      541 aaaaaatccc caaggtaacg tatatcgcgt taccgcgggg gagctggcct tccggacggt
+      601 ggtatccgta tcacacgccg ggtcggctga aggtgagaga cgggggaccg gtcacgccgg
+      661 acagccacga tttggtggat ggacttcgcg tccgcaacac tcgtcgtgcg tccatagcgg
+      721 ctggtggccc cttctggcag gaattatcta aaaactttcc gacctgagat caggcaagat
+      781 c
+//
+
+LOCUS       KC489140                 816 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl56 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489140
+VERSION     KC489140.1  GI:469736363
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl56
+  ORGANISM  Trentepohlia sp. TreFl56
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 816)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 816)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..816
+                     /organism="Trentepohlia sp. TreFl56"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl56"
+                     /isolation_source="Phaeographis sp."
+                     /db_xref="taxon:1283263"
+                     /country="Argentina"
+                     /note="photobiont"
+     rRNA            <1..22
+                     /product="18S ribosomal RNA"
+     misc_RNA        23..416
+                     /product="internal transcribed spacer 1"
+     rRNA            417..575
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        576..>816
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac cgcccgtcgc
+       61 tccttccgat tgggtgtgct ggtgaagagt tcggactgga tatggctggc aacagcttct
+      121 gttcgggaag ttctttgaac cctctcgcct agaggaagga gaagtcgtaa caaggtttcc
+      181 gtaggtgaac ctgcggaagg atcatttaat tcgataaaaa caccgccatt atggtaactc
+      241 ttgaaatgtt tcatacccgc gggtcagggg agcgatcccc tccccgcggg ggtgctgttt
+      301 cacccccctt aacacggggg gtggcagcca ctcacacacc gcaacgagat ttttattcga
+      361 aagcataaag tcgtcaaccg tcgacctcgt cggcggggga cgcaaacaac caagaataac
+      421 ccctaacaac ggatgtcttg gctctcgcaa cgatgaagaa cgcagcgaaa tgcgatatgt
+      481 agtgtgaatt gcagaattac gtgaatcatc gaatctttga acgcatatgg cacccgagac
+      541 ttcggtcgag ggtatatctg tctcagagtc ggcgtaaaaa acaccccaaa ggaagacgtt
+      601 cacgcgtcga ccggctgggg gagctggcct tccggcgctt gcgtgggttt actcccgcca
+      661 agcatcaccg ggtcggctga aggttagaga cgggggaccg gccgcgccgg gcagccatga
+      721 ttttggtgga tggacctcgc gtccgtacaa catcgatcgt gctcccatac catatggtaa
+      781 gcggccgcgt cgcaacttgg gccccgcctt acgcag
+//
+
+LOCUS       KC489141                 803 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl81 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489141
+VERSION     KC489141.1  GI:469736364
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl81
+  ORGANISM  Trentepohlia sp. TreFl81
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 803)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 803)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..803
+                     /organism="Trentepohlia sp. TreFl81"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl81"
+                     /isolation_source="Glyphis cicatricosa"
+                     /db_xref="taxon:1283268"
+                     /country="Brazil"
+                     /note="photobiont"
+     rRNA            <1..24
+                     /product="18S ribosomal RNA"
+     misc_RNA        25..441
+                     /product="internal transcribed spacer 1"
+     rRNA            442..600
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        601..>803
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 taagcgcgag tcatcagctc gcgttgatta cgtccctgcc ctttgtacac accgcccgtc
+       61 gctccttccg attgggtgtg ctggtgaaga gttcggactg gatatggctg gcaacagctt
+      121 ctgttcggga agttctttga accctctcgc ctagaggaag gagaagtcgt aacaaggttt
+      181 ccgtaggtga acctgcggaa ggatcattta attcgataaa aaacatcgcc atcatggtaa
+      241 ctgttggaac gtccaatacc cacgggcggg gcgccttccg aggggtaaga tccgaggagg
+      301 gaaccccccc gcgggggtgt tgttctaccc ccttaaaacg gggtcggggc agtcactcac
+      361 acaccgcaac aagttttttc tacgaaagta tcaagtcgtc aaccgtcgac gctcgtcgcg
+      421 ggggacgcaa acaaccaaga ataaccccta acaacggatg tcttggctct cgcaacgatg
+      481 aagaacgcag cgaaatgcga tatgtagtgt gaattgcaga attacgtgaa tcatcgaatc
+      541 tttgaacgca tatggcaccc gagacctcgg tcgagggtat atctgtctca gagtcggcgt
+      601 aaaaacaacc ccaaaggaag agttgcgctc acgcgttctc tccggctggg ggagctggcc
+      661 ctccggcgcc cgcgtggggg tacttccgtg ccccgccggt gcataccggg tcggctgaag
+      721 gtcagagacg ggggaccggc cgcgccgggc agccatgatt ttggtggatg gacctcgcgt
+      781 ccaacaacat cgatcgtgct ccc
+//
+
+LOCUS       KC489142                 670 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl82 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489142
+VERSION     KC489142.1  GI:469736365
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl82
+  ORGANISM  Trentepohlia sp. TreFl82
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 670)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 670)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..670
+                     /organism="Trentepohlia sp. TreFl82"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl82"
+                     /isolation_source="Sarcographa cinchonarum"
+                     /db_xref="taxon:1283269"
+                     /country="Brazil"
+                     /note="photobiont"
+     rRNA            <1..43
+                     /product="18S ribosomal RNA"
+     misc_RNA        44..429
+                     /product="internal transcribed spacer 1"
+     rRNA            430..589
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        590..>670
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ttcaacgagg aatgcctagt aagcgcgagt catcagctcg cgttgattac gtccctgccc
+       61 tttgtacaca ccgcccgtcg ctccttccga ttgggtgtgc tggtgaagag ttcggactgg
+      121 acccggctgg caacagctag ggttcgggaa gtcctttgaa ccctctcgcc tagaggaagg
+      181 agaagtcgta acaaggtttc cgtaggtgaa cctgcggaag gatcatttaa ttcgataaaa
+      241 acaccgccat tatggtaact ctgtgaacgt ctccccgggc aagtggtggg ttgggaaacc
+      301 tcccgccgct ccgggggtgt tgttcgccct cacgggcaac agcaatacac caccgcaatc
+      361 aagtgtttac accaactcaa aagtcgtcaa ccgccgacct agtcgcgggc ggacgcaact
+      421 aaccaagaat aacccctaac aacggatgtc ttggctctcg caacgatgaa gaacgcagcg
+      481 aaatgcgata tgtagtgtga attgcagaat tacgtgaatc atcgaatctt tgaacgcata
+      541 tggcacccga gaccttcggt cgagggtatg tctgtctcag agtcggtttg aaaaaactcc
+      601 ccaagtgagg taacaagtac ctgacgatgg gggaactggc ttcccgtcgc ttttcgaagc
+      661 ccgggccagc
+//
+
+LOCUS       KC489143                 846 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. DS13 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489143
+VERSION     KC489143.1  GI:469736366
+KEYWORDS    .
+SOURCE      Printzina sp. DS13
+  ORGANISM  Printzina sp. DS13
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /organism="Printzina sp. DS13"
+                     /mol_type="genomic DNA"
+                     /isolate="DS13"
+                     /isolation_source="Graphis cf. subruiziona"
+                     /db_xref="taxon:1283234"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..31
+                     /product="18S ribosomal RNA"
+     misc_RNA        32..403
+                     /product="internal transcribed spacer 1"
+     rRNA            404..562
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        563..>846
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 tgcctagtaa gcgcgagtca tcagctcgcg ttgattacgt ccctgccctt tgtacacacc
+       61 gcccgtcgct ccttccgatt gggtgtgctg gtgaagagtt cggactggac ttggctagca
+      121 atagccctag ttcgggaagt cctttgaacc ctctcgccta gaggaaggag aagtcgtaac
+      181 aaggtttccg taggtgaacc tgcggaagga tcatttaatt cgataaaaac accgccagta
+      241 tggtaacctg taaacgttca ccgcgcgaag ttccccccgc ctcggcggag ggagcccgtg
+      301 cgggggttgt tcacacaacc accaaacaac gccacaagtg tttaaacgaa aactcaagtc
+      361 gtctaccgtc gattcggtcg cgggaggcgc aactaaccaa gaataacccc taacaacgga
+      421 tgtcttggct ctcgcaacga tgaagaacgc agcgaaatgc gatatgtagt gtgaattgca
+      481 gaattacgtg aatcatcgaa tctttgaacg catatggcac ccgagatttc ggtcgagggt
+      541 atgtctgtct cagagtcggc gtaaaaacat ccccaaggaa agtgaccttc gcgtcgcttt
+      601 ccgacggggg agctggcctt ccggacgagg ggctcgcctc gacgccgggt cggctgaagg
+      661 atagagacgg gggaccgcac gcgccgggca gccacgattt tggtgggagg acttcgcgtc
+      721 cgcatcattg atcgtactac ccaactcata gtgtgccggt cgtctggacc ccgccactgc
+      781 aggaaaatac tcatcatagt tccgacctga gatcaggcaa gatcacccgc tgaacttaag
+      841 catatc
+//
+
+LOCUS       KC489144                 843 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. DS14 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489144
+VERSION     KC489144.1  GI:469736367
+KEYWORDS    .
+SOURCE      Printzina sp. DS14
+  ORGANISM  Printzina sp. DS14
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 843)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 843)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..843
+                     /organism="Printzina sp. DS14"
+                     /mol_type="genomic DNA"
+                     /isolate="DS14"
+                     /isolation_source="Graphis cf. polyclades"
+                     /db_xref="taxon:1283235"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..402
+                     /product="internal transcribed spacer 1"
+     rRNA            403..561
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        562..>843
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggact tggctagcaa
+      121 tagccctagt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccagtat
+      241 ggtaacctgt aaacgttcac cgcgcgaagt tccccccgcc tcggcggagg gagcccgtgc
+      301 gggggttgtt cacacaacca ccaaacaacg ccacaagtgt ttaaacgaaa actcaagtcg
+      361 tctaccgtcg attcggtcgc gggaggcgca actaaccaag aataacccct aacaacggat
+      421 gtcttggctc tcgcaacgat gaagaacgca gcgaaatgcg atatgtagtg tgaattgcag
+      481 aattacgtga atcatcgaat ctttgaacgc atatggcacc cgagatttcg gtcgagggta
+      541 tgtctgtctc agagtcggcg taaaaacatc cccaaggaaa gtgaccttcg cgtcgctttc
+      601 cgacggggga gctggccttc cggacgaggg gctcgcctcg acgccgggtc ggctgaagga
+      661 tagagacggg ggaccgcacg cgccgggcag ccacgatttt ggtgggagga cttcgcgtcc
+      721 gcatcattga tcgtactacc caactcatag tgtgccggtc gtctggaccc cgccactgca
+      781 ggaaaatact catcatagtt ccgacctgag atcaggcaag atcacccgct gaacttaagc
+      841 ata
+//
+
+LOCUS       KC489145                 837 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. DS11 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489145
+VERSION     KC489145.1  GI:469736368
+KEYWORDS    .
+SOURCE      Printzina sp. DS11
+  ORGANISM  Printzina sp. DS11
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 837)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 837)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..837
+                     /organism="Printzina sp. DS11"
+                     /mol_type="genomic DNA"
+                     /isolate="DS11"
+                     /isolation_source="Graphis sp."
+                     /db_xref="taxon:1283233"
+                     /country="Costa Rica"
+                     /note="photobiont; amplified by S.Horatschek"
+     rRNA            <1..30
+                     /product="18S ribosomal RNA"
+     misc_RNA        31..402
+                     /product="internal transcribed spacer 1"
+     rRNA            403..561
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        562..>837
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 gcctagtaag cgcgagtcat cagctcgcgt tgattacgtc cctgcccttt gtacacaccg
+       61 cccgtcgctc cttccgattg ggtgtgctgg tgaagagttc ggactggact tggctagcaa
+      121 tagccctagt tcgggaagtc ctttgaaccc tctcgcctag aggaaggaga agtcgtaaca
+      181 aggtttccgt aggtgaacct gcggaaggat catttaattc gataaaaaca ccgccagtat
+      241 ggtaacctgt aaacgttcac cgcgcgaagt tccccccgcc tcggcggagg gagcccgtgc
+      301 gggggttgtt cacacaacaa ccaaacaacg ccacaagtgt ttaaacgaaa actcaagtcg
+      361 tctaccgtcg actcggtcgc gggaggcgca actaaccaag aataacccct aacaacggat
+      421 gtcttggctc tcgcaacgat gaagaacgca gcgaaatgcg atatgtagtg tgaattgcag
+      481 aattacgtga atcatcgaat ctttgaacgc atatggcacc cgagatttcg gtcgagggta
+      541 tgtctgtctc agagtcggcg taaaaacatc cccaaggaaa gtgaccttcg cgtcgctttc
+      601 cgacggggga gctggccttc cggacgtggg gcttgccccg acgccgggtc ggctgaagga
+      661 tagagacggg ggaccgcacg cgccgggcag ccacgatttt ggtgggagga cttcgcgtcc
+      721 gcatcattga tcgtgctacc caactcatag tgtgccggtc gtctggaccc cgccactgca
+      781 ggaaaatact catcatagtt ccgacctgag atcaggcaag atcacccgct gaactta
+//
+
+LOCUS       KC489147                 807 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. TreFl71 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489147
+VERSION     KC489147.1  GI:469736370
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl71
+  ORGANISM  Printzina sp. TreFl71
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 807)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 807)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..807
+                     /organism="Printzina sp. TreFl71"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl71"
+                     /isolation_source="Graphis cincta"
+                     /db_xref="taxon:1283241"
+                     /country="Argentina"
+                     /note="photobiont"
+     rRNA            <1..21
+                     /product="18S ribosomal RNA"
+     misc_RNA        22..394
+                     /product="internal transcribed spacer 1"
+     rRNA            395..553
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        554..>807
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gcgcgagtca tcagctcgcg ttgattacgt ccctgccctt tgtacacacc gcccgtcgct
+       61 ccttccgatt gggtgtgctg gtgaagagtt cggactggac ttggctagca atagccctag
+      121 ttcgggaagt cctttgaacc ctctcgccta gaggaaggag aagtcgtaac aaggtttccg
+      181 taggtgaacc tgcggaagga tcatttaatt cgataaaaac accgccatta tggtaacctg
+      241 taaacgttca ccgcgcgaag ttcctctcgc ctcggcgggg ggaacccgtg cgggggttgt
+      301 tcacacaaca accaaacaac gccacaagtg tttaaacgaa aactcaagtc gtctaccgtc
+      361 gactcggtcg cgggaggcgc aactaaccaa gaaataaccc ctaacaacgg atgtcttggc
+      421 tctcgcaacg atgaagaacg cagcgaaatg cgatatgtag tgtgaattgc agaattacgt
+      481 gaatcatcga atctttgaac gcatatggca cccgagattt cggtcgaggg tatgtctgtc
+      541 tcagagtcgg cgtaaaaaca tccccaagga atctgacctt cgcgtcgctt tccgacgggg
+      601 gagctggcct tccggacgcg gggcttgccc tgacggccgg gtcggctgaa ggatagagac
+      661 gggggatcgc acgcgccggg cagccacgat tttggtggga ggacttcgcg tccgcatcat
+      721 tgatcgtgct acccaactca tagtgtgtcg gtcgtttgga ccccgccact gcaggaaata
+      781 ttatcatagt tccgacctga gatcagg
+//
+
+LOCUS       KC489148                 809 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina cf. lagenifera TreFl42 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC489148
+VERSION     KC489148.1  GI:469736371
+KEYWORDS    .
+SOURCE      Printzina cf. lagenifera TreFl42
+  ORGANISM  Printzina cf. lagenifera TreFl42
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 809)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 809)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..809
+                     /organism="Printzina cf. lagenifera TreFl42"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl42"
+                     /isolation_source="Herpothallon spec B"
+                     /db_xref="taxon:1283227"
+                     /country="Argentina"
+                     /note="photobiont"
+     rRNA            <1..22
+                     /product="18S ribosomal RNA"
+     misc_RNA        23..403
+                     /product="internal transcribed spacer 1"
+     rRNA            404..562
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        563..>809
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac cgcccgtcgc
+       61 tccttccgat tgggtgtgct ggtgaagagt tcggactgga cctggctagc aatagccccg
+      121 gttcgggaag tcctttgaac cctctcgcct agaggaagga gaagtcgtaa caaggtttcc
+      181 gtaggtgaac ctgcggaagg atcatttaat tcgataaaaa caccgccatt atggtaactt
+      241 cagaaaggtc ttccccgctt gtctggtgtt tctaacattg gacttgtggg ggctgttgcc
+      301 tctcacgggg cggcagccgt actcacaacg caaagtgttt aaaaagaaat aacaaagtcg
+      361 tgcaccgtcg accacgtcgc ggtggacgca cctaaccaag aaataacccc taacaacgga
+      421 tgtcttggct ctcgcaacga tgaagaacgc agcgaaatgc gatatgtagt gtgaattgca
+      481 gaattacgtg aatcatcgaa tctttgaacg catatggcac ccgagacctc ggtcgagggt
+      541 atatctgtct cagagtcgac gttacaacat ccccaaggaa aacattccgc gggggaactg
+      601 gcccttcggt aaccagcggc tttacgtcgt cggtccaccg ggtgagctga aggacagaga
+      661 cgggaacggc ctacgccggg aaagccacga ctttggtggg aggaccttga gtccgcatca
+      721 ctggtcgagc ctcccaaggt gggttgcccc gcccgtaaag gaaaaaacat ctctttttcg
+      781 acctgagatc aggtaagatc acccgctga
+//
+
+LOCUS       KC489149                 998 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina cf. lagenifera TreFl60 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC489149
+VERSION     KC489149.1  GI:469736372
+KEYWORDS    .
+SOURCE      Printzina cf. lagenifera TreFl60
+  ORGANISM  Printzina cf. lagenifera TreFl60
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 998)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 998)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..998
+                     /organism="Printzina cf. lagenifera TreFl60"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl60"
+                     /isolation_source="Strigula elegans"
+                     /db_xref="taxon:1283228"
+                     /country="Argentina"
+                     /note="photobiont"
+     rRNA            <1..319
+                     /product="18S ribosomal RNA"
+     misc_RNA        320..700
+                     /product="internal transcribed spacer 1"
+     rRNA            701..859
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        860..>998
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agctctcggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggt ctcgagagga ccgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttca acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacct ggctagcaat agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccattatg gtaacttctg
+      541 aaaggtcttc cccgcttgtc tggtgtttct aacattggac ttgtgggggc tgttgcctct
+      601 cacggggcgg cagccgtact cacaacgcaa agtgtttaaa aagaaataac aaagtcgtgc
+      661 accgtcgacc acgtcgcggt ggacgcacct aaccaagaaa taacccctaa caacggatgt
+      721 cttggctctc gcaacgatga agaacgcagc gaaatgcgat atgtagtgtg aattgcagaa
+      781 ttacgtgaat catcgaatct ttgaacgcat atggcacccg agacctcggt cgagggtata
+      841 tctgtctcag agtcgacgtt acaacatccc caaggaaaaa attccgcggg ggaactggcc
+      901 cttcggtaac cagcggcttt acgtcgtcgg tccaccgggt gagctgaagg acagagacgg
+      961 gaacggccta cgccgggaaa gccacgactt tggtggga
+//
+
+LOCUS       KC489150                 831 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina lagenifera isolate TreFl12 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KC489150
+VERSION     KC489150.1  GI:469736373
+KEYWORDS    .
+SOURCE      Printzina lagenifera
+  ORGANISM  Printzina lagenifera
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 831)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 831)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..831
+                     /organism="Printzina lagenifera"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl12"
+                     /isolation_source="Arthonia cinnabarina"
+                     /db_xref="taxon:374114"
+                     /country="France"
+                     /note="photobiont"
+     rRNA            <1..23
+                     /product="18S ribosomal RNA"
+     misc_RNA        24..398
+                     /product="internal transcribed spacer 1"
+     rRNA            399..557
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        558..>831
+                     /product="internal transcribed spacer 2"
+                     /note="may also contain 28S ribosomal RNA"
+ORIGIN      
+        1 aagcgcgagt catcagctcg cgttgattac gtccctgccc tttgtacaca ccgcccgtcg
+       61 ctccttccga ttgggtgtgc tggtgaagag ttcggactgg accaggctag caatagcccc
+      121 ggttcgggaa gtcctttgaa ccctctcgcc tagaggaagg agaagtcgta acaaggtttc
+      181 cgtaggtgaa cctgcggaag gatcatttaa ttcgataaaa acaccgccag tatggtaact
+      241 tttaaacgtt cgccgtccgt cgtcgttcct tccctctcgg gagggggcgg cccggacggg
+      301 gttgttttaa acaacaacaa caaccgcaag aagtgtttat taagaaatgc aagtcgtcca
+      361 ccgtcgacct cgtcgcgggg ggcgcaacta accaagaata acccctaaca acggatgtct
+      421 tggctctcgc aacgatgaag aacgcagcga aatgcgatat gtagtgtgaa ttgcagaatt
+      481 acgtgaatca tcgaatcttt gaacgcatat ggcacccgag acttcggtcg agggtatgtc
+      541 tgtctcagag tcgacgtaaa aacatcccca aggaaagacc aacgcgtcta tccttcgggg
+      601 gagctggccc cccgggagcc gggtttcggc ccaagccccc gggtcggctg aaggtaagag
+      661 acgggggacc gcatgcgccg ggcagccacg attttggtgg gaggacctcg tgtccgcatc
+      721 acagatcgtg cgtccaacct tagcgtgcgg ccgtttggac cccgccattg caggaaacaa
+      781 caaaatatgt tttcgacctg agatcagcaa gatcacccgc tgaacttaag c
+//
+
+LOCUS       KC489151                 975 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Printzina sp. TreFl62 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489151
+VERSION     KC489151.1  GI:469736374
+KEYWORDS    .
+SOURCE      Printzina sp. TreFl62
+  ORGANISM  Printzina sp. TreFl62
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Printzina.
+REFERENCE   1  (bases 1 to 975)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 975)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..975
+                     /organism="Printzina sp. TreFl62"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl62"
+                     /isolation_source="Leiorreuma hypomelaenum"
+                     /db_xref="taxon:1283240"
+                     /country="Costa Rica"
+                     /note="photobiont"
+     rRNA            <1..319
+                     /product="18S ribosomal RNA"
+     misc_RNA        320..705
+                     /product="internal transcribed spacer 1"
+     rRNA            706..864
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        865..>975
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 agcttccggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggt ctcgagagga ccgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttca acgaggaatg cctagtaagc
+      301 gcgagtcatc aactcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacct gactggcaac agccccggtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaaaca ccgccaatat ggtaaccctg
+      541 taaacgttaa ttttccgcaa ggcggaggat gcccctcggg gatgagcccg ccgcgcgggg
+      601 ttgtttctca caacaaccac ccccaccgcc aaaagaagtg tttacacgag aaaataaagt
+      661 cgtccgccgt cgacctcgtc gcggagggcg caactaacca agaaataacc cctaacaacg
+      721 gatgtcttgg ctctcgcaac gatgaagaac gcagcgaaat gcgatatgta gtgtgaattg
+      781 cagaattacg tgaatcatcg aatctttgaa cgcatatggc acccgagact tcggtcgagg
+      841 gtatgtctgt ctcagagtcg gcgtaaaata tccccaagaa aggaccttgc gtcctctccg
+      901 acggggagct ggccttccgg gactgcccgc gaggggatca gtccgcccgg gtcgctgaag
+      961 tgaaaagacg gggac
+//
+
+LOCUS       KC489152                 899 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl134 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489152
+VERSION     KC489152.1  GI:469736375
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl134
+  ORGANISM  Trentepohlia sp. TreFl134
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 899)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 899)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..899
+                     /organism="Trentepohlia sp. TreFl134"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl134"
+                     /isolation_source="Phaeographis inusta"
+                     /db_xref="taxon:1283254"
+                     /country="Australia"
+                     /note="photobiont"
+     rRNA            <1..319
+                     /product="18S ribosomal RNA"
+     misc_RNA        320..691
+                     /product="internal transcribed spacer 1"
+     rRNA            692..850
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        851..>899
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 aacttccggt tcgccgggag gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg caatcaacga gcctcctggc ctcgagaggg ccgggtaatc ttgtaaactg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttca acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggacgc ggctagcgat agctagcgtt
+      421 cgggaagtcc tttgaaccct ctcgcctaga ggaaggagaa gtcgtaacaa ggtttccgta
+      481 ggtgaacctg cggaaggatc atttaattcg ataaaaacac cgccattatg gtaactcggt
+      541 gaacgttttc ctcgcctcct ccccctaaaa agggagccgt gcggggtgtt gttcctcgca
+      601 gcaacaatca ccaacgcaac aaagtgttta ctaacaatca agaagccgtc caccgtcgac
+      661 ctcgtcgcgg ggggcgcaaa taaccaagaa ataaccccta acaacggatg tcttggctct
+      721 cgcaacgatg aagaacgcag cgaaatgcga tatgtagtgt gaattgcaga attacgtgaa
+      781 tcatcgaatc tttgaacgca tatggcaccc gagacttcgg tcgagggtat gtctgtctca
+      841 gagtcggttt aaaaccatcc ccaagaagac tcctcgagcc tttccgacgg gggagctgg
+//
+
+LOCUS       KC489154                 629 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl160 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC489154
+VERSION     KC489154.1  GI:469736377
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl160
+  ORGANISM  Trentepohlia sp. TreFl160
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Trentepohlia sp. TreFl160"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl160"
+                     /isolation_source="Hemithecium laubertianum"
+                     /db_xref="taxon:1283255"
+                     /country="Costa Rica"
+                     /note="photobiont"
+     rRNA            <1..262
+                     /product="18S ribosomal RNA"
+     misc_RNA        263..623
+                     /product="internal transcribed spacer 1"
+     rRNA            624..>629
+                     /product="5.8S ribosomal RNA"
+ORIGIN      
+        1 agtcacgtct ggttcgccag gcggcagact tcttagaggg actattagcg actatcagct
+       61 aattgaagta tgaggcaata acaggtctgt gatgccctta gatgttctgg gccgcacgcg
+      121 cgctacactg acgcgttcaa cgagcctcct ggtcacgaga ggaccgggta atcttgtaaa
+      181 ccgcgtcgtg atggggctag agctttgtaa ttattgctct ttaacgagga atgcctagta
+      241 agcgcgagtc atcagctcgc gttgattacg tccctgccct ttgtacacac cgcccgtcgc
+      301 tccttccgat tgggtgtgct ggtgaagagt tcggactgga ctatggcccg caagggcccc
+      361 tgcccgggaa gttctttgaa ccctctcgcc tagaggaagg agaagtcgta acaaggtttc
+      421 cgtaggtgaa cctgcggaag gatcatttaa ttcgatcgta acaccgccaa taatggtaac
+      481 ccgtaactgt tccttccccg gctccccccc tctaacgggg tttccgggaa ggggttgtca
+      541 accaacaacc gccaaagctt ttaataacga tataaagccg gggttccctc gaccccggcc
+      601 gggacgggcc caacaacaaa aaaacccct
+//
+
+LOCUS       KC489155                 833 bp    DNA     linear   PLN 27-MAR-2013
+DEFINITION  Trentepohlia sp. TreFl44 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC489155
+VERSION     KC489155.1  GI:469736378
+KEYWORDS    .
+SOURCE      Trentepohlia sp. TreFl44
+  ORGANISM  Trentepohlia sp. TreFl44
+            Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae;
+            Trentepohliales; Trentepohliaceae; Trentepohlia.
+REFERENCE   1  (bases 1 to 833)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Systematic Study and Evolutionary History of Lichenized
+            Trentepohliales
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 833)
+  AUTHORS   Hametner,C., Stocker,E., Brunauer,G., Grube,M., Caceres,M. and
+            Aptroot,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2013) Organismic Biology, University Salzburg,
+            Hellbrunnerstreet 34, Salzburg, Salzburg 5020, Austria
+FEATURES             Location/Qualifiers
+     source          1..833
+                     /organism="Trentepohlia sp. TreFl44"
+                     /mol_type="genomic DNA"
+                     /isolate="TreFl44"
+                     /isolation_source="Graphis cf. pseudosophistica"
+                     /db_xref="taxon:1283261"
+                     /country="Brazil"
+                     /note="photobiont"
+     rRNA            <1..319
+                     /product="18S ribosomal RNA"
+     misc_RNA        320..671
+                     /product="internal transcribed spacer 1"
+     rRNA            672..830
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        831..>833
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtgggttgg cttgtcaggt tgattccggt aacgaacgag acctcagcct gctaaatagt
+       61 cacgtccggt tcgccggacg gcagacttct tagagggact attagcgact atcagctaat
+      121 tgaagtatga ggcaataaca ggtctgtgat gcccttagat gttctgggcc gcacgcgcgc
+      181 tacactgacg cgttcaacga gcctcctggt cacgagagga ccgggtaatc ttgtaaaccg
+      241 cgtcgtgatg gggctagagc tttgtaatta ttgctcttca acgaggaatg cctagtaagc
+      301 gcgagtcatc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctcc
+      361 ttccgattgg gtgtgctggt gaagagttcg gactggatat ggctggcaac acttctgttc
+      421 gggaagttct ttgaaccctc tcgcctagag gaaggagaag tcgtaacaag gtttccgtag
+      481 gtgaacctgc ggaaggatca tttaattcga taaaaacacc gccattatgg taacttttga
+      541 aatgtttcat agccgcgggg gcgggggaac cctgggatgt taaccacaca accgctaaag
+      601 cgtttattaa cgataaataa aagtcggggg aggctcccct ccggggacgc cctcgcaaac
+      661 aaaccaaaaa aaaaccccta acaacggatg tcttggctct cgcaacgatg aagaacgcag
+      721 cgaaatgcga tatgtagtgt gaattgcaga attacgtgaa tcatcgaatc tttgaacgca
+      781 tatggcaccc aagacttcgg tcgagggtat gtctgcctca gagtcggcgt aaa
+//
+
