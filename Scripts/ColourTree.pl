@@ -40,8 +40,10 @@ my %family = ('Collema', 'Collemataceae',
             'Stereocaulon', 'Stereocaulaceae',
             'Sticta', 'Lobariaceae',
             'Acarospora', 'Acarosporaceae',
+            'Acrocordia', 'Dothideomycetes incertae sedis',
             'Amandinea', 'Caliciaceae',
             'Anaptychia', 'Physciaceae',
+            'Arthonia', 'Arthoniaceae',
             'Aspicilia', 'Megasporaceae',
             'Austrolecia', 'Catillariaceae',
             'Boreoplaca', 'Ramalinaceae',
@@ -51,13 +53,21 @@ my %family = ('Collema', 'Collemataceae',
             'Carbonea', 'Lecanoraceae',
             'Cetraria', 'Parmeliaceae',
             'Chaenotheca', 'Coniocybaceae',
+            'Coenogonium', 'Coenogoniaceae',
             'Dimelaena', 'Caliciaceae',
+            'Dimerella', 'Coenogoniaceae',
+            'Diorygma', 'Graphidaceae',
             'Diploschistes', 'Graphidaceae',
             'Evernia', 'Parmeliaceae',
             'Everniastrum', 'Parmeliaceae',
             'Flavocetraria', 'Parmeliaceae',
             'Flavoparmelia', 'Parmeliaceae',
             'Fulgensia', 'Teloschistaceae',
+            'Glyphis', 'Graphidaceae',
+            'Graphis', 'Graphidaceae',
+            'Gyalecta', 'Gyalectaceae',
+            'Hemicium', '',
+            'Herpothallon', 'Arthoniales incertae sedis',
             'Huea', 'Teloschistaceae',
             'Hypogymnia', 'Parmeliaceae',
             'Imshaugia', 'Parmeliaceae',
@@ -65,13 +75,17 @@ my %family = ('Collema', 'Collemataceae',
             'Lecanora', 'Lecanoraceae',
             'Lecidea', 'Lecideaceae',
             'Lecidella', 'Lecanoraceae',
+            'Leiorreuma', 'Graphidaceae',
             'Lepraria', 'Stereocaulaceae',
             'Letharia', 'Parmeliaceae',
+            'Lotrema', 'Graphidaceae',
             'Rimularia', 'Agyriaceae',
             'Melanelia', 'Parmeliaceae',
+            'Mycoporum', 'Arthopyreniaceae',
             'Parmelia', 'Parmeliaceae',
             'Parmelina', 'Parmeliaceae',
             'Parmotrema', 'Parmeliaceae',
+            'Phaeographis', 'Graphidaceae',
             'Phaeophyscia', 'Physciaceae',
             'Physcia', 'Physciaceae',
             'Physconia', 'Physciaceae',
@@ -81,13 +95,16 @@ my %family = ('Collema', 'Collemataceae',
             'Pseudevernia', 'Parmeliaceae',
             'Punctelia', 'Parmeliaceae',
             'Ramalina', 'Ramalinaceae',
+            'Pyrenula', 'Pyrenulaceae',
             'Rhizoplaca', 'Lecanoraceae',
             'Rimularia', 'Agyriaceae',
             'Rinodina', 'Physciaceae',
             'Rinodinella', 'Physciaceae',
+            'Sarcographa', 'Graphidaceae',
             'Sarcogyne', 'Acarosporaceae',
             'Schaereria', 'Agyriaceae',
             'Seirophora', 'Teloschistaceae',
+            'Strigula', 'Strigulaceae',
             'Teloschistes', 'Teloschistaceae',
             'Tephromela', 'Tephromelataceae',
             'Thamnolia', 'Icmadophilaceae',
@@ -99,7 +116,69 @@ my %family = ('Collema', 'Collemataceae',
             'Xanthoparmelia', 'Parmeliaceae',
             'Xanthoria', 'Teloschistaceae'
             );
+            
+my %orders = ('Arthoniaceae', 'Arthoniales',
+              'Arthopyreniaceae', 'Pleosporales',
+              'Acarosporaceae', 'Acarosporales',
+              'Agyriaceae', 'Agyriales', 
+              'Arthoniales incertae sedis', 'Arthoniales',
+              'Caliciaceae', 'Caliciales', 
+              'Candelariaceae', 'Candelariales',
+              'Catillariaceae', 'Lecanorales',
+              'Coenogoniaceae', 'Ostropales',
+              'Collemataceae', 'Peltigerales',
+              'Coniocybaceae', 'Coniocybales',
+              'Dothideomycetes incertae sedis', 'Dothideomycetes incertae sedis',
+              'Graphidaceae', 'Ostropales',
+              'Gyalectaceae', 'Ostropales',
+              'Icmadophilaceae', 'Pertusariales',
+              'Lecanoraceae', 'Lecanorales',
+              'Lecideaceae', 'Lecanorales',
+              'Lobariaceae', 'Peltigerales',
+              'Massalongia', 'Peltigerales',
+              'Megasporaceae', 'Pertusariales',
+              'Nephromataceae', 'Peltigerales',
+              'Pannariaceae', 'Peltigerales',
+              'Parmeliaceae', 'Lecanorales',
+              'Peltigeraceae', 'Peltigerales',
+              'Physciaceae', 'Caliciales',
+              'Pyrenulaceae', 'Pyrenulales',
+              'Ramalinaceae', 'Lecanorales',
+              'Stereocaulaceae', 'Lecanorales',
+              'Strigulaceae', 'Dothideomycetes incertae sedis',
+              'Teloschistaceae', 'Teloschistales',
+              'Tephromelataceae', 'Lecanorales',
+              'Umbilicariaceae', 'Umbilicariales'
+         );
 
+my %subclass = ('Acarosporales', 'Acarosporomycetidae',
+              'Agyriales', 'Ostropomycetidae',
+              'Arthoniales', 'Arthoniomycetes',
+              'Caliciales', 'Lecanoromycetidae',
+              'Candelariales', 'Lecanoromycetes incertae sedis',
+              'Dothideomycetes incertae sedis', 'Dothideomycetes incertae sedis',
+              'Lecanorales', 'Lecanoromycetidae',
+              'Peltigerales', 'Lecanoromycetidae',
+              'Coniocybales', 'Coniocybomycetes',
+              'Ostropales', 'Ostropomycetidae',
+              'Pertusariales', 'Ostropomycetidae',
+              'Pleosporales', 'Pleosporomycetidae',
+              'Pyrenulales', 'Chaetothyriomycetidae',
+              'Teloschistales', 'Lecanoromycetidae',
+              'Lecanorales', 'Lecanoromycetidae',
+              'Umbilicariales', 'Lecanoromycetes incertae sedis'
+         );
+
+my %class = ( 'Acarosporomycetidae', 'Lecanoromycetes',
+              'Arthoniomycetes', 'Arthoniomycetes',
+              'Ostropomycetidae', 'Lecanoromycetes',
+              'Lecanoromycetidae', 'Lecanoromycetes',
+              'Coniocybales', 'Coniocybomycetes',
+              'Dothideomycetes incertae sedis', 'Dothideomycetes',
+              'Pleosporomycetidae', 'Dothideomycetes',
+              'Chaetothyriomycetidae', 'Eurotiomycetes',
+         );
+              
 my %host = ('Collema', 'Lichen',
             'Degelia', 'Lichen',
             'Leptogium', 'Lichen',
@@ -123,48 +202,7 @@ my %host = ('Collema', 'Lichen',
             'Gunnera', 'Plant',
             'Cycas', 'Plant'
          );
-            
-my %orders = ('Acarosporaceae', 'Acarosporales',
-              'Agyriaceae', 'Agyriales', 
-              'Caliciaceae', 'Caliciales', 
-              'Candelariaceae', 'Candelariales',
-              'Catillariaceae', 'Lecanorales',
-              'Collemataceae', 'Peltigerales',
-              'Coniocybaceae', 'Coniocybales',
-              'Graphidaceae', 'Ostropales',
-              'Icmadophilaceae', 'Pertusariales',
-              'Lecanoraceae', 'Lecanorales',
-              'Lecideaceae', 'Lecanorales',
-              'Lobariaceae', 'Peltigerales',
-              'Massalongia', 'Peltigerales',
-              'Megasporaceae', 'Pertusariales',
-              'Nephromataceae', 'Peltigerales',
-              'Pannariaceae', 'Peltigerales',
-              'Parmeliaceae', 'Lecanorales',
-              'Peltigeraceae', 'Peltigerales',
-              'Physciaceae', 'Caliciales',
-              'Ramalinaceae', 'Lecanorales',
-              'Stereocaulaceae', 'Lecanorales',
-              'Teloschistaceae', 'Teloschistales',
-              'Tephromelataceae', 'Lecanorales',
-              'Umbilicariaceae', 'Umbilicariales'
-         );
 
-my %subclass = ('Acarosporales', 'Acarosporomycetidae',
-              'Agyriales', 'Ostropomycetidae',
-              'Caliciales', 'Lecanoromycetidae',
-              'Candelariales', 'Lecanoromycetes incertae sedis',
-              'Lecanorales', 'Lecanoromycetidae',
-              'Peltigerales', 'Lecanoromycetidae',
-              'Coniocybales', 'Coniocybomycetes',
-              'Ostropales', 'Ostropomycetidae',
-              'Pertusariales', 'Ostropomycetidae',
-              'Teloschistales', 'Lecanoromycetidae',
-              'Lecanorales', 'Lecanoromycetidae',
-              'Umbilicariales', 'Lecanoromycetes incertae sedis'
-         );
-
-              
 my %host_colors = ('Plant', '#7CDC00',
                 'Free-living', '#00AAB7',
                 'Lichen', '#C86DD7',
@@ -178,8 +216,18 @@ my %family_colors = ('Collemataceae', '#C87A8A',
                   'unknown', '#000000',
                   'Nephromataceae', '#FFD000',
                   'Peltigeraceae', '#4C99BE',
-                  'Stereocaulaceae', '#A782C3'
+                  'Stereocaulaceae', '#A782C3',
+                  'Graphidaceae', '#005C26',  #Dark Green
+                  'Coenogoniaceae', '#28399F', #Dark blue
+                  'Arthoniaceae', '#-65536', #maraschino
             );
+
+my %class_colors = ( 'Arthoniomycetes', '#FFA500', #orange 
+                     'Lecanoromycetes',  '#005C26',  #Dark Green
+                     'Coniocybomycetes', '#-3381505', #lavender
+                     'Dothideomycetes',  '#28399F', #Dark blue
+                     'Eurotiomycetes', '#-65536', #maraschino
+                    );
 
 my %specialists = ( 'Leptogium saturninum', '#C87A8A',
                     'Collema flaccidum', '#AE8B50',
@@ -235,7 +283,6 @@ while (my $line = <$treefile>){
     if ( $comparison =~ /species/i ) { $line = ColorBySpecies($line); }
     else {$line = ColorByGenus($line, $comparison); }
   }
-  if ( $trees ) { $line = AddSig($line); }
   print "$line\n";
 }
  
@@ -285,6 +332,13 @@ sub ColorByGenus {
         $group = $family_colors{$family{$genus}}; 
       }
     }
+    elsif ( $comparison =~ /class/i ) { 
+      print STDERR join(", ", ($genus, $family{$genus}, $orders{$family{$genus}}, $subclass{$orders{$family{$genus}}}, $class{$subclass{$orders{$family{$genus}}}}, $class_colors{$class{$subclass{$orders{$family{$genus}}}}})), "\n";
+      if ( $class{$subclass{$orders{$family{$genus}}}} and $class_colors{$class{$subclass{$orders{$family{$genus}}}}} ) {
+        if ( $group and $group ne $class_colors{$class{$subclass{$orders{$family{$genus}}}}} ) { $multiple = 1; }
+        $group = $class_colors{$class{$subclass{$orders{$family{$genus}}}}}; 
+      }
+    }
     elsif ( $comparison =~ /genus/i ) { 
       if ( $lichen_colors{$genus} ) {
         if ( $group and $group ne $lichen_colors{$genus} ) { $multiple = 1; }
@@ -306,16 +360,3 @@ sub ColorByGenus {
   return $line;
 }
 
-sub AddSig {
-  my $line = shift;
-  my $out_line;
-  my @fields = split(/\[&label=/, $line);
-  $out_line .= shift(@fields);
-  foreach ( @fields ) { 
-    $_ =~ s/(0.\d+)\]//;
-    if ( $1 >= 0.9 ) { $out_line .= '[&label=1]'; }
-    else { $out_line .= '[&label=0]'; }
-    $out_line .= $_;
-  }
-  return $out_line;
-}
