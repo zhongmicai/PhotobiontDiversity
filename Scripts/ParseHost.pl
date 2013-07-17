@@ -39,14 +39,14 @@ elsif ( $filename =~ /\.gb/ ) {
         $voucher = $values[0];
       }
       unless ( $voucher ) {
-        if ( $feat_object->has_tag('note') and $feat_object->primary_tag =~ /source/i) {
-          my @values = $feat_object->get_tag_values('note');
+        if ( $feat_object->has_tag('isolation_source') ) {
+          my @values = $feat_object->get_tag_values('isolation_source');
           $voucher = $values[0];
         }
       }
       unless ( $voucher ) {
-        if ( $feat_object->has_tag('isolation_source') ) {
-          my @values = $feat_object->get_tag_values('isolation_source');
+        if ( $feat_object->has_tag('note') and $feat_object->primary_tag =~ /source/i) {
+          my @values = $feat_object->get_tag_values('note');
           $voucher = $values[0];
         }
       }
