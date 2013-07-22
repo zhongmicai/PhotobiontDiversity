@@ -1,0 +1,191 @@
+FJ534596	UNIQUE	IN TREE	free-living	Cephaleuros parasiticus	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534597	UNIQUE	IN TREE	free-living	Cephaleuros virescens	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534598	UNIQUE	IN TREE	free-living	Cephaleuros virescens	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534599	UNIQUE	IN TREE	free-living	Cephaleuros virescens	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534600	UNIQUE	IN TREE	free-living	Cephaleuros virescens	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534601	UNIQUE	IN TREE	free-living	Cephaleuros virescens	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534602	UNIQUE	IN TREE	free-living	Trentepohlia cf. iolithus	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534603	UNIQUE	IN TREE	free-living	Trentepohlia cf. abietina	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534604	UNIQUE	IN TREE	free-living	Trentepohlia arborum	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534605	UNIQUE	IN TREE	free-living	Trentepohlia arborum	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534606	UNIQUE	IN TREE	free-living	Trentepohlia arborum	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534607	UNIQUE	IN TREE	free-living	Trentepohlia arborum	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534608	Group 003	IN TREE	free-living	Trentepohlia aurea	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534609	UNIQUE	IN TREE	free-living	Trentepohlia aurea	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534610	UNIQUE	IN TREE	free-living	Trentepohlia cf. annulata	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534611	UNIQUE	IN TREE	free-living	Trentepohlia cf. flintii	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534612	UNIQUE	IN TREE	free-living	Trentepohlia cf. umbrina	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534613	UNIQUE	IN TREE	free-living	Trentepohlia dialepta	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534614	UNIQUE	IN TREE	free-living	Trentepohlia dusenii	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534615	UNIQUE	IN TREE	free-living	Trentepohlia flava	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534616	UNIQUE	IN TREE	free-living	Trentepohlia flava	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534617	UNIQUE	IN TREE	Racodium rupestre	Trentepohlia sp.	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534618	Group 020	REDUNDANT	free-living	Trentepohlia sp.	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534619	UNIQUE	IN TREE	free-living	Trentepohlia sp.	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534620	UNIQUE	IN TREE	free-living	Trentepohlia iolithus			Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534621	UNIQUE	IN TREE	free-living	Trentepohlia umbrina			Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534622	UNIQUE	IN TREE	free-living	Trentepohlia umbrina	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534623	UNIQUE	IN TREE	free-living	Printzina cf. bosseae	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534624	UNIQUE	IN TREE	free-living	Printzina bosseae			Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534625	Group 005	IN TREE	free-living	Printzina bosseae	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534626	Group 005	REDUNDANT	free-living	Printzina bosseae	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534627	UNIQUE	IN TREE	free-living	Printzina lagenifera	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534628	UNIQUE	IN TREE	free-living	Printzina cf. lagenifera	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534629	UNIQUE	IN TREE	free-living	Printzina lagenifera	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534630	Group 037	IN TREE	free-living	Printzina cf. lagenifera	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534631	Group 006	REDUNDANT	free-living	Printzina cf. lagenifera	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534632	UNIQUE	IN TREE	free-living	Printzina lagenifera	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534633	UNIQUE	IN TREE	free-living	Printzina effusa	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534634	UNIQUE	IN TREE	free-living	Printzina sp.	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534635	Group 006	IN TREE	free-living	Printzina sp.	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ534636	UNIQUE	IN TREE	free-living	Printzina sp.	 	 	Rindi	Mol. Phylogenet. Evol. 52 (2), 329-339 (2009)	19489121	
+FJ715722	Group 003	REDUNDANT	free-living	Trentepohlia aurea	483-1	 	Cocquyt	BMC Evol. Biol. 9, 39 (2009)	19216746	
+GU549441	UNIQUE	IN TREE	Dendrographa alectoroides	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549442	UNIQUE	IN TREE	Laurera megarma	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549443	UNIQUE	IN TREE	Anthracothecium cf. cristatellum	Trentepohliales sp.			Nelsen	J. Phycol. 47, 282-290 (2011)		
+GU549444	UNIQUE	IN TREE	Porina aff. farinosa	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549445	Group 002	REDUNDANT	Porina tetracerae	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549446	Group 002	IN TREE	Porina tetracerae	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549447	UNIQUE	IN TREE	Astrothelium leucoconicum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549448	Group 000	IN TREE	Trypethelium cf. aeneum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549449	UNIQUE	IN TREE	Astrothelium cinnamomeum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549450	Group 081	REDUNDANT	Astrothelium versicolor	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549451	UNIQUE	IN TREE	Trypethelium aeneum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549452	UNIQUE	IN TREE	Cryptothelium 	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549453	Group 074	IN TREE	Porina dolichophora	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549454	Group 081	IN TREE	Cryptothelium sepultum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549455	UNIQUE	IN TREE	Porina imitatrix	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549456	UNIQUE	IN TREE	Porina distans	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)		
+GU549457	UNIQUE	IN TREE	Porina nucula	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549458	Group 074	REDUNDANT	Porina aff.	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549459	UNIQUE	IN TREE	Trypethelium aff. eluteriae	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549460	UNIQUE	IN TREE	Cryptothecia assimilis	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549461	UNIQUE	IN TREE	Dichosporidium boschianum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549462	UNIQUE	IN TREE	Acanthothecis sp.	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549463	UNIQUE	IN TREE	Myriotrema peninsulae	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549464	UNIQUE	IN TREE	Thalloloma hypoleptum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549465	UNIQUE	IN TREE	Thelotrema pachyrum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549466	UNIQUE	IN TREE	Graphis sp.	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549467	Group 000	REDUNDANT	Trypethelium aeneum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549468	Group 000	REDUNDANT	Astrothelium cf. diplocarpum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549469	UNIQUE	IN TREE	Trypethelium nitidiusculum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549470	Group 000	REDUNDANT	Laurera megarma	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549471	Group 000	REDUNDANT	Astrothelium galbineum	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549472	UNIQUE	IN TREE	Coenogonium linkii	Trentepohliales sp.	 	 	Nelsen	J. Phycol. 47, 282-290 (2011)	 	
+GU549473	Group 061	REDUNDANT	Graphis scripta	Trentepohliales sp.	 	 	Nelsen	Unpublished	 	
+JF727813	UNIQUE	IN TREE	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JF727816	Group 020	REDUNDANT	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished		
+JF727818	UNIQUE	IN TREE	Graphis propinqua	Trentepohlia sp.	S16_Gp	 	Hametner	Unpublished	 	
+JF727821	UNIQUE	IN TREE	Graphis submarginata	Printzina sp.	 	 	Hametner	Unpublished	 	
+JQ617913	Group 037	REDUNDANT	Pyrenula laevigata	Printzina sp.	 	 	Hametner	Unpublished	 	
+JQ617914	UNIQUE	IN TREE	Thelotrema lepadinum	Printzina cf. lagenifera	 	 	Hametner	Unpublished	 	
+JQ617915	Group 061	IN TREE	Graphis scripta	Printzina sp.	 	 	Hametner	Unpublished	 	
+JQ617916	Group 003	REDUNDANT	Gyalecta jenensis	Trentepohlia aurea	 	 	Hametner	Unpublished	 	
+JQ617917	UNIQUE	IN TREE	Cystocoleus ebeneus	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617918	Group 011	REDUNDANT	Roccella lirellina	Trentepohlia sp.			Hametner	Unpublished		
+JQ617919	Group 011	REDUNDANT	Roccella tinctoria	Trentepohlia sp.			Hametner	Unpublished		
+JQ617920	UNIQUE	IN TREE	Roccella decipiens	Trentepohlia sp.			Hametner	Unpublished		
+JQ617921	Group 011	IN TREE	Roccella galapagoensis	Trentepohlia sp.			Hametner	Unpublished		
+JQ617922	Group 011	REDUNDANT	Roccella phycopsis	Trentepohlia sp.			Hametner	Unpublished		
+JQ617923	UNIQUE	IN TREE	Roccella cf. montagnei	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617924	UNIQUE	IN TREE	Roccella linearis	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617925	Group 038	REDUNDANT	Roccella maderensis	Trentepohlia sp.	 	 	Hametner	Unpublished		
+JQ617926	Group 038	IN TREE	Roccella tinctoria	Trentepohlia sp.	 	 	Hametner	Unpublished		
+JQ617927	UNIQUE	IN TREE	Roccella tinctoria	Trentepohlia sp.	 	 	Hametner	Unpublished		
+JQ617928	Group 082	REDUNDANT	Thelotrema sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617929	UNIQUE	IN TREE	Arthonia radiata	Trentepohlia sp.	 	 	Hametner	Unpublished		
+JQ617930	UNIQUE	IN TREE	Mycoporum sparsellum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617931	UNIQUE	IN TREE	Acrocordia gemmata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617932	UNIQUE	IN TREE	Arthonia cinnabarina	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617933	UNIQUE	IN TREE	Graphis sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617934	UNIQUE	IN TREE	Opegrapha sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617935	Group 019	REDUNDANT	Pyrenula laevigata	Printzina sp.	 	 	Hametner	Unpublished	 	
+JQ617936	UNIQUE	IN TREE	unknown	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+JQ617937	Group 004	REDUNDANT	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617938	Group 020	IN TREE	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617939	Group 020	REDUNDANT	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617940	Group 020	REDUNDANT	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617941	Group 020	REDUNDANT	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617942	Group 004	IN TREE	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617943	UNIQUE	IN TREE	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+JQ617944	UNIQUE	IN TREE	Arthonia cinnabarina	Printzina cf. lagenifera	 	 	Hametner	Unpublished	 	
+KC469202	UNIQUE	IN TREE	Porina sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469203	UNIQUE	IN TREE	Coenogonium 	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469204	Group 048	REDUNDANT	Pyrenula lomorpha	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469205	Group 048	REDUNDANT	Graphis virescens	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469206	Group 048	IN TREE	Graphis emersa	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469208	UNIQUE	IN TREE	Graphis sp.	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+KC469209	UNIQUE	IN TREE	Graphis sp.	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+KC469210	UNIQUE	IN TREE	Graphis sp.	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+KC469211	UNIQUE	IN TREE	Mycoporum sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469212	UNIQUE	IN TREE	Graphis sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469213	UNIQUE	IN TREE	Phaeographis inusta	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469214	UNIQUE	IN TREE	Arthonia cinnabarina	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469215	UNIQUE	IN TREE	Phaeographis subdividens	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469216	UNIQUE	IN TREE	Phaeographis subdividens	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469217	UNIQUE	IN TREE	Graphis neoelongata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469218	UNIQUE	IN TREE	Graphis sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469219	UNIQUE	IN TREE	Diorygma pruinosum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469220	UNIQUE	IN TREE	Herpothallon rubrocinctum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469221	Group 065	REDUNDANT	Coenogonium linkii	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469222	UNIQUE	IN TREE	Coenogonium leprieurii	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469223	UNIQUE	IN TREE	Coenogonium sp.	Trentepohlia arborum	 	 	Hametner	Unpublished	 	
+KC469224	UNIQUE	IN TREE	Coenogonium barbatum	Trentepohlia arborum	 	 	Hametner	Unpublished	 	
+KC469225	UNIQUE	IN TREE	Coenogonium flavoviride	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469226	UNIQUE	IN TREE	Coenogonium affluteolum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469227	UNIQUE	IN TREE	Coenogonium leprieurii	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469228	UNIQUE	IN TREE	Coenogonium cf. stramineum	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469229	UNIQUE	IN TREE	Coenogonium subluteum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469230	UNIQUE	IN TREE	Coenogonium subdilutum	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469231	Group 065	IN TREE	Coenogonium interpositum	Trentepohlia arborum	 	 	Hametner	Unpublished	 	
+KC469232	UNIQUE	IN TREE	Coenogonium linkii	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469233	UNIQUE	IN TREE	Coenogonium linkii	Trentepohlia aurea	 	 	Hametner	Unpublished	 	
+KC469234	UNIQUE	IN TREE	Phaeographis sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469235	UNIQUE	IN TREE	Glyphis cicatricosa	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469236	UNIQUE	IN TREE	Sarcographa cinchonarum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469237	Group 094	REDUNDANT	Graphis cf. subruiziona	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469238	Group 094	IN TREE	Graphis cf. polyclades	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469239	UNIQUE	IN TREE	Graphis  sp.	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469240	Group 001	REDUNDANT	Coenogonium magdalenae	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469241	Group 001	IN TREE	Graphis apertella	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469242	Group 001	REDUNDANT	Graphis cincta	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469243	UNIQUE	IN TREE	Graphis lineola	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469244	UNIQUE	IN TREE	Herpothallon sp.	Printzina cf. lagenifera	 	 	Hametner	Unpublished	 	
+KC469245	UNIQUE	IN TREE	Strigula elegans	Printzina cf. lagenifera	 	 	Hametner	Unpublished	 	
+KC469246	Group 001	REDUNDANT	Graphis leptocarpa	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469247	Group 030	IN TREE	Phaeographis inusta	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469248	UNIQUE	IN TREE	Thelotrema lepadinum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469249	UNIQUE	IN TREE	Hemithecium laubertianum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469250	UNIQUE	IN TREE	Graphis cf. pseudosophistica	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469251	UNIQUE	IN TREE	Mycoporum eschweileri	Printzina cf. lagenifera	 	 	Hametner	Unpublished	 	
+KC469252	UNIQUE	IN TREE	Strigula smaragdula	Cephaleuros virescens	 	 	Hametner	Unpublished	 	
+KC469253	Group 082	IN TREE	Thelotrema lepadinum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469254	UNIQUE	IN TREE	Thelotrema lepadinum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469255	UNIQUE	IN TREE	Thelotrema lepadinum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469256	UNIQUE	IN TREE	Opegrapha varia	Trentepohlia abietina	 	 	Hametner	Unpublished	 	
+KC469257	UNIQUE	IN TREE	Thalloloma hypoleptum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469258	UNIQUE	IN TREE	Graphis centrifuga	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469259	Group 030	REDUNDANT	Graphis mucronata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469260	UNIQUE	IN TREE	Graphis sp.	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469261	Group 030	REDUNDANT	Arthonia cs. pyrrhuliza	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469262	UNIQUE	IN TREE	Phaeographis subintricata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469263	UNIQUE	IN TREE	Graphis mucronata	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469264	UNIQUE	IN TREE	Leiorreuma hypomelaenum	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469265	UNIQUE	IN TREE	free-living	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469266	UNIQUE	IN TREE	Phaeographis colligata	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469267	UNIQUE	IN TREE	Graphis mucronata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469268	UNIQUE	IN TREE	Phaeographis platycarpa	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469269	Group 019	IN TREE	Graphis alboscripta	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469270	UNIQUE	IN TREE	Phaeographis sp.	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469271	UNIQUE	IN TREE	Phaeographis sp.	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469272	UNIQUE	IN TREE	Arthonia sp.	Printzina sp.	 	 	Hametner	Unpublished	 	
+KC469273	UNIQUE	IN TREE	Glyphis scyphulifera	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+KC469274	UNIQUE	IN TREE	Glyphis scyphulifera	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+KC469275	UNIQUE	IN TREE	Graphis cs. cinerea	Printzina lagenifera	 	 	Hametner	Unpublished	 	
+KC469277	UNIQUE	IN TREE	Graphis mucronata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469278	UNIQUE	IN TREE	Thalloloma deplanatum	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469279	UNIQUE	IN TREE	Graphis librata	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469280	UNIQUE	IN TREE	free-living	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC469281	UNIQUE	IN TREE	Pyrenula quassiaecola	Trentepohlia sp.	 	 	Hametner	Unpublished	 	
+KC559111	UNIQUE	IN TREE	free-living	Cephaleuros parasiticus	KSR01	 	Ramya	Unpublished	 	
+U80809	UNIQUE	IN TREE	free-living	Chloromonas sp.	 	 	Devos	Unpublished	 	remove
