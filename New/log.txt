@@ -1,0 +1,104 @@
+blastn -query TrentepohliaTreFI44_ITS.fa -db nt -evalue 1e-100 -out Trentepohlia_ITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'  
+ 
+cut -f3 Trentepohlia_ITS.bl |sort|uniq|wc -l
+
+(62)
+
+awk '{if($4>3000) print $0}' Trentepohlia_ITS.bl
+
+(0)
+
+awk '{if ($12>$13) print $0}' Trentepohlia_ITS.bl
+
+(0)
+
+cut -f3 Trentepohlia_ITS.bl |sort|uniq>Trentepohlia_ITS_acc.txt
+
+blastdbcmd -db nt -entry_batch Trentepohlia_ITS_acc.txt |../Scripts/GetRedundant.pl >Trentepohlia_ITS.fa
+
+grep ">" Trentepohlia_ITS.fa |wc -l
+
+(62)
+
+usearch -cluster_fast Trentepohlia_ITS.fa -id 1 -centroids Trentepohlia_ITS_nr.fa -uc Trentepohlia_ITS_groups.txt
+
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Trentepohlia_ITS_nr.fa
+
+mafft Trentepohlia_ITS_nr.fa >Trentepohlia_ITS_aln.fa
+
+../Scripts/GetExcluded.pl Trentepohlia_ITS_aln.fa |pbcopy
+
+trimal -in Trentepohlia_ITS_aln.fa -phylip -select `pbpaste` >Trentepohlia_ITS.phy
+
+phyml -i Trentepohlia_ITS.phy
+
+../Scripts/AddSig.pl Trentepohlia_ITS.phy_phyml_tree.txt >Trentepohlia_ITS.nwk
+
+../Scripts/GetGB.pl Trentepohlia_ITS.gbk heath.obrien@gmail.com <Trentepohlia_ITS_acc.txt
+
+grep LOCUS Trentepohlia_ITS.gbk |wc -l
+
+(62)
+
+../Scripts/ParseHost.pl Trentepohlia_ITS.gbk >Trentepohlia_ITS_metadata.txt
+
+../Scripts/GetGroups.py -g Trentepohlia_ITS_groups.txt -m Trentepohlia_ITS_metadata.txt > Trentepohlia_ITS_metadata2.txt
+
+mv Trentepohlia_ITS_metadata2.txt Trentepohlia_ITS_metadata.txt
+
+cat Trentepohlia_ITS.nwk | ../Scripts/AddMetadata.pl Trentepohlia_ITS_metadata.txt host > Trentepohlia_ITS_host.nwk
+
+
+blastn -query TrentepohliaTreFI112_rbcL.fa -db nt -evalue 1e-110 -out Trentepohlia_rbcL.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'  
+
+cut -f3 Trentepohlia_rbcL.bl |sort|uniq|wc -l
+
+(258)
+
+awk '{if($4>3000) print $0}' Trentepohlia_rbcL.bl
+
+(2)
+
+awk '{if ($12>$13) print $0}' Trentepohlia_rbcL.bl
+
+(2)
+
+cut -f3 Trentepohlia_rbcL.bl |sort|uniq | grep -v KC149893 | grep -v GQ250046 >Trentepohlia_rbcL_acc.txt
+
+blastdbcmd -db nt -entry_batch Trentepohlia_rbcL_acc.txt |../Scripts/GetRedundant.pl >Trentepohlia_rbcL.fa
+
+grep ">" Trentepohlia_rbcL.fa |wc -l
+
+(191)
+
+usearch -cluster_fast Trentepohlia_rbcL.fa -id 1 -centroids Trentepohlia_rbcL_nr.fa -uc Trentepohlia_rbcL_groups.txt
+
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Trentepohlia_rbcL_nr.fa
+
+mafft Trentepohlia_rbcL_nr.fa >Trentepohlia_rbcL_aln.fa
+
+../Scripts/GetExcluded.pl Trentepohlia_rbcL_aln.fa |pbcopy
+
+trimal -in Trentepohlia_rbcL_aln.fa -phylip -select `pbpaste` >Trentepohlia_rbcL.phy
+
+phyml -i Trentepohlia_rbcL.phy
+
+../Scripts/GetGB.pl Trentepohlia_rbcL.gbk heath.obrien@gmail.com <Trentepohlia_rbcL_acc.txt
+
+grep LOCUS Trentepohlia_rbcL.gbk |wc -l
+
+(256)
+
+../Scripts/ParseHost.pl Trentepohlia_rbcL.gbk >Trentepohlia_rbcL_metadata.txt
+
+../Scripts/GetGroups.py -g Trentepohlia_rbcL_groups.txt -m Trentepohlia_rbcL_metadata.txt > Trentepohlia_rbcL_metadata2.txt
+
+mv Trentepohlia_rbcL_metadata2.txt Trentepohlia_rbcL_metadata.txt
+
+../Scripts/AddSig.pl Trentepohlia_rbcL.phy_phyml_tree.txt >Trentepohlia_rbcL.nwk
+
+cat Trentepohlia_rbcL.nwk | ../Scripts/AddMetadata.pl Trentepohlia_rbcL_metadata.txt species >Trentepohlia_rbcL_species.nwk 
+
+cat Trentepohlia_rbcL.nwk | ../Scripts/AddMetadata.pl Trentepohlia_rbcL_metadata.txt host >Trentepohlia_rbcL_host.nwk
+
+../Scripts/ColourTree.pl Trentepohlia_rbcL_host.nwk class >Trentepohlia_rbcL_class.nwk
