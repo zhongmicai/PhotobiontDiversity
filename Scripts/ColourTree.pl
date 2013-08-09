@@ -28,6 +28,7 @@ my %lichen_colors = ('Collema', '#ED99AA',
 
 my %family = ('Collema', 'Collemataceae',
             'Degelia', 'Pannariaceae',
+            'Fuscopannaria', 'Pannariaceae',
             'Leptogium', 'Collemataceae',
             'Lobaria', 'Lobariaceae',
             'Massalongia', 'unknown',
@@ -39,12 +40,15 @@ my %family = ('Collema', 'Collemataceae',
             'Pseudocyphellaria', 'Lobariaceae',
             'Stereocaulon', 'Stereocaulaceae',
             'Sticta', 'Lobariaceae',
+            'Acanthothecis', 'Graphidaceae',
             'Acarospora', 'Acarosporaceae',
             'Acrocordia', 'Dothideomycetes incertae sedis',
             'Amandinea', 'Caliciaceae',
             'Anaptychia', 'Physciaceae',
+            'Anthracothecium', 'Pyrenulaceae',
             'Arthonia', 'Arthoniaceae',
             'Aspicilia', 'Megasporaceae',
+            'Astrothelium', 'Trypetheliaceae',
             'Austrolecia', 'Catillariaceae',
             'Boreoplaca', 'Ramalinaceae',
             'Buellia', 'Caliciaceae',
@@ -54,6 +58,11 @@ my %family = ('Collema', 'Collemataceae',
             'Cetraria', 'Parmeliaceae',
             'Chaenotheca', 'Coniocybaceae',
             'Coenogonium', 'Coenogoniaceae',
+            'Cryptothelium', 'Trypetheliaceae',
+            'Cryptothecia', 'Arthoniaceae',
+            'Cystocoleus', 'Dothideomycetes incertae sedis',
+            'Dendrographa', 'Roccellaceae',
+            'Dichosporidium', 'Roccellaceae',
             'Dimelaena', 'Caliciaceae',
             'Dimerella', 'Coenogoniaceae',
             'Diorygma', 'Graphidaceae',
@@ -66,12 +75,13 @@ my %family = ('Collema', 'Collemataceae',
             'Glyphis', 'Graphidaceae',
             'Graphis', 'Graphidaceae',
             'Gyalecta', 'Gyalectaceae',
-            'Hemicium', '',
+            'Hemithecium', 'Graphidaceae',
             'Herpothallon', 'Arthoniales incertae sedis',
             'Huea', 'Teloschistaceae',
             'Hypogymnia', 'Parmeliaceae',
             'Imshaugia', 'Parmeliaceae',
             'Lasallia', 'Umbilicariaceae',
+            'Laurera', 'Trypetheliaceae',
             'Lecanora', 'Lecanoraceae',
             'Lecidea', 'Lecideaceae',
             'Lecidella', 'Lecanoraceae',
@@ -82,6 +92,8 @@ my %family = ('Collema', 'Collemataceae',
             'Rimularia', 'Agyriaceae',
             'Melanelia', 'Parmeliaceae',
             'Mycoporum', 'Arthopyreniaceae',
+            'Myriotrema', 'Graphidaceae',
+            'Opegrapha', 'Opegraphaceae',
             'Parmelia', 'Parmeliaceae',
             'Parmelina', 'Parmeliaceae',
             'Parmotrema', 'Parmeliaceae',
@@ -91,15 +103,18 @@ my %family = ('Collema', 'Collemataceae',
             'Physconia', 'Physciaceae',
             'Pleurosticta', 'Parmeliaceae',
             'Polysporina', 'Acarosporaceae',
+            'Porina', 'Porinaceae',
             'Protoparmeliopsis','',
             'Pseudevernia', 'Parmeliaceae',
             'Punctelia', 'Parmeliaceae',
             'Ramalina', 'Ramalinaceae',
             'Pyrenula', 'Pyrenulaceae',
+            'Racodium', 'Dothideomycetes incertae sedis',
             'Rhizoplaca', 'Lecanoraceae',
             'Rimularia', 'Agyriaceae',
             'Rinodina', 'Physciaceae',
             'Rinodinella', 'Physciaceae',
+            'Roccella', 'Roccellaceae',
             'Sarcographa', 'Graphidaceae',
             'Sarcogyne', 'Acarosporaceae',
             'Schaereria', 'Agyriaceae',
@@ -107,14 +122,26 @@ my %family = ('Collema', 'Collemataceae',
             'Strigula', 'Strigulaceae',
             'Teloschistes', 'Teloschistaceae',
             'Tephromela', 'Tephromelataceae',
+            'Thalloloma', 'Graphidaceae',
             'Thamnolia', 'Icmadophilaceae',
+            'Thelotrema', 'Graphidaceae',
             'Toninia', 'Ramalinaceae',
+            'Trypethelium', 'Trypetheliaceae',
             'Tuckermannopsis', 'Parmeliaceae',
             'Umbilicaria', 'Umbilicariaceae',
             'Usnea', 'Parmeliaceae',
             'Xanthomendoza', 'Teloschistaceae',
             'Xanthoparmelia', 'Parmeliaceae',
-            'Xanthoria', 'Teloschistaceae'
+            'Xanthoria', 'Teloschistaceae',
+            'Anthoceros', 'Plant',
+            'Blasia', 'Plant',
+            'Cylindrospermum', 'Free-living',
+            'Encephalartos', 'Plant',
+            'Geosiphon', 'Other',
+            'Macrozamia', 'Plant',
+            'Nostoc', 'Free-living',
+            'Gunnera', 'Plant',
+            'Cycas', 'Plant'
             );
             
 my %orders = ('Arthoniaceae', 'Arthoniales',
@@ -138,16 +165,20 @@ my %orders = ('Arthoniaceae', 'Arthoniales',
               'Massalongia', 'Peltigerales',
               'Megasporaceae', 'Pertusariales',
               'Nephromataceae', 'Peltigerales',
+              'Opegraphaceae', 'Arthoniales',
               'Pannariaceae', 'Peltigerales',
               'Parmeliaceae', 'Lecanorales',
               'Peltigeraceae', 'Peltigerales',
+              'Porinaceae', 'Ostropales',
               'Physciaceae', 'Caliciales',
               'Pyrenulaceae', 'Pyrenulales',
               'Ramalinaceae', 'Lecanorales',
+              'Roccellaceae', 'Arthoniales',
               'Stereocaulaceae', 'Lecanorales',
               'Strigulaceae', 'Dothideomycetes incertae sedis',
               'Teloschistaceae', 'Teloschistales',
               'Tephromelataceae', 'Lecanorales',
+              'Trypetheliaceae', 'Trypetheliales',
               'Umbilicariaceae', 'Umbilicariales'
          );
 
@@ -165,6 +196,7 @@ my %subclass = ('Acarosporales', 'Acarosporomycetidae',
               'Pleosporales', 'Pleosporomycetidae',
               'Pyrenulales', 'Chaetothyriomycetidae',
               'Teloschistales', 'Lecanoromycetidae',
+              'Trypetheliales', 'Dothideomycetes incertae sedis',
               'Lecanorales', 'Lecanoromycetidae',
               'Umbilicariales', 'Lecanoromycetes incertae sedis'
          );
@@ -173,7 +205,7 @@ my %class = ( 'Acarosporomycetidae', 'Lecanoromycetes',
               'Arthoniomycetes', 'Arthoniomycetes',
               'Ostropomycetidae', 'Lecanoromycetes',
               'Lecanoromycetidae', 'Lecanoromycetes',
-              'Coniocybales', 'Coniocybomycetes',
+              'Coniocybomycetes', 'Coniocybomycetes',
               'Dothideomycetes incertae sedis', 'Dothideomycetes',
               'Pleosporomycetidae', 'Dothideomycetes',
               'Chaetothyriomycetidae', 'Eurotiomycetes',
@@ -210,16 +242,18 @@ my %host_colors = ('Plant', '#7CDC00',
                 );
                 
 
-my %family_colors = ('Collemataceae', '#C87A8A',
-                  'Pannariaceae', '#AE8B50',
-                  'Lobariaceae', '#729C55',
-                  'unknown', '#000000',
-                  'Nephromataceae', '#FFD000',
-                  'Peltigeraceae', '#4C99BE',
-                  'Stereocaulaceae', '#A782C3',
+my %family_colors = ('Collemataceae', '#-16777088', #midnight
+                  'Pannariaceae', '#-39322', #salmon
+                  'Lobariaceae', '#-8372224', #mocha
+                  'unknown', '#000000', #black
+                  'Nephromataceae', '#-32768', #tangarine
+                  'Peltigeraceae', '#-65536', #maraschino
+                  'Stereocaulaceae', '#-3381505', #lavender
                   'Graphidaceae', '#005C26',  #Dark Green
-                  'Coenogoniaceae', '#28399F', #Dark blue
+                  'Coenogoniaceae', '#-16776961', #blueberry
                   'Arthoniaceae', '#-65536', #maraschino
+                  'Free-living', '#-16744320', #teal 
+                  'Plant', '#-16744448', #clover
             );
 
 my %class_colors = ( 'Arthoniomycetes', '#FFA500', #orange 
@@ -235,7 +269,7 @@ my %specialists = ( 'Leptogium saturninum', '#C87A8A',
                     'Leptogium furfuraceum', '#FFD000',
                     'Leptogium magnussonii', '#4C99BE',
                     'Peltigera malacea', '#A782C3',
-                    'Sticta hypochra', '#FFA500'
+                    'Sticta hypochra', '#-13210', #cantaloupe
             );
 
 my %species_colors = ( 'other', '#FF2020', #Dark Red
@@ -320,6 +354,7 @@ sub ColorByGenus {
   while ( $line =~ /([A-Z][a-z]+)/g ) {
     my $genus = $1;
     if ( $1 eq 'Group' or $comparison =~ /specialists/i) {next; }
+    #print STDERR "??\n";
     if ( $comparison =~ /host/i ) { 
       if ( $host{$genus} and $host_colors{$host{$genus}} ) {
         if ( $group and $group ne $host_colors{$host{$genus}} ) { $multiple = 1; }
@@ -332,7 +367,7 @@ sub ColorByGenus {
         $group = $family_colors{$family{$genus}}; 
       }
     }
-    elsif ( $comparison =~ /class/i ) { 
+    elsif ( $comparison =~ /class/i and $genus !~ /free[- ]?living/i ) {
       print STDERR join(", ", ($genus, $family{$genus}, $orders{$family{$genus}}, $subclass{$orders{$family{$genus}}}, $class{$subclass{$orders{$family{$genus}}}}, $class_colors{$class{$subclass{$orders{$family{$genus}}}}})), "\n";
       if ( $class{$subclass{$orders{$family{$genus}}}} and $class_colors{$class{$subclass{$orders{$family{$genus}}}}} ) {
         if ( $group and $group ne $class_colors{$class{$subclass{$orders{$family{$genus}}}}} ) { $multiple = 1; }
