@@ -36,21 +36,27 @@ def main(argv):
         accession, host, name, clade, strain, location, author, reference, pmid = row
       elif len(row) == 8:
         accession, host, name, strain, location, author, reference, pmid = row
-      else: raise ValueError("Metadata file does not have the right number of columns. Format should be 'accession, [group, tree_status,] host, name, [clade,] strain, location, author, reference, pmid'\n")              
-      if accession in representatives.keys(): 
-        tree_status = "IN TREE"
-        if representatives[accession] in groups.values():
-          group = "Group " + format(representatives[accession], "03d")
-        else: group = "UNIQUE"
-      else:
-        group = "Group " + format(groups[accession], "03d")
-        tree_status = "REDUNDANT"
-
+      else: raise ValueError("Metadata file does not have the right number of columns. Format should be 'accession, [group, tree_status,] host, name, [clade,] strain, location, author, reference, pmid'\n")
+      
+      #Add group number info
+      base = string.split(accession, ".")[0]  #strip off part after decimal indicating multiple samples with same haplotype
+      if base in representatives.keys(): group = "Group " + format(representatives[base], "03d")
+      elif base in groups.keys(): group = "Group " + format(groups[base], "03d")
+      else: group = 'NA'
+      
+      tree_status = "REDUNDANT"
+      if base in representatives.keys():
+        if accession == base:
+          tree_status = "IN TREE"  
+          if representatives[accession] not in groups.values():
+            group = "UNIQUE"
+        elif accession == base + ".000":
+          tree_status = "IN TREE"  
       print "\t".join([accession, group, tree_status, host, name, clade, strain, location, author, reference, pmid])
    
 def GetGroups(file):
-  groups = {}
-  representatives = {}
+  groups = {}             #only groups with multiple seqs
+  representatives = {}    #only seqs that are included in nr set
   with open(file, 'rU') as f:
     reader=csv.reader(f,delimiter='\t')
     for type, group, length, percent_id, strand, x1, x2, aln, query, hit in reader:
