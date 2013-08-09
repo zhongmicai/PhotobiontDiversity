@@ -1,0 +1,732 @@
+281
+AJ632030	UNIQUE	IN TREE	Lake Tuusulanjarvi	Nostoc sp.		1tu14s8		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
+AJ632063	UNIQUE	IN TREE	free-living	Nostoc calcicola		III		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
+AJ632064	UNIQUE	IN TREE	free-living	Nostoc calcicola		VI		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
+AJ632065	UNIQUE	IN TREE	free-living	Nostoc edaphicum		X		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
+AJ632066	UNIQUE	IN TREE	free-living	Nostoc ellipsosporum		V		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
+DQ185260	Group 001	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185261	Group 020	REDUNDANT	Peltigera canina	Nostoc sp.		Mollenhauer 1:1-064		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185262	Group 020	IN TREE	Peltigera rufescens	Nostoc sp.		Mollenhauer 1:1-065		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185263	Group 020	REDUNDANT	Peltigera didactyla	Nostoc sp.		Mollenhauer 1:1-066		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185264	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		Mollenhauer 1:1-067		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185265	UNIQUE	IN TREE	Geosiphon pyriforme	Nostoc sp.		Mollenhauer 1:1-088		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185266	UNIQUE	IN TREE	Anthoceros sp.	Nostoc sp.		Mollenhauer 1:1-106b2		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185267	Group 024	IN TREE	Encephalartos natalensis	Nostoc sp.		Mollenhauer 1:1-108		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185268	UNIQUE	IN TREE	Blasia pusilla	Nostoc sp.		Mollenhauer 1:1-115		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185269	Group 028	IN TREE	Blasia pusilla	Nostoc sp.		Mollenhauer 1:1-125		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185270	UNIQUE	IN TREE	Anthoceros sp.	Nostoc sp.		Mollenhauer 1:1-150b		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185271	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		Mollenhauer 94.1		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185272	Group 023	IN TREE	Peltigera rufescens	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185273	Group 024	REDUNDANT	Collema crispum	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185274	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185275	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185276	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185277	Group 023	REDUNDANT	Peltigera didactyla	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185278	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185279	Group 017	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185280	UNIQUE	IN TREE	free-living	Nostoc commune				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185281	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185282	Group 085	IN TREE	Peltigera canina	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185283	Group 085	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185284	Group 001	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185285	Group 037	REDUNDANT	Peltigera horizontalis	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185286	UNIQUE	IN TREE	Sticta beauvoisii	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185287	UNIQUE	IN TREE	Peltigera canina	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185289	UNIQUE	IN TREE	Leptogium gelatinosum	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185290	UNIQUE	IN TREE	Lobaria amplissima	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185291	UNIQUE	IN TREE	Lobaria hallii	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185292	UNIQUE	IN TREE	Massalongia carnosa	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185293	Group 081	IN TREE	Nephroma bellum	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185294	Group 211	IN TREE	Nephroma helveticum	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185295	UNIQUE	IN TREE	Pannaria conoplea	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185296	Group 017	IN TREE	Peltigera canina	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185303	Group 125	REDUNDANT	Peltigera degenii	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185304	Group 028	REDUNDANT	Peltigera didactyla	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185305	UNIQUE	IN TREE	Peltigera lepidophora	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185306	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185307	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185308	Group 017	REDUNDANT	Peltigera rufescens	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185309	UNIQUE	IN TREE	Cycas circinalis	Nostoc sp.		SAG 29.90		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185310	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		SAG 36.92		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185311	Group 001	REDUNDANT	Peltigera aphthosa	Nostoc sp.		SAG 39.87		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185312	UNIQUE	IN TREE	Peltigera aphthosa	Nostoc sp.		SAG 41.87		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185313	UNIQUE	IN TREE	free-living	Nostoc muscorum		SAG 57.79		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185314	UNIQUE	IN TREE	Blasia pusilla	Nostoc punctiforme		SAG 65.79		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185315	UNIQUE	IN TREE	Gunnera manicata	Nostoc punctiforme		SAG 68.79		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185316	UNIQUE	IN TREE	Geosiphon pyriforme	Nostoc punctiforme		SAG 69.79		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185317	UNIQUE	IN TREE	free-living	Nostoc punctiforme		SAG 71.79		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ185318	Group 040	IN TREE	Sticta fuliginosa	Nostoc sp.				O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	
+DQ266000	UNIQUE	IN TREE	Lobaria amplissima	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266001	UNIQUE	IN TREE	Lobaria amplissima	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266002	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266003	UNIQUE	IN TREE	Pseudocyphellaria clathrata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266004	UNIQUE	IN TREE	Pseudocyphellaria mallota	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266005	UNIQUE	IN TREE	Pseudocyphellaria coriifolia	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266006	UNIQUE	IN TREE	Pseudocyphellaria intricata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266007	UNIQUE	IN TREE	Pseudocyphellaria hirsuta	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266008	UNIQUE	IN TREE	Pseudocyphellaria scabrosa	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266009	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266010	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266011	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266012	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266013	UNIQUE	IN TREE	Pseudocyphellaria intricata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266014	UNIQUE	IN TREE	Pseudocyphellaria hirsuta	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266015	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266016	UNIQUE	IN TREE	Pseudocyphellaria coriifolia	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266017	UNIQUE	IN TREE	Pseudocyphellaria pilosella	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266018	UNIQUE	IN TREE	Pseudocyphellaria mallota	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266019	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266020	UNIQUE	IN TREE	Pseudocyphellaria intricata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266021	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266022	UNIQUE	IN TREE	Pseudocyphellaria coriifolia	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266023	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266024	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266025	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266026	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266027	UNIQUE	IN TREE	Sticta gaudichaldia	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266028	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266029	UNIQUE	IN TREE	Stereocaulon exutum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266030	Group 029	IN TREE	Stereocaulon fronduliferum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266031	UNIQUE	IN TREE	Stereocaulon tomentosum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266032	Group 029	REDUNDANT	Protopannaria pezizoides	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266033	UNIQUE	IN TREE	Fuscopannaria leucophaea	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266034	UNIQUE	IN TREE	Peltigera degenii	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266035	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266036	UNIQUE	IN TREE	Massalongia carnosa	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266037	Group 038	IN TREE	Leptogium saturninum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266038	Group 038	REDUNDANT	Leptogium saturninum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266039	UNIQUE	IN TREE	Collema flaccidum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266040	UNIQUE	IN TREE	Collema flaccidum	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266041	UNIQUE	IN TREE	Pseudocyphellaria scabrosa	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+DQ266042	UNIQUE	IN TREE	Pseudocyphellaria lechleri	Nostoc sp.				Stenroos	Cladistics 22 (3), 230-238 (2006)	
+EF102295	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.		Dplu		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102296	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul376b		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102297	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul385		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102298	Group 072	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul391		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102299	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul400		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102300	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul413		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102301	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul424		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102302	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul431		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102303	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul23259		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102304	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul23259b		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102305	UNIQUE	IN TREE	Lobaria scrobiculata	Nostoc sp.		Lscrsn		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102306	Group 019	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel383		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102307	Group 191	IN TREE	Nephroma bellum	Nostoc sp.		Nbel388		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102308	Group 081	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel393		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102309	UNIQUE	IN TREE	Nephroma bellum	Nostoc sp.		Nbel415		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102310	Group 081	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel21173		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102311	Group 191	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel19679		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102312	Group 145	REDUNDANT	Nephroma laevigatum	Nostoc sp.		Nlae381		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102313	Group 145	IN TREE	Nephroma laevigatum	Nostoc sp.		Nlae403		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102314	UNIQUE	IN TREE	Nephroma parile	Nostoc sp.		Npar382		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102315	UNIQUE	IN TREE	Nephroma parile	Nostoc sp.		Npar386		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102316	Group 072	REDUNDANT	Nephroma parile	Nostoc sp.		Npar402		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102317	UNIQUE	IN TREE	Nephroma parile	Nostoc sp.		Npar416		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102318	Group 081	REDUNDANT	Nephroma resupinatum	Nostoc sp.		Nres379		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102319	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.		Nres19573		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102320	UNIQUE	IN TREE	Nephroma tangeriense	Nostoc sp.		Ntan434		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102321	UNIQUE	IN TREE	Protopannaria pezizoides	Nostoc sp.		Ppez426		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102322	UNIQUE	IN TREE	Parmeliella triptophylla	Nostoc sp.		Ptri387		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102323	Group 191	REDUNDANT	Parmeliella triptophylla	Nostoc sp.		Ptri392		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102324	Group 019	REDUNDANT	Parmeliella triptophylla	Nostoc sp.		Ptri401		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102325	UNIQUE	IN TREE	Parmeliella triptophylla	Nostoc sp.		Ptri412		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102326	Group 055	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu377		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102327	Group 037	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu390		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102328	Group 222	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu399		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102329	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu463		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102330	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu21834		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102331	Group 055	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu21759		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102332	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu21860		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102333	UNIQUE	IN TREE	Peltigera malacea	Nostoc sp.		Pmal429		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102334	Group 125	IN TREE	Peltigera membranacea	Nostoc sp.		Pmem425		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102335	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		Pmemb432		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102336	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.		Pneo395		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102337	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.		Pneo410		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102338	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra378		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102339	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra384		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102340	Group 037	REDUNDANT	Peltigera praetextata	Nostoc sp.		Ppra389		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102341	Group 222	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra398		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102342	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra414		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102343	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra418		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102344	Group 037	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra428		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102345	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra430		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102346	UNIQUE	IN TREE	Peltigera sp.	Nostoc sp.		Psp437		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EF102347	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.		Pcro436		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
+EU672828	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		H.Y2008-1C		Lei	Unpublished	
+EU672829	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		H.Y2008-2C		Lei	Unpublished	
+EU672830	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		H.Y2008-3C		Lei	Unpublished	
+EU877460	UNIQUE	IN TREE	Collema crim	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877461	UNIQUE	IN TREE	Collema auriforme	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877462	UNIQUE	IN TREE	Collema auriforme	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877463	UNIQUE	IN TREE	Collema fasciculare	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877464	UNIQUE	IN TREE	Collema fasciculare	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877465	UNIQUE	IN TREE	Collema flaccidum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877466	UNIQUE	IN TREE	Collema flaccidum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877467	UNIQUE	IN TREE	Collema fragile	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877468	UNIQUE	IN TREE	Collema fragile	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877469	UNIQUE	IN TREE	Collema furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877470	UNIQUE	IN TREE	Collema furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877471	UNIQUE	IN TREE	Collema furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877472	UNIQUE	IN TREE	Collema furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877473	UNIQUE	IN TREE	Collema nigrescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877474	UNIQUE	IN TREE	Collema nigrescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877475	UNIQUE	IN TREE	Collema nigrescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877476	UNIQUE	IN TREE	Collema polycarpon	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877477	UNIQUE	IN TREE	Collema polycarpon	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877478	UNIQUE	IN TREE	Collema subnigrescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877479	UNIQUE	IN TREE	Collema subnigrescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877480	UNIQUE	IN TREE	Collema subnigrescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877481	UNIQUE	IN TREE	Collema tenax	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877482	UNIQUE	IN TREE	Collema tenax	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877483	UNIQUE	IN TREE	Collema tenax	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877484	UNIQUE	IN TREE	Leptogium austroamericanum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877485	UNIQUE	IN TREE	Leptogium austroamericanum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877486	UNIQUE	IN TREE	Leptogium azureum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877487	UNIQUE	IN TREE	Leptogium azureum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877488	UNIQUE	IN TREE	Leptogium azureum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877489	UNIQUE	IN TREE	Leptogium brebissonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877490	UNIQUE	IN TREE	Leptogium brebissonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877491	UNIQUE	IN TREE	Leptogium corniculatum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877492	UNIQUE	IN TREE	Leptogium corniculatum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877493	UNIQUE	IN TREE	Leptogium corticola	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877494	UNIQUE	IN TREE	Leptogium corticola	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877495	UNIQUE	IN TREE	Leptogium cyanescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877496	UNIQUE	IN TREE	Leptogium cyanescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877497	UNIQUE	IN TREE	Leptogium cyanescens	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877498	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877499	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877500	Group 116	IN TREE	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877501	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877502	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877503	Group 116	REDUNDANT	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877504	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877505	UNIQUE	IN TREE	Leptogium gelatinosum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877506	UNIQUE	IN TREE	Leptogium gelatinosum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877507	UNIQUE	IN TREE	Leptogium liehenoides	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877508	UNIQUE	IN TREE	Leptogium liehenoides	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877509	UNIQUE	IN TREE	Leptogium liehenoides	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877510	Group 036	REDUNDANT	Leptogium liehenoides	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877511	Group 036	IN TREE	Leptogium liehenoides	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877512	UNIQUE	IN TREE	Leptogium magnussonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877513	UNIQUE	IN TREE	Leptogium magnussonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877514	UNIQUE	IN TREE	Leptogium magnussonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877515	UNIQUE	IN TREE	Leptogium magnussonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877516	UNIQUE	IN TREE	Leptogium magnussonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877517	UNIQUE	IN TREE	Leptogium magnussonii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877518	Group 022	IN TREE	Leptogium pseudofurfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877519	Group 022	REDUNDANT	Leptogium pseudofurfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877520	UNIQUE	IN TREE	Leptogium pseudofurfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877521	UNIQUE	IN TREE	Leptogium pseudofurfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877522	UNIQUE	IN TREE	Leptogium pseudofurfuraceum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877523	UNIQUE	IN TREE	Leptogium pulvinatum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877524	UNIQUE	IN TREE	Leptogium pulvinatum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877525	UNIQUE	IN TREE	Leptogium saturninum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877526	UNIQUE	IN TREE	Leptogium saturninum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877527	UNIQUE	IN TREE	Leptogium saturninum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877528	UNIQUE	IN TREE	Leptogium saturninum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877529	UNIQUE	IN TREE	Leptogium scharderii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+EU877530	UNIQUE	IN TREE	Leptogium scharderii	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+GQ184605	Group 025	IN TREE	Leptogium lichenoides	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+GQ184606	Group 034	IN TREE	Collema flaccidum	Nostoc sp.				Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269
+HQ335213	UNIQUE	IN TREE	unknown	Nostoc sp.				Zhang	Unpublished	
+HQ335214	UNIQUE	IN TREE	unknown	Nostoc sp.				Zhang	Unpublished	
+JX126710.000	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.001	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.002	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.003	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.004	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.005	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.006	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.007	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.008	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.009	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.010	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.011	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.012	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.013	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.014	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.015	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.016	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.017	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.018	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.019	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.020	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.021	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.022	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.023	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.024	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.025	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.026	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.027	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.028	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.029	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.030	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.031	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.032	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.033	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.034	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.035	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.036	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.037	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.038	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.039	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.040	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.041	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.042	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.043	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.044	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.045	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.046	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.047	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.048	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.049	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.050	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.051	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.052	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.053	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.054	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.055	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.056	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.057	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.058	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.059	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.060	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.061	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.062	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.063	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.064	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.065	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.066	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.067	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.068	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.069	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.070	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.071	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.072	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.073	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.074	Group 040	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.075	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.076	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.077	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.078	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.079	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.080	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.081	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.082	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.083	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.084	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.085	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.086	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.087	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.088	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.089	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.090	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.091	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.092	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.093	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.094	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.095	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.096	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.097	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.098	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.099	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.100	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.101	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.102	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.103	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.104	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.105	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.106	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.107	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.108	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.109	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.110	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.111	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126710.112	Group 040	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.000	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.001	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.002	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.003	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.004	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.005	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126711.006	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126712.000	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126712.001	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126712.002	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.000	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.001	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.002	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.003	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.004	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.005	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.006	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.007	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.008	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.009	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.010	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.011	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.012	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.013	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.014	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.015	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126713.016	UNIQUE	REDUNDANT	Degelia atlantica	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.000	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.001	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.002	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.003	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.004	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.005	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.006	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.007	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.008	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.009	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.010	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.011	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.012	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.013	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126714.014	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126715.000	Group 211	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126715.001	Group 211	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.000	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.001	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.002	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.003	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.004	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.005	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.006	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.007	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.008	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.009	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.010	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.011	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.012	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126716.013	UNIQUE	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126717	Group 145	REDUNDANT	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX126718	UNIQUE	IN TREE	Degelia plumbea	Nostoc sp.				Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157
+JX876583	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876584	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876585	Group 006	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876586	Group 035	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876587	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876588	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876589	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876590	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876591	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876592	Group 015	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876593	Group 015	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876594	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876595	Group 035	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876596	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876597	Group 006	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876598	Group 015	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876599	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876600	Group 031	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876601	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876602	Group 031	REDUNDANT	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+JX876603	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Manoharan	Symbiosis. 58, 91-98 (2012)	
+KC291407	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.				Gagunashvili	Unpublished	
+KC437651	Group 007	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437652	Group 007	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437653	Group 021	IN TREE	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437654	Group 007	IN TREE	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437655	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437656	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437657	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437658	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437659	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437660	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437661	Group 009	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437662	Group 009	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437663	Group 009	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437664	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437665	Group 033	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437666	Group 033	IN TREE	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437667	Group 009	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437668	Group 009	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437669	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437670	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437671	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437672	Group 004	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437673	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437674	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437675	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437676	Group 014	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437677	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437678	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437679	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437680	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437681	Group 011	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437682	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437683	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437684	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437685	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437686	Group 010	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437687	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437688	Group 002	IN TREE	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437689	Group 010	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437690	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437691	Group 011	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437692	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437693	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437694	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437695	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437696	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437697	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437698	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437699	Group 005	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437700	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437701	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437702	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437703	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437704	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437705	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437706	Group 001	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437707	Group 005	IN TREE	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437708	Group 005	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437709	Group 001	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437710	Group 000	REDUNDANT	Peltigera canina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437711	Group 004	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437712	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437713	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437714	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437715	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437716	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437717	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437718	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437719	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437720	Group 005	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437721	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437722	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437723	Group 004	REDUNDANT	Peltigera praetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437724	Group 000	REDUNDANT	Peltigera praetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437725	Group 004	REDUNDANT	Peltigera praetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437726	Group 000	REDUNDANT	Peltigera sp.	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437727	Group 004	REDUNDANT	Peltigera sp.	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437728	Group 000	REDUNDANT	Peltigera sp.	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437729	Group 000	REDUNDANT	Peltigera sp.	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437730	Group 001	IN TREE	Peltigera cinnamomea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437731	Group 001	REDUNDANT	Peltigera cinnamomea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437732	Group 005	REDUNDANT	Peltigera cinnamomea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437733	Group 005	REDUNDANT	Peltigera cinnamomea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437734	Group 005	REDUNDANT	Peltigera cinnamomea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437735	Group 008	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437736	Group 001	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437737	Group 001	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437738	Group 001	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437739	Group 001	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437740	Group 001	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437741	Group 001	REDUNDANT	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437742	Group 008	REDUNDANT	Peltigera neckeri	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437743	UNIQUE	IN TREE	Peltigera neckeri	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437744	Group 001	REDUNDANT	Peltigera horizontalis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437745	Group 030	IN TREE	Peltigera horizontalis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437746	Group 030	REDUNDANT	Peltigera horizontalis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437747	Group 001	REDUNDANT	Peltigera horizontalis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437748	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437749	Group 000	IN TREE	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437750	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437751	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437752	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437753	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437754	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437755	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437756	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437757	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437758	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437759	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437760	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437761	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437762	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437763	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437764	Group 004	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437765	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437766	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437767	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437768	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437769	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437770	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437771	Group 014	IN TREE	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437772	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437773	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437774	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437775	Group 008	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437776	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437777	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437778	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437779	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437780	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437781	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437782	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437783	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437784	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437785	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437786	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437787	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437788	Group 004	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437789	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437790	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437791	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437792	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437793	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437794	Group 005	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437795	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437796	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437797	Group 007	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437798	Group 004	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437799	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437800	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437801	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437802	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437803	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437804	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437805	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437806	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437807	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437808	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437809	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437810	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437811	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437812	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437813	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437814	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437815	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437816	Group 014	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437817	Group 008	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437818	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437819	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437820	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437821	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437822	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437823	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437824	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437825	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437826	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437827	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437828	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437829	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437830	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437831	Group 018	REDUNDANT	Peltigera degenii	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437832	Group 001	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437833	Group 001	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437834	Group 001	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437835	Group 018	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437836	Group 018	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437837	Group 005	REDUNDANT	Peltigera polydactylon	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437838	Group 000	REDUNDANT	Peltigera ponojensis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437839	Group 000	REDUNDANT	Peltigera ponojensis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437840	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437841	Group 009	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437842	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437843	Group 019	REDUNDANT	Nephroma bellum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437844	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437845	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437846	Group 011	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437847	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437848	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437849	Group 021	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437850	Group 003	IN TREE	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437851	Group 000	REDUNDANT	Peltigera venosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437852	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437853	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437854	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437855	Group 000	REDUNDANT	Peltigera fuscopraetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437856	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437857	Group 019	REDUNDANT	Nephroma resupinatum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437858	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437859	Group 019	IN TREE	Nephroma bellum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437860	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437861	Group 000	REDUNDANT	Peltigera kristinssoni	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437862	Group 000	REDUNDANT	Peltigera venosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437863	Group 000	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437864	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437865	Group 004	IN TREE	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437866	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437867	Group 000	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437868	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437869	Group 001	REDUNDANT	Peltigera polydactylon	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437870	Group 001	REDUNDANT	Peltigera polydactylon	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437871	Group 000	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437872	Group 000	REDUNDANT	Peltigera praetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437873	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437874	Group 125	REDUNDANT	Peltigera membranacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437875	Group 008	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437876	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437877	Group 008	IN TREE	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437878	Group 008	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437879	Group 009	IN TREE	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437880	UNIQUE	IN TREE	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437881	Group 010	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437882	Group 012	REDUNDANT	Peltigera collina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437883	UNIQUE	IN TREE	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437884	Group 007	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437885	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437886	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437887	Group 007	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437888	Group 008	REDUNDANT	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437889	Group 012	REDUNDANT	Peltigera collina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437890	Group 012	IN TREE	Peltigera collina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437891	Group 003	REDUNDANT	Nephroma parile	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437892	Group 007	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437893	Group 012	REDUNDANT	Peltigera collina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437894	Group 007	REDUNDANT	Peltigera britannica	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437895	Group 012	REDUNDANT	Peltigera collina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437896	UNIQUE	IN TREE	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437897	Group 001	REDUNDANT	Peltigera horizontalis	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437898	Group 021	REDUNDANT	Peltigera aphthosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437899	Group 014	REDUNDANT	Peltigera venosa	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437900	UNIQUE	IN TREE	Peltigera neocanina	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437901	Group 010	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437902	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437903	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437904	Group 002	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437905	Group 011	IN TREE	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437906	Group 011	REDUNDANT	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437907	Group 026	REDUNDANT	Nephroma arcticum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437908	Group 026	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437909	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437910	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437911	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437912	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437913	UNIQUE	IN TREE	Lobaria kurkawe	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437914	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437915	UNIQUE	IN TREE	Lobaria kurkawe	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437916	UNIQUE	IN TREE	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437917	Group 010	IN TREE	Peltigera malacea	Nostoc sp.				O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KF142679	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap1		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142680	Group 135	IN TREE	Gunnera magellanica	Nostoc sp.		Hap2		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142681	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap3		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142682	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap4		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142683	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap5		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142684	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap6		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142685	Group 032	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap7		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142686	Group 032	IN TREE	Gunnera magellanica	Nostoc sp.		Hap8		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142687	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap9		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142688	Group 135	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap10		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142689	Group 013	IN TREE	Gunnera magellanica	Nostoc sp.		Hap11		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142690	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap12		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142691	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap13		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142692	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap14		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142693	Group 013	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap15		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142694	Group 013	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap16		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142695	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap17		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142696	Group 016	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap18		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142697	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap19		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142698	Group 013	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap20		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142699	Group 016	IN TREE	Gunnera magellanica	Nostoc sp.		Hap21		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142700	Group 016	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap22		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142701	Group 013	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap23		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142702	Group 013	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap24		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142703	Group 013	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap25		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142704	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap26		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142705	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap27		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142706	Group 027	IN TREE	Gunnera magellanica	Nostoc sp.		Hap28		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142707	Group 027	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap29		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142708	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap30		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142709	Group 130	REDUNDANT	Gunnera magellanica	Nostoc sp.		Hap31		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+KF142710	Group 130	IN TREE	Gunnera magellanica	Nostoc sp.		Hap32		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
+Z94889	UNIQUE	IN TREE	free-living	Nostoc sp.		NIVA-CYA 124		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
+Z94890	UNIQUE	IN TREE	free-living	Nostoc sp.		NIVA-CYA 194		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
+Z94891	UNIQUE	IN TREE	free-living	Nostoc sp.		NIVA-CYA 308		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
+Z94892	UNIQUE	IN TREE	free-living	Nostoc commune				Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
+Z94893	UNIQUE	IN TREE	free-living	Nostoc commune var. flagelliforme				Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
+CP001037	UNIQUE	IN TREE	Macrozamia sp.	Nostoc punctiforme		PCC 73102		Meeks	Photosynth. Res. 70(10):85-106	16228364
