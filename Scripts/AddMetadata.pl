@@ -20,11 +20,13 @@ while (<$hostfile>) {
   chomp;
   my @fields = split(/ *\t\ */, $_);
   my $accession = $fields[0];
+  $accession =~ s/\.000//;
   my $group = $fields[1];
   my $in_tree = $fields[2];
   my $host;
   if ( $fields[$column] ) { $host = $fields[$column]; }
   else { $host = 'unknown'; }
+  if ( $host =~ /free[- ]living/i and $fields[4] ) { $host = $fields[4]; } #use species name for free-living strains
   if ( $group =~ /UNIQUE/ ) {    #Add host info for unique sequences
     $hosts{$accession} = $host;
   }
