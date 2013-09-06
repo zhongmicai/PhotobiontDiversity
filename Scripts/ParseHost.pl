@@ -28,26 +28,29 @@ elsif ( $filename =~ /\.gb/ ) {
     my $anno_col = $seq->annotation;
     my $references = ($seq->annotation->get_Annotations('reference'))[0];
     my @authors = split(/,/,$references->{'authors'});
-    my $journal = $references->{'location'}, "\n";
+    my $journal = $references->{'location'};
     my $pubmed = " ";
     if (exists $references->{'pubmed'} ) {
       $pubmed =  $references->{'pubmed'};
     }
-    for my $feat_object ($seq->get_SeqFeatures('source')) {
+    for my $feat_object ($seq->get_SeqFeatures('source')) {       #search first for 'host' tag
       if ( $feat_object->has_tag('host') ) {
         my @values = $feat_object->get_tag_values('host');
         $voucher = $values[0];
+        if ( $voucher =~ /^lichen specimen voucher/ ) { $voucher = ''; }  #host species not in value
       }
       unless ( $voucher ) {
         if ( $feat_object->has_tag('isolation_source') ) {
           my @values = $feat_object->get_tag_values('isolation_source');
           $voucher = $values[0];
+          if ( $voucher =~ /^lichen specimen voucher/ ) { $voucher = ''; }  #host species not in value
         }
       }
       unless ( $voucher ) {
         if ( $feat_object->has_tag('note') and $feat_object->primary_tag =~ /source/i) {
           my @values = $feat_object->get_tag_values('note');
           $voucher = $values[0];
+          if ( $voucher =~ /^lichen specimen voucher/ ) { $voucher = ''; }  #host species not in value
         }
       }
       if ( $feat_object->has_tag('organism') ) {
@@ -59,20 +62,34 @@ elsif ( $filename =~ /\.gb/ ) {
         $strain = $values[0];
       }
     }
+    if ( $species ) {
+      unless ( $voucher ) {
+        if ( $species =~ /(cyanobiont)|(phycobiont)|(photobiont)|(symbiont)/ ) { $voucher = $species; }
+      }
+      if ( $species =~ /(var.)|(subsp.)|(cf.)/ ) {
+        $species =~ s/(\w+.? +\w+.? +\w+.? +\w+.?).*/$1/;
+      }
+      else {
+        $species =~ s/(\w+.? +\w+.?).*/$1/;
+      }
+    }
     if ($voucher) {
       $voucher =~ s/(genotype:.*)|(authority:)//i;
-      $voucher =~ s/\b(lichen(ized)?)|(from)|(with)|(photobiont)|(phycobiont)|(of)|(primary thallus)|(isolated)|(cultured)|(the)|(sandstone)|(microbial)|(biofilm)|(glacier)|(forefield)|(authority)|((jan)|(febr)uary)|(march)|(april)|(may)|(june)|(july)|(august)|((sept)|(octo)|(novem)|(decem)ber)|\d+\b//gi;
-      $voucher =~ s/[,]//g;
+      $voucher =~ s/\b(lichen\b(ized)\b?)\b|\b(from)\b|\b(with)\b|\b(photobiont)\b|\b(phycobiont)\b|\b(cyanobiont)\b|\b(of)\b|\b(primary thallus)\b|\b(isolated)\b|\b(cultured)\b|\b(the)\b|\b(sandstone)\b|\b(microbial)\b|\b(biofilm)\b|\b(glacier)\b|\b(forefield)\b|\b(authority)\b|\b(\b(jan)\b|\b(febr)\buary)\b|\b(march)\b|\b(april)\b|\b(may)\b|\b(june)\b|\b(july)\b|\b(august)\b|\b((sept)|(octo)|(novem)|(decem)ber)\b|\d+\b//gi;
+      $voucher =~ s/[,']//g;
       $voucher =~ s/ +/ /g;
+      #print STDERR "$voucher\n";
+      foreach ( split(/ /, $species) ) {$voucher =~ s/$_//; }
       if ( $voucher =~ /(\S+ \S*)/ ) {
         $host = $1;
-        foreach ( split(/ /, $species) ) {$host =~ s/$_//; }
+        #print STDERR "$host\n";
         if ( $voucher =~ s/( var. \S+)// ) { $host .= $1; }
         if ( $voucher =~ s/( subsp. \S+)// ) { $host .= $1; }
         if ( $voucher =~ s/cf.( \S+)// ) { $host .= $1; }
         #if ( $voucher =~ s/( sp.)// ) { $host .= $1; }
         $host =~ s/Trebouxia//gi;
         $host =~ s/;//;
+        #print STDERR "$host\n";
       }
     }
     unless ( $host ) { $host = " "; }
