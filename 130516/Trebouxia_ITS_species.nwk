@@ -1,806 +1,806 @@
 #NEXUS
 begin taxa;
 	dimensions ntax=794;
-	taxlabels[&!color=#C0C0C0]
-	'AM159212 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159211 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159502 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159214 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717918 Trebouxia gelatinosa'[&!color=#A782C3]
-	'AJ969532 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ249575 Trebouxia gelatinosa'[&!color=#A782C3]
-	'FJ792802 Trebouxia sp.1'[&!color=#C0C0C0]
-	'AJ293787 Trebouxia sp.'[&!color=#C0C0C0]
-	'Z68697 Trebouxia gelatinosa'[&!color=#A782C3]
-	'AJ969579 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 124 Trebouxia gelatinosa[2]'[&!color=#A782C3]
-	'AM159213 Trebouxia sp.'[&!color=#C0C0C0]
-	'Z68698 Trebouxia gelatinosa'[&!color=#A782C3]
-	'FJ626730 Trebouxia gelatinosa'[&!color=#A782C3]
-	'JQ004570 Trebouxia gelatinosa'[&!color=#A782C3]
-	'JQ004569 Trebouxia gelatinosa'[&!color=#A782C3]
-	'JQ004553 Trebouxia gelatinosa'[&!color=#A782C3]
-	'Group 185 Trebouxia sp.[1] T. gelatinosa[2]'[&!color=#A782C3]
-	'EU717912 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717913 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717914 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159203 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969533 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY703899 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 140 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'AM159209 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969525 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF389919 Trebouxia impressa'[&!color=#28399F]
-	'JN204753 Trebouxia impressa'[&!color=#28399F]
-	'FJ792798 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795060 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU683442 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795061 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU416222 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204836 Trebouxia impressa'[&!color=#28399F]
-	'JQ004579 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 176 Trebouxia sp.[4]'[&!color=#C0C0C0]
-	'Group 175 Trebouxia sp.[1]'[&!color=#C0C0C0]
-	'HQ026223 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026226 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795064 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU416221 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 70 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'EU551502 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166606 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551501 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551498 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 8 Trebouxia sp.[12] T. decolorans[4]'[&!color=#4C99BE]
-	'EU551475 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551509 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551476 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551532 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551510 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166608 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551537 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293780 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166605 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293781 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551520 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551481 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551507 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551535 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 65 Trebouxia sp.[4]'[&!color=#C0C0C0]
-	'HQ667310 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN980141 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551511 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166616 Trebouxia sp.'[&!color=#C0C0C0]
-	'JF414659 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 75 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'EU551538 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 102 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'Group 95 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JN980142 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166585 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551522 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN980148 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 103 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JN980150 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF432561 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 76 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'HQ026154 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026213 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026166 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026197 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 80 Trebouxia sp.[21]'[&!color=#C0C0C0]
-	'Group 83 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'Group 85 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'HQ026159 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026185 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026218 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 87 Trebouxia sp.[13]'[&!color=#C0C0C0]
-	'HQ026152 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 89 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'HQ026179 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026168 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026151 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 79 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'HQ026224 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026227 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026167 Trebouxia sp.'[&!color=#C0C0C0]
-	'HQ026184 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004566 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004555 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 105 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'Group 106 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'Group 60 Trebouxia sp.[6]'[&!color=#C0C0C0]
-	'JQ993772 Trebouxia gigantea'[&!color=#FFA500]
-	'Group 52 Trebouxia gigantea[2]'[&!color=#FFA500]
-	'AJ249577 Trebouxia gigantea'[&!color=#FFA500]
-	'AJ293790 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF242468 Trebouxia gigantea'[&!color=#FFA500]
-	'AY703898 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY703900 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133478 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ359768 Trebouxia gigantea'[&!color=#FFA500]
-	'Group 61 Trebouxia sp.[13]'[&!color=#C0C0C0]
-	'DQ133501 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 58 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'AY703906 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU416215 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204760 Trebouxia sp.'[&!color=#C0C0C0]
-	'HM064495 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133500 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY703905 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 77 Trebouxia sp.[6]'[&!color=#C0C0C0]
-	'GU339210 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 42 Trebouxia sp.[1] T. asymmetrica[1]'[&!color=#8A4117]
-	'AF345889 Trebouxia asymmetrica'[&!color=#8A4117]
-	'Group 41 Trebouxia asymmetrica[3]'[&!color=#8A4117]
-	'Group 43 Trebouxia sp.[2] T. asymmetrica[1]'[&!color=#8A4117]
-	'JN204764 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204775 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133499 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133497 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ431583 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 68 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'EF095232 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF095233 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004552 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004596 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 53 Trebouxia sp.[1] T. incrustata[1]'[&!color=#66CC66]
-	'DQ133496 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 55 Trebouxia sp.[1] T. incrustata[1]'[&!color=#66CC66]
-	'Group 54 Trebouxia sp.[10] T. incrustata[3]'[&!color=#66CC66]
-	'DQ133488 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133502 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133474 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166602 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166588 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166590 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 57 Trebouxia showmanii[2]'[&!color=#FF2020]
-	'JQ004597 Trebouxia sp.'[&!color=#C0C0C0]
-	'FJ792800 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004598 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293792 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 4 Trebouxia sp.[6]'[&!color=#C0C0C0]
-	'AY842263 Trebouxia sp.'[&!color=#C0C0C0]
-	'AB573857 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ249566 Trebouxia corticola'[&!color=#FFD000]
-	'AJ249573 Trebouxia usneae'[&!color=#FF2020]
-	'AB573846 Trebouxia corticola'[&!color=#FFD000]
-	'AB573844 Trebouxia corticola'[&!color=#FFD000]
-	'Group 2 Trebouxia corticola[10]'[&!color=#FFD000]
-	'AB627369 Trebouxia corticola'[&!color=#FFD000]
-	'AB627373 Trebouxia corticola'[&!color=#FFD000]
-	'AB583690 Trebouxia corticola'[&!color=#FFD000]
-	'AB627366 Trebouxia corticola'[&!color=#FFD000]
-	'AB573843 Trebouxia corticola'[&!color=#FFD000]
-	'AB573827 Trebouxia corticola'[&!color=#FFD000]
-	'AB627385 Trebouxia corticola'[&!color=#FFD000]
-	'AB573848 Trebouxia corticola'[&!color=#FFD000]
-	'AB177822 Trebouxia corticola'[&!color=#FFD000]
-	'AB627389 Trebouxia corticola'[&!color=#FFD000]
-	'AB573828 Trebouxia corticola'[&!color=#FFD000]
-	'Group 47 Trebouxia corticola[2]'[&!color=#FFD000]
-	'AB573840 Trebouxia corticola'[&!color=#FFD000]
-	'AB573841 Trebouxia corticola'[&!color=#FFD000]
-	'AB177833 Trebouxia corticola'[&!color=#FFD000]
-	'AB573839 Trebouxia corticola'[&!color=#FFD000]
-	'Group 6 Trebouxia sp.[2] T. corticola[2]'[&!color=#FFD000]
-	'AB177817 Trebouxia corticola'[&!color=#FFD000]
-	'AB573822 Trebouxia corticola'[&!color=#FFD000]
-	'AB573842 Trebouxia corticola'[&!color=#FFD000]
-	'AB573816 Trebouxia corticola'[&!color=#FFD000]
-	'AB573817 Trebouxia corticola'[&!color=#FFD000]
-	'AB573826 Trebouxia corticola'[&!color=#FFD000]
-	'AB627429 Trebouxia corticola'[&!color=#FFD000]
-	'AB627408 Trebouxia corticola'[&!color=#FFD000]
-	'Group 3 Trebouxia sp.[4] T. arboricola[1] T. decolorans[4] T. corticola[5] Ramalina fraxinea[1]'[&!color=#000000]
-	'AB627421 Trebouxia corticola'[&!color=#FFD000]
-	'AB573850 Trebouxia corticola'[&!color=#FFD000]
-	'AB573849 Trebouxia corticola'[&!color=#FFD000]
-	'AB177818 Trebouxia corticola'[&!color=#FFD000]
-	'Group 45 Trebouxia corticola[3]'[&!color=#FFD000]
-	'AB177824 Trebouxia corticola'[&!color=#FFD000]
-	'Group 44 Trebouxia corticola[3]'[&!color=#FFD000]
-	'AB177820 Trebouxia corticola'[&!color=#FFD000]
-	'AB573854 Trebouxia corticola'[&!color=#FFD000]
-	'AB627419 Trebouxia corticola'[&!color=#FFD000]
-	'AB177827 Trebouxia corticola'[&!color=#FFD000]
-	'AB177828 Trebouxia corticola'[&!color=#FFD000]
-	'AB573856 Trebouxia corticola'[&!color=#FFD000]
-	'AB627417 Trebouxia corticola'[&!color=#FFD000]
-	'AB573829 Trebouxia corticola'[&!color=#FFD000]
-	'AB627400 Trebouxia corticola'[&!color=#FFD000]
-	'AB573824 Trebouxia corticola'[&!color=#FFD000]
-	'AB627416 Trebouxia corticola'[&!color=#FFD000]
-	'AB627392 Trebouxia corticola'[&!color=#FFD000]
-	'AB627410 Trebouxia corticola'[&!color=#FFD000]
-	'AB627418 Trebouxia corticola'[&!color=#FFD000]
-	'AB627387 Trebouxia corticola'[&!color=#FFD000]
-	'Group 7 Trebouxia sp.[3] T. corticola[2]'[&!color=#FFD000]
-	'AB630328 Trebouxia corticola'[&!color=#FFD000]
-	'AB627382 Trebouxia corticola'[&!color=#FFD000]
-	'Group 50 Trebouxia corticola[2]'[&!color=#FFD000]
-	'AB627391 Trebouxia corticola'[&!color=#FFD000]
-	'Group 1 Trebouxia sp.[2] T. arboricola[1] T. decolorans[4] T. corticola[30]'[&!color=#000000]
-	'AB627428 Trebouxia corticola'[&!color=#FFD000]
-	'AB627386 Trebouxia corticola'[&!color=#FFD000]
-	'AB573847 Trebouxia corticola'[&!color=#FFD000]
-	'AY842270 Trebouxia sp'[&!color=#C0C0C0]
-	'AB573825 Trebouxia corticola'[&!color=#FFD000]
-	'AB573823 Trebouxia corticola'[&!color=#FFD000]
-	'Group 5 Trebouxia sp.[2] T. corticola[2]'[&!color=#FFD000]
-	'AB627390 Trebouxia corticola'[&!color=#FFD000]
-	'AB627378 Trebouxia corticola'[&!color=#FFD000]
-	'AB627379 Trebouxia corticola'[&!color=#FFD000]
-	'AB627374 Trebouxia corticola'[&!color=#FFD000]
-	'AB627384 Trebouxia corticola'[&!color=#FFD000]
-	'AB627399 Trebouxia corticola'[&!color=#FFD000]
-	'AB627423 Trebouxia corticola'[&!color=#FFD000]
-	'Group 49 Trebouxia corticola[2]'[&!color=#FFD000]
-	'AB627422 Trebouxia corticola'[&!color=#FFD000]
-	'AB627397 Trebouxia corticola'[&!color=#FFD000]
-	'Group 48 Trebouxia corticola[3]'[&!color=#FFD000]
-	'AB627401 Trebouxia corticola'[&!color=#FFD000]
-	'AB627375 Trebouxia corticola'[&!color=#FFD000]
-	'AB627372 Trebouxia corticola'[&!color=#FFD000]
-	AB177834[&!color=#C0C0C0]
-	'AY842269 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY842268 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF242465 Trebouxia jamesii letharii sp. 6'[&!color=#005C26]
-	'Group 159 Trebouxia jamesii[2]'[&!color=#005C26]
-	'FJ170505 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170699 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170642 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170576 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170551 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170602 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170553 Trebouxia jamesii'[&!color=#005C26]
-	'Group 162 Trebouxia jamesii[2]'[&!color=#005C26]
-	'FJ170517 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170588 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170587 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170507 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170582 Trebouxia jamesii'[&!color=#005C26]
-	'Group 157 Trebouxia jamesii[3]'[&!color=#005C26]
-	'Group 161 Trebouxia jamesii[1]'[&!color=#005C26]
-	'FJ170634 Trebouxia jamesii'[&!color=#005C26]
-	'Group 158 Trebouxia jamesii[2]'[&!color=#005C26]
-	'Group 163 Trebouxia jamesii[2]'[&!color=#005C26]
-	'FJ170700 Trebouxia jamesii'[&!color=#005C26]
-	'Group 160 Trebouxia jamesii[2]'[&!color=#005C26]
-	'FJ170554 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170589 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170542 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170500 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170522 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170509 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170476 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170547 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170661 Trebouxia jamesii'[&!color=#005C26]
-	'Group 113 Trebouxia jamesii letharii sp. 1[1] T. jamesii[2]'[&!color=#000000]
-	'FJ170689 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170663 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170506 Trebouxia jamesii'[&!color=#005C26]
-	'Group 114 Trebouxia jamesii letharii sp. 2[1] T. jamesii[1]'[&!color=#000000]
-	'FJ170687 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170485 Trebouxia jamesii'[&!color=#005C26]
-	'AF242462 Trebouxia jamesii letharii sp. 3'[&!color=#005C26]
-	'FJ170493 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170599 Trebouxia jamesii'[&!color=#005C26]
-	'Group 155 Trebouxia jamesii[5]'[&!color=#005C26]
-	'FJ170473 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170479 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170604 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170482 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170581 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170669 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170470 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170512 Trebouxia jamesii'[&!color=#005C26]
-	'Group 156 Trebouxia jamesii[2]'[&!color=#005C26]
-	'FJ170672 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170535 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170529 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170566 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170568 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170531 Trebouxia jamesii'[&!color=#005C26]
-	'AF242463 Trebouxia jamesii letharii sp. 4'[&!color=#005C26]
-	'FJ170679 Trebouxia jamesii'[&!color=#005C26]
-	'AF242464 Trebouxia jamesii letharii sp. 5'[&!color=#005C26]
-	'FJ170569 Trebouxia jamesii'[&!color=#005C26]
-	'Group 181 Trebouxia sp.[1] T. jamesii[1]'[&!color=#005C26]
-	'EU416218 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF242458 Trebouxia jamesii'[&!color=#005C26]
-	'Group 143 Trebouxia sp.[4] T. sp.a[1]'[&!color=#C0C0C0]
-	'Group 145 Trebouxia sp.[1]'[&!color=#C0C0C0]
-	'Group 144 Trebouxia sp.[1]'[&!color=#C0C0C0]
-	'EU416224 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 177 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'Group 151 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'Group 128 Trebouxia sp.[2] T. jamesii[1]'[&!color=#005C26]
-	'AJ511351 Trebouxia jamesii'[&!color=#005C26]
-	'AJ511353 Trebouxia jamesii'[&!color=#005C26]
-	'AJ511350 Trebouxia jamesii'[&!color=#005C26]
-	'JX474358 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF457777 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF242466 Trebouxia jamesii'[&!color=#005C26]
-	'Group 188 Trebouxia jamesii[2]'[&!color=#005C26]
-	'JQ004633 Trebouxia jamesii'[&!color=#005C26]
-	'JX474340 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ249571 Trebouxia jamesii'[&!color=#005C26]
-	'Group 182 Trebouxia sp.[3] T. jamesii[5]'[&!color=#005C26]
-	'JQ004539 Trebouxia jamesii'[&!color=#005C26]
-	'JQ004608 Trebouxia jamesii'[&!color=#005C26]
-	'JQ004582 Trebouxia jamesii'[&!color=#005C26]
-	'JQ004622 Trebouxia jamesii'[&!color=#005C26]
-	'JQ004637 Trebouxia jamesii'[&!color=#005C26]
-	'JQ004632 Trebouxia jamesii'[&!color=#005C26]
-	'Group 187 Trebouxia jamesii[2]'[&!color=#005C26]
-	'Group 180 Trebouxia sp.[3] T. jamesii[3]'[&!color=#005C26]
-	'HQ026229 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004625 Trebouxia jamesii'[&!color=#005C26]
-	'JQ031784 Trebouxia jamesii'[&!color=#005C26]
-	'EF457770 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX474346 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF457773 Trebouxia sp.-87'[&!color=#C0C0C0]
-	'Group 129 Trebouxia sp.[2] T. simplex[2] T. jamesii[1]'[&!color=#000000]
-	'Group 179 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'Group 146 Trebouxia sp.-265[1]'[&!color=#C0C0C0]
-	'Group 141 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JX144651 Trebouxia sp.'[&!color=#C0C0C0]
-	'FJ170755 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170756 Trebouxia jamesii'[&!color=#005C26]
-	'Group 165 Trebouxia jamesii[1]'[&!color=#005C26]
-	'Group 111 Trebouxia sp.[1] T. jamesii vulpinae [1] T. jamesii[3]'[&!color=#000000]
-	'FJ170750 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375338 Trebouxia jamesii'[&!color=#005C26]
-	'DQ166612 Trebouxia sp.'[&!color=#C0C0C0]
-	'GQ375339 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375340 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170746 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170740 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170747 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375341 Trebouxia jamesii'[&!color=#005C26]
-	'AF453265 Trebouxia simplex'[&!color=#FF2020]
-	'DQ166591 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 164 Trebouxia jamesii[2]'[&!color=#005C26]
-	'Group 130 Trebouxia jamesii[2]'[&!color=#005C26]
-	'FJ170737 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170739 Trebouxia jamesii'[&!color=#005C26]
-	'FJ170734 Trebouxia jamesii'[&!color=#005C26]
-	'Group 166 Trebouxia jamesii[2]'[&!color=#005C26]
-	'JQ314486 Trebouxia jamesii'[&!color=#005C26]
-	'JQ314487 Trebouxia jamesii'[&!color=#005C26]
-	'JX474331 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ511356 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375331 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375332 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375330 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375327 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375328 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375334 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375333 Trebouxia jamesii'[&!color=#005C26]
-	'Group 137 Trebouxia jamesii[1]'[&!color=#005C26]
-	'Group 192 Trebouxia jamesii[1]'[&!color=#005C26]
-	'AJ511365 Trebouxia jamesii'[&!color=#005C26]
-	'FM945346 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 135 Trebouxia jamesii[1]'[&!color=#005C26]
-	'Group 112 Trebouxia sp.[2] T. sp.-80[1] T. jamesii[7]'[&!color=#005C26]
-	'Group 136 Trebouxia jamesii[2]'[&!color=#005C26]
-	'GQ375336 Trebouxia jamesii'[&!color=#005C26]
-	'AY444759 Trebouxia jamesii'[&!color=#005C26]
-	'AY444758 Trebouxia jamesii'[&!color=#005C26]
-	'AJ511364 Trebouxia jamesii'[&!color=#005C26]
-	'AJ511358 Trebouxia jamesii'[&!color=#005C26]
-	'AJ511355 Trebouxia jamesii'[&!color=#005C26]
-	'Group 133 Trebouxia jamesii[1]'[&!color=#005C26]
-	'Group 131 Trebouxia jamesii[1]'[&!color=#005C26]
-	'JN204728 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375326 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375324 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375325 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375323 Trebouxia jamesii'[&!color=#005C26]
-	'JX036166 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY444767 Trebouxia jamesii'[&!color=#005C26]
-	'AY444768 Trebouxia jamesii'[&!color=#005C26]
-	'AY444765 Trebouxia jamesii'[&!color=#005C26]
-	'Group 171 Trebouxia jamesii[1]'[&!color=#005C26]
-	'Group 147 Trebouxia sp.[1] T. jamesii[3]'[&!color=#005C26]
-	'GU124717 Trebouxia jamesii'[&!color=#005C26]
-	'GU124719 Trebouxia jamesii'[&!color=#005C26]
-	'GU124701 Trebouxia jamesii'[&!color=#005C26]
-	'HQ026212 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204809 Trebouxia jamesii'[&!color=#005C26]
-	'JN204810 Trebouxia jamesii'[&!color=#005C26]
-	'JN204745 Trebouxia jamesii'[&!color=#005C26]
-	'JN204807 Trebouxia jamesii'[&!color=#005C26]
-	'JN204743 Trebouxia jamesii'[&!color=#005C26]
-	'Group 184 Trebouxia jamesii[1]'[&!color=#005C26]
-	'JX509843 Trebouxia jamesii'[&!color=#005C26]
-	'Group 109 Trebouxia sp.[11] T. simplex[4] T. jamesii[32]'[&!color=#000000]
-	'AF453262 Trebouxia simplex'[&!color=#FF2020]
-	'Group 139 Trebouxia sp.[1] T. jamesii[1]'[&!color=#005C26]
-	'JX509839 Trebouxia jamesii'[&!color=#005C26]
-	'GU124709 Trebouxia jamesii'[&!color=#005C26]
-	'HQ667311 Trebouxia jamesii'[&!color=#005C26]
-	'AJ431589 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375322 Trebouxia jamesii'[&!color=#005C26]
-	'Group 127 Trebouxia jamesii[6]'[&!color=#005C26]
-	'GU124714 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375317 Trebouxia jamesii'[&!color=#005C26]
-	'Group 132 Trebouxia jamesii[1]'[&!color=#005C26]
-	'GU124710 Trebouxia jamesii'[&!color=#005C26]
-	'GU124704 Trebouxia jamesii'[&!color=#005C26]
-	'GU124705 Trebouxia jamesii'[&!color=#005C26]
-	'Group 191 Trebouxia jamesii[1]'[&!color=#005C26]
-	'GU124703 Trebouxia jamesii'[&!color=#005C26]
-	'GU124716 Trebouxia jamesii'[&!color=#005C26]
-	'Group 186 Trebouxia jamesii[4]'[&!color=#005C26]
-	'GQ375318 Trebouxia jamesii'[&!color=#005C26]
-	'HQ667315 Trebouxia jamesii'[&!color=#005C26]
-	'GU124711 Trebouxia jamesii'[&!color=#005C26]
-	'Group 173 Trebouxia jamesii[1]'[&!color=#005C26]
-	'Group 149 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'Group 148 Trebouxia sp.[7]'[&!color=#C0C0C0]
-	'EU715042 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU715041 Trebouxia sp.'[&!color=#C0C0C0]
-	'GQ375363 Trebouxia jamesii'[&!color=#005C26]
-	'Group 170 Trebouxia jamesii[2]'[&!color=#005C26]
-	'GQ375355 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375354 Trebouxia jamesii'[&!color=#005C26]
-	'Group 169 Trebouxia jamesii[2]'[&!color=#005C26]
-	'GQ375360 Trebouxia jamesii'[&!color=#005C26]
-	'Group 168 Trebouxia jamesii[1]'[&!color=#005C26]
-	'GQ375361 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375356 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375359 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375364 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375365 Trebouxia jamesii'[&!color=#005C26]
-	'Group 189 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JX036273 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 183 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'JN204812 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU715047 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 150 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'GU124718 Trebouxia jamesii'[&!color=#005C26]
-	'JN243328 Trebouxia jamesii'[&!color=#005C26]
-	'Group 138 Trebouxia jamesii[3]'[&!color=#005C26]
-	'Group 172 Trebouxia jamesii[2]'[&!color=#005C26]
-	'GU124708 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375369 Trebouxia jamesii'[&!color=#005C26]
-	'GQ375370 Trebouxia jamesii'[&!color=#005C26]
-	'FJ626727 Trebouxia brindabellae'[&!color=#FF2020]
-	'JX144658 Trebouxia sp.'[&!color=#C0C0C0]
-	'GQ375352 Trebouxia jamesii'[&!color=#005C26]
-	'Group 110 Trebouxia sp.[1] T. jamesii[2] T. angustilobata[1]'[&!color=#000000]
-	'JN243324 Trebouxia jamesii'[&!color=#005C26]
-	'DQ086105 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU683440 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF457759 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ086103 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 69 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'DQ086108 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF457760 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ086104 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ086106 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF457758 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX144652 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX144657 Trebouxia sp.'[&!color=#C0C0C0]
-	'FJ626726 Trebouxia australis'[&!color=#FF2020]
-	'JX144655 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX144656 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 190 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JX144654 Trebouxia sp'[&!color=#C0C0C0]
-	'JN204790 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204731 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204815 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159208 Trebouxia sp'[&!color=#C0C0C0]
-	'Group 98 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'AM159205 Trebouxia sp'[&!color=#C0C0C0]
-	'AM159204 Trebouxia sp'[&!color=#C0C0C0]
-	'JN204763 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX036213 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX036227 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204740 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX036231 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 99 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'JN204772 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 107 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JX036160 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 97 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'JN204823 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX036180 Trebouxia sp.'[&!color=#C0C0C0]
-	'JX036246 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY667580 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ431580 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 22 Trebouxia sp.[11] T. decolorans[2]'[&!color=#4C99BE]
-	'JN204757 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 108 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JX036211 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204727 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204828 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204729 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204744 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204818 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969505 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159206 Trebouxia sp'[&!color=#C0C0C0]
-	'EF095230 Trebouxia sp.'[&!color=#C0C0C0]
-	'EF095231 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166594 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166611 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204747 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 66 Trebouxia sp.[27]'[&!color=#C0C0C0]
-	'JX435366 Uncultured Chlorophyta'[&!color=#C0C0C0]
-	'JN204803 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204822 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204838 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166603 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ133477 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ249572 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 18 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JQ993768 Trebouxia decolorans'[&!color=#4C99BE]
-	'JQ993759 Trebouxia decolorans'[&!color=#4C99BE]
-	'JQ993777 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969535 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969545 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969577 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969550 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 21 Trebouxia sp.[9] T. decolorans[1]'[&!color=#4C99BE]
-	'Group 9 Trebouxia sp.[3] T. decolorans[2]'[&!color=#4C99BE]
-	'FJ705189 Trebouxia decolorans'[&!color=#4C99BE]
-	'Group 11 Trebouxia sp.[21] T. decolorans[2]'[&!color=#4C99BE]
-	'FJ705188 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969514 Trebouxia sp.'[&!color=#C0C0C0]
-	'FJ705186 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717923 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717921 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705177 Trebouxia decolorans'[&!color=#4C99BE]
-	'Group 10 Trebouxia sp.[19] T. sp[1] T. decolorans[2] T. jamesii[1]'[&!color=#000000]
-	'Group 20 Trebouxia sp.[81] T. decolorans[1]'[&!color=#4C99BE]
-	'FJ705201 Trebouxia decolorans'[&!color=#4C99BE]
-	'Group 14 Trebouxia sp.[38] T. decolorans[2]'[&!color=#4C99BE]
-	'Group 19 Trebouxia sp.[31] T. decolorans[1] T. jamesii[2]'[&!color=#000000]
-	'Group 12 Trebouxia sp.[15] T. decolorans[2]'[&!color=#4C99BE]
-	'FJ705200 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705203 Trebouxia decolorans'[&!color=#4C99BE]
-	'AM159210 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 13 Trebouxia sp.[1] T. decolorans[2]'[&!color=#4C99BE]
-	'FJ705198 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705202 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705205 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705199 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717930 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717934 Trebouxia decolorans'[&!color=#4C99BE]
-	'Group 15 Trebouxia decolorans[3]'[&!color=#4C99BE]
-	'FJ705196 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705195 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717935 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717927 Trebouxia decolorans'[&!color=#4C99BE]
-	'EU717928 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969534 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717929 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705190 Trebouxia decolorans'[&!color=#4C99BE]
-	'AF453259 Trebouxia arboricola'[&!color=#C87A8A]
-	'FJ705191 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969588 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969590 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969586 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969584 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 33 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'AJ969561 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969585 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969562 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969563 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969551 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969566 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969541 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717919 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705183 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705184 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969513 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969580 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969515 Trebouxia sp.'[&!color=#C0C0C0]
-	'FJ705180 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705178 Trebouxia decolorans'[&!color=#4C99BE]
-	'FJ705179 Trebouxia decolorans'[&!color=#4C99BE]
-	'JF831920 Trebouxia decolorans'[&!color=#4C99BE]
-	'JF831917 Trebouxia decolorans'[&!color=#4C99BE]
-	'AM159215 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969506 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969569 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166586 Trebouxia sp.'[&!color=#C0C0C0]
-	'JF831922 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969574 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 30 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'AJ969547 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969549 Trebouxia decolorans'[&!color=#4C99BE]
-	'Group 38 Trebouxia decolorans[5]'[&!color=#4C99BE]
-	'DQ166583 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969507 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969558 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969594 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969593 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969578 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969557 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969567 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969522 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293770 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU416214 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF389915 Trebouxia arboricola'[&!color=#C87A8A]
-	'AF389917 Trebouxia arboricola'[&!color=#C87A8A]
-	'Group 40 Trebouxia sp.[3] T. arboricola[1] T. decolorans[9]'[&!color=#000000]
-	'AJ969571 Trebouxia sp.'[&!color=#C0C0C0]
-	'JF831907 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ969531 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969511 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ249482 Trebouxia arboricola'[&!color=#C87A8A]
-	'Group 39 Trebouxia arboricola[1] T. decolorans[5]'[&!color=#000000]
-	'AJ969556 Trebouxia decolorans'[&!color=#4C99BE]
-	'AJ007387 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969544 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ249481 Trebouxia arboricola'[&!color=#C87A8A]
-	'AF389916 Trebouxia arboricola'[&!color=#C87A8A]
-	'AM159207 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF389914 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969540 Trebouxia sp.'[&!color=#C0C0C0]
-	'AM159216 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969519 Trebouxia sp.'[&!color=#C0C0C0]
-	'JF831903 Trebouxia aggregata'[&!color=#FF2020]
-	'Z68705 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969512 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969520 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969570 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 17 Trebouxia sp.[5] T. arboricola[1]'[&!color=#C87A8A]
-	'EU551519 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969606 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551508 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969611 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969518 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969607 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969521 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ004576 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551486 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551488 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551489 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969581 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969528 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969530 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166587 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969537 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969538 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551478 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551517 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166615 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551490 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166617 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551524 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969582 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ993785 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993786 Trebouxia arboricola'[&!color=#C87A8A]
-	'Group 16 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'EU551480 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166580 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY804016 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969516 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY804017 Trebouxia sp.'[&!color=#C0C0C0]
-	'JF831904 Trebouxia crenulata'[&!color=#FF2020]
-	'AJ969524 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969529 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969604 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY804019 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969542 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 28 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'AJ969564 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 31 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'FJ028715 clone ISB-20'[&!color=#C0C0C0]
-	'DQ166584 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU551514 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969509 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969523 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969552 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969609 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969610 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993794 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993795 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993784 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993787 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993796 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993766 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993778 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993761 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993770 Trebouxia arboricola'[&!color=#C87A8A]
-	'Group 23 Trebouxia arboricola[2]'[&!color=#C87A8A]
-	'AJ969526 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969568 Trebouxia sp.'[&!color=#C0C0C0]
-	'JQ993788 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993758 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993762 Trebouxia arboricola'[&!color=#C87A8A]
-	'Group 24 Trebouxia arboricola[4]'[&!color=#C87A8A]
-	'JQ993797 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993798 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993799 Trebouxia arboricola'[&!color=#C87A8A]
-	'AJ969565 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 26 Trebouxia arboricola[2]'[&!color=#C87A8A]
-	'Group 27 Trebouxia arboricola[4]'[&!color=#C87A8A]
-	'JQ993792 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993774 Trebouxia arboricola'[&!color=#C87A8A]
-	'Group 25 Trebouxia arboricola[2]'[&!color=#C87A8A]
-	'JQ993781 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993775 Trebouxia arboricola'[&!color=#C87A8A]
-	'JQ993776 Trebouxia arboricola'[&!color=#C87A8A]
-	'DQ166610 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969510 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN848816 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU416223 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY303139 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU416219 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU683444 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF242471 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717915 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293785 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293778 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF389929 Trebouxia impressa'[&!color=#28399F]
-	'AF389932 Trebouxia impressa'[&!color=#28399F]
-	'Group 120 Trebouxia sp.[3] T. impressa[3]'[&!color=#28399F]
-	'Group 125 Trebouxia impressa[1]'[&!color=#28399F]
-	'DQ166601 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166578 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795063 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795082 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293777 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 115 Trebouxia sp.[2] T. impressa[1] T. flava[1]'[&!color=#000000]
-	'AF345891 Trebouxia impressa'[&!color=#28399F]
-	'EU795058 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF345890 Trebouxia impressa'[&!color=#28399F]
-	'AJ293776 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795059 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ969605 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795057 Trebouxia sp.'[&!color=#C0C0C0]
-	'AF242469 Trebouxia potteri'[&!color=#FF2020]
-	'Group 178 Trebouxia impressa[2] T. sp.[1]'[&!color=#28399F]
-	'HQ026163 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ293779 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 154 Trebouxia sp.[2]'[&!color=#C0C0C0]
-	'JN204819 Trebouxia impressa'[&!color=#28399F]
-	'JN204778 Trebouxia impressa'[&!color=#28399F]
-	'JN204750 Trebouxia impressa'[&!color=#28399F]
-	'Group 142 Trebouxia impressa[1] T. sp.[3]'[&!color=#28399F]
-	'JN204820 Trebouxia impressa'[&!color=#28399F]
-	'JN204806 Trebouxia impressa'[&!color=#28399F]
-	'JN204759 Trebouxia impressa'[&!color=#28399F]
-	'AF389918 Trebouxia impressa'[&!color=#28399F]
-	'AJ293794 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ007386 Trebouxia impressa'[&!color=#28399F]
-	'AF389920 Trebouxia impressa'[&!color=#28399F]
-	'Group 116 Trebouxia sp.[1] T. impressa[4]'[&!color=#28399F]
-	'DQ166581 Trebouxia sp.'[&!color=#C0C0C0]
-	'JN204834 Trebouxia impressa'[&!color=#28399F]
-	'Group 122 Trebouxia impressa[1] T. sp.3[1]'[&!color=#28399F]
-	'AJ293775 Trebouxia sp.'[&!color=#C0C0C0]
-	'AY804021 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ007384 Trebouxia impressa'[&!color=#28399F]
-	'Group 123 Trebouxia impressa[1]'[&!color=#28399F]
-	'Group 119 Trebouxia impressa[1]'[&!color=#28399F]
-	'Group 118 Trebouxia sp.[8] T. impressa[4] T. sp.9[1]'[&!color=#28399F]
-	'AJ007383 Trebouxia impressa'[&!color=#28399F]
-	'AF389933 Trebouxia impressa'[&!color=#28399F]
-	'EU795079 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795067 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795069 Trebouxia sp.'[&!color=#C0C0C0]
-	'AJ318780 Trebouxia impressa'[&!color=#28399F]
-	'EU795053 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU795068 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 153 Trebouxia sp.[3]'[&!color=#C0C0C0]
-	'EU795065 Trebouxia sp.'[&!color=#C0C0C0]
-	'Group 152 Trebouxia sp.[1]'[&!color=#C0C0C0]
-	'EU795076 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166596 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166592 Trebouxia sp.'[&!color=#C0C0C0]
-	'DQ166597 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717916 Trebouxia sp.'[&!color=#C0C0C0]
-	'EU717917 Trebouxia sp.'[&!color=#C0C0C0]
+	taxlabels
+	'AM159212 Trebouxia sp.'
+	'AM159211 Trebouxia sp.'
+	'AM159502 Trebouxia sp.'
+	'AM159214 Trebouxia sp.'
+	'EU717918 Trebouxia gelatinosa'
+	'AJ969532 Trebouxia sp.'
+	'AJ249575 Trebouxia gelatinosa'
+	'FJ792802 Trebouxia sp.1'
+	'AJ293787 Trebouxia sp.'
+	'Z68697 Trebouxia gelatinosa'
+	'AJ969579 Trebouxia sp.'
+	'Group 124 Trebouxia gelatinosa[2]'
+	'AM159213 Trebouxia sp.'
+	'Z68698 Trebouxia gelatinosa'
+	'FJ626730 Trebouxia gelatinosa'
+	'JQ004570 Trebouxia gelatinosa'
+	'JQ004569 Trebouxia gelatinosa'
+	'JQ004553 Trebouxia gelatinosa'
+	'Group 185 Trebouxia sp.[1] T. gelatinosa[2]'
+	'EU717912 Trebouxia sp.'
+	'EU717913 Trebouxia sp.'
+	'EU717914 Trebouxia sp.'
+	'AM159203 Trebouxia sp.'
+	'AJ969533 Trebouxia sp.'
+	'AY703899 Trebouxia sp.'
+	'Group 140 Trebouxia sp.[2]'
+	'AM159209 Trebouxia sp.'
+	'AJ969525 Trebouxia sp.'
+	'AF389919 Trebouxia impressa'
+	'JN204753 Trebouxia impressa'
+	'FJ792798 Trebouxia sp.'
+	'EU795060 Trebouxia sp.'
+	'EU683442 Trebouxia sp.'
+	'EU795061 Trebouxia sp.'
+	'EU416222 Trebouxia sp.'
+	'JN204836 Trebouxia impressa'
+	'JQ004579 Trebouxia sp.'
+	'Group 176 Trebouxia sp.[4]'
+	'Group 175 Trebouxia sp.[1]'
+	'HQ026223 Trebouxia sp.'
+	'HQ026226 Trebouxia sp.'
+	'EU795064 Trebouxia sp.'
+	'EU416221 Trebouxia sp.'
+	'Group 70 Trebouxia sp.[2]'
+	'EU551502 Trebouxia sp.'
+	'DQ166606 Trebouxia sp.'
+	'EU551501 Trebouxia sp.'
+	'EU551498 Trebouxia sp.'
+	'Group 8 Trebouxia sp.[12] T. decolorans[4]'
+	'EU551475 Trebouxia sp.'
+	'EU551509 Trebouxia sp.'
+	'EU551476 Trebouxia sp.'
+	'EU551532 Trebouxia sp.'
+	'EU551510 Trebouxia sp.'
+	'DQ166608 Trebouxia sp.'
+	'EU551537 Trebouxia sp.'
+	'AJ293780 Trebouxia sp.'
+	'DQ166605 Trebouxia sp.'
+	'AJ293781 Trebouxia sp.'
+	'EU551520 Trebouxia sp.'
+	'EU551481 Trebouxia sp.'
+	'EU551507 Trebouxia sp.'
+	'EU551535 Trebouxia sp.'
+	'Group 65 Trebouxia sp.[4]'
+	'HQ667310 Trebouxia sp.'
+	'JN980141 Trebouxia sp.'
+	'EU551511 Trebouxia sp.'
+	'DQ166616 Trebouxia sp.'
+	'JF414659 Trebouxia sp.'
+	'Group 75 Trebouxia sp.[2]'
+	'EU551538 Trebouxia sp.'
+	'Group 102 Trebouxia sp.[2]'
+	'Group 95 Trebouxia sp.[2]'
+	'JN980142 Trebouxia sp.'
+	'DQ166585 Trebouxia sp.'
+	'EU551522 Trebouxia sp.'
+	'JN980148 Trebouxia sp.'
+	'Group 103 Trebouxia sp.[2]'
+	'JN980150 Trebouxia sp.'
+	'EF432561 Trebouxia sp.'
+	'Group 76 Trebouxia sp.[3]'
+	'HQ026154 Trebouxia sp.'
+	'HQ026213 Trebouxia sp.'
+	'HQ026166 Trebouxia sp.'
+	'HQ026197 Trebouxia sp.'
+	'Group 80 Trebouxia sp.[21]'
+	'Group 83 Trebouxia sp.[2]'
+	'Group 85 Trebouxia sp.[2]'
+	'HQ026159 Trebouxia sp.'
+	'HQ026185 Trebouxia sp.'
+	'HQ026218 Trebouxia sp.'
+	'Group 87 Trebouxia sp.[13]'
+	'HQ026152 Trebouxia sp.'
+	'Group 89 Trebouxia sp.[3]'
+	'HQ026179 Trebouxia sp.'
+	'HQ026168 Trebouxia sp.'
+	'HQ026151 Trebouxia sp.'
+	'Group 79 Trebouxia sp.[3]'
+	'HQ026224 Trebouxia sp.'
+	'HQ026227 Trebouxia sp.'
+	'HQ026167 Trebouxia sp.'
+	'HQ026184 Trebouxia sp.'
+	'JQ004566 Trebouxia sp.'
+	'JQ004555 Trebouxia sp.'
+	'Group 105 Trebouxia sp.[3]'
+	'Group 106 Trebouxia sp.[3]'
+	'Group 60 Trebouxia sp.[6]'
+	'JQ993772 Trebouxia gigantea'
+	'Group 52 Trebouxia gigantea[2]'
+	'AJ249577 Trebouxia gigantea'
+	'AJ293790 Trebouxia sp.'
+	'AF242468 Trebouxia gigantea'
+	'AY703898 Trebouxia sp.'
+	'AY703900 Trebouxia sp.'
+	'DQ133478 Trebouxia sp.'
+	'JQ359768 Trebouxia gigantea'
+	'Group 61 Trebouxia sp.[13]'
+	'DQ133501 Trebouxia sp.'
+	'Group 58 Trebouxia sp.[2]'
+	'AY703906 Trebouxia sp.'
+	'EU416215 Trebouxia sp.'
+	'JN204760 Trebouxia sp.'
+	'HM064495 Trebouxia sp.'
+	'DQ133500 Trebouxia sp.'
+	'AY703905 Trebouxia sp.'
+	'Group 77 Trebouxia sp.[6]'
+	'GU339210 Trebouxia sp.'
+	'Group 42 Trebouxia sp.[1] T. asymmetrica[1]'
+	'AF345889 Trebouxia asymmetrica'
+	'Group 41 Trebouxia asymmetrica[3]'
+	'Group 43 Trebouxia sp.[2] T. asymmetrica[1]'
+	'JN204764 Trebouxia sp.'
+	'JN204775 Trebouxia sp.'
+	'DQ133499 Trebouxia sp.'
+	'DQ133497 Trebouxia sp.'
+	'AJ431583 Trebouxia sp.'
+	'Group 68 Trebouxia sp.[3]'
+	'EF095232 Trebouxia sp.'
+	'EF095233 Trebouxia sp.'
+	'JQ004552 Trebouxia sp.'
+	'JQ004596 Trebouxia sp.'
+	'Group 53 Trebouxia sp.[1] T. incrustata[1]'
+	'DQ133496 Trebouxia sp.'
+	'Group 55 Trebouxia sp.[1] T. incrustata[1]'
+	'Group 54 Trebouxia sp.[10] T. incrustata[3]'
+	'DQ133488 Trebouxia sp.'
+	'DQ133502 Trebouxia sp.'
+	'DQ133474 Trebouxia sp.'
+	'DQ166602 Trebouxia sp.'
+	'DQ166588 Trebouxia sp.'
+	'DQ166590 Trebouxia sp.'
+	'Group 57 Trebouxia showmanii[2]'
+	'JQ004597 Trebouxia sp.'
+	'FJ792800 Trebouxia sp.'
+	'JQ004598 Trebouxia sp.'
+	'AJ293792 Trebouxia sp.'
+	'Group 4 Trebouxia sp.[6]'
+	'AY842263 Trebouxia sp.'
+	'AB573857 Trebouxia sp.'
+	'AJ249566 Trebouxia corticola'
+	'AJ249573 Trebouxia usneae'
+	'AB573846 Trebouxia corticola'
+	'AB573844 Trebouxia corticola'
+	'Group 2 Trebouxia corticola[10]'
+	'AB627369 Trebouxia corticola'
+	'AB627373 Trebouxia corticola'
+	'AB583690 Trebouxia corticola'
+	'AB627366 Trebouxia corticola'
+	'AB573843 Trebouxia corticola'
+	'AB573827 Trebouxia corticola'
+	'AB627385 Trebouxia corticola'
+	'AB573848 Trebouxia corticola'
+	'AB177822 Trebouxia corticola'
+	'AB627389 Trebouxia corticola'
+	'AB573828 Trebouxia corticola'
+	'Group 47 Trebouxia corticola[2]'
+	'AB573840 Trebouxia corticola'
+	'AB573841 Trebouxia corticola'
+	'AB177833 Trebouxia corticola'
+	'AB573839 Trebouxia corticola'
+	'Group 6 Trebouxia sp.[2] T. corticola[2]'
+	'AB177817 Trebouxia corticola'
+	'AB573822 Trebouxia corticola'
+	'AB573842 Trebouxia corticola'
+	'AB573816 Trebouxia corticola'
+	'AB573817 Trebouxia corticola'
+	'AB573826 Trebouxia corticola'
+	'AB627429 Trebouxia corticola'
+	'AB627408 Trebouxia corticola'
+	'Group 3 Trebouxia sp.[4] T. arboricola[1] T. decolorans[4] T. corticola[5] Ramalina fraxinea[1]'
+	'AB627421 Trebouxia corticola'
+	'AB573850 Trebouxia corticola'
+	'AB573849 Trebouxia corticola'
+	'AB177818 Trebouxia corticola'
+	'Group 45 Trebouxia corticola[3]'
+	'AB177824 Trebouxia corticola'
+	'Group 44 Trebouxia corticola[3]'
+	'AB177820 Trebouxia corticola'
+	'AB573854 Trebouxia corticola'
+	'AB627419 Trebouxia corticola'
+	'AB177827 Trebouxia corticola'
+	'AB177828 Trebouxia corticola'
+	'AB573856 Trebouxia corticola'
+	'AB627417 Trebouxia corticola'
+	'AB573829 Trebouxia corticola'
+	'AB627400 Trebouxia corticola'
+	'AB573824 Trebouxia corticola'
+	'AB627416 Trebouxia corticola'
+	'AB627392 Trebouxia corticola'
+	'AB627410 Trebouxia corticola'
+	'AB627418 Trebouxia corticola'
+	'AB627387 Trebouxia corticola'
+	'Group 7 Trebouxia sp.[3] T. corticola[2]'
+	'AB630328 Trebouxia corticola'
+	'AB627382 Trebouxia corticola'
+	'Group 50 Trebouxia corticola[2]'
+	'AB627391 Trebouxia corticola'
+	'Group 1 Trebouxia sp.[2] T. arboricola[1] T. decolorans[4] T. corticola[30]'
+	'AB627428 Trebouxia corticola'
+	'AB627386 Trebouxia corticola'
+	'AB573847 Trebouxia corticola'
+	'AY842270 Trebouxia sp'
+	'AB573825 Trebouxia corticola'
+	'AB573823 Trebouxia corticola'
+	'Group 5 Trebouxia sp.[2] T. corticola[2]'
+	'AB627390 Trebouxia corticola'
+	'AB627378 Trebouxia corticola'
+	'AB627379 Trebouxia corticola'
+	'AB627374 Trebouxia corticola'
+	'AB627384 Trebouxia corticola'
+	'AB627399 Trebouxia corticola'
+	'AB627423 Trebouxia corticola'
+	'Group 49 Trebouxia corticola[2]'
+	'AB627422 Trebouxia corticola'
+	'AB627397 Trebouxia corticola'
+	'Group 48 Trebouxia corticola[3]'
+	'AB627401 Trebouxia corticola'
+	'AB627375 Trebouxia corticola'
+	'AB627372 Trebouxia corticola'
+	AB177834
+	'AY842269 Trebouxia sp.'
+	'AY842268 Trebouxia sp.'
+	'AF242465 Trebouxia jamesii letharii sp. 6'
+	'Group 159 Trebouxia jamesii[2]'
+	'FJ170505 Trebouxia jamesii'
+	'FJ170699 Trebouxia jamesii'
+	'FJ170642 Trebouxia jamesii'
+	'FJ170576 Trebouxia jamesii'
+	'FJ170551 Trebouxia jamesii'
+	'FJ170602 Trebouxia jamesii'
+	'FJ170553 Trebouxia jamesii'
+	'Group 162 Trebouxia jamesii[2]'
+	'FJ170517 Trebouxia jamesii'
+	'FJ170588 Trebouxia jamesii'
+	'FJ170587 Trebouxia jamesii'
+	'FJ170507 Trebouxia jamesii'
+	'FJ170582 Trebouxia jamesii'
+	'Group 157 Trebouxia jamesii[3]'
+	'Group 161 Trebouxia jamesii[1]'
+	'FJ170634 Trebouxia jamesii'
+	'Group 158 Trebouxia jamesii[2]'
+	'Group 163 Trebouxia jamesii[2]'
+	'FJ170700 Trebouxia jamesii'
+	'Group 160 Trebouxia jamesii[2]'
+	'FJ170554 Trebouxia jamesii'
+	'FJ170589 Trebouxia jamesii'
+	'FJ170542 Trebouxia jamesii'
+	'FJ170500 Trebouxia jamesii'
+	'FJ170522 Trebouxia jamesii'
+	'FJ170509 Trebouxia jamesii'
+	'FJ170476 Trebouxia jamesii'
+	'FJ170547 Trebouxia jamesii'
+	'FJ170661 Trebouxia jamesii'
+	'Group 113 Trebouxia jamesii letharii sp. 1[1] T. jamesii[2]'
+	'FJ170689 Trebouxia jamesii'
+	'FJ170663 Trebouxia jamesii'
+	'FJ170506 Trebouxia jamesii'
+	'Group 114 Trebouxia jamesii letharii sp. 2[1] T. jamesii[1]'
+	'FJ170687 Trebouxia jamesii'
+	'FJ170485 Trebouxia jamesii'
+	'AF242462 Trebouxia jamesii letharii sp. 3'
+	'FJ170493 Trebouxia jamesii'
+	'FJ170599 Trebouxia jamesii'
+	'Group 155 Trebouxia jamesii[5]'
+	'FJ170473 Trebouxia jamesii'
+	'FJ170479 Trebouxia jamesii'
+	'FJ170604 Trebouxia jamesii'
+	'FJ170482 Trebouxia jamesii'
+	'FJ170581 Trebouxia jamesii'
+	'FJ170669 Trebouxia jamesii'
+	'FJ170470 Trebouxia jamesii'
+	'FJ170512 Trebouxia jamesii'
+	'Group 156 Trebouxia jamesii[2]'
+	'FJ170672 Trebouxia jamesii'
+	'FJ170535 Trebouxia jamesii'
+	'FJ170529 Trebouxia jamesii'
+	'FJ170566 Trebouxia jamesii'
+	'FJ170568 Trebouxia jamesii'
+	'FJ170531 Trebouxia jamesii'
+	'AF242463 Trebouxia jamesii letharii sp. 4'
+	'FJ170679 Trebouxia jamesii'
+	'AF242464 Trebouxia jamesii letharii sp. 5'
+	'FJ170569 Trebouxia jamesii'
+	'Group 181 Trebouxia sp.[1] T. jamesii[1]'
+	'EU416218 Trebouxia sp.'
+	'AF242458 Trebouxia jamesii'
+	'Group 143 Trebouxia sp.[4] T. sp.a[1]'
+	'Group 145 Trebouxia sp.[1]'
+	'Group 144 Trebouxia sp.[1]'
+	'EU416224 Trebouxia sp.'
+	'Group 177 Trebouxia sp.[2]'
+	'Group 151 Trebouxia sp.[3]'
+	'Group 128 Trebouxia sp.[2] T. jamesii[1]'
+	'AJ511351 Trebouxia jamesii'
+	'AJ511353 Trebouxia jamesii'
+	'AJ511350 Trebouxia jamesii'
+	'JX474358 Trebouxia sp.'
+	'EF457777 Trebouxia sp.'
+	'AF242466 Trebouxia jamesii'
+	'Group 188 Trebouxia jamesii[2]'
+	'JQ004633 Trebouxia jamesii'
+	'JX474340 Trebouxia sp.'
+	'AJ249571 Trebouxia jamesii'
+	'Group 182 Trebouxia sp.[3] T. jamesii[5]'
+	'JQ004539 Trebouxia jamesii'
+	'JQ004608 Trebouxia jamesii'
+	'JQ004582 Trebouxia jamesii'
+	'JQ004622 Trebouxia jamesii'
+	'JQ004637 Trebouxia jamesii'
+	'JQ004632 Trebouxia jamesii'
+	'Group 187 Trebouxia jamesii[2]'
+	'Group 180 Trebouxia sp.[3] T. jamesii[3]'
+	'HQ026229 Trebouxia sp.'
+	'JQ004625 Trebouxia jamesii'
+	'JQ031784 Trebouxia jamesii'
+	'EF457770 Trebouxia sp.'
+	'JX474346 Trebouxia sp.'
+	'EF457773 Trebouxia sp.-87'
+	'Group 129 Trebouxia sp.[2] T. simplex[2] T. jamesii[1]'
+	'Group 179 Trebouxia sp.[3]'
+	'Group 146 Trebouxia sp.-265[1]'
+	'Group 141 Trebouxia sp.[2]'
+	'JX144651 Trebouxia sp.'
+	'FJ170755 Trebouxia jamesii'
+	'FJ170756 Trebouxia jamesii'
+	'Group 165 Trebouxia jamesii[1]'
+	'Group 111 Trebouxia sp.[1] T. jamesii vulpinae [1] T. jamesii[3]'
+	'FJ170750 Trebouxia jamesii'
+	'GQ375338 Trebouxia jamesii'
+	'DQ166612 Trebouxia sp.'
+	'GQ375339 Trebouxia jamesii'
+	'GQ375340 Trebouxia jamesii'
+	'FJ170746 Trebouxia jamesii'
+	'FJ170740 Trebouxia jamesii'
+	'FJ170747 Trebouxia jamesii'
+	'GQ375341 Trebouxia jamesii'
+	'AF453265 Trebouxia simplex'
+	'DQ166591 Trebouxia sp.'
+	'Group 164 Trebouxia jamesii[2]'
+	'Group 130 Trebouxia jamesii[2]'
+	'FJ170737 Trebouxia jamesii'
+	'FJ170739 Trebouxia jamesii'
+	'FJ170734 Trebouxia jamesii'
+	'Group 166 Trebouxia jamesii[2]'
+	'JQ314486 Trebouxia jamesii'
+	'JQ314487 Trebouxia jamesii'
+	'JX474331 Trebouxia sp.'
+	'AJ511356 Trebouxia jamesii'
+	'GQ375331 Trebouxia jamesii'
+	'GQ375332 Trebouxia jamesii'
+	'GQ375330 Trebouxia jamesii'
+	'GQ375327 Trebouxia jamesii'
+	'GQ375328 Trebouxia jamesii'
+	'GQ375334 Trebouxia jamesii'
+	'GQ375333 Trebouxia jamesii'
+	'Group 137 Trebouxia jamesii[1]'
+	'Group 192 Trebouxia jamesii[1]'
+	'AJ511365 Trebouxia jamesii'
+	'FM945346 Trebouxia sp.'
+	'Group 135 Trebouxia jamesii[1]'
+	'Group 112 Trebouxia sp.[2] T. sp.-80[1] T. jamesii[7]'
+	'Group 136 Trebouxia jamesii[2]'
+	'GQ375336 Trebouxia jamesii'
+	'AY444759 Trebouxia jamesii'
+	'AY444758 Trebouxia jamesii'
+	'AJ511364 Trebouxia jamesii'
+	'AJ511358 Trebouxia jamesii'
+	'AJ511355 Trebouxia jamesii'
+	'Group 133 Trebouxia jamesii[1]'
+	'Group 131 Trebouxia jamesii[1]'
+	'JN204728 Trebouxia jamesii'
+	'GQ375326 Trebouxia jamesii'
+	'GQ375324 Trebouxia jamesii'
+	'GQ375325 Trebouxia jamesii'
+	'GQ375323 Trebouxia jamesii'
+	'JX036166 Trebouxia sp.'
+	'AY444767 Trebouxia jamesii'
+	'AY444768 Trebouxia jamesii'
+	'AY444765 Trebouxia jamesii'
+	'Group 171 Trebouxia jamesii[1]'
+	'Group 147 Trebouxia sp.[1] T. jamesii[3]'
+	'GU124717 Trebouxia jamesii'
+	'GU124719 Trebouxia jamesii'
+	'GU124701 Trebouxia jamesii'
+	'HQ026212 Trebouxia sp.'
+	'JN204809 Trebouxia jamesii'
+	'JN204810 Trebouxia jamesii'
+	'JN204745 Trebouxia jamesii'
+	'JN204807 Trebouxia jamesii'
+	'JN204743 Trebouxia jamesii'
+	'Group 184 Trebouxia jamesii[1]'
+	'JX509843 Trebouxia jamesii'
+	'Group 109 Trebouxia sp.[11] T. simplex[4] T. jamesii[32]'
+	'AF453262 Trebouxia simplex'
+	'Group 139 Trebouxia sp.[1] T. jamesii[1]'
+	'JX509839 Trebouxia jamesii'
+	'GU124709 Trebouxia jamesii'
+	'HQ667311 Trebouxia jamesii'
+	'AJ431589 Trebouxia jamesii'
+	'GQ375322 Trebouxia jamesii'
+	'Group 127 Trebouxia jamesii[6]'
+	'GU124714 Trebouxia jamesii'
+	'GQ375317 Trebouxia jamesii'
+	'Group 132 Trebouxia jamesii[1]'
+	'GU124710 Trebouxia jamesii'
+	'GU124704 Trebouxia jamesii'
+	'GU124705 Trebouxia jamesii'
+	'Group 191 Trebouxia jamesii[1]'
+	'GU124703 Trebouxia jamesii'
+	'GU124716 Trebouxia jamesii'
+	'Group 186 Trebouxia jamesii[4]'
+	'GQ375318 Trebouxia jamesii'
+	'HQ667315 Trebouxia jamesii'
+	'GU124711 Trebouxia jamesii'
+	'Group 173 Trebouxia jamesii[1]'
+	'Group 149 Trebouxia sp.[2]'
+	'Group 148 Trebouxia sp.[7]'
+	'EU715042 Trebouxia sp.'
+	'EU715041 Trebouxia sp.'
+	'GQ375363 Trebouxia jamesii'
+	'Group 170 Trebouxia jamesii[2]'
+	'GQ375355 Trebouxia jamesii'
+	'GQ375354 Trebouxia jamesii'
+	'Group 169 Trebouxia jamesii[2]'
+	'GQ375360 Trebouxia jamesii'
+	'Group 168 Trebouxia jamesii[1]'
+	'GQ375361 Trebouxia jamesii'
+	'GQ375356 Trebouxia jamesii'
+	'GQ375359 Trebouxia jamesii'
+	'GQ375364 Trebouxia jamesii'
+	'GQ375365 Trebouxia jamesii'
+	'Group 189 Trebouxia sp.[2]'
+	'JX036273 Trebouxia sp.'
+	'Group 183 Trebouxia sp.[3]'
+	'JN204812 Trebouxia sp.'
+	'EU715047 Trebouxia sp.'
+	'Group 150 Trebouxia sp.[2]'
+	'GU124718 Trebouxia jamesii'
+	'JN243328 Trebouxia jamesii'
+	'Group 138 Trebouxia jamesii[3]'
+	'Group 172 Trebouxia jamesii[2]'
+	'GU124708 Trebouxia jamesii'
+	'GQ375369 Trebouxia jamesii'
+	'GQ375370 Trebouxia jamesii'
+	'FJ626727 Trebouxia brindabellae'
+	'JX144658 Trebouxia sp.'
+	'GQ375352 Trebouxia jamesii'
+	'Group 110 Trebouxia sp.[1] T. jamesii[2] T. angustilobata[1]'
+	'JN243324 Trebouxia jamesii'
+	'DQ086105 Trebouxia sp.'
+	'EU683440 Trebouxia sp.'
+	'EF457759 Trebouxia sp.'
+	'DQ086103 Trebouxia sp.'
+	'Group 69 Trebouxia sp.[3]'
+	'DQ086108 Trebouxia sp.'
+	'EF457760 Trebouxia sp.'
+	'DQ086104 Trebouxia sp.'
+	'DQ086106 Trebouxia sp.'
+	'EF457758 Trebouxia sp.'
+	'JX144652 Trebouxia sp.'
+	'JX144657 Trebouxia sp.'
+	'FJ626726 Trebouxia australis'
+	'JX144655 Trebouxia sp.'
+	'JX144656 Trebouxia sp.'
+	'Group 190 Trebouxia sp.[2]'
+	'JX144654 Trebouxia sp'
+	'JN204790 Trebouxia sp.'
+	'JN204731 Trebouxia sp.'
+	'JN204815 Trebouxia sp.'
+	'AM159208 Trebouxia sp'
+	'Group 98 Trebouxia sp.[2]'
+	'AM159205 Trebouxia sp'
+	'AM159204 Trebouxia sp'
+	'JN204763 Trebouxia sp.'
+	'JX036213 Trebouxia sp.'
+	'JX036227 Trebouxia sp.'
+	'JN204740 Trebouxia sp.'
+	'JX036231 Trebouxia sp.'
+	'Group 99 Trebouxia sp.[3]'
+	'JN204772 Trebouxia sp.'
+	'Group 107 Trebouxia sp.[2]'
+	'JX036160 Trebouxia sp.'
+	'Group 97 Trebouxia sp.[3]'
+	'JN204823 Trebouxia sp.'
+	'JX036180 Trebouxia sp.'
+	'JX036246 Trebouxia sp.'
+	'AY667580 Trebouxia sp.'
+	'AJ431580 Trebouxia sp.'
+	'Group 22 Trebouxia sp.[11] T. decolorans[2]'
+	'JN204757 Trebouxia sp.'
+	'Group 108 Trebouxia sp.[2]'
+	'JX036211 Trebouxia sp.'
+	'JN204727 Trebouxia sp.'
+	'JN204828 Trebouxia sp.'
+	'JN204729 Trebouxia sp.'
+	'JN204744 Trebouxia sp.'
+	'JN204818 Trebouxia sp.'
+	'AJ969505 Trebouxia sp.'
+	'AM159206 Trebouxia sp'
+	'EF095230 Trebouxia sp.'
+	'EF095231 Trebouxia sp.'
+	'DQ166594 Trebouxia sp.'
+	'DQ166611 Trebouxia sp.'
+	'JN204747 Trebouxia sp.'
+	'Group 66 Trebouxia sp.[27]'
+	'JX435366 Uncultured Chlorophyta'
+	'JN204803 Trebouxia sp.'
+	'JN204822 Trebouxia sp.'
+	'JN204838 Trebouxia sp.'
+	'DQ166603 Trebouxia sp.'
+	'DQ133477 Trebouxia sp.'
+	'AJ249572 Trebouxia sp.'
+	'Group 18 Trebouxia sp.[2]'
+	'JQ993768 Trebouxia decolorans'
+	'JQ993759 Trebouxia decolorans'
+	'JQ993777 Trebouxia decolorans'
+	'AJ969535 Trebouxia sp.'
+	'AJ969545 Trebouxia decolorans'
+	'AJ969577 Trebouxia sp.'
+	'AJ969550 Trebouxia sp.'
+	'Group 21 Trebouxia sp.[9] T. decolorans[1]'
+	'Group 9 Trebouxia sp.[3] T. decolorans[2]'
+	'FJ705189 Trebouxia decolorans'
+	'Group 11 Trebouxia sp.[21] T. decolorans[2]'
+	'FJ705188 Trebouxia decolorans'
+	'AJ969514 Trebouxia sp.'
+	'FJ705186 Trebouxia decolorans'
+	'EU717923 Trebouxia decolorans'
+	'EU717921 Trebouxia decolorans'
+	'FJ705177 Trebouxia decolorans'
+	'Group 10 Trebouxia sp.[19] T. sp[1] T. decolorans[2] T. jamesii[1]'
+	'Group 20 Trebouxia sp.[81] T. decolorans[1]'
+	'FJ705201 Trebouxia decolorans'
+	'Group 14 Trebouxia sp.[38] T. decolorans[2]'
+	'Group 19 Trebouxia sp.[31] T. decolorans[1] T. jamesii[2]'
+	'Group 12 Trebouxia sp.[15] T. decolorans[2]'
+	'FJ705200 Trebouxia decolorans'
+	'FJ705203 Trebouxia decolorans'
+	'AM159210 Trebouxia sp.'
+	'Group 13 Trebouxia sp.[1] T. decolorans[2]'
+	'FJ705198 Trebouxia decolorans'
+	'FJ705202 Trebouxia decolorans'
+	'FJ705205 Trebouxia decolorans'
+	'FJ705199 Trebouxia decolorans'
+	'EU717930 Trebouxia decolorans'
+	'EU717934 Trebouxia decolorans'
+	'Group 15 Trebouxia decolorans[3]'
+	'FJ705196 Trebouxia decolorans'
+	'FJ705195 Trebouxia decolorans'
+	'EU717935 Trebouxia decolorans'
+	'EU717927 Trebouxia decolorans'
+	'EU717928 Trebouxia decolorans'
+	'AJ969534 Trebouxia sp.'
+	'EU717929 Trebouxia decolorans'
+	'FJ705190 Trebouxia decolorans'
+	'AF453259 Trebouxia arboricola'
+	'FJ705191 Trebouxia decolorans'
+	'AJ969588 Trebouxia decolorans'
+	'AJ969590 Trebouxia sp.'
+	'AJ969586 Trebouxia sp.'
+	'AJ969584 Trebouxia sp.'
+	'Group 33 Trebouxia sp.[3]'
+	'AJ969561 Trebouxia sp.'
+	'AJ969585 Trebouxia sp.'
+	'AJ969562 Trebouxia decolorans'
+	'AJ969563 Trebouxia sp.'
+	'AJ969551 Trebouxia sp.'
+	'AJ969566 Trebouxia sp.'
+	'AJ969541 Trebouxia sp.'
+	'EU717919 Trebouxia decolorans'
+	'FJ705183 Trebouxia decolorans'
+	'FJ705184 Trebouxia decolorans'
+	'AJ969513 Trebouxia sp.'
+	'AJ969580 Trebouxia sp.'
+	'AJ969515 Trebouxia sp.'
+	'FJ705180 Trebouxia decolorans'
+	'FJ705178 Trebouxia decolorans'
+	'FJ705179 Trebouxia decolorans'
+	'JF831920 Trebouxia decolorans'
+	'JF831917 Trebouxia decolorans'
+	'AM159215 Trebouxia sp.'
+	'AJ969506 Trebouxia sp.'
+	'AJ969569 Trebouxia sp.'
+	'DQ166586 Trebouxia sp.'
+	'JF831922 Trebouxia decolorans'
+	'AJ969574 Trebouxia sp.'
+	'Group 30 Trebouxia sp.[2]'
+	'AJ969547 Trebouxia sp.'
+	'AJ969549 Trebouxia decolorans'
+	'Group 38 Trebouxia decolorans[5]'
+	'DQ166583 Trebouxia sp.'
+	'AJ969507 Trebouxia sp.'
+	'AJ969558 Trebouxia decolorans'
+	'AJ969594 Trebouxia decolorans'
+	'AJ969593 Trebouxia decolorans'
+	'AJ969578 Trebouxia sp.'
+	'AJ969557 Trebouxia sp.'
+	'AJ969567 Trebouxia sp.'
+	'AJ969522 Trebouxia sp.'
+	'AJ293770 Trebouxia sp.'
+	'EU416214 Trebouxia sp.'
+	'AF389915 Trebouxia arboricola'
+	'AF389917 Trebouxia arboricola'
+	'Group 40 Trebouxia sp.[3] T. arboricola[1] T. decolorans[9]'
+	'AJ969571 Trebouxia sp.'
+	'JF831907 Trebouxia decolorans'
+	'AJ969531 Trebouxia sp.'
+	'AJ969511 Trebouxia sp.'
+	'AJ249482 Trebouxia arboricola'
+	'Group 39 Trebouxia arboricola[1] T. decolorans[5]'
+	'AJ969556 Trebouxia decolorans'
+	'AJ007387 Trebouxia arboricola'
+	'AJ969544 Trebouxia sp.'
+	'AJ249481 Trebouxia arboricola'
+	'AF389916 Trebouxia arboricola'
+	'AM159207 Trebouxia sp.'
+	'AF389914 Trebouxia arboricola'
+	'AJ969540 Trebouxia sp.'
+	'AM159216 Trebouxia sp.'
+	'AJ969519 Trebouxia sp.'
+	'JF831903 Trebouxia aggregata'
+	'Z68705 Trebouxia arboricola'
+	'AJ969512 Trebouxia sp.'
+	'AJ969520 Trebouxia sp.'
+	'AJ969570 Trebouxia sp.'
+	'Group 17 Trebouxia sp.[5] T. arboricola[1]'
+	'EU551519 Trebouxia sp.'
+	'AJ969606 Trebouxia sp.'
+	'EU551508 Trebouxia sp.'
+	'AJ969611 Trebouxia arboricola'
+	'AJ969518 Trebouxia sp.'
+	'AJ969607 Trebouxia sp.'
+	'AJ969521 Trebouxia sp.'
+	'JQ004576 Trebouxia sp.'
+	'EU551486 Trebouxia sp.'
+	'EU551488 Trebouxia sp.'
+	'EU551489 Trebouxia sp.'
+	'AJ969581 Trebouxia sp.'
+	'AJ969528 Trebouxia sp.'
+	'AJ969530 Trebouxia sp.'
+	'DQ166587 Trebouxia sp.'
+	'AJ969537 Trebouxia sp.'
+	'AJ969538 Trebouxia sp.'
+	'EU551478 Trebouxia sp.'
+	'EU551517 Trebouxia sp.'
+	'DQ166615 Trebouxia sp.'
+	'EU551490 Trebouxia sp.'
+	'DQ166617 Trebouxia sp.'
+	'EU551524 Trebouxia sp.'
+	'AJ969582 Trebouxia sp.'
+	'JQ993785 Trebouxia arboricola'
+	'JQ993786 Trebouxia arboricola'
+	'Group 16 Trebouxia sp.[2]'
+	'EU551480 Trebouxia sp.'
+	'DQ166580 Trebouxia sp.'
+	'AY804016 Trebouxia sp.'
+	'AJ969516 Trebouxia sp.'
+	'AY804017 Trebouxia sp.'
+	'JF831904 Trebouxia crenulata'
+	'AJ969524 Trebouxia sp.'
+	'AJ969529 Trebouxia arboricola'
+	'AJ969604 Trebouxia sp.'
+	'AY804019 Trebouxia sp.'
+	'AJ969542 Trebouxia sp.'
+	'Group 28 Trebouxia sp.[2]'
+	'AJ969564 Trebouxia sp.'
+	'Group 31 Trebouxia sp.[2]'
+	'FJ028715 clone ISB-20'
+	'DQ166584 Trebouxia sp.'
+	'EU551514 Trebouxia sp.'
+	'AJ969509 Trebouxia sp.'
+	'AJ969523 Trebouxia sp.'
+	'AJ969552 Trebouxia sp.'
+	'AJ969609 Trebouxia arboricola'
+	'AJ969610 Trebouxia arboricola'
+	'JQ993794 Trebouxia arboricola'
+	'JQ993795 Trebouxia arboricola'
+	'JQ993784 Trebouxia arboricola'
+	'JQ993787 Trebouxia arboricola'
+	'JQ993796 Trebouxia arboricola'
+	'JQ993766 Trebouxia arboricola'
+	'JQ993778 Trebouxia arboricola'
+	'JQ993761 Trebouxia arboricola'
+	'JQ993770 Trebouxia arboricola'
+	'Group 23 Trebouxia arboricola[2]'
+	'AJ969526 Trebouxia sp.'
+	'AJ969568 Trebouxia sp.'
+	'JQ993788 Trebouxia arboricola'
+	'JQ993758 Trebouxia arboricola'
+	'JQ993762 Trebouxia arboricola'
+	'Group 24 Trebouxia arboricola[4]'
+	'JQ993797 Trebouxia arboricola'
+	'JQ993798 Trebouxia arboricola'
+	'JQ993799 Trebouxia arboricola'
+	'AJ969565 Trebouxia sp.'
+	'Group 26 Trebouxia arboricola[2]'
+	'Group 27 Trebouxia arboricola[4]'
+	'JQ993792 Trebouxia arboricola'
+	'JQ993774 Trebouxia arboricola'
+	'Group 25 Trebouxia arboricola[2]'
+	'JQ993781 Trebouxia arboricola'
+	'JQ993775 Trebouxia arboricola'
+	'JQ993776 Trebouxia arboricola'
+	'DQ166610 Trebouxia sp.'
+	'AJ969510 Trebouxia sp.'
+	'JN848816 Trebouxia sp.'
+	'EU416223 Trebouxia sp.'
+	'AY303139 Trebouxia sp.'
+	'EU416219 Trebouxia sp.'
+	'EU683444 Trebouxia sp.'
+	'AF242471 Trebouxia sp.'
+	'EU717915 Trebouxia sp.'
+	'AJ293785 Trebouxia sp.'
+	'AJ293778 Trebouxia sp.'
+	'AF389929 Trebouxia impressa'
+	'AF389932 Trebouxia impressa'
+	'Group 120 Trebouxia sp.[3] T. impressa[3]'
+	'Group 125 Trebouxia impressa[1]'
+	'DQ166601 Trebouxia sp.'
+	'DQ166578 Trebouxia sp.'
+	'EU795063 Trebouxia sp.'
+	'EU795082 Trebouxia sp.'
+	'AJ293777 Trebouxia sp.'
+	'Group 115 Trebouxia sp.[2] T. impressa[1] T. flava[1]'
+	'AF345891 Trebouxia impressa'
+	'EU795058 Trebouxia sp.'
+	'AF345890 Trebouxia impressa'
+	'AJ293776 Trebouxia sp.'
+	'EU795059 Trebouxia sp.'
+	'AJ969605 Trebouxia sp.'
+	'EU795057 Trebouxia sp.'
+	'AF242469 Trebouxia potteri'
+	'Group 178 Trebouxia impressa[2] T. sp.[1]'
+	'HQ026163 Trebouxia sp.'
+	'AJ293779 Trebouxia sp.'
+	'Group 154 Trebouxia sp.[2]'
+	'JN204819 Trebouxia impressa'
+	'JN204778 Trebouxia impressa'
+	'JN204750 Trebouxia impressa'
+	'Group 142 Trebouxia impressa[1] T. sp.[3]'
+	'JN204820 Trebouxia impressa'
+	'JN204806 Trebouxia impressa'
+	'JN204759 Trebouxia impressa'
+	'AF389918 Trebouxia impressa'
+	'AJ293794 Trebouxia sp.'
+	'AJ007386 Trebouxia impressa'
+	'AF389920 Trebouxia impressa'
+	'Group 116 Trebouxia sp.[1] T. impressa[4]'
+	'DQ166581 Trebouxia sp.'
+	'JN204834 Trebouxia impressa'
+	'Group 122 Trebouxia impressa[1] T. sp.3[1]'
+	'AJ293775 Trebouxia sp.'
+	'AY804021 Trebouxia sp.'
+	'AJ007384 Trebouxia impressa'
+	'Group 123 Trebouxia impressa[1]'
+	'Group 119 Trebouxia impressa[1]'
+	'Group 118 Trebouxia sp.[8] T. impressa[4] T. sp.9[1]'
+	'AJ007383 Trebouxia impressa'
+	'AF389933 Trebouxia impressa'
+	'EU795079 Trebouxia sp.'
+	'EU795067 Trebouxia sp.'
+	'EU795069 Trebouxia sp.'
+	'AJ318780 Trebouxia impressa'
+	'EU795053 Trebouxia sp.'
+	'EU795068 Trebouxia sp.'
+	'Group 153 Trebouxia sp.[3]'
+	'EU795065 Trebouxia sp.'
+	'Group 152 Trebouxia sp.[1]'
+	'EU795076 Trebouxia sp.'
+	'DQ166596 Trebouxia sp.'
+	'DQ166592 Trebouxia sp.'
+	'DQ166597 Trebouxia sp.'
+	'EU717916 Trebouxia sp.'
+	'EU717917 Trebouxia sp.'
 ;
 end;
 
 begin trees;
-	tree tree_1 = [&R] ('AM159212 Trebouxia sp.':1.0E-8,'AM159211 Trebouxia sp.':0.00161043,('AM159502 Trebouxia sp.':0.01237843,((('AM159214 Trebouxia sp.':8.0E-8,('EU717918 Trebouxia gelatinosa':1.0E-8,('AJ969532 Trebouxia sp.':1.0E-8,'AJ249575 Trebouxia gelatinosa':1.5E-7)[&label=0]:0.00188768)[&label=1]:0.00378305)[&label=0]:0.00323519,('FJ792802 Trebouxia sp.1':0.004363,(('AJ293787 Trebouxia sp.':0.00382136,('Z68697 Trebouxia gelatinosa':0.00795981,('AJ969579 Trebouxia sp.':0.00187775,'Group 124 Trebouxia gelatinosa[2]':0.01113688)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=1]:0.00933761,(('AM159213 Trebouxia sp.':0.00795459,('Z68698 Trebouxia gelatinosa':0.00939966,'FJ626730 Trebouxia gelatinosa':0.00863975)[&label=1]:0.00961366)[&label=0]:0.0035623,('JQ004570 Trebouxia gelatinosa':1.0E-8,('JQ004569 Trebouxia gelatinosa':0.00194467,('JQ004553 Trebouxia gelatinosa':1.3E-7,'Group 185 Trebouxia sp.[1] T. gelatinosa[2]':1.0E-8)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=1]:0.00786334)[&label=0]:0.00343042)[&label=0]:0.05090501)[&label=0]:3.69E-6)[&label=1]:0.01767531,(('EU717912 Trebouxia sp.':0.00561047,('EU717913 Trebouxia sp.':0.00266273,'EU717914 Trebouxia sp.':3.0E-7)[&label=1]:0.01349227)[&label=1]:0.02707596,(('AM159203 Trebouxia sp.':0.00156345,('AJ969533 Trebouxia sp.':1.0E-8,('AY703899 Trebouxia sp.':0.03137643,'Group 140 Trebouxia sp.[2]':8.0E-8)[&label=0]:0.00209813)[&label=0]:0.0042725)[&label=1]:0.00707059,('AM159209 Trebouxia sp.':0.00143084,((('AJ969525 Trebouxia sp.':0.01320867,'AF389919 Trebouxia impressa':0.0104223)[&label=0]:1.0E-7,(('JN204753 Trebouxia impressa':0.00822065,('FJ792798 Trebouxia sp.':0.00319551,'EU795060 Trebouxia sp.':0.01884741)[&label=0]:0.00405433)[&label=0]:0.00133158,(('EU683442 Trebouxia sp.':0.02348695,('EU795061 Trebouxia sp.':0.0089398,'EU416222 Trebouxia sp.':0.0380898)[&label=0]:0.00654549)[&label=1]:0.01385217,(((('JN204836 Trebouxia impressa':0.01134053,'JQ004579 Trebouxia sp.':0.01509804)[&label=0]:0.0061876,(((('Group 176 Trebouxia sp.[4]':0.0062802,('Group 175 Trebouxia sp.[1]':0.00640982,('HQ026223 Trebouxia sp.':0.00666727,'HQ026226 Trebouxia sp.':0.02331788)[&label=1]:0.01516451)[&label=0]:0.00862567)[&label=0]1.0]:0.05634708,('EU795064 Trebouxia sp.':0.00318458,('EU416221 Trebouxia sp.':0.02571478,'Group 70 Trebouxia sp.[2]':0.01015538)[&label=0]:0.00298944)[&label=0]:0.00455975)[&label=0]:0.00483637,((('EU551502 Trebouxia sp.':0.00689288,('DQ166606 Trebouxia sp.':0.00762998,('EU551501 Trebouxia sp.':1.2E-7,('EU551498 Trebouxia sp.':1.6E-7,((('Group 8 Trebouxia sp.[12] T. decolorans[4]':0.0016955,((('EU551475 Trebouxia sp.':0.00218009,('EU551509 Trebouxia sp.':0.02417977,'EU551476 Trebouxia sp.':0.00435682)[&label=0]:2.2E-7)[&label=0]:1.6E-7,('EU551532 Trebouxia sp.':0.01543456,('EU551510 Trebouxia sp.':0.00533517,'DQ166608 Trebouxia sp.':0.01756708)[&label=0]:0.00333685)[&label=0]:0.00296957)[&label=0]:2.4E-7,(('EU551537 Trebouxia sp.':0.01621135,('AJ293780 Trebouxia sp.':0.00153355,('DQ166605 Trebouxia sp.':0.0842348,'AJ293781 Trebouxia sp.':1.0E-8)[&label=0]:1.0E-8)[&label=0]:0.01147816)[&label=0]:3.648E-5,('EU551520 Trebouxia sp.':0.0270882,'EU551481 Trebouxia sp.':0.00372922)[&label=1]:0.01169415)[&label=0]:9.0E-8)[&label=0]:8.0E-8)[&label=0]:0.00162049,('EU551507 Trebouxia sp.':1.7E-7,'EU551535 Trebouxia sp.':0.0296879)[&label=0]:0.00217112)[&label=0]:1.2E-7,('Group 65 Trebouxia sp.[4]':0.00132553,('HQ667310 Trebouxia sp.':0.00739995,((('JN980141 Trebouxia sp.':0.00197909,(('EU551511 Trebouxia sp.':0.0051271,('DQ166616 Trebouxia sp.':0.02955229,'JF414659 Trebouxia sp.':0.00635104)[&label=0]:0.02931623)[&label=0]:5.7E-7,('Group 75 Trebouxia sp.[2]':2.2E-7,'EU551538 Trebouxia sp.':0.00236743)[&label=0]:0.00221532)[&label=0]:5.7E-7)[&label=0]:1.5E-7,('Group 102 Trebouxia sp.[2]':0.00600992,'Group 95 Trebouxia sp.[2]':4.6E-7)[&label=0]:0.00599922)[&label=0]:1.0E-8,('JN980142 Trebouxia sp.':1.0E-8,'DQ166585 Trebouxia sp.':0.0020319)[&label=0]:1.0E-8)[&label=0]:0.00241007)[&label=0]:0.00386876)[&label=0]:0.00159691)[&label=1]:0.00443357)[&label=1]:0.01566226)[&label=1]:0.01534768)[&label=0]:0.00468468)[&label=1]:0.01535363,(('EU551522 Trebouxia sp.':0.00543401,('JN980148 Trebouxia sp.':0.00198294,('Group 103 Trebouxia sp.[2]':0.00197673,'JN980150 Trebouxia sp.':0.0019777)[&label=0]:2.1E-7)[&label=0]:0.00888936)[&label=0]1.0]:0.06457068,('EF432561 Trebouxia sp.':0.02023129,(('Group 76 Trebouxia sp.[3]':2.1E-7,(('HQ026154 Trebouxia sp.':0.00584372,'HQ026213 Trebouxia sp.':0.01210287)[&label=0]:0.00599831,(('HQ026166 Trebouxia sp.':0.01771881,('HQ026197 Trebouxia sp.':1.7E-7,('Group 80 Trebouxia sp.[21]':0.02679977,(('Group 83 Trebouxia sp.[2]':0.01865151,('Group 85 Trebouxia sp.[2]':1.8E-7,'HQ026159 Trebouxia sp.':0.01755382)[&label=0]:0.00531746)[&label=0]:0.00972066,('HQ026185 Trebouxia sp.':0.00192757,(('HQ026218 Trebouxia sp.':4.6135E-4,('Group 87 Trebouxia sp.[13]':9.0E-8,('HQ026152 Trebouxia sp.':0.00200752,('Group 89 Trebouxia sp.[3]':9.0E-8,('HQ026179 Trebouxia sp.':0.00171856,'HQ026168 Trebouxia sp.':0.01500947)[&label=0]:0.00172887)[&label=0]:0.00169793)[&label=0]:1.0E-7)[&label=1]:0.00912249)[&label=0]:0.00633603,('HQ026151 Trebouxia sp.':9.2E-7,('Group 79 Trebouxia sp.[3]':4.36E-5,('HQ026224 Trebouxia sp.':0.01735209,'HQ026227 Trebouxia sp.':0.00262133)[&label=1]:0.01494729)[&label=0]:0.01085341)[&label=1]:0.01142328)[&label=0]:0.01205817)[&label=0]:1.16E-6)[&label=0]:0.00147165)[&label=0]:0.00394315)[&label=0]:0.00517334)[&label=1]:0.01131473,('HQ026167 Trebouxia sp.':0.01337089,'HQ026184 Trebouxia sp.':0.01946558)[&label=0]:3.9E-7)[&label=0]:0.00615819)[&label=1]:0.01397023)[&label=1]:0.04319135,('JQ004566 Trebouxia sp.':0.00876523,('JQ004555 Trebouxia sp.':0.00171708,('Group 105 Trebouxia sp.[3]':2.0E-7,'Group 106 Trebouxia sp.[3]':0.0017483)[&label=0]:0.00178457)[&label=1]:0.00906998)[&label=1]:0.03310581)[&label=1]:0.02494787)[&label=0]:0.00407126)[&label=0]:0.00418912)[&label=0]:0.00635121,((('Group 60 Trebouxia sp.[6]':0.03922443,(('JQ993772 Trebouxia gigantea':0.02034864,'Group 52 Trebouxia gigantea[2]':8.0E-8)[&label=1]:0.00612024,(('AJ249577 Trebouxia gigantea':0.00152806,('AJ293790 Trebouxia sp.':0.00152887,'AF242468 Trebouxia gigantea':8.0E-8)[&label=0]:8.0E-8)[&label=1]:0.00305043,('AY703898 Trebouxia sp.':8.0E-8,('AY703900 Trebouxia sp.':0.00153032,('DQ133478 Trebouxia sp.':8.0E-8,'JQ359768 Trebouxia gigantea':0.01033359)[&label=1]:0.00305352)[&label=0]:8.0E-8)[&label=1]:0.00460622)[&label=0]:8.0E-8)[&label=1]:0.01748967)[&label=1]:0.01995401,((('Group 61 Trebouxia sp.[13]':3.0E-8,(('DQ133501 Trebouxia sp.':0.00155571,(('Group 58 Trebouxia sp.[2]':1.0E-8,('AY703906 Trebouxia sp.':0.00166442,('EU416215 Trebouxia sp.':0.0017281,'JN204760 Trebouxia sp.':0.00183047)[&label=0]:1.1E-7)[&label=0]:1.1E-7)[&label=1]:0.00165873,('HM064495 Trebouxia sp.':0.00805688,'DQ133500 Trebouxia sp.':0.00155577)[&label=0]:8.0E-8)[&label=0]:1.0E-7)[&label=0]:5.0E-8,('AY703905 Trebouxia sp.':0.00155954,('Group 77 Trebouxia sp.[6]':1.0E-8,'GU339210 Trebouxia sp.':0.00186287)[&label=1]:0.00563259)[&label=0]:1.5E-7)[&label=0]:3.0E-8)[&label=1]:0.01205781,((('Group 42 Trebouxia sp.[1] T. asymmetrica[1]':1.0E-8,('AF345889 Trebouxia asymmetrica':0.01066805,('Group 41 Trebouxia asymmetrica[3]':0.00344656,'Group 43 Trebouxia sp.[2] T. asymmetrica[1]':0.00311856)[&label=0]:0.00153902)[&label=0]:1.1E-7)[&label=1]:0.02505051,('JN204764 Trebouxia sp.':0.00223579,'JN204775 Trebouxia sp.':0.00545135)[&label=1]:0.01202367)[&label=0]:0.00173602,('DQ133499 Trebouxia sp.':0.01642821,'DQ133497 Trebouxia sp.':0.02759294)[&label=0]:0.00338959)[&label=0]:0.00460016)[&label=1]:0.00821673,(('AJ431583 Trebouxia sp.':0.01881558,('Group 68 Trebouxia sp.[3]':2.7E-7,('EF095232 Trebouxia sp.':0.00239924,'EF095233 Trebouxia sp.':0.00493889)[&label=0]:2.6E-7)[&label=1]:0.00743208)[&label=1]1.0]:0.03539167,((((('JQ004552 Trebouxia sp.':0.0017587,'JQ004596 Trebouxia sp.':1.0E-8)[&label=1]:0.02759238,('Group 53 Trebouxia sp.[1] T. incrustata[1]':8.0E-8,('DQ133496 Trebouxia sp.':0.02188424,('Group 55 Trebouxia sp.[1] T. incrustata[1]':0.00467774,('Group 54 Trebouxia sp.[10] T. incrustata[3]':0.0053373,('DQ133488 Trebouxia sp.':0.00155248,('DQ133502 Trebouxia sp.':0.00155612,('DQ133474 Trebouxia sp.':0.00155073,('DQ166602 Trebouxia sp.':1.0E-8,('DQ166588 Trebouxia sp.':0.01014752,'DQ166590 Trebouxia sp.':0.00587961)[&label=0]:1.0E-7)[&label=0]:0.0016625)[&label=0]:1.2E-7)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=0]:1.9E-7)[&label=0]:0.00179537)[&label=0]:0.01011139)[&label=0]1.0]:0.06492582,('Group 57 Trebouxia showmanii[2]':0.00945658,'JQ004597 Trebouxia sp.':0.02361015)[&label=1]:0.03685558)[&label=1]:0.01709459,((('FJ792800 Trebouxia sp.':0.01502052,'JQ004598 Trebouxia sp.':0.04246648)[&label=1]1.0]:0.08098748,(('AJ293792 Trebouxia sp.':0.05549394,((('Group 4 Trebouxia sp.[6]':1.0E-8,('AY842263 Trebouxia sp.':0.00178681,'AB573857 Trebouxia sp.':0.00178262)[&label=0]:1.2E-7)[&label=0]1.0]:0.08211872,('AJ249566 Trebouxia corticola':0.00176539,'AJ249573 Trebouxia usneae':0.00329203)[&label=0]1.0]:0.04716881)[&label=1]:0.02179946,(('AB573846 Trebouxia corticola':8.0E-8,((('AB573844 Trebouxia corticola':0.0017701,('Group 2 Trebouxia corticola[10]':7.0E-8,('AB627369 Trebouxia corticola':0.0071836,'AB627373 Trebouxia corticola':0.00356546)[&label=0]:0.00176867)[&label=0]:1.1E-7)[&label=0]:9.0E-8,('AB583690 Trebouxia corticola':0.00177063,'AB627366 Trebouxia corticola':0.001771)[&label=0]:1.2E-7)[&label=0]:7.0E-8,('AB573843 Trebouxia corticola':0.00532491,((('AB573827 Trebouxia corticola':0.00177004,((('AB627385 Trebouxia corticola':0.00358337,(('AB573848 Trebouxia corticola':0.00177113,'AB177822 Trebouxia corticola':0.00177904)[&label=0]:3.0E-8,('AB627389 Trebouxia corticola':0.00178385,('AB573828 Trebouxia corticola':0.00177,('Group 47 Trebouxia corticola[2]':0.00177025,('AB573840 Trebouxia corticola':0.00178021,'AB573841 Trebouxia corticola':0.00177238)[&label=0]:0.0017705)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:1.0E-7)[&label=0]:3.0E-8)[&label=0]:7.0E-8,(('AB177833 Trebouxia corticola':0.00176991,('AB573839 Trebouxia corticola':0.00532567,('Group 6 Trebouxia sp.[2] T. corticola[2]':0.00177262,('AB177817 Trebouxia corticola':0.00177888,'AB573822 Trebouxia corticola':0.00176997)[&label=0]:7.0E-8)[&label=0]:7.0E-8)[&label=0]:1.0E-7)[&label=0]:1.2E-7,('AB573842 Trebouxia corticola':0.00354473,('AB573816 Trebouxia corticola':1.0E-8,'AB573817 Trebouxia corticola':0.00177114)[&label=0]:0.00177115)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=0]:5.0E-8,(('AB573826 Trebouxia corticola':0.00177023,((((('AB627429 Trebouxia corticola':0.00177068,('AB627408 Trebouxia corticola':0.00354233,'Group 3 Trebouxia sp.[4] T. arboricola[1] T. decolorans[4] T. corticola[5] Ramalina fraxinea[1]':1.0E-8)[&label=0]:0.00177361)[&label=0]:1.0E-7,(('AB627421 Trebouxia corticola':0.00177026,('AB573850 Trebouxia corticola':0.00354596,'AB573849 Trebouxia corticola':0.00354701)[&label=0]:1.1E-7)[&label=0]:0.00177034,('AB177818 Trebouxia corticola':0.00177905,'Group 45 Trebouxia corticola[3]':1.0E-8)[&label=0]:9.0E-8)[&label=0]:1.1E-7)[&label=0]:1.0E-7,(((('AB177824 Trebouxia corticola':0.00198306,('Group 44 Trebouxia corticola[3]':1.0E-8,'AB177820 Trebouxia corticola':0.0017787)[&label=0]:1.0E-7)[&label=0]:1.0E-7,('AB573854 Trebouxia corticola':9.0E-8,'AB627419 Trebouxia corticola':0.00354478)[&label=0]:0.00176969)[&label=0]:0.00176325,('AB177827 Trebouxia corticola':0.00177915,'AB177828 Trebouxia corticola':1.0E-8)[&label=1]:0.00178358)[&label=0]:1.0E-7,('AB573856 Trebouxia corticola':0.00177121,'AB627417 Trebouxia corticola':0.00176946)[&label=0]:1.2E-7)[&label=0]:1.1E-7)[&label=1]:0.00176303,(('AB573829 Trebouxia corticola':0.00177257,'AB627400 Trebouxia corticola':0.0017699)[&label=0]:1.0E-7,('AB573824 Trebouxia corticola':0.00177,((('AB627416 Trebouxia corticola':0.0035649,('AB627392 Trebouxia corticola':0.00178751,('AB627410 Trebouxia corticola':1.0E-8,'AB627418 Trebouxia corticola':0.00177894)[&label=0]:8.0E-8)[&label=0]:8.0E-8)[&label=0]:0.00178241,('AB627387 Trebouxia corticola':0.00354704,('Group 7 Trebouxia sp.[3] T. corticola[2]':0.00940867,('AB630328 Trebouxia corticola':0.00357026,('AB627382 Trebouxia corticola':1.0E-8,'Group 50 Trebouxia corticola[2]':0.00180026)[&label=1]:0.00544207)[&label=0]:8.0E-8)[&label=0]:9.2805E-4)[&label=0]:9.2341E-4)[&label=0]:2.0E-8,(('AB627391 Trebouxia corticola':0.00354762,'Group 1 Trebouxia sp.[2] T. arboricola[1] T. decolorans[4] T. corticola[30]':9.0E-8)[&label=0]:1.1E-7,('AB627428 Trebouxia corticola':0.00178389,'AB627386 Trebouxia corticola':0.00677737)[&label=0]:0.00221369)[&label=0]:2.0E-8)[&label=0]:0.00177445)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:1.1E-7,('AB573847 Trebouxia corticola':1.0E-7,'AY842270 Trebouxia sp':0.01245407)[&label=0]:0.00175399)[&label=0]:1.1E-7)[&label=0]:9.0E-8,('AB573825 Trebouxia corticola':0.00176993,'AB573823 Trebouxia corticola':0.00354826)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=0]:1.2E-7)[&label=0]:0.00175127,('Group 5 Trebouxia sp.[2] T. corticola[2]':0.0029677,'AB627390 Trebouxia corticola':0.01439022)[&label=0]:0.00641424)[&label=0]:2.6E-7,(('AB627378 Trebouxia corticola':0.00178059,('AB627379 Trebouxia corticola':0.0017699,('AB627374 Trebouxia corticola':1.0E-8,((('AB627384 Trebouxia corticola':0.00536408,'AB627399 Trebouxia corticola':0.0017742)[&label=0]:0.00177245,('AB627423 Trebouxia corticola':0.00177036,('Group 49 Trebouxia corticola[2]':0.00179187,'AB627422 Trebouxia corticola':0.00177452)[&label=0]:0.00177242)[&label=0]:1.2E-7)[&label=0]:1.2E-7,('AB627397 Trebouxia corticola':0.00177014,('Group 48 Trebouxia corticola[3]':1.0E-8,'AB627401 Trebouxia corticola':0.00177034)[&label=0]:1.0E-8)[&label=0]:9.0E-8)[&label=1]:0.00177411)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=0]:0.00177405,('AB627375 Trebouxia corticola':0.0017721,'AB627372 Trebouxia corticola':9.0E-8)[&label=0]:9.0E-8)[&label=0]:0.00177489)[&label=0]:1.1E-7)[&label=0]:7.0E-8)[&label=0]:0.0017474)[&label=1]:0.02077101,(AB177834:0.02406792,('AY842269 Trebouxia sp.':0.01535759,'AY842268 Trebouxia sp.':0.0127246)[&label=1]:0.01621401)[&label=1]:0.0460291)[&label=0]:0.00725444)[&label=0]:0.00922549)[&label=0]1.0]:0.10107938,(('AF242465 Trebouxia jamesii letharii sp. 6':1.7E-7,('Group 159 Trebouxia jamesii[2]':0.00210467,(('FJ170505 Trebouxia jamesii':0.00209795,'FJ170699 Trebouxia jamesii':2.1E-7)[&label=0]:0.00209103,((('FJ170642 Trebouxia jamesii':0.00209418,((('FJ170576 Trebouxia jamesii':0.0020916,'FJ170551 Trebouxia jamesii':1.4E-7)[&label=0]:2.4E-7,('FJ170602 Trebouxia jamesii':0.00209026,('FJ170553 Trebouxia jamesii':0.00209683,('Group 162 Trebouxia jamesii[2]':0.00209056,'FJ170517 Trebouxia jamesii':1.0E-7)[&label=0]:1.0E-7)[&label=0]:0.00209037)[&label=0]:2.5E-7)[&label=1]:0.0020913,(('FJ170588 Trebouxia jamesii':0.00209325,'FJ170587 Trebouxia jamesii':0.00629803)[&label=0]:3.0E-8,(('FJ170507 Trebouxia jamesii':0.00209128,'FJ170582 Trebouxia jamesii':0.00209837)[&label=0]:1.0E-8,(('Group 157 Trebouxia jamesii[3]':1.0E-8,(('Group 161 Trebouxia jamesii[1]':0.00209196,'FJ170634 Trebouxia jamesii':0.00209466)[&label=0]:5.0E-8,(('Group 158 Trebouxia jamesii[2]':1.6E-7,'Group 163 Trebouxia jamesii[2]':0.00209216)[&label=0]:0.00209561,('FJ170700 Trebouxia jamesii':0.00209111,('Group 160 Trebouxia jamesii[2]':1.6E-7,'FJ170554 Trebouxia jamesii':0.00209135)[&label=0]:1.3E-7)[&label=0]:1.1E-7)[&label=0]:5.0E-8)[&label=0]:2.5E-7)[&label=1]:0.00209281,('FJ170589 Trebouxia jamesii':0.00419008,('FJ170542 Trebouxia jamesii':0.00209371,'FJ170500 Trebouxia jamesii':1.1E-7)[&label=0]:1.1E-7)[&label=0]:1.7E-7)[&label=0]:3.0E-8)[&label=0]:1.6E-7)[&label=0]:1.4E-7)[&label=0]:1.3E-7)[&label=0]:1.7E-7,(('FJ170522 Trebouxia jamesii':0.00209301,'FJ170509 Trebouxia jamesii':0.0020921)[&label=0]:4.0E-8,(('FJ170476 Trebouxia jamesii':1.9E-7,('FJ170547 Trebouxia jamesii':1.0E-8,'FJ170661 Trebouxia jamesii':1.0E-8)[&label=1]:0.002092)[&label=0]:9.0E-8,('Group 113 Trebouxia jamesii letharii sp. 1[1] T. jamesii[2]':1.5E-7,('FJ170689 Trebouxia jamesii':0.00209254,'FJ170663 Trebouxia jamesii':0.00209733)[&label=0]:2.6E-7)[&label=1]:0.00189903)[&label=0]:4.0E-8)[&label=1]:0.00189925)[&label=0]:1.6E-7,('FJ170506 Trebouxia jamesii':0.0020909,('Group 114 Trebouxia jamesii letharii sp. 2[1] T. jamesii[1]':1.4E-7,(('FJ170687 Trebouxia jamesii':0.00210246,('FJ170485 Trebouxia jamesii':0.00209906,(('AF242462 Trebouxia jamesii letharii sp. 3':0.00572719,('FJ170493 Trebouxia jamesii':2.6E-7,'FJ170599 Trebouxia jamesii':0.00209645)[&label=0]:0.00209525)[&label=0]:1.0E-8,('Group 155 Trebouxia jamesii[5]':1.0E-8,('FJ170473 Trebouxia jamesii':0.00209692,(('FJ170479 Trebouxia jamesii':0.00209608,('FJ170604 Trebouxia jamesii':0.0020971,('FJ170482 Trebouxia jamesii':1.0E-8,('FJ170581 Trebouxia jamesii':0.00209585,'FJ170669 Trebouxia jamesii':0.0020969)[&label=0]:1.7E-7)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=1]:0.00419936,('FJ170470 Trebouxia jamesii':0.00209546,('FJ170512 Trebouxia jamesii':0.0020963,('Group 156 Trebouxia jamesii[2]':0.00424291,'FJ170672 Trebouxia jamesii':0.00209616)[&label=0]:1.5E-7)[&label=0]:1.7E-7)[&label=0]:1.3E-7)[&label=0]:1.5E-7)[&label=0]:1.0E-8)[&label=0]:1.3E-7)[&label=0]:1.0E-8)[&label=0]:2.0E-8)[&label=0]:0.00190239,('FJ170535 Trebouxia jamesii':1.5E-7,(('FJ170529 Trebouxia jamesii':1.0E-8,('FJ170566 Trebouxia jamesii':0.00209785,'FJ170568 Trebouxia jamesii':0.00209587)[&label=0]:1.5E-7)[&label=1]:0.01275995,('FJ170531 Trebouxia jamesii':3.0E-8,('AF242463 Trebouxia jamesii letharii sp. 4':0.00380791,('FJ170679 Trebouxia jamesii':0.00209087,('AF242464 Trebouxia jamesii letharii sp. 5':0.00189813,'FJ170569 Trebouxia jamesii':0.00420626)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:2.4E-7)[&label=0]:1.4E-7)[&label=0]:0.00189823)[&label=0]:1.3E-7)[&label=1]:0.00190332)[&label=0]:0.00189889)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:0.00189232)[&label=1]:0.01349755)[&label=1]:0.06424288,((('Group 181 Trebouxia sp.[1] T. jamesii[1]':0.01058934,(('EU416218 Trebouxia sp.':0.00183471,'AF242458 Trebouxia jamesii':8.0E-8)[&label=0]:0.00182277,(('Group 143 Trebouxia sp.[4] T. sp.a[1]':8.0E-8,('Group 145 Trebouxia sp.[1]':0.01169033,('Group 144 Trebouxia sp.[1]':0.00319776,'EU416224 Trebouxia sp.':0.00157897)[&label=1]:0.01397398)[&label=1]:0.01094137)[&label=0]:0.00798511,(('Group 177 Trebouxia sp.[2]':0.00431601,('Group 151 Trebouxia sp.[3]':0.00188267,('Group 128 Trebouxia sp.[2] T. jamesii[1]':1.0E-7,('AJ511351 Trebouxia jamesii':0.00182523,('AJ511353 Trebouxia jamesii':0.00188894,'AJ511350 Trebouxia jamesii':0.00365611)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=0]:0.00182628)[&label=0]:9.0E-8)[&label=0]:9.0E-8,('JX474358 Trebouxia sp.':0.00305202,('EF457777 Trebouxia sp.':0.00183061,'AF242466 Trebouxia jamesii':0.00368073)[&label=0]:0.00105183)[&label=0]:7.8023E-4)[&label=0]:8.0E-8)[&label=0]:0.0057698)[&label=0]:0.00339016)[&label=1]:0.02230302,('Group 188 Trebouxia jamesii[2]':1.0E-7,(('JQ004633 Trebouxia jamesii':0.01902924,(('JX474340 Trebouxia sp.':1.6E-7,('AJ249571 Trebouxia jamesii':0.00344524,((('Group 182 Trebouxia sp.[3] T. jamesii[5]':1.5E-7,'JQ004539 Trebouxia jamesii':0.00189324)[&label=0]:1.6E-7,('JQ004608 Trebouxia jamesii':0.0018967,'JQ004582 Trebouxia jamesii':0.00952029)[&label=0]:2.6E-7)[&label=1]:0.00759879,('JQ004622 Trebouxia jamesii':0.00946286,('JQ004637 Trebouxia jamesii':0.00187859,(('JQ004632 Trebouxia jamesii':0.00406105,'Group 187 Trebouxia jamesii[2]':1.0E-7)[&label=0]:0.00182519,('Group 180 Trebouxia sp.[3] T. jamesii[3]':2.0E-7,('HQ026229 Trebouxia sp.':0.00635634,('JQ004625 Trebouxia jamesii':1.0E-8,'JQ031784 Trebouxia jamesii':0.01088499)[&label=0]:1.0E-8)[&label=0]:0.00188314)[&label=0]:1.7E-7)[&label=0]:0.00182501)[&label=0]:8.0E-8)[&label=1]:0.00366643)[&label=0]:0.00182799)[&label=0]:1.0E-7)[&label=0]:1.0E-7,('EF457770 Trebouxia sp.':0.00305763,'JX474346 Trebouxia sp.':6.27E-6)[&label=0]:0.0030447)[&label=1]:0.01302963)[&label=0]:3.0E-8,('EF457773 Trebouxia sp.-87':1.0E-7,('Group 129 Trebouxia sp.[2] T. simplex[2] T. jamesii[1]':0.00185196,('Group 179 Trebouxia sp.[3]':2.5E-7,('Group 146 Trebouxia sp.-265[1]':1.0E-7,'Group 141 Trebouxia sp.[2]':0.01304822)[&label=0]:1.0E-7)[&label=0]:0.00182446)[&label=0]:9.0E-8)[&label=1]:0.00182538)[&label=0]:3.0E-8)[&label=0]:0.00950338)[&label=1]:0.04458386,('JX144651 Trebouxia sp.':0.02754161,((('FJ170755 Trebouxia jamesii':1.3E-7,('FJ170756 Trebouxia jamesii':0.00209212,(('Group 165 Trebouxia jamesii[1]':0.00209387,(('Group 111 Trebouxia sp.[1] T. jamesii vulpinae [1] T. jamesii[3]':3.0E-8,'FJ170750 Trebouxia jamesii':0.00208676)[&label=0]:2.0E-8,('GQ375338 Trebouxia jamesii':0.00208126,('DQ166612 Trebouxia sp.':0.00600756,('GQ375339 Trebouxia jamesii':1.0E-8,'GQ375340 Trebouxia jamesii':0.00208005)[&label=0]:0.00208128)[&label=0]:5.9E-7)[&label=0]:5.8E-7)[&label=0]:2.0E-8)[&label=0]:1.2E-7,('FJ170746 Trebouxia jamesii':0.00208676,('FJ170740 Trebouxia jamesii':0.00209209,'FJ170747 Trebouxia jamesii':0.00419458)[&label=0]:2.1E-7)[&label=0]:1.6E-7)[&label=0]:9.0E-8)[&label=0]:0.00182424)[&label=1]:0.01316653,(('GQ375341 Trebouxia jamesii':0.01057871,('AF453265 Trebouxia simplex':1.0E-7,('DQ166591 Trebouxia sp.':0.00851447,(('Group 164 Trebouxia jamesii[2]':0.00209687,'Group 130 Trebouxia jamesii[2]':6.0E-8)[&label=0]:6.0E-8,('FJ170737 Trebouxia jamesii':0.00208963,('FJ170739 Trebouxia jamesii':0.00419568,('FJ170734 Trebouxia jamesii':0.00208897,'Group 166 Trebouxia jamesii[2]':0.00377704)[&label=0]:2.1E-7)[&label=0]:2.1E-7)[&label=0]:2.0E-7)[&label=0]:0.0035745)[&label=1]:0.01536406)[&label=0]:0.00183832)[&label=0]:0.00244758,('JQ314486 Trebouxia jamesii':0.00259629,'JQ314487 Trebouxia jamesii':1.0E-8)[&label=0]:0.00261154)[&label=0]:0.00491822)[&label=1]:0.00739906,((((('JX474331 Trebouxia sp.':0.00311047,(('AJ511356 Trebouxia jamesii':0.0257897,(('GQ375331 Trebouxia jamesii':1.0E-8,('GQ375332 Trebouxia jamesii':1.6E-7,'GQ375330 Trebouxia jamesii':0.00417079)[&label=1]:0.00417217)[&label=0]:1.0E-8,('GQ375327 Trebouxia jamesii':0.00209491,('GQ375328 Trebouxia jamesii':0.00208567,('GQ375334 Trebouxia jamesii':2.3E-7,('GQ375333 Trebouxia jamesii':0.0020806,('Group 137 Trebouxia jamesii[1]':0.00388417,(('Group 192 Trebouxia jamesii[1]':0.00687391,('AJ511365 Trebouxia jamesii':0.00680294,('FM945346 Trebouxia sp.':0.00489437,'Group 135 Trebouxia jamesii[1]':9.0E-8)[&label=0]:9.0E-8)[&label=0]:0.01388306)[&label=0]:0.00570343,((('Group 112 Trebouxia sp.[2] T. sp.-80[1] T. jamesii[7]':0.00162262,('Group 136 Trebouxia jamesii[2]':2.9E-7,'GQ375336 Trebouxia jamesii':0.00207352)[&label=0]:2.9E-7)[&label=0]:5.49E-6,(('AY444759 Trebouxia jamesii':0.00413074,'AY444758 Trebouxia jamesii':0.00185364)[&label=0]:1.1E-7,('AJ511364 Trebouxia jamesii':0.00209276,('AJ511358 Trebouxia jamesii':0.00217933,'AJ511355 Trebouxia jamesii':5.7E-7)[&label=0]:0.00675421)[&label=0]:0.00335208)[&label=0]:1.1E-7)[&label=0]:0.00868183,('Group 133 Trebouxia jamesii[1]':0.00202793,'Group 131 Trebouxia jamesii[1]':2.0E-8)[&label=0]:0.00597525)[&label=0]:0.00997742)[&label=0]:0.00208922)[&label=0]:1.2E-7)[&label=1]:0.00635981)[&label=0]:0.00317236)[&label=0]:0.00314984)[&label=1]:0.00966366)[&label=0]:0.00653638)[&label=0]:1.5E-7,(('JN204728 Trebouxia jamesii':0.05509497,'GQ375326 Trebouxia jamesii':0.00195406)[&label=0]:0.00263432,('GQ375324 Trebouxia jamesii':2.1E-7,'GQ375325 Trebouxia jamesii':0.00207599)[&label=0]:0.00411519)[&label=0]:0.00248303)[&label=0]:0.00746306)[&label=0]:0.01285789,((('GQ375323 Trebouxia jamesii':0.0082972,('JX036166 Trebouxia sp.':0.0132498,(('AY444767 Trebouxia jamesii':0.00369175,('AY444768 Trebouxia jamesii':1.2E-7,'AY444765 Trebouxia jamesii':1.0E-8)[&label=0]:0.00182113)[&label=0]:9.0E-8,('Group 171 Trebouxia jamesii[1]':1.0E-8,('Group 147 Trebouxia sp.[1] T. jamesii[3]':6.0E-8,('GU124717 Trebouxia jamesii':0.00516271,'GU124719 Trebouxia jamesii':1.4E-7)[&label=0]:0.00257172)[&label=0]:6.0E-8)[&label=0]:1.0E-8)[&label=0]:0.00370073)[&label=0]:4.6E-7)[&label=0]:0.00402101,('GU124701 Trebouxia jamesii':0.01838398,('HQ026212 Trebouxia sp.':0.006556,((('JN204809 Trebouxia jamesii':1.2E-7,('JN204810 Trebouxia jamesii':0.01788703,('JN204745 Trebouxia jamesii':1.4E-7,'JN204807 Trebouxia jamesii':0.0019206)[&label=0]:0.00177591)[&label=0]:0.00590058)[&label=0]:0.00191158,('JN204743 Trebouxia jamesii':0.00191627,(('Group 184 Trebouxia jamesii[1]':1.5E-7,((('JX509843 Trebouxia jamesii':0.001869,('Group 109 Trebouxia sp.[11] T. simplex[4] T. jamesii[32]':1.0E-8,('AF453262 Trebouxia simplex':0.00182164,'Group 139 Trebouxia sp.[1] T. jamesii[1]':0.00182205)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:1.1E-7,(('JX509839 Trebouxia jamesii':0.00186926,'GU124709 Trebouxia jamesii':2.7E-7)[&label=0]:9.0E-8,('HQ667311 Trebouxia jamesii':0.01131348,(('AJ431589 Trebouxia jamesii':0.01182947,('GQ375322 Trebouxia jamesii':0.00207452,'Group 127 Trebouxia jamesii[6]':8.0E-8)[&label=0]:9.0E-8)[&label=0]:0.00182192,(('GU124714 Trebouxia jamesii':0.00260191,'GQ375317 Trebouxia jamesii':0.00626318)[&label=0]:0.00417949,('Group 132 Trebouxia jamesii[1]':0.00427609,('GU124710 Trebouxia jamesii':0.00257667,('GU124704 Trebouxia jamesii':0.00515963,('GU124705 Trebouxia jamesii':0.00257574,('Group 191 Trebouxia jamesii[1]':4.0E-8,('GU124703 Trebouxia jamesii':0.01303419,'GU124716 Trebouxia jamesii':1.5E-7)[&label=1]:0.00516231)[&label=0]:4.0E-8)[&label=0]:9.0E-8)[&label=0]:0.00214912)[&label=0]:2.4E-7)[&label=0]:1.9E-7)[&label=0]:1.3E-7)[&label=0]:9.0E-8)[&label=0]:8.0E-8)[&label=0]:9.0E-8)[&label=0]:9.0E-8,('Group 186 Trebouxia jamesii[4]':0.00364848,('GQ375318 Trebouxia jamesii':0.00207335,('HQ667315 Trebouxia jamesii':0.08572232,('GU124711 Trebouxia jamesii':0.00257646,'Group 173 Trebouxia jamesii[1]':3.0E-8)[&label=0]:3.0E-8)[&label=0]:0.00495793)[&label=0]:1.3E-7)[&label=0]:1.1E-7)[&label=0]:0.00184979)[&label=0]:0.00185408,('Group 149 Trebouxia sp.[2]':0.00195727,('Group 148 Trebouxia sp.[7]':0.00192652,('EU715042 Trebouxia sp.':1.4E-7,'EU715041 Trebouxia sp.':0.00199321)[&label=0]:1.4E-7)[&label=0]:2.1E-7)[&label=0]:0.00193405)[&label=0]:0.00184688)[&label=0]:1.9E-7)[&label=1]:0.0073695,((('GQ375363 Trebouxia jamesii':0.00207415,'Group 170 Trebouxia jamesii[2]':2.3E-7)[&label=0]:0.00182544,('GQ375355 Trebouxia jamesii':2.6E-7,'GQ375354 Trebouxia jamesii':0.00207505)[&label=1]:0.00417803)[&label=0]:1.0E-8,(('Group 169 Trebouxia jamesii[2]':0.00207507,('GQ375360 Trebouxia jamesii':0.00207235,('Group 168 Trebouxia jamesii[1]':1.0E-8,('GQ375361 Trebouxia jamesii':0.0020741,('GQ375356 Trebouxia jamesii':0.00215248,'GQ375359 Trebouxia jamesii':1.0E-8)[&label=0]:1.0E-8)[&label=0]:1.5E-7)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=0]:1.0E-8,('GQ375364 Trebouxia jamesii':0.00412391,'GQ375365 Trebouxia jamesii':0.00634188)[&label=1]:0.00840429)[&label=0]:1.0E-8)[&label=0]:0.00177708)[&label=0]:0.00372866)[&label=0]:1.5E-7)[&label=0]:0.00518095)[&label=1]:0.01734139,('Group 189 Trebouxia sp.[2]':0.01846083,('JX036273 Trebouxia sp.':0.03617087,('Group 183 Trebouxia sp.[3]':0.0038211,'JN204812 Trebouxia sp.':5.9E-7)[&label=0]:0.00328523)[&label=0]1.0]:0.04058132)[&label=0]:0.00328283)[&label=0]:0.01158311)[&label=0]:0.01292685,(('EU715047 Trebouxia sp.':0.00208576,'Group 150 Trebouxia sp.[2]':1.0E-8)[&label=1]:0.01467681,('GU124718 Trebouxia jamesii':0.00220591,('JN243328 Trebouxia jamesii':1.5E-7,('Group 138 Trebouxia jamesii[3]':0.01413621,('Group 172 Trebouxia jamesii[2]':0.003754,('GU124708 Trebouxia jamesii':0.00257328,('GQ375369 Trebouxia jamesii':1.0E-8,'GQ375370 Trebouxia jamesii':0.00460768)[&label=0]:0.00230571)[&label=0]:2.4E-7)[&label=0]:0.00323828)[&label=0]:0.00813164)[&label=1]:0.02666755)[&label=1]:0.02685459)[&label=0]:0.00716063)[&label=0]:0.01032424,(('FJ626727 Trebouxia brindabellae':0.00808373,'JX144658 Trebouxia sp.':0.02153462)[&label=1]:0.01196364,(('GQ375352 Trebouxia jamesii':2.4E-7,('Group 110 Trebouxia sp.[1] T. jamesii[2] T. angustilobata[1]':2.3E-7,'JN243324 Trebouxia jamesii':0.00256525)[&label=0]:0.00203604)[&label=0]1.0]:0.05355857,(('DQ086105 Trebouxia sp.':2.0E-8,('EU683440 Trebouxia sp.':0.01131109,('EF457759 Trebouxia sp.':0.01403265,('DQ086103 Trebouxia sp.':0.03071512,'Group 69 Trebouxia sp.[3]':1.1E-7)[&label=0]:0.00158218)[&label=0]:0.00349525)[&label=0]:2.16E-6)[&label=0]:0.00526738,('DQ086108 Trebouxia sp.':0.0017241,('EF457760 Trebouxia sp.':0.00480809,('DQ086104 Trebouxia sp.':2.1E-7,('DQ086106 Trebouxia sp.':0.00370171,'EF457758 Trebouxia sp.':0.00790951)[&label=0]:1.1E-7)[&label=0]:0.00372134)[&label=1]:0.01669675)[&label=0]:0.0067894)[&label=1]:0.03249666)[&label=0]:0.00770047)[&label=0]:0.00592273)[&label=0]:1.0E-8,((('JX144652 Trebouxia sp.':0.00774088,'JX144657 Trebouxia sp.':1.5E-7)[&label=1]:0.02971178,('FJ626726 Trebouxia australis':0.00759913,'JX144655 Trebouxia sp.':1.3E-7)[&label=1]:0.00804798)[&label=0]:0.00183191,('JX144656 Trebouxia sp.':0.01590904,'Group 190 Trebouxia sp.[2]':0.0092296)[&label=0]:0.00263097)[&label=1]:0.01053209)[&label=0]:0.0022264)[&label=0]:1.6E-7)[&label=1]:0.03890609)[&label=1]:0.06769522)[&label=1]:0.07459257)[&label=1]:0.04951678)[&label=1]:0.03954047,('JX144654 Trebouxia sp':0.09207683,(('JN204790 Trebouxia sp.':0.01343652,(('JN204731 Trebouxia sp.':0.00180941,'JN204815 Trebouxia sp.':0.00181846)[&label=0]:0.00179841,(('AM159208 Trebouxia sp':0.00153883,(('Group 98 Trebouxia sp.[2]':0.00181209,('AM159205 Trebouxia sp':0.00153145,('AM159204 Trebouxia sp':0.00246751,'JN204763 Trebouxia sp.':1.0E-8)[&label=1]:0.01001857)[&label=0]:0.00155475)[&label=0]:7.0E-8,(('JX036213 Trebouxia sp.':9.0E-8,('JX036227 Trebouxia sp.':9.0E-8,('JN204740 Trebouxia sp.':0.00181224,'JX036231 Trebouxia sp.':1.0E-8)[&label=0]:0.0017069)[&label=0]:0.00170676)[&label=0]:0.00170674,('Group 99 Trebouxia sp.[3]':1.0E-8,(('JN204772 Trebouxia sp.':0.00182441,('Group 107 Trebouxia sp.[2]':0.00170741,('JX036160 Trebouxia sp.':0.00515038,('Group 97 Trebouxia sp.[3]':0.00170811,'JN204823 Trebouxia sp.':0.00181118)[&label=0]:1.0E-7)[&label=0]:0.00171027)[&label=0]:1.0E-7)[&label=0]:1.0E-7,(('JX036180 Trebouxia sp.':0.00170547,('JX036246 Trebouxia sp.':0.00170561,(('AY667580 Trebouxia sp.':1.3E-7,'AJ431580 Trebouxia sp.':0.02558238)[&label=0]:0.00350518,('Group 22 Trebouxia sp.[11] T. decolorans[2]':0.00170551,'JN204757 Trebouxia sp.':0.00181285)[&label=0]:1.0E-7)[&label=0]:1.6E-7)[&label=0]:2.0E-7)[&label=0]:1.5E-7,('Group 108 Trebouxia sp.[2]':0.06449002,('JX036211 Trebouxia sp.':0.00342446,('JN204727 Trebouxia sp.':0.00180866,'JN204828 Trebouxia sp.':0.0036459)[&label=0]:0.00182706)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=0]:0.00351199)[&label=0]:0.00351126)[&label=0]:1.0E-8)[&label=0]:2.4E-7)[&label=0]:7.0E-8)[&label=0]:8.0E-8,('JN204729 Trebouxia sp.':0.00725218,('JN204744 Trebouxia sp.':0.02219529,'JN204818 Trebouxia sp.':1.0E-7)[&label=0]:1.0E-7)[&label=0]:0.00180407)[&label=0]:9.0E-8)[&label=0]:0.0026737)[&label=1]:0.01482626,('AJ969505 Trebouxia sp.':0.01988677,('AM159206 Trebouxia sp':0.00959737,('EF095230 Trebouxia sp.':0.00731034,'EF095231 Trebouxia sp.':0.00253943)[&label=0]:0.00862385)[&label=0]:0.00636465)[&label=0]:0.00538244)[&label=0]:0.0073909)[&label=0]:0.01403455)[&label=1]:0.01532558)[&label=0]:1.74E-6,('DQ166594 Trebouxia sp.':0.02759586,(('DQ166611 Trebouxia sp.':5.2E-7,('JN204747 Trebouxia sp.':0.00922061,('Group 66 Trebouxia sp.[27]':2.9E-7,('JX435366 Uncultured Chlorophyta':1.0E-8,('JN204803 Trebouxia sp.':0.00369514,('JN204822 Trebouxia sp.':0.00182218,'JN204838 Trebouxia sp.':0.00182212)[&label=0]:1.0E-7)[&label=0]:9.0E-8)[&label=0]:1.1E-7)[&label=0]:2.9E-7)[&label=1]:0.02712252)[&label=1]:0.01891834,('DQ166603 Trebouxia sp.':0.00199364,('DQ133477 Trebouxia sp.':0.00500849,'AJ249572 Trebouxia sp.':0.00122696)[&label=0]:9.0E-8)[&label=1]:0.01786984)[&label=0]:0.00666895)[&label=1]:0.01241321)[&label=1]:0.0280521)[&label=0]:1.5E-7)[&label=0]:0.00870307)[&label=1]:0.01233731,(((('Group 18 Trebouxia sp.[2]':0.0066929,('JQ993768 Trebouxia decolorans':0.00582455,('JQ993759 Trebouxia decolorans':9.0E-8,'JQ993777 Trebouxia decolorans':0.00300699)[&label=0]:0.00322086)[&label=1]:0.01662148)[&label=1]1.0]:0.03647268,('AJ969535 Trebouxia sp.':0.06651417,(('AJ969545 Trebouxia decolorans':1.2E-7,('AJ969577 Trebouxia sp.':0.00148363,'AJ969550 Trebouxia sp.':0.00156881)[&label=0]:1.2E-7)[&label=1]:0.01289898,((('Group 21 Trebouxia sp.[9] T. decolorans[1]':1.0E-8,('Group 9 Trebouxia sp.[3] T. decolorans[2]':0.0018803,('FJ705189 Trebouxia decolorans':0.00189113,('Group 11 Trebouxia sp.[21] T. decolorans[2]':0.00187543,'FJ705188 Trebouxia decolorans':0.00187629)[&label=0]:7.0E-8)[&label=0]:7.0E-8)[&label=0]:1.4E-7)[&label=0]:0.00191259,('AJ969514 Trebouxia sp.':0.00481862,('FJ705186 Trebouxia decolorans':1.3E-7,'EU717923 Trebouxia decolorans':0.00231645)[&label=0]:1.6E-7)[&label=0]:0.00317168)[&label=1]:0.01639285,(('EU717921 Trebouxia decolorans':0.00958961,('FJ705177 Trebouxia decolorans':1.3E-7,('Group 10 Trebouxia sp.[19] T. sp[1] T. decolorans[2] T. jamesii[1]':0.0018809,'Group 20 Trebouxia sp.[81] T. decolorans[1]':2.3E-7)[&label=0]:0.00188457)[&label=0]:0.00638887)[&label=1]:0.02872829,(((('FJ705201 Trebouxia decolorans':0.00187873,('Group 14 Trebouxia sp.[38] T. decolorans[2]':0.00188014,'Group 19 Trebouxia sp.[31] T. decolorans[1] T. jamesii[2]':4.0E-8)[&label=0]:4.0E-8)[&label=0]:0.00187973,('Group 12 Trebouxia sp.[15] T. decolorans[2]':1.0E-8,('FJ705200 Trebouxia decolorans':0.00188083,('FJ705203 Trebouxia decolorans':0.00187974,(('AM159210 Trebouxia sp.':0.00451281,('Group 13 Trebouxia sp.[1] T. decolorans[2]':1.0E-8,'FJ705198 Trebouxia decolorans':0.00188008)[&label=0]:0.00188127)[&label=0]:9.0E-8,('FJ705202 Trebouxia decolorans':0.00188254,('FJ705205 Trebouxia decolorans':0.0018811,'FJ705199 Trebouxia decolorans':0.00188041)[&label=0]:1.3E-7)[&label=0]:1.6E-7)[&label=0]:9.0E-8)[&label=0]:7.0E-8)[&label=0]:6.0E-8)[&label=0]:9.0E-8)[&label=0]:0.00149906,('EU717930 Trebouxia decolorans':1.0E-8,('EU717934 Trebouxia decolorans':1.4E-7,('Group 15 Trebouxia decolorans[3]':2.3E-7,('FJ705196 Trebouxia decolorans':0.00188168,('FJ705195 Trebouxia decolorans':0.00188178,'EU717935 Trebouxia decolorans':0.00232638)[&label=0]:2.1E-7)[&label=1]:0.00566255)[&label=1]:0.00378073)[&label=0]:0.00188578)[&label=0]:1.6E-7)[&label=1]:0.00607437,('EU717927 Trebouxia decolorans':0.00232362,('EU717928 Trebouxia decolorans':0.00232554,('AJ969534 Trebouxia sp.':8.0E-8,'EU717929 Trebouxia decolorans':0.00232559)[&label=0]:4.0E-8)[&label=0]:4.0E-8)[&label=1]:0.00601362)[&label=0]:0.00304555)[&label=0]:0.00132113)[&label=0]:0.00410118)[&label=0]:0.00564573)[&label=0]:0.00525302)[&label=0]:0.00378363,(('FJ705190 Trebouxia decolorans':0.01705649,('AF453259 Trebouxia arboricola':1.0E-8,'FJ705191 Trebouxia decolorans':0.00374904)[&label=0]:0.00529944)[&label=1]:0.01732972,((('AJ969588 Trebouxia decolorans':0.00148797,'AJ969590 Trebouxia sp.':1.0E-8)[&label=1]:0.0073593,(('AJ969586 Trebouxia sp.':0.00299765,('AJ969584 Trebouxia sp.':0.00172893,('Group 33 Trebouxia sp.[3]':1.0E-8,('AJ969561 Trebouxia sp.':0.00606636,'AJ969585 Trebouxia sp.':0.00497335)[&label=0]:0.00147695)[&label=0]:1.0E-8)[&label=0]:9.0E-8)[&label=1]:0.00299172,((('AJ969562 Trebouxia decolorans':0.00148266,'AJ969563 Trebouxia sp.':1.0E-8)[&label=0]:0.00148702,('AJ969551 Trebouxia sp.':8.0E-8,'AJ969566 Trebouxia sp.':0.00163872)[&label=0]:0.00151271)[&label=0]:0.00298372,('AJ969541 Trebouxia sp.':0.01303809,'EU717919 Trebouxia decolorans':0.01176999)[&label=0]:0.00208643)[&label=0]:8.0E-8)[&label=0]:0.00174895)[&label=0]1.0]:0.039578,(((('FJ705183 Trebouxia decolorans':2.1E-7,('FJ705184 Trebouxia decolorans':0.00187517,('AJ969513 Trebouxia sp.':1.0E-8,('AJ969580 Trebouxia sp.':0.00756707,'AJ969515 Trebouxia sp.':0.00756997)[&label=0]:0.00142318)[&label=0]:0.00149538)[&label=0]:1.1E-7)[&label=1]:0.01214122,('FJ705180 Trebouxia decolorans':0.00373065,('FJ705178 Trebouxia decolorans':0.00186086,'FJ705179 Trebouxia decolorans':0.00186738)[&label=0]:0.00187837)[&label=0]:0.00563243)[&label=1]:0.01386766,(('JF831920 Trebouxia decolorans':0.00728825,('JF831917 Trebouxia decolorans':0.00167335,('AM159215 Trebouxia sp.':0.00148156,'AJ969506 Trebouxia sp.':0.002967)[&label=0]:1.1E-7)[&label=1]:0.01335038)[&label=0]:0.00634712,('AJ969569 Trebouxia sp.':0.00465924,(('DQ166586 Trebouxia sp.':0.00189839,((('JF831922 Trebouxia decolorans':0.0016785,('AJ969574 Trebouxia sp.':1.0E-8,('Group 30 Trebouxia sp.[2]':1.0E-8,'AJ969547 Trebouxia sp.':0.03250808)[&label=0]:0.00148007)[&label=0]:1.0E-8)[&label=1]:0.00296376,('AJ969549 Trebouxia decolorans':0.00266163,('Group 38 Trebouxia decolorans[5]':5.0E-8,(('DQ166583 Trebouxia sp.':0.00482641,'AJ969507 Trebouxia sp.':0.0041339)[&label=0]:0.00200156,(('AJ969558 Trebouxia decolorans':0.0015026,'AJ969594 Trebouxia decolorans':8.0E-8)[&label=0]:0.00148702,('AJ969593 Trebouxia decolorans':9.0E-8,'AJ969578 Trebouxia sp.':0.00149203)[&label=0]:0.00148346)[&label=0]:2.0E-8)[&label=0]:2.0E-8)[&label=0]:0.00148055)[&label=0]:9.0E-8)[&label=0]:5.0E-8,(('AJ969557 Trebouxia sp.':0.00152794,'AJ969567 Trebouxia sp.':0.00236096)[&label=0]:0.00153802,(('AJ969522 Trebouxia sp.':0.00298546,('AJ293770 Trebouxia sp.':0.00448319,'EU416214 Trebouxia sp.':7.3E-7)[&label=0]:0.0014855)[&label=0]:6.0E-8,(('AF389915 Trebouxia arboricola':3.0E-7,'AF389917 Trebouxia arboricola':0.01295489)[&label=0]:0.00255025,('Group 40 Trebouxia sp.[3] T. arboricola[1] T. decolorans[9]':1.0E-8,('AJ969571 Trebouxia sp.':0.00299611,(('JF831907 Trebouxia decolorans':0.00167701,('AJ969531 Trebouxia sp.':0.00152979,'AJ969511 Trebouxia sp.':0.00932192)[&label=0]:0.0014869)[&label=0]:8.0E-8,(('AJ249482 Trebouxia arboricola':0.00174847,('Group 39 Trebouxia arboricola[1] T. decolorans[5]':1.0E-8,'AJ969556 Trebouxia decolorans':0.00773788)[&label=0]:8.0E-8)[&label=1]:0.00446615,('AJ007387 Trebouxia arboricola':0.00181511,'AJ969544 Trebouxia sp.':0.00602493)[&label=0]:9.0E-8)[&label=0]:8.0E-8)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:7.0E-8)[&label=0]:7.0E-8)[&label=0]:7.0E-8)[&label=1]:0.00295531)[&label=0]:8.0E-8,('AJ249481 Trebouxia arboricola':1.9E-7,'AF389916 Trebouxia arboricola':0.00250557)[&label=1]:0.0062664)[&label=0]:0.00131028)[&label=1]:0.00914721)[&label=0]:0.00407049)[&label=0]:0.00298788,('AM159207 Trebouxia sp.':0.03107604,'AF389914 Trebouxia arboricola':0.03866758)[&label=0]:1.7301E-4)[&label=0]:0.00302778)[&label=0]:0.00313365)[&label=0]:0.00244511)[&label=1]:0.01013897,('AJ969540 Trebouxia sp.':0.0388063,('AM159216 Trebouxia sp.':0.01192534,(((('AJ969519 Trebouxia sp.':0.00279489,(('JF831903 Trebouxia aggregata':0.00156153,('Z68705 Trebouxia arboricola':0.00142155,('AJ969512 Trebouxia sp.':9.0E-8,'AJ969520 Trebouxia sp.':0.00713987)[&label=0]:0.00139399)[&label=0]:7.0E-8)[&label=0]:9.0E-8,('AJ969570 Trebouxia sp.':0.00140319,'Group 17 Trebouxia sp.[5] T. arboricola[1]':8.0E-8)[&label=0]:7.0E-8)[&label=0]:0.00140183)[&label=0]:0.00139413,(('EU551519 Trebouxia sp.':0.00626591,('AJ969606 Trebouxia sp.':0.00279517,('EU551508 Trebouxia sp.':0.00939667,'AJ969611 Trebouxia arboricola':0.00287342)[&label=0]:9.0E-8)[&label=0]:8.0E-8)[&label=1]:0.00843244,('AJ969518 Trebouxia sp.':0.0127603,('AJ969607 Trebouxia sp.':0.00651844,('AJ969521 Trebouxia sp.':0.00284471,'JQ004576 Trebouxia sp.':0.00177884)[&label=0]:9.0E-8)[&label=1]:0.0048362)[&label=0]:0.00140714)[&label=0]:9.0E-8)[&label=1]:0.00669597,('EU551486 Trebouxia sp.':1.68E-6,('EU551488 Trebouxia sp.':0.01467429,'EU551489 Trebouxia sp.':8.9E-7)[&label=0]:0.00342714)[&label=0]:0.01862288)[&label=0]:0.00317817,((('AJ969581 Trebouxia sp.':0.00280515,('AJ969528 Trebouxia sp.':0.00141583,'AJ969530 Trebouxia sp.':0.002805)[&label=0]:0.00137709)[&label=1]:0.00562959,('DQ166587 Trebouxia sp.':0.01538717,('AJ969537 Trebouxia sp.':0.00139225,'AJ969538 Trebouxia sp.':1.1E-7)[&label=1]:0.00703287)[&label=0]:7.0E-8)[&label=0]:0.00139457,((('EU551478 Trebouxia sp.':0.00385023,('EU551517 Trebouxia sp.':0.00453105,('DQ166615 Trebouxia sp.':0.0134071,('EU551490 Trebouxia sp.':2.2E-7,('DQ166617 Trebouxia sp.':0.04027435,'EU551524 Trebouxia sp.':0.0210596)[&label=0]:1.5E-7)[&label=0]:0.00176952)[&label=0]:0.0020378)[&label=0]:2.5E-7)[&label=0]:0.00198241,('AJ969582 Trebouxia sp.':0.00703407,(('JQ993785 Trebouxia arboricola':0.007005,'JQ993786 Trebouxia arboricola':0.01290821)[&label=1]:0.00856153,('Group 16 Trebouxia sp.[2]':8.0E-8,('EU551480 Trebouxia sp.':0.00190737,'DQ166580 Trebouxia sp.':0.00151799)[&label=0]:0.00151771)[&label=0]:0.001516)[&label=0]:9.0E-8)[&label=0]:7.0E-8)[&label=0]:0.00278912,('AY804016 Trebouxia sp.':0.00280955,(('AJ969516 Trebouxia sp.':0.06341841,('AY804017 Trebouxia sp.':0.00283597,('JF831904 Trebouxia crenulata':0.00468451,('AJ969524 Trebouxia sp.':0.01390932,('AJ969529 Trebouxia arboricola':0.00905163,(('AJ969604 Trebouxia sp.':1.0E-8,'AY804019 Trebouxia sp.':0.00984434)[&label=0]:0.00138109,('AJ969542 Trebouxia sp.':0.00647867,('Group 28 Trebouxia sp.[2]':0.00420439,('AJ969564 Trebouxia sp.':0.02255553,('Group 31 Trebouxia sp.[2]':9.0E-8,'FJ028715 clone ISB-20':0.00499942)[&label=0]:9.0E-8)[&label=0]:0.00141095)[&label=0]:0.00280656)[&label=0]:7.0E-8)[&label=0]:7.0034E-4)[&label=0]:7.1477E-4)[&label=0]:8.0E-8)[&label=0]:0.00281489)[&label=0]:0.00140109)[&label=0]:0.00140325,('DQ166584 Trebouxia sp.':0.01114351,(('EU551514 Trebouxia sp.':0.00961936,(('AJ969509 Trebouxia sp.':0.00993237,('AJ969523 Trebouxia sp.':0.00710929,'AJ969552 Trebouxia sp.':0.01746835)[&label=1]:0.00566153)[&label=0]:0.00132606,(('AJ969609 Trebouxia arboricola':0.04139594,'AJ969610 Trebouxia arboricola':0.02455574)[&label=1]:0.02887968,('JQ993794 Trebouxia arboricola':0.01017422,(((('JQ993795 Trebouxia arboricola':0.00573047,('JQ993784 Trebouxia arboricola':7.0E-8,('JQ993787 Trebouxia arboricola':0.00293298,'JQ993796 Trebouxia arboricola':0.00139839)[&label=0]:0.0013979)[&label=0]:7.0E-8)[&label=0]:0.00139312,('JQ993766 Trebouxia arboricola':0.00705936,'JQ993778 Trebouxia arboricola':0.00279515)[&label=0]:0.00139337)[&label=0]:9.0E-8,('JQ993761 Trebouxia arboricola':1.0E-8,'JQ993770 Trebouxia arboricola':0.00989164)[&label=0]:0.00139477)[&label=0]:0.00139451,('Group 23 Trebouxia arboricola[2]':0.00280587,(('AJ969526 Trebouxia sp.':0.04028524,'AJ969568 Trebouxia sp.':0.00288678)[&label=0]:0.00270324,('JQ993788 Trebouxia arboricola':1.0E-7,((('JQ993758 Trebouxia arboricola':0.0069971,('JQ993762 Trebouxia arboricola':0.00139221,'Group 24 Trebouxia arboricola[4]':1.0E-8)[&label=1]:0.00419433)[&label=0]:9.0E-8,((('JQ993797 Trebouxia arboricola':0.0014175,'JQ993798 Trebouxia arboricola':1.1E-7)[&label=1]:0.00421503,('JQ993799 Trebouxia arboricola':0.0013994,'AJ969565 Trebouxia sp.':0.00295501)[&label=0]:8.0E-8)[&label=1]:0.00278982,('Group 26 Trebouxia arboricola[2]':0.00139246,('Group 27 Trebouxia arboricola[4]':1.0E-8,'JQ993792 Trebouxia arboricola':0.00702867)[&label=1]:0.00279204)[&label=0]:1.1E-7)[&label=0]:1.0E-7)[&label=1]:0.00139175,(('JQ993774 Trebouxia arboricola':0.0014034,('Group 25 Trebouxia arboricola[2]':0.00279008,'JQ993781 Trebouxia arboricola':1.0E-7)[&label=1]:0.00562164)[&label=1]:0.00419766,('JQ993775 Trebouxia arboricola':0.00281052,'JQ993776 Trebouxia arboricola':0.00707411)[&label=0]:0.00280809)[&label=0]:7.0E-8)[&label=0]:1.0E-7)[&label=0]:1.0E-7)[&label=0]:7.0E-8)[&label=0]:9.0E-8)[&label=0]:0.00139497)[&label=0]:0.00280984)[&label=0]:8.0E-8)[&label=0]:0.00280055)[&label=0]:0.00138893,('DQ166610 Trebouxia sp.':0.00998294,'AJ969510 Trebouxia sp.':0.01534771)[&label=1]:0.01023215)[&label=0]:8.0E-8)[&label=0]:1.2E-7)[&label=0]:8.0E-8)[&label=0]:0.00139527)[&label=0]:8.0E-8)[&label=0]:0.0014072)[&label=0]:7.9281E-4)[&label=0]:0.00538255)[&label=1]:0.02973837)[&label=1]:0.01494776)[&label=0]:0.01231839)[&label=0]1.0]:0.29063602)[&label=1]:0.02889529,(('JN848816 Trebouxia sp.':0.022955,('EU416223 Trebouxia sp.':5.0E-8,'AY303139 Trebouxia sp.':0.00981967)[&label=0]:0.00420256)[&label=1]:0.0270836,('EU416219 Trebouxia sp.':0.00376109,('EU683444 Trebouxia sp.':0.00305416,('AF242471 Trebouxia sp.':0.0037366,'EU717915 Trebouxia sp.':0.00532175)[&label=0]:3.4E-7)[&label=0]:0.00556729)[&label=1]:0.01137568)[&label=1]:0.01308597)[&label=1]:0.02298577)[&label=1]:0.01593381,(('AJ293785 Trebouxia sp.':0.00186885,'AJ293778 Trebouxia sp.':0.01101676)[&label=0]:0.00186622,(('AF389929 Trebouxia impressa':0.00433882,('AF389932 Trebouxia impressa':0.00237975,('Group 120 Trebouxia sp.[3] T. impressa[3]':1.5E-7,'Group 125 Trebouxia impressa[1]':9.0E-8)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=1]:0.00917515,('DQ166601 Trebouxia sp.':1.4E-7,('DQ166578 Trebouxia sp.':0.00684472,('EU795063 Trebouxia sp.':0.0037279,'EU795082 Trebouxia sp.':2.2E-7)[&label=1]:0.00372782)[&label=0]:1.7E-7)[&label=0]:0.00186191)[&label=0]:1.3E-7)[&label=1]:0.00915451)[&label=0]:2.72E-6,(('AJ293777 Trebouxia sp.':1.3E-7,'Group 115 Trebouxia sp.[2] T. impressa[1] T. flava[1]':0.01093711)[&label=1]:0.01374349,(('AF345891 Trebouxia impressa':1.0E-8,('EU795058 Trebouxia sp.':1.1E-7,('AF345890 Trebouxia impressa':0.00189042,('AJ293776 Trebouxia sp.':0.00386654,(('EU795059 Trebouxia sp.':0.02274986,'AJ969605 Trebouxia sp.':0.00571468)[&label=0]:0.00370373,(('EU795057 Trebouxia sp.':0.00377579,'AF242469 Trebouxia potteri':0.00748621)[&label=0]:1.5E-7,('Group 178 Trebouxia impressa[2] T. sp.[1]':8.0E-8,'HQ026163 Trebouxia sp.':0.01434394)[&label=0]:8.0E-8)[&label=1]:0.00565736)[&label=0]:0.00185269)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:1.1E-7)[&label=1]:0.02497854,('AJ293779 Trebouxia sp.':0.00567697,'Group 154 Trebouxia sp.[2]':0.00183233)[&label=1]:0.00575971)[&label=0]:2.5E-7)[&label=0]:0.00361722)[&label=0]:0.01296426)[&label=1]:0.02397828)[&label=0]:0.00828261)[&label=0]:0.00711298,((('JN204819 Trebouxia impressa':0.0059981,(('JN204778 Trebouxia impressa':0.00902413,'JN204750 Trebouxia impressa':0.00198912)[&label=0]:0.00194407,('Group 142 Trebouxia impressa[1] T. sp.[3]':1.6E-7,('JN204820 Trebouxia impressa':0.00592771,'JN204806 Trebouxia impressa':0.01789118)[&label=0]:1.6E-7)[&label=0]:2.2E-7)[&label=0]:0.00383559)[&label=0]:0.00384464,('JN204759 Trebouxia impressa':0.01196538,(('AF389918 Trebouxia impressa':0.01569307,'AJ293794 Trebouxia sp.':0.00188957)[&label=0]:0.00185724,((('AJ007386 Trebouxia impressa':0.00859493,('AF389920 Trebouxia impressa':0.00206768,('Group 116 Trebouxia sp.[1] T. impressa[4]':2.3E-7,'DQ166581 Trebouxia sp.':0.0453692)[&label=0]:2.3E-7)[&label=0]:2.7E-7)[&label=0]:0.00212227,('JN204834 Trebouxia impressa':9.0E-8,('Group 122 Trebouxia impressa[1] T. sp.3[1]':1.6E-7,('AJ293775 Trebouxia sp.':0.00186666,'AY804021 Trebouxia sp.':0.01328328)[&label=0]:2.1E-7)[&label=1]:0.0074988)[&label=0]:9.0E-8)[&label=1]:0.00562091,(('AJ007384 Trebouxia impressa':0.00213924,('Group 123 Trebouxia impressa[1]':0.00227777,('Group 119 Trebouxia impressa[1]':1.0E-8,('Group 118 Trebouxia sp.[8] T. impressa[4] T. sp.9[1]':1.0E-7,(('AJ007383 Trebouxia impressa':0.00201014,'AF389933 Trebouxia impressa':0.00661304)[&label=0]:2.2E-7,(('EU795079 Trebouxia sp.':0.00186261,(('EU795067 Trebouxia sp.':0.00562425,('EU795069 Trebouxia sp.':0.01214126,'AJ318780 Trebouxia impressa':0.00189162)[&label=0]:1.3E-7)[&label=1]:0.00373861,('EU795053 Trebouxia sp.':0.00448056,'EU795068 Trebouxia sp.':0.00377628)[&label=0]:9.0E-8)[&label=0]:9.0E-8)[&label=0]:1.5E-7,('Group 153 Trebouxia sp.[3]':1.3E-7,('EU795065 Trebouxia sp.':0.00406585,('Group 152 Trebouxia sp.[1]':1.0E-8,'EU795076 Trebouxia sp.':0.00338092)[&label=0]:1.0E-8)[&label=0]:1.0E-8)[&label=1]:0.0018631)[&label=0]:1.7E-7)[&label=0]:2.2E-7)[&label=0]:1.66E-6)[&label=0]:0.00183182)[&label=0]:0.00193416)[&label=1]:0.02444969,('DQ166596 Trebouxia sp.':0.00642837,'DQ166592 Trebouxia sp.':0.00425202)[&label=1]:0.01332124)[&label=0]:0.00156443)[&label=0]:1.5E-7)[&label=0]:0.00192637)[&label=0]:1.4E-7)[&label=0]:0.00385269,('DQ166597 Trebouxia sp.':0.01277166,('EU717916 Trebouxia sp.':0.00533708,'EU717917 Trebouxia sp.':1.6E-7)[&label=0]:0.00496825)[&label=0]:0.00282825)[&label=0]:0.00190847)[&label=0]:0.00819879)[&label=0]:0.00150203)[&label=1]:0.04074292)[&label=1]:0.05660961)[&label=1]:0.03117195)[&label=0]:0.00770876);
+	tree tree_1 = [&R] ('AM159212 Trebouxia sp.':1.0E-8,'AM159211 Trebouxia sp.':0.00161043,('AM159502 Trebouxia sp.':0.01237843,((('AM159214 Trebouxia sp.':8.0E-8,('EU717918 Trebouxia gelatinosa':1.0E-8,('AJ969532 Trebouxia sp.':1.0E-8,'AJ249575 Trebouxia gelatinosa':1.5E-7)[&label=0.842]:0.00188768)[&label=0.909]:0.00378305)[&label=0.651]:0.00323519,('FJ792802 Trebouxia sp.1':0.004363,(('AJ293787 Trebouxia sp.':0.00382136,('Z68697 Trebouxia gelatinosa':0.00795981,('AJ969579 Trebouxia sp.':0.00187775,'Group 124 Trebouxia gelatinosa[2]':0.01113688)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.967]:0.00933761,(('AM159213 Trebouxia sp.':0.00795459,('Z68698 Trebouxia gelatinosa':0.00939966,'FJ626730 Trebouxia gelatinosa':0.00863975)[&label=0.94]:0.00961366)[&label=0.831]:0.0035623,('JQ004570 Trebouxia gelatinosa':1.0E-8,('JQ004569 Trebouxia gelatinosa':0.00194467,('JQ004553 Trebouxia gelatinosa':1.3E-7,'Group 185 Trebouxia sp.[1] T. gelatinosa[2]':1.0E-8)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8)[&label=0.946]:0.00786334)[&label=0.817]:0.00343042)[&label=0.764]:0.05090501)[&label=0.0]:3.69E-6)[&label=0.954]:0.01767531,(('EU717912 Trebouxia sp.':0.00561047,('EU717913 Trebouxia sp.':0.00266273,'EU717914 Trebouxia sp.':3.0E-7)[&label=0.924]:0.01349227)[&label=0.974]:0.02707596,(('AM159203 Trebouxia sp.':0.00156345,('AJ969533 Trebouxia sp.':1.0E-8,('AY703899 Trebouxia sp.':0.03137643,'Group 140 Trebouxia sp.[2]':8.0E-8)[&label=0.797]:0.00209813)[&label=0.884]:0.0042725)[&label=0.931]:0.00707059,('AM159209 Trebouxia sp.':0.00143084,((('AJ969525 Trebouxia sp.':0.01320867,'AF389919 Trebouxia impressa':0.0104223)[&label=0.0]:1.0E-7,(('JN204753 Trebouxia impressa':0.00822065,('FJ792798 Trebouxia sp.':0.00319551,'EU795060 Trebouxia sp.':0.01884741)[&label=0.867]:0.00405433)[&label=0.708]:0.00133158,(('EU683442 Trebouxia sp.':0.02348695,('EU795061 Trebouxia sp.':0.0089398,'EU416222 Trebouxia sp.':0.0380898)[&label=0.0]:0.00654549)[&label=0.914]:0.01385217,(((('JN204836 Trebouxia impressa':0.01134053,'JQ004579 Trebouxia sp.':0.01509804)[&label=0.8]:0.0061876,(((('Group 176 Trebouxia sp.[4]':0.0062802,('Group 175 Trebouxia sp.[1]':0.00640982,('HQ026223 Trebouxia sp.':0.00666727,'HQ026226 Trebouxia sp.':0.02331788)[&label=0.942]:0.01516451)[&label=0.819]:0.00862567)[&label=1.0]:0.05634708,('EU795064 Trebouxia sp.':0.00318458,('EU416221 Trebouxia sp.':0.02571478,'Group 70 Trebouxia sp.[2]':0.01015538)[&label=0.796]:0.00298944)[&label=0.566]:0.00455975)[&label=0.556]:0.00483637,((('EU551502 Trebouxia sp.':0.00689288,('DQ166606 Trebouxia sp.':0.00762998,('EU551501 Trebouxia sp.':1.2E-7,('EU551498 Trebouxia sp.':1.6E-7,((('Group 8 Trebouxia sp.[12] T. decolorans[4]':0.0016955,((('EU551475 Trebouxia sp.':0.00218009,('EU551509 Trebouxia sp.':0.02417977,'EU551476 Trebouxia sp.':0.00435682)[&label=0.0]:2.2E-7)[&label=0.0]:1.6E-7,('EU551532 Trebouxia sp.':0.01543456,('EU551510 Trebouxia sp.':0.00533517,'DQ166608 Trebouxia sp.':0.01756708)[&label=0.758]:0.00333685)[&label=0.747]:0.00296957)[&label=0.0]:2.4E-7,(('EU551537 Trebouxia sp.':0.01621135,('AJ293780 Trebouxia sp.':0.00153355,('DQ166605 Trebouxia sp.':0.0842348,'AJ293781 Trebouxia sp.':1.0E-8)[&label=0.0]:1.0E-8)[&label=0.0]:0.01147816)[&label=0.0]:3.648E-5,('EU551520 Trebouxia sp.':0.0270882,'EU551481 Trebouxia sp.':0.00372922)[&label=0.937]:0.01169415)[&label=0.0]:9.0E-8)[&label=0.0]:8.0E-8)[&label=0.843]:0.00162049,('EU551507 Trebouxia sp.':1.7E-7,'EU551535 Trebouxia sp.':0.0296879)[&label=0.45]:0.00217112)[&label=0.0]:1.2E-7,('Group 65 Trebouxia sp.[4]':0.00132553,('HQ667310 Trebouxia sp.':0.00739995,((('JN980141 Trebouxia sp.':0.00197909,(('EU551511 Trebouxia sp.':0.0051271,('DQ166616 Trebouxia sp.':0.02955229,'JF414659 Trebouxia sp.':0.00635104)[&label=0.557]:0.02931623)[&label=0.0]:5.7E-7,('Group 75 Trebouxia sp.[2]':2.2E-7,'EU551538 Trebouxia sp.':0.00236743)[&label=0.89]:0.00221532)[&label=0.0]:5.7E-7)[&label=0.0]:1.5E-7,('Group 102 Trebouxia sp.[2]':0.00600992,'Group 95 Trebouxia sp.[2]':4.6E-7)[&label=0.851]:0.00599922)[&label=0.0]:1.0E-8,('JN980142 Trebouxia sp.':1.0E-8,'DQ166585 Trebouxia sp.':0.0020319)[&label=0.0]:1.0E-8)[&label=0.76]:0.00241007)[&label=0.748]:0.00386876)[&label=0.0]:0.00159691)[&label=0.912]:0.00443357)[&label=0.991]:0.01566226)[&label=0.979]:0.01534768)[&label=0.814]:0.00468468)[&label=0.97]:0.01535363,(('EU551522 Trebouxia sp.':0.00543401,('JN980148 Trebouxia sp.':0.00198294,('Group 103 Trebouxia sp.[2]':0.00197673,'JN980150 Trebouxia sp.':0.0019777)[&label=0.0]:2.1E-7)[&label=0.879]:0.00888936)[&label=1.0]:0.06457068,('EF432561 Trebouxia sp.':0.02023129,(('Group 76 Trebouxia sp.[3]':2.1E-7,(('HQ026154 Trebouxia sp.':0.00584372,'HQ026213 Trebouxia sp.':0.01210287)[&label=0.784]:0.00599831,(('HQ026166 Trebouxia sp.':0.01771881,('HQ026197 Trebouxia sp.':1.7E-7,('Group 80 Trebouxia sp.[21]':0.02679977,(('Group 83 Trebouxia sp.[2]':0.01865151,('Group 85 Trebouxia sp.[2]':1.8E-7,'HQ026159 Trebouxia sp.':0.01755382)[&label=0.763]:0.00531746)[&label=0.897]:0.00972066,('HQ026185 Trebouxia sp.':0.00192757,(('HQ026218 Trebouxia sp.':4.6135E-4,('Group 87 Trebouxia sp.[13]':9.0E-8,('HQ026152 Trebouxia sp.':0.00200752,('Group 89 Trebouxia sp.[3]':9.0E-8,('HQ026179 Trebouxia sp.':0.00171856,'HQ026168 Trebouxia sp.':0.01500947)[&label=0.0]:0.00172887)[&label=0.843]:0.00169793)[&label=0.0]:1.0E-7)[&label=0.94]:0.00912249)[&label=0.541]:0.00633603,('HQ026151 Trebouxia sp.':9.2E-7,('Group 79 Trebouxia sp.[3]':4.36E-5,('HQ026224 Trebouxia sp.':0.01735209,'HQ026227 Trebouxia sp.':0.00262133)[&label=0.98]:0.01494729)[&label=0.0]:0.01085341)[&label=0.992]:0.01142328)[&label=0.832]:0.01205817)[&label=0.0]:1.16E-6)[&label=0.682]:0.00147165)[&label=0.701]:0.00394315)[&label=0.754]:0.00517334)[&label=0.914]:0.01131473,('HQ026167 Trebouxia sp.':0.01337089,'HQ026184 Trebouxia sp.':0.01946558)[&label=0.0]:3.9E-7)[&label=0.255]:0.00615819)[&label=0.94]:0.01397023)[&label=0.999]:0.04319135,('JQ004566 Trebouxia sp.':0.00876523,('JQ004555 Trebouxia sp.':0.00171708,('Group 105 Trebouxia sp.[3]':2.0E-7,'Group 106 Trebouxia sp.[3]':0.0017483)[&label=0.392]:0.00178457)[&label=0.926]:0.00906998)[&label=0.998]:0.03310581)[&label=0.984]:0.02494787)[&label=0.781]:0.00407126)[&label=0.689]:0.00418912)[&label=0.72]:0.00635121,((('Group 60 Trebouxia sp.[6]':0.03922443,(('JQ993772 Trebouxia gigantea':0.02034864,'Group 52 Trebouxia gigantea[2]':8.0E-8)[&label=0.974]:0.00612024,(('AJ249577 Trebouxia gigantea':0.00152806,('AJ293790 Trebouxia sp.':0.00152887,'AF242468 Trebouxia gigantea':8.0E-8)[&label=0.0]:8.0E-8)[&label=0.917]:0.00305043,('AY703898 Trebouxia sp.':8.0E-8,('AY703900 Trebouxia sp.':0.00153032,('DQ133478 Trebouxia sp.':8.0E-8,'JQ359768 Trebouxia gigantea':0.01033359)[&label=0.91]:0.00305352)[&label=0.0]:8.0E-8)[&label=0.954]:0.00460622)[&label=0.0]:8.0E-8)[&label=0.976]:0.01748967)[&label=0.973]:0.01995401,((('Group 61 Trebouxia sp.[13]':3.0E-8,(('DQ133501 Trebouxia sp.':0.00155571,(('Group 58 Trebouxia sp.[2]':1.0E-8,('AY703906 Trebouxia sp.':0.00166442,('EU416215 Trebouxia sp.':0.0017281,'JN204760 Trebouxia sp.':0.00183047)[&label=0.0]:1.1E-7)[&label=0.0]:1.1E-7)[&label=0.916]:0.00165873,('HM064495 Trebouxia sp.':0.00805688,'DQ133500 Trebouxia sp.':0.00155577)[&label=0.0]:8.0E-8)[&label=0.0]:1.0E-7)[&label=0.0]:5.0E-8,('AY703905 Trebouxia sp.':0.00155954,('Group 77 Trebouxia sp.[6]':1.0E-8,'GU339210 Trebouxia sp.':0.00186287)[&label=0.927]:0.00563259)[&label=0.0]:1.5E-7)[&label=0.0]:3.0E-8)[&label=0.985]:0.01205781,((('Group 42 Trebouxia sp.[1] T. asymmetrica[1]':1.0E-8,('AF345889 Trebouxia asymmetrica':0.01066805,('Group 41 Trebouxia asymmetrica[3]':0.00344656,'Group 43 Trebouxia sp.[2] T. asymmetrica[1]':0.00311856)[&label=0.775]:0.00153902)[&label=0.0]:1.1E-7)[&label=0.999]:0.02505051,('JN204764 Trebouxia sp.':0.00223579,'JN204775 Trebouxia sp.':0.00545135)[&label=0.964]:0.01202367)[&label=0.414]:0.00173602,('DQ133499 Trebouxia sp.':0.01642821,'DQ133497 Trebouxia sp.':0.02759294)[&label=0.368]:0.00338959)[&label=0.848]:0.00460016)[&label=0.942]:0.00821673,(('AJ431583 Trebouxia sp.':0.01881558,('Group 68 Trebouxia sp.[3]':2.7E-7,('EF095232 Trebouxia sp.':0.00239924,'EF095233 Trebouxia sp.':0.00493889)[&label=0.0]:2.6E-7)[&label=0.911]:0.00743208)[&label=1.0]:0.03539167,((((('JQ004552 Trebouxia sp.':0.0017587,'JQ004596 Trebouxia sp.':1.0E-8)[&label=0.992]:0.02759238,('Group 53 Trebouxia sp.[1] T. incrustata[1]':8.0E-8,('DQ133496 Trebouxia sp.':0.02188424,('Group 55 Trebouxia sp.[1] T. incrustata[1]':0.00467774,('Group 54 Trebouxia sp.[10] T. incrustata[3]':0.0053373,('DQ133488 Trebouxia sp.':0.00155248,('DQ133502 Trebouxia sp.':0.00155612,('DQ133474 Trebouxia sp.':0.00155073,('DQ166602 Trebouxia sp.':1.0E-8,('DQ166588 Trebouxia sp.':0.01014752,'DQ166590 Trebouxia sp.':0.00587961)[&label=0.0]:1.0E-7)[&label=0.848]:0.0016625)[&label=0.0]:1.2E-7)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7)[&label=0.0]:1.9E-7)[&label=0.778]:0.00179537)[&label=0.813]:0.01011139)[&label=1.0]:0.06492582,('Group 57 Trebouxia showmanii[2]':0.00945658,'JQ004597 Trebouxia sp.':0.02361015)[&label=0.997]:0.03685558)[&label=0.928]:0.01709459,((('FJ792800 Trebouxia sp.':0.01502052,'JQ004598 Trebouxia sp.':0.04246648)[&label=1.0]:0.08098748,(('AJ293792 Trebouxia sp.':0.05549394,((('Group 4 Trebouxia sp.[6]':1.0E-8,('AY842263 Trebouxia sp.':0.00178681,'AB573857 Trebouxia sp.':0.00178262)[&label=0.0]:1.2E-7)[&label=1.0]:0.08211872,('AJ249566 Trebouxia corticola':0.00176539,'AJ249573 Trebouxia usneae':0.00329203)[&label=1.0]:0.04716881)[&label=0.934]:0.02179946,(('AB573846 Trebouxia corticola':8.0E-8,((('AB573844 Trebouxia corticola':0.0017701,('Group 2 Trebouxia corticola[10]':7.0E-8,('AB627369 Trebouxia corticola':0.0071836,'AB627373 Trebouxia corticola':0.00356546)[&label=0.8]:0.00176867)[&label=0.0]:1.1E-7)[&label=0.0]:9.0E-8,('AB583690 Trebouxia corticola':0.00177063,'AB627366 Trebouxia corticola':0.001771)[&label=0.0]:1.2E-7)[&label=0.0]:7.0E-8,('AB573843 Trebouxia corticola':0.00532491,((('AB573827 Trebouxia corticola':0.00177004,((('AB627385 Trebouxia corticola':0.00358337,(('AB573848 Trebouxia corticola':0.00177113,'AB177822 Trebouxia corticola':0.00177904)[&label=0.0]:3.0E-8,('AB627389 Trebouxia corticola':0.00178385,('AB573828 Trebouxia corticola':0.00177,('Group 47 Trebouxia corticola[2]':0.00177025,('AB573840 Trebouxia corticola':0.00178021,'AB573841 Trebouxia corticola':0.00177238)[&label=0.806]:0.0017705)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:1.0E-7)[&label=0.0]:3.0E-8)[&label=0.0]:7.0E-8,(('AB177833 Trebouxia corticola':0.00176991,('AB573839 Trebouxia corticola':0.00532567,('Group 6 Trebouxia sp.[2] T. corticola[2]':0.00177262,('AB177817 Trebouxia corticola':0.00177888,'AB573822 Trebouxia corticola':0.00176997)[&label=0.0]:7.0E-8)[&label=0.0]:7.0E-8)[&label=0.0]:1.0E-7)[&label=0.0]:1.2E-7,('AB573842 Trebouxia corticola':0.00354473,('AB573816 Trebouxia corticola':1.0E-8,'AB573817 Trebouxia corticola':0.00177114)[&label=0.845]:0.00177115)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7)[&label=0.0]:5.0E-8,(('AB573826 Trebouxia corticola':0.00177023,((((('AB627429 Trebouxia corticola':0.00177068,('AB627408 Trebouxia corticola':0.00354233,'Group 3 Trebouxia sp.[4] T. arboricola[1] T. decolorans[4] T. corticola[5] Ramalina fraxinea[1]':1.0E-8)[&label=0.857]:0.00177361)[&label=0.0]:1.0E-7,(('AB627421 Trebouxia corticola':0.00177026,('AB573850 Trebouxia corticola':0.00354596,'AB573849 Trebouxia corticola':0.00354701)[&label=0.0]:1.1E-7)[&label=0.857]:0.00177034,('AB177818 Trebouxia corticola':0.00177905,'Group 45 Trebouxia corticola[3]':1.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:1.1E-7)[&label=0.0]:1.0E-7,(((('AB177824 Trebouxia corticola':0.00198306,('Group 44 Trebouxia corticola[3]':1.0E-8,'AB177820 Trebouxia corticola':0.0017787)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7,('AB573854 Trebouxia corticola':9.0E-8,'AB627419 Trebouxia corticola':0.00354478)[&label=0.383]:0.00176969)[&label=0.88]:0.00176325,('AB177827 Trebouxia corticola':0.00177915,'AB177828 Trebouxia corticola':1.0E-8)[&label=0.91]:0.00178358)[&label=0.0]:1.0E-7,('AB573856 Trebouxia corticola':0.00177121,'AB627417 Trebouxia corticola':0.00176946)[&label=0.0]:1.2E-7)[&label=0.0]:1.1E-7)[&label=0.92]:0.00176303,(('AB573829 Trebouxia corticola':0.00177257,'AB627400 Trebouxia corticola':0.0017699)[&label=0.0]:1.0E-7,('AB573824 Trebouxia corticola':0.00177,((('AB627416 Trebouxia corticola':0.0035649,('AB627392 Trebouxia corticola':0.00178751,('AB627410 Trebouxia corticola':1.0E-8,'AB627418 Trebouxia corticola':0.00177894)[&label=0.0]:8.0E-8)[&label=0.0]:8.0E-8)[&label=0.445]:0.00178241,('AB627387 Trebouxia corticola':0.00354704,('Group 7 Trebouxia sp.[3] T. corticola[2]':0.00940867,('AB630328 Trebouxia corticola':0.00357026,('AB627382 Trebouxia corticola':1.0E-8,'Group 50 Trebouxia corticola[2]':0.00180026)[&label=0.964]:0.00544207)[&label=0.0]:8.0E-8)[&label=0.0]:9.2805E-4)[&label=0.0]:9.2341E-4)[&label=0.0]:2.0E-8,(('AB627391 Trebouxia corticola':0.00354762,'Group 1 Trebouxia sp.[2] T. arboricola[1] T. decolorans[4] T. corticola[30]':9.0E-8)[&label=0.0]:1.1E-7,('AB627428 Trebouxia corticola':0.00178389,'AB627386 Trebouxia corticola':0.00677737)[&label=0.803]:0.00221369)[&label=0.0]:2.0E-8)[&label=0.869]:0.00177445)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:1.1E-7,('AB573847 Trebouxia corticola':1.0E-7,'AY842270 Trebouxia sp':0.01245407)[&label=0.816]:0.00175399)[&label=0.0]:1.1E-7)[&label=0.0]:9.0E-8,('AB573825 Trebouxia corticola':0.00176993,'AB573823 Trebouxia corticola':0.00354826)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8)[&label=0.0]:1.2E-7)[&label=0.733]:0.00175127,('Group 5 Trebouxia sp.[2] T. corticola[2]':0.0029677,'AB627390 Trebouxia corticola':0.01439022)[&label=0.539]:0.00641424)[&label=0.0]:2.6E-7,(('AB627378 Trebouxia corticola':0.00178059,('AB627379 Trebouxia corticola':0.0017699,('AB627374 Trebouxia corticola':1.0E-8,((('AB627384 Trebouxia corticola':0.00536408,'AB627399 Trebouxia corticola':0.0017742)[&label=0.77]:0.00177245,('AB627423 Trebouxia corticola':0.00177036,('Group 49 Trebouxia corticola[2]':0.00179187,'AB627422 Trebouxia corticola':0.00177452)[&label=0.8]:0.00177242)[&label=0.0]:1.2E-7)[&label=0.0]:1.2E-7,('AB627397 Trebouxia corticola':0.00177014,('Group 48 Trebouxia corticola[3]':1.0E-8,'AB627401 Trebouxia corticola':0.00177034)[&label=0.0]:1.0E-8)[&label=0.0]:9.0E-8)[&label=0.916]:0.00177411)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8)[&label=0.843]:0.00177405,('AB627375 Trebouxia corticola':0.0017721,'AB627372 Trebouxia corticola':9.0E-8)[&label=0.0]:9.0E-8)[&label=0.859]:0.00177489)[&label=0.0]:1.1E-7)[&label=0.0]:7.0E-8)[&label=0.826]:0.0017474)[&label=0.984]:0.02077101,(AB177834:0.02406792,('AY842269 Trebouxia sp.':0.01535759,'AY842268 Trebouxia sp.':0.0127246)[&label=0.927]:0.01621401)[&label=0.997]:0.0460291)[&label=0.438]:0.00725444)[&label=0.784]:0.00922549)[&label=1.0]:0.10107938,(('AF242465 Trebouxia jamesii letharii sp. 6':1.7E-7,('Group 159 Trebouxia jamesii[2]':0.00210467,(('FJ170505 Trebouxia jamesii':0.00209795,'FJ170699 Trebouxia jamesii':2.1E-7)[&label=0.848]:0.00209103,((('FJ170642 Trebouxia jamesii':0.00209418,((('FJ170576 Trebouxia jamesii':0.0020916,'FJ170551 Trebouxia jamesii':1.4E-7)[&label=0.0]:2.4E-7,('FJ170602 Trebouxia jamesii':0.00209026,('FJ170553 Trebouxia jamesii':0.00209683,('Group 162 Trebouxia jamesii[2]':0.00209056,'FJ170517 Trebouxia jamesii':1.0E-7)[&label=0.0]:1.0E-7)[&label=0.846]:0.00209037)[&label=0.0]:2.5E-7)[&label=0.926]:0.0020913,(('FJ170588 Trebouxia jamesii':0.00209325,'FJ170587 Trebouxia jamesii':0.00629803)[&label=0.0]:3.0E-8,(('FJ170507 Trebouxia jamesii':0.00209128,'FJ170582 Trebouxia jamesii':0.00209837)[&label=0.0]:1.0E-8,(('Group 157 Trebouxia jamesii[3]':1.0E-8,(('Group 161 Trebouxia jamesii[1]':0.00209196,'FJ170634 Trebouxia jamesii':0.00209466)[&label=0.0]:5.0E-8,(('Group 158 Trebouxia jamesii[2]':1.6E-7,'Group 163 Trebouxia jamesii[2]':0.00209216)[&label=0.864]:0.00209561,('FJ170700 Trebouxia jamesii':0.00209111,('Group 160 Trebouxia jamesii[2]':1.6E-7,'FJ170554 Trebouxia jamesii':0.00209135)[&label=0.0]:1.3E-7)[&label=0.0]:1.1E-7)[&label=0.0]:5.0E-8)[&label=0.0]:2.5E-7)[&label=0.928]:0.00209281,('FJ170589 Trebouxia jamesii':0.00419008,('FJ170542 Trebouxia jamesii':0.00209371,'FJ170500 Trebouxia jamesii':1.1E-7)[&label=0.0]:1.1E-7)[&label=0.0]:1.7E-7)[&label=0.0]:3.0E-8)[&label=0.0]:1.6E-7)[&label=0.0]:1.4E-7)[&label=0.0]:1.3E-7)[&label=0.0]:1.7E-7,(('FJ170522 Trebouxia jamesii':0.00209301,'FJ170509 Trebouxia jamesii':0.0020921)[&label=0.0]:4.0E-8,(('FJ170476 Trebouxia jamesii':1.9E-7,('FJ170547 Trebouxia jamesii':1.0E-8,'FJ170661 Trebouxia jamesii':1.0E-8)[&label=0.919]:0.002092)[&label=0.0]:9.0E-8,('Group 113 Trebouxia jamesii letharii sp. 1[1] T. jamesii[2]':1.5E-7,('FJ170689 Trebouxia jamesii':0.00209254,'FJ170663 Trebouxia jamesii':0.00209733)[&label=0.0]:2.6E-7)[&label=0.938]:0.00189903)[&label=0.0]:4.0E-8)[&label=0.902]:0.00189925)[&label=0.0]:1.6E-7,('FJ170506 Trebouxia jamesii':0.0020909,('Group 114 Trebouxia jamesii letharii sp. 2[1] T. jamesii[1]':1.4E-7,(('FJ170687 Trebouxia jamesii':0.00210246,('FJ170485 Trebouxia jamesii':0.00209906,(('AF242462 Trebouxia jamesii letharii sp. 3':0.00572719,('FJ170493 Trebouxia jamesii':2.6E-7,'FJ170599 Trebouxia jamesii':0.00209645)[&label=0.831]:0.00209525)[&label=0.0]:1.0E-8,('Group 155 Trebouxia jamesii[5]':1.0E-8,('FJ170473 Trebouxia jamesii':0.00209692,(('FJ170479 Trebouxia jamesii':0.00209608,('FJ170604 Trebouxia jamesii':0.0020971,('FJ170482 Trebouxia jamesii':1.0E-8,('FJ170581 Trebouxia jamesii':0.00209585,'FJ170669 Trebouxia jamesii':0.0020969)[&label=0.0]:1.7E-7)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8)[&label=0.923]:0.00419936,('FJ170470 Trebouxia jamesii':0.00209546,('FJ170512 Trebouxia jamesii':0.0020963,('Group 156 Trebouxia jamesii[2]':0.00424291,'FJ170672 Trebouxia jamesii':0.00209616)[&label=0.0]:1.5E-7)[&label=0.0]:1.7E-7)[&label=0.0]:1.3E-7)[&label=0.0]:1.5E-7)[&label=0.0]:1.0E-8)[&label=0.0]:1.3E-7)[&label=0.0]:1.0E-8)[&label=0.0]:2.0E-8)[&label=0.836]:0.00190239,('FJ170535 Trebouxia jamesii':1.5E-7,(('FJ170529 Trebouxia jamesii':1.0E-8,('FJ170566 Trebouxia jamesii':0.00209785,'FJ170568 Trebouxia jamesii':0.00209587)[&label=0.0]:1.5E-7)[&label=0.988]:0.01275995,('FJ170531 Trebouxia jamesii':3.0E-8,('AF242463 Trebouxia jamesii letharii sp. 4':0.00380791,('FJ170679 Trebouxia jamesii':0.00209087,('AF242464 Trebouxia jamesii letharii sp. 5':0.00189813,'FJ170569 Trebouxia jamesii':0.00420626)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:2.4E-7)[&label=0.0]:1.4E-7)[&label=0.802]:0.00189823)[&label=0.0]:1.3E-7)[&label=0.909]:0.00190332)[&label=0.885]:0.00189889)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.765]:0.00189232)[&label=0.961]:0.01349755)[&label=0.996]:0.06424288,((('Group 181 Trebouxia sp.[1] T. jamesii[1]':0.01058934,(('EU416218 Trebouxia sp.':0.00183471,'AF242458 Trebouxia jamesii':8.0E-8)[&label=0.785]:0.00182277,(('Group 143 Trebouxia sp.[4] T. sp.a[1]':8.0E-8,('Group 145 Trebouxia sp.[1]':0.01169033,('Group 144 Trebouxia sp.[1]':0.00319776,'EU416224 Trebouxia sp.':0.00157897)[&label=0.948]:0.01397398)[&label=0.904]:0.01094137)[&label=0.852]:0.00798511,(('Group 177 Trebouxia sp.[2]':0.00431601,('Group 151 Trebouxia sp.[3]':0.00188267,('Group 128 Trebouxia sp.[2] T. jamesii[1]':1.0E-7,('AJ511351 Trebouxia jamesii':0.00182523,('AJ511353 Trebouxia jamesii':0.00188894,'AJ511350 Trebouxia jamesii':0.00365611)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7)[&label=0.856]:0.00182628)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8,('JX474358 Trebouxia sp.':0.00305202,('EF457777 Trebouxia sp.':0.00183061,'AF242466 Trebouxia jamesii':0.00368073)[&label=0.0]:0.00105183)[&label=0.0]:7.8023E-4)[&label=0.0]:8.0E-8)[&label=0.804]:0.0057698)[&label=0.624]:0.00339016)[&label=0.904]:0.02230302,('Group 188 Trebouxia jamesii[2]':1.0E-7,(('JQ004633 Trebouxia jamesii':0.01902924,(('JX474340 Trebouxia sp.':1.6E-7,('AJ249571 Trebouxia jamesii':0.00344524,((('Group 182 Trebouxia sp.[3] T. jamesii[5]':1.5E-7,'JQ004539 Trebouxia jamesii':0.00189324)[&label=0.0]:1.6E-7,('JQ004608 Trebouxia jamesii':0.0018967,'JQ004582 Trebouxia jamesii':0.00952029)[&label=0.0]:2.6E-7)[&label=0.954]:0.00759879,('JQ004622 Trebouxia jamesii':0.00946286,('JQ004637 Trebouxia jamesii':0.00187859,(('JQ004632 Trebouxia jamesii':0.00406105,'Group 187 Trebouxia jamesii[2]':1.0E-7)[&label=0.82]:0.00182519,('Group 180 Trebouxia sp.[3] T. jamesii[3]':2.0E-7,('HQ026229 Trebouxia sp.':0.00635634,('JQ004625 Trebouxia jamesii':1.0E-8,'JQ031784 Trebouxia jamesii':0.01088499)[&label=0.0]:1.0E-8)[&label=0.823]:0.00188314)[&label=0.0]:1.7E-7)[&label=0.835]:0.00182501)[&label=0.0]:8.0E-8)[&label=0.907]:0.00366643)[&label=0.766]:0.00182799)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7,('EF457770 Trebouxia sp.':0.00305763,'JX474346 Trebouxia sp.':6.27E-6)[&label=0.514]:0.0030447)[&label=0.9]:0.01302963)[&label=0.0]:3.0E-8,('EF457773 Trebouxia sp.-87':1.0E-7,('Group 129 Trebouxia sp.[2] T. simplex[2] T. jamesii[1]':0.00185196,('Group 179 Trebouxia sp.[3]':2.5E-7,('Group 146 Trebouxia sp.-265[1]':1.0E-7,'Group 141 Trebouxia sp.[2]':0.01304822)[&label=0.0]:1.0E-7)[&label=0.848]:0.00182446)[&label=0.0]:9.0E-8)[&label=0.926]:0.00182538)[&label=0.0]:3.0E-8)[&label=0.81]:0.00950338)[&label=0.994]:0.04458386,('JX144651 Trebouxia sp.':0.02754161,((('FJ170755 Trebouxia jamesii':1.3E-7,('FJ170756 Trebouxia jamesii':0.00209212,(('Group 165 Trebouxia jamesii[1]':0.00209387,(('Group 111 Trebouxia sp.[1] T. jamesii vulpinae [1] T. jamesii[3]':3.0E-8,'FJ170750 Trebouxia jamesii':0.00208676)[&label=0.0]:2.0E-8,('GQ375338 Trebouxia jamesii':0.00208126,('DQ166612 Trebouxia sp.':0.00600756,('GQ375339 Trebouxia jamesii':1.0E-8,'GQ375340 Trebouxia jamesii':0.00208005)[&label=0.808]:0.00208128)[&label=0.0]:5.9E-7)[&label=0.0]:5.8E-7)[&label=0.0]:2.0E-8)[&label=0.0]:1.2E-7,('FJ170746 Trebouxia jamesii':0.00208676,('FJ170740 Trebouxia jamesii':0.00209209,'FJ170747 Trebouxia jamesii':0.00419458)[&label=0.0]:2.1E-7)[&label=0.0]:1.6E-7)[&label=0.0]:9.0E-8)[&label=0.814]:0.00182424)[&label=0.991]:0.01316653,(('GQ375341 Trebouxia jamesii':0.01057871,('AF453265 Trebouxia simplex':1.0E-7,('DQ166591 Trebouxia sp.':0.00851447,(('Group 164 Trebouxia jamesii[2]':0.00209687,'Group 130 Trebouxia jamesii[2]':6.0E-8)[&label=0.0]:6.0E-8,('FJ170737 Trebouxia jamesii':0.00208963,('FJ170739 Trebouxia jamesii':0.00419568,('FJ170734 Trebouxia jamesii':0.00208897,'Group 166 Trebouxia jamesii[2]':0.00377704)[&label=0.0]:2.1E-7)[&label=0.0]:2.1E-7)[&label=0.0]:2.0E-7)[&label=0.733]:0.0035745)[&label=0.97]:0.01536406)[&label=0.781]:0.00183832)[&label=0.761]:0.00244758,('JQ314486 Trebouxia jamesii':0.00259629,'JQ314487 Trebouxia jamesii':1.0E-8)[&label=0.777]:0.00261154)[&label=0.857]:0.00491822)[&label=0.94]:0.00739906,((((('JX474331 Trebouxia sp.':0.00311047,(('AJ511356 Trebouxia jamesii':0.0257897,(('GQ375331 Trebouxia jamesii':1.0E-8,('GQ375332 Trebouxia jamesii':1.6E-7,'GQ375330 Trebouxia jamesii':0.00417079)[&label=0.914]:0.00417217)[&label=0.0]:1.0E-8,('GQ375327 Trebouxia jamesii':0.00209491,('GQ375328 Trebouxia jamesii':0.00208567,('GQ375334 Trebouxia jamesii':2.3E-7,('GQ375333 Trebouxia jamesii':0.0020806,('Group 137 Trebouxia jamesii[1]':0.00388417,(('Group 192 Trebouxia jamesii[1]':0.00687391,('AJ511365 Trebouxia jamesii':0.00680294,('FM945346 Trebouxia sp.':0.00489437,'Group 135 Trebouxia jamesii[1]':9.0E-8)[&label=0.0]:9.0E-8)[&label=0.879]:0.01388306)[&label=0.0]:0.00570343,((('Group 112 Trebouxia sp.[2] T. sp.-80[1] T. jamesii[7]':0.00162262,('Group 136 Trebouxia jamesii[2]':2.9E-7,'GQ375336 Trebouxia jamesii':0.00207352)[&label=0.0]:2.9E-7)[&label=0.0]:5.49E-6,(('AY444759 Trebouxia jamesii':0.00413074,'AY444758 Trebouxia jamesii':0.00185364)[&label=0.0]:1.1E-7,('AJ511364 Trebouxia jamesii':0.00209276,('AJ511358 Trebouxia jamesii':0.00217933,'AJ511355 Trebouxia jamesii':5.7E-7)[&label=0.843]:0.00675421)[&label=0.78]:0.00335208)[&label=0.0]:1.1E-7)[&label=0.0]:0.00868183,('Group 133 Trebouxia jamesii[1]':0.00202793,'Group 131 Trebouxia jamesii[1]':2.0E-8)[&label=0.891]:0.00597525)[&label=0.0]:0.00997742)[&label=0.752]:0.00208922)[&label=0.0]:1.2E-7)[&label=0.901]:0.00635981)[&label=0.785]:0.00317236)[&label=0.785]:0.00314984)[&label=0.938]:0.00966366)[&label=0.89]:0.00653638)[&label=0.0]:1.5E-7,(('JN204728 Trebouxia jamesii':0.05509497,'GQ375326 Trebouxia jamesii':0.00195406)[&label=0.327]:0.00263432,('GQ375324 Trebouxia jamesii':2.1E-7,'GQ375325 Trebouxia jamesii':0.00207599)[&label=0.874]:0.00411519)[&label=0.73]:0.00248303)[&label=0.875]:0.00746306)[&label=0.899]:0.01285789,((('GQ375323 Trebouxia jamesii':0.0082972,('JX036166 Trebouxia sp.':0.0132498,(('AY444767 Trebouxia jamesii':0.00369175,('AY444768 Trebouxia jamesii':1.2E-7,'AY444765 Trebouxia jamesii':1.0E-8)[&label=0.852]:0.00182113)[&label=0.0]:9.0E-8,('Group 171 Trebouxia jamesii[1]':1.0E-8,('Group 147 Trebouxia sp.[1] T. jamesii[3]':6.0E-8,('GU124717 Trebouxia jamesii':0.00516271,'GU124719 Trebouxia jamesii':1.4E-7)[&label=0.843]:0.00257172)[&label=0.0]:6.0E-8)[&label=0.0]:1.0E-8)[&label=0.887]:0.00370073)[&label=0.0]:4.6E-7)[&label=0.451]:0.00402101,('GU124701 Trebouxia jamesii':0.01838398,('HQ026212 Trebouxia sp.':0.006556,((('JN204809 Trebouxia jamesii':1.2E-7,('JN204810 Trebouxia jamesii':0.01788703,('JN204745 Trebouxia jamesii':1.4E-7,'JN204807 Trebouxia jamesii':0.0019206)[&label=0.762]:0.00177591)[&label=0.867]:0.00590058)[&label=0.707]:0.00191158,('JN204743 Trebouxia jamesii':0.00191627,(('Group 184 Trebouxia jamesii[1]':1.5E-7,((('JX509843 Trebouxia jamesii':0.001869,('Group 109 Trebouxia sp.[11] T. simplex[4] T. jamesii[32]':1.0E-8,('AF453262 Trebouxia simplex':0.00182164,'Group 139 Trebouxia sp.[1] T. jamesii[1]':0.00182205)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:1.1E-7,(('JX509839 Trebouxia jamesii':0.00186926,'GU124709 Trebouxia jamesii':2.7E-7)[&label=0.0]:9.0E-8,('HQ667311 Trebouxia jamesii':0.01131348,(('AJ431589 Trebouxia jamesii':0.01182947,('GQ375322 Trebouxia jamesii':0.00207452,'Group 127 Trebouxia jamesii[6]':8.0E-8)[&label=0.0]:9.0E-8)[&label=0.806]:0.00182192,(('GU124714 Trebouxia jamesii':0.00260191,'GQ375317 Trebouxia jamesii':0.00626318)[&label=0.883]:0.00417949,('Group 132 Trebouxia jamesii[1]':0.00427609,('GU124710 Trebouxia jamesii':0.00257667,('GU124704 Trebouxia jamesii':0.00515963,('GU124705 Trebouxia jamesii':0.00257574,('Group 191 Trebouxia jamesii[1]':4.0E-8,('GU124703 Trebouxia jamesii':0.01303419,'GU124716 Trebouxia jamesii':1.5E-7)[&label=0.917]:0.00516231)[&label=0.0]:4.0E-8)[&label=0.0]:9.0E-8)[&label=0.819]:0.00214912)[&label=0.0]:2.4E-7)[&label=0.0]:1.9E-7)[&label=0.0]:1.3E-7)[&label=0.0]:9.0E-8)[&label=0.0]:8.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8,('Group 186 Trebouxia jamesii[4]':0.00364848,('GQ375318 Trebouxia jamesii':0.00207335,('HQ667315 Trebouxia jamesii':0.08572232,('GU124711 Trebouxia jamesii':0.00257646,'Group 173 Trebouxia jamesii[1]':3.0E-8)[&label=0.0]:3.0E-8)[&label=0.805]:0.00495793)[&label=0.0]:1.3E-7)[&label=0.0]:1.1E-7)[&label=0.838]:0.00184979)[&label=0.799]:0.00185408,('Group 149 Trebouxia sp.[2]':0.00195727,('Group 148 Trebouxia sp.[7]':0.00192652,('EU715042 Trebouxia sp.':1.4E-7,'EU715041 Trebouxia sp.':0.00199321)[&label=0.0]:1.4E-7)[&label=0.0]:2.1E-7)[&label=0.779]:0.00193405)[&label=0.782]:0.00184688)[&label=0.0]:1.9E-7)[&label=0.963]:0.0073695,((('GQ375363 Trebouxia jamesii':0.00207415,'Group 170 Trebouxia jamesii[2]':2.3E-7)[&label=0.864]:0.00182544,('GQ375355 Trebouxia jamesii':2.6E-7,'GQ375354 Trebouxia jamesii':0.00207505)[&label=0.909]:0.00417803)[&label=0.0]:1.0E-8,(('Group 169 Trebouxia jamesii[2]':0.00207507,('GQ375360 Trebouxia jamesii':0.00207235,('Group 168 Trebouxia jamesii[1]':1.0E-8,('GQ375361 Trebouxia jamesii':0.0020741,('GQ375356 Trebouxia jamesii':0.00215248,'GQ375359 Trebouxia jamesii':1.0E-8)[&label=0.0]:1.0E-8)[&label=0.0]:1.5E-7)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8,('GQ375364 Trebouxia jamesii':0.00412391,'GQ375365 Trebouxia jamesii':0.00634188)[&label=0.953]:0.00840429)[&label=0.0]:1.0E-8)[&label=0.758]:0.00177708)[&label=0.876]:0.00372866)[&label=0.0]:1.5E-7)[&label=0.855]:0.00518095)[&label=0.982]:0.01734139,('Group 189 Trebouxia sp.[2]':0.01846083,('JX036273 Trebouxia sp.':0.03617087,('Group 183 Trebouxia sp.[3]':0.0038211,'JN204812 Trebouxia sp.':5.9E-7)[&label=0.718]:0.00328523)[&label=1.0]:0.04058132)[&label=0.748]:0.00328283)[&label=0.897]:0.01158311)[&label=0.826]:0.01292685,(('EU715047 Trebouxia sp.':0.00208576,'Group 150 Trebouxia sp.[2]':1.0E-8)[&label=0.957]:0.01467681,('GU124718 Trebouxia jamesii':0.00220591,('JN243328 Trebouxia jamesii':1.5E-7,('Group 138 Trebouxia jamesii[3]':0.01413621,('Group 172 Trebouxia jamesii[2]':0.003754,('GU124708 Trebouxia jamesii':0.00257328,('GQ375369 Trebouxia jamesii':1.0E-8,'GQ375370 Trebouxia jamesii':0.00460768)[&label=0.855]:0.00230571)[&label=0.0]:2.4E-7)[&label=0.73]:0.00323828)[&label=0.761]:0.00813164)[&label=0.942]:0.02666755)[&label=0.91]:0.02685459)[&label=0.749]:0.00716063)[&label=0.846]:0.01032424,(('FJ626727 Trebouxia brindabellae':0.00808373,'JX144658 Trebouxia sp.':0.02153462)[&label=0.956]:0.01196364,(('GQ375352 Trebouxia jamesii':2.4E-7,('Group 110 Trebouxia sp.[1] T. jamesii[2] T. angustilobata[1]':2.3E-7,'JN243324 Trebouxia jamesii':0.00256525)[&label=0.802]:0.00203604)[&label=1.0]:0.05355857,(('DQ086105 Trebouxia sp.':2.0E-8,('EU683440 Trebouxia sp.':0.01131109,('EF457759 Trebouxia sp.':0.01403265,('DQ086103 Trebouxia sp.':0.03071512,'Group 69 Trebouxia sp.[3]':1.1E-7)[&label=0.759]:0.00158218)[&label=0.0]:0.00349525)[&label=0.0]:2.16E-6)[&label=0.872]:0.00526738,('DQ086108 Trebouxia sp.':0.0017241,('EF457760 Trebouxia sp.':0.00480809,('DQ086104 Trebouxia sp.':2.1E-7,('DQ086106 Trebouxia sp.':0.00370171,'EF457758 Trebouxia sp.':0.00790951)[&label=0.0]:1.1E-7)[&label=0.799]:0.00372134)[&label=0.992]:0.01669675)[&label=0.546]:0.0067894)[&label=0.986]:0.03249666)[&label=0.763]:0.00770047)[&label=0.864]:0.00592273)[&label=0.0]:1.0E-8,((('JX144652 Trebouxia sp.':0.00774088,'JX144657 Trebouxia sp.':1.5E-7)[&label=0.999]:0.02971178,('FJ626726 Trebouxia australis':0.00759913,'JX144655 Trebouxia sp.':1.3E-7)[&label=0.945]:0.00804798)[&label=0.696]:0.00183191,('JX144656 Trebouxia sp.':0.01590904,'Group 190 Trebouxia sp.[2]':0.0092296)[&label=0.75]:0.00263097)[&label=0.958]:0.01053209)[&label=0.752]:0.0022264)[&label=0.0]:1.6E-7)[&label=0.976]:0.03890609)[&label=0.997]:0.06769522)[&label=0.994]:0.07459257)[&label=0.961]:0.04951678)[&label=0.931]:0.03954047,('JX144654 Trebouxia sp':0.09207683,(('JN204790 Trebouxia sp.':0.01343652,(('JN204731 Trebouxia sp.':0.00180941,'JN204815 Trebouxia sp.':0.00181846)[&label=0.788]:0.00179841,(('AM159208 Trebouxia sp':0.00153883,(('Group 98 Trebouxia sp.[2]':0.00181209,('AM159205 Trebouxia sp':0.00153145,('AM159204 Trebouxia sp':0.00246751,'JN204763 Trebouxia sp.':1.0E-8)[&label=0.963]:0.01001857)[&label=0.76]:0.00155475)[&label=0.0]:7.0E-8,(('JX036213 Trebouxia sp.':9.0E-8,('JX036227 Trebouxia sp.':9.0E-8,('JN204740 Trebouxia sp.':0.00181224,'JX036231 Trebouxia sp.':1.0E-8)[&label=0.849]:0.0017069)[&label=0.849]:0.00170676)[&label=0.855]:0.00170674,('Group 99 Trebouxia sp.[3]':1.0E-8,(('JN204772 Trebouxia sp.':0.00182441,('Group 107 Trebouxia sp.[2]':0.00170741,('JX036160 Trebouxia sp.':0.00515038,('Group 97 Trebouxia sp.[3]':0.00170811,'JN204823 Trebouxia sp.':0.00181118)[&label=0.0]:1.0E-7)[&label=0.815]:0.00171027)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7,(('JX036180 Trebouxia sp.':0.00170547,('JX036246 Trebouxia sp.':0.00170561,(('AY667580 Trebouxia sp.':1.3E-7,'AJ431580 Trebouxia sp.':0.02558238)[&label=0.851]:0.00350518,('Group 22 Trebouxia sp.[11] T. decolorans[2]':0.00170551,'JN204757 Trebouxia sp.':0.00181285)[&label=0.0]:1.0E-7)[&label=0.0]:1.6E-7)[&label=0.0]:2.0E-7)[&label=0.0]:1.5E-7,('Group 108 Trebouxia sp.[2]':0.06449002,('JX036211 Trebouxia sp.':0.00342446,('JN204727 Trebouxia sp.':0.00180866,'JN204828 Trebouxia sp.':0.0036459)[&label=0.797]:0.00182706)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7)[&label=0.848]:0.00351199)[&label=0.858]:0.00351126)[&label=0.0]:1.0E-8)[&label=0.0]:2.4E-7)[&label=0.0]:7.0E-8)[&label=0.0]:8.0E-8,('JN204729 Trebouxia sp.':0.00725218,('JN204744 Trebouxia sp.':0.02219529,'JN204818 Trebouxia sp.':1.0E-7)[&label=0.0]:1.0E-7)[&label=0.839]:0.00180407)[&label=0.0]:9.0E-8)[&label=0.778]:0.0026737)[&label=0.973]:0.01482626,('AJ969505 Trebouxia sp.':0.01988677,('AM159206 Trebouxia sp':0.00959737,('EF095230 Trebouxia sp.':0.00731034,'EF095231 Trebouxia sp.':0.00253943)[&label=0.892]:0.00862385)[&label=0.843]:0.00636465)[&label=0.83]:0.00538244)[&label=0.843]:0.0073909)[&label=0.691]:0.01403455)[&label=0.917]:0.01532558)[&label=0.0]:1.74E-6,('DQ166594 Trebouxia sp.':0.02759586,(('DQ166611 Trebouxia sp.':5.2E-7,('JN204747 Trebouxia sp.':0.00922061,('Group 66 Trebouxia sp.[27]':2.9E-7,('JX435366 Uncultured Chlorophyta':1.0E-8,('JN204803 Trebouxia sp.':0.00369514,('JN204822 Trebouxia sp.':0.00182218,'JN204838 Trebouxia sp.':0.00182212)[&label=0.0]:1.0E-7)[&label=0.0]:9.0E-8)[&label=0.0]:1.1E-7)[&label=0.0]:2.9E-7)[&label=0.937]:0.02712252)[&label=0.986]:0.01891834,('DQ166603 Trebouxia sp.':0.00199364,('DQ133477 Trebouxia sp.':0.00500849,'AJ249572 Trebouxia sp.':0.00122696)[&label=0.0]:9.0E-8)[&label=0.993]:0.01786984)[&label=0.878]:0.00666895)[&label=0.959]:0.01241321)[&label=0.999]:0.0280521)[&label=0.0]:1.5E-7)[&label=0.76]:0.00870307)[&label=0.932]:0.01233731,(((('Group 18 Trebouxia sp.[2]':0.0066929,('JQ993768 Trebouxia decolorans':0.00582455,('JQ993759 Trebouxia decolorans':9.0E-8,'JQ993777 Trebouxia decolorans':0.00300699)[&label=0.829]:0.00322086)[&label=0.982]:0.01662148)[&label=1.0]:0.03647268,('AJ969535 Trebouxia sp.':0.06651417,(('AJ969545 Trebouxia decolorans':1.2E-7,('AJ969577 Trebouxia sp.':0.00148363,'AJ969550 Trebouxia sp.':0.00156881)[&label=0.0]:1.2E-7)[&label=0.986]:0.01289898,((('Group 21 Trebouxia sp.[9] T. decolorans[1]':1.0E-8,('Group 9 Trebouxia sp.[3] T. decolorans[2]':0.0018803,('FJ705189 Trebouxia decolorans':0.00189113,('Group 11 Trebouxia sp.[21] T. decolorans[2]':0.00187543,'FJ705188 Trebouxia decolorans':0.00187629)[&label=0.0]:7.0E-8)[&label=0.0]:7.0E-8)[&label=0.0]:1.4E-7)[&label=0.773]:0.00191259,('AJ969514 Trebouxia sp.':0.00481862,('FJ705186 Trebouxia decolorans':1.3E-7,'EU717923 Trebouxia decolorans':0.00231645)[&label=0.0]:1.6E-7)[&label=0.872]:0.00317168)[&label=0.999]:0.01639285,(('EU717921 Trebouxia decolorans':0.00958961,('FJ705177 Trebouxia decolorans':1.3E-7,('Group 10 Trebouxia sp.[19] T. sp[1] T. decolorans[2] T. jamesii[1]':0.0018809,'Group 20 Trebouxia sp.[81] T. decolorans[1]':2.3E-7)[&label=0.453]:0.00188457)[&label=0.891]:0.00638887)[&label=0.999]:0.02872829,(((('FJ705201 Trebouxia decolorans':0.00187873,('Group 14 Trebouxia sp.[38] T. decolorans[2]':0.00188014,'Group 19 Trebouxia sp.[31] T. decolorans[1] T. jamesii[2]':4.0E-8)[&label=0.0]:4.0E-8)[&label=0.872]:0.00187973,('Group 12 Trebouxia sp.[15] T. decolorans[2]':1.0E-8,('FJ705200 Trebouxia decolorans':0.00188083,('FJ705203 Trebouxia decolorans':0.00187974,(('AM159210 Trebouxia sp.':0.00451281,('Group 13 Trebouxia sp.[1] T. decolorans[2]':1.0E-8,'FJ705198 Trebouxia decolorans':0.00188008)[&label=0.832]:0.00188127)[&label=0.0]:9.0E-8,('FJ705202 Trebouxia decolorans':0.00188254,('FJ705205 Trebouxia decolorans':0.0018811,'FJ705199 Trebouxia decolorans':0.00188041)[&label=0.0]:1.3E-7)[&label=0.0]:1.6E-7)[&label=0.0]:9.0E-8)[&label=0.0]:7.0E-8)[&label=0.0]:6.0E-8)[&label=0.0]:9.0E-8)[&label=0.81]:0.00149906,('EU717930 Trebouxia decolorans':1.0E-8,('EU717934 Trebouxia decolorans':1.4E-7,('Group 15 Trebouxia decolorans[3]':2.3E-7,('FJ705196 Trebouxia decolorans':0.00188168,('FJ705195 Trebouxia decolorans':0.00188178,'EU717935 Trebouxia decolorans':0.00232638)[&label=0.0]:2.1E-7)[&label=0.959]:0.00566255)[&label=0.908]:0.00378073)[&label=0.858]:0.00188578)[&label=0.0]:1.6E-7)[&label=0.953]:0.00607437,('EU717927 Trebouxia decolorans':0.00232362,('EU717928 Trebouxia decolorans':0.00232554,('AJ969534 Trebouxia sp.':8.0E-8,'EU717929 Trebouxia decolorans':0.00232559)[&label=0.0]:4.0E-8)[&label=0.0]:4.0E-8)[&label=0.954]:0.00601362)[&label=0.853]:0.00304555)[&label=0.742]:0.00132113)[&label=0.835]:0.00410118)[&label=0.817]:0.00564573)[&label=0.777]:0.00525302)[&label=0.769]:0.00378363,(('FJ705190 Trebouxia decolorans':0.01705649,('AF453259 Trebouxia arboricola':1.0E-8,'FJ705191 Trebouxia decolorans':0.00374904)[&label=0.781]:0.00529944)[&label=0.99]:0.01732972,((('AJ969588 Trebouxia decolorans':0.00148797,'AJ969590 Trebouxia sp.':1.0E-8)[&label=0.96]:0.0073593,(('AJ969586 Trebouxia sp.':0.00299765,('AJ969584 Trebouxia sp.':0.00172893,('Group 33 Trebouxia sp.[3]':1.0E-8,('AJ969561 Trebouxia sp.':0.00606636,'AJ969585 Trebouxia sp.':0.00497335)[&label=0.731]:0.00147695)[&label=0.0]:1.0E-8)[&label=0.0]:9.0E-8)[&label=0.922]:0.00299172,((('AJ969562 Trebouxia decolorans':0.00148266,'AJ969563 Trebouxia sp.':1.0E-8)[&label=0.766]:0.00148702,('AJ969551 Trebouxia sp.':8.0E-8,'AJ969566 Trebouxia sp.':0.00163872)[&label=0.777]:0.00151271)[&label=0.884]:0.00298372,('AJ969541 Trebouxia sp.':0.01303809,'EU717919 Trebouxia decolorans':0.01176999)[&label=0.731]:0.00208643)[&label=0.0]:8.0E-8)[&label=0.731]:0.00174895)[&label=1.0]:0.039578,(((('FJ705183 Trebouxia decolorans':2.1E-7,('FJ705184 Trebouxia decolorans':0.00187517,('AJ969513 Trebouxia sp.':1.0E-8,('AJ969580 Trebouxia sp.':0.00756707,'AJ969515 Trebouxia sp.':0.00756997)[&label=0.766]:0.00142318)[&label=0.28]:0.00149538)[&label=0.0]:1.1E-7)[&label=0.993]:0.01214122,('FJ705180 Trebouxia decolorans':0.00373065,('FJ705178 Trebouxia decolorans':0.00186086,'FJ705179 Trebouxia decolorans':0.00186738)[&label=0.758]:0.00187837)[&label=0.888]:0.00563243)[&label=0.99]:0.01386766,(('JF831920 Trebouxia decolorans':0.00728825,('JF831917 Trebouxia decolorans':0.00167335,('AM159215 Trebouxia sp.':0.00148156,'AJ969506 Trebouxia sp.':0.002967)[&label=0.0]:1.1E-7)[&label=0.994]:0.01335038)[&label=0.607]:0.00634712,('AJ969569 Trebouxia sp.':0.00465924,(('DQ166586 Trebouxia sp.':0.00189839,((('JF831922 Trebouxia decolorans':0.0016785,('AJ969574 Trebouxia sp.':1.0E-8,('Group 30 Trebouxia sp.[2]':1.0E-8,'AJ969547 Trebouxia sp.':0.03250808)[&label=0.785]:0.00148007)[&label=0.0]:1.0E-8)[&label=0.929]:0.00296376,('AJ969549 Trebouxia decolorans':0.00266163,('Group 38 Trebouxia decolorans[5]':5.0E-8,(('DQ166583 Trebouxia sp.':0.00482641,'AJ969507 Trebouxia sp.':0.0041339)[&label=0.76]:0.00200156,(('AJ969558 Trebouxia decolorans':0.0015026,'AJ969594 Trebouxia decolorans':8.0E-8)[&label=0.861]:0.00148702,('AJ969593 Trebouxia decolorans':9.0E-8,'AJ969578 Trebouxia sp.':0.00149203)[&label=0.849]:0.00148346)[&label=0.0]:2.0E-8)[&label=0.0]:2.0E-8)[&label=0.863]:0.00148055)[&label=0.0]:9.0E-8)[&label=0.0]:5.0E-8,(('AJ969557 Trebouxia sp.':0.00152794,'AJ969567 Trebouxia sp.':0.00236096)[&label=0.795]:0.00153802,(('AJ969522 Trebouxia sp.':0.00298546,('AJ293770 Trebouxia sp.':0.00448319,'EU416214 Trebouxia sp.':7.3E-7)[&label=0.733]:0.0014855)[&label=0.0]:6.0E-8,(('AF389915 Trebouxia arboricola':3.0E-7,'AF389917 Trebouxia arboricola':0.01295489)[&label=0.836]:0.00255025,('Group 40 Trebouxia sp.[3] T. arboricola[1] T. decolorans[9]':1.0E-8,('AJ969571 Trebouxia sp.':0.00299611,(('JF831907 Trebouxia decolorans':0.00167701,('AJ969531 Trebouxia sp.':0.00152979,'AJ969511 Trebouxia sp.':0.00932192)[&label=0.788]:0.0014869)[&label=0.0]:8.0E-8,(('AJ249482 Trebouxia arboricola':0.00174847,('Group 39 Trebouxia arboricola[1] T. decolorans[5]':1.0E-8,'AJ969556 Trebouxia decolorans':0.00773788)[&label=0.0]:8.0E-8)[&label=0.957]:0.00446615,('AJ007387 Trebouxia arboricola':0.00181511,'AJ969544 Trebouxia sp.':0.00602493)[&label=0.0]:9.0E-8)[&label=0.0]:8.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:7.0E-8)[&label=0.0]:7.0E-8)[&label=0.0]:7.0E-8)[&label=0.907]:0.00295531)[&label=0.0]:8.0E-8,('AJ249481 Trebouxia arboricola':1.9E-7,'AF389916 Trebouxia arboricola':0.00250557)[&label=0.923]:0.0062664)[&label=0.746]:0.00131028)[&label=0.964]:0.00914721)[&label=0.738]:0.00407049)[&label=0.807]:0.00298788,('AM159207 Trebouxia sp.':0.03107604,'AF389914 Trebouxia arboricola':0.03866758)[&label=0.0]:1.7301E-4)[&label=0.764]:0.00302778)[&label=0.232]:0.00313365)[&label=0.137]:0.00244511)[&label=0.916]:0.01013897,('AJ969540 Trebouxia sp.':0.0388063,('AM159216 Trebouxia sp.':0.01192534,(((('AJ969519 Trebouxia sp.':0.00279489,(('JF831903 Trebouxia aggregata':0.00156153,('Z68705 Trebouxia arboricola':0.00142155,('AJ969512 Trebouxia sp.':9.0E-8,'AJ969520 Trebouxia sp.':0.00713987)[&label=0.831]:0.00139399)[&label=0.0]:7.0E-8)[&label=0.0]:9.0E-8,('AJ969570 Trebouxia sp.':0.00140319,'Group 17 Trebouxia sp.[5] T. arboricola[1]':8.0E-8)[&label=0.0]:7.0E-8)[&label=0.781]:0.00140183)[&label=0.779]:0.00139413,(('EU551519 Trebouxia sp.':0.00626591,('AJ969606 Trebouxia sp.':0.00279517,('EU551508 Trebouxia sp.':0.00939667,'AJ969611 Trebouxia arboricola':0.00287342)[&label=0.0]:9.0E-8)[&label=0.0]:8.0E-8)[&label=0.991]:0.00843244,('AJ969518 Trebouxia sp.':0.0127603,('AJ969607 Trebouxia sp.':0.00651844,('AJ969521 Trebouxia sp.':0.00284471,'JQ004576 Trebouxia sp.':0.00177884)[&label=0.0]:9.0E-8)[&label=0.933]:0.0048362)[&label=0.753]:0.00140714)[&label=0.0]:9.0E-8)[&label=0.944]:0.00669597,('EU551486 Trebouxia sp.':1.68E-6,('EU551488 Trebouxia sp.':0.01467429,'EU551489 Trebouxia sp.':8.9E-7)[&label=0.698]:0.00342714)[&label=0.746]:0.01862288)[&label=0.845]:0.00317817,((('AJ969581 Trebouxia sp.':0.00280515,('AJ969528 Trebouxia sp.':0.00141583,'AJ969530 Trebouxia sp.':0.002805)[&label=0.76]:0.00137709)[&label=0.963]:0.00562959,('DQ166587 Trebouxia sp.':0.01538717,('AJ969537 Trebouxia sp.':0.00139225,'AJ969538 Trebouxia sp.':1.1E-7)[&label=0.98]:0.00703287)[&label=0.0]:7.0E-8)[&label=0.818]:0.00139457,((('EU551478 Trebouxia sp.':0.00385023,('EU551517 Trebouxia sp.':0.00453105,('DQ166615 Trebouxia sp.':0.0134071,('EU551490 Trebouxia sp.':2.2E-7,('DQ166617 Trebouxia sp.':0.04027435,'EU551524 Trebouxia sp.':0.0210596)[&label=0.0]:1.5E-7)[&label=0.736]:0.00176952)[&label=0.749]:0.0020378)[&label=0.0]:2.5E-7)[&label=0.834]:0.00198241,('AJ969582 Trebouxia sp.':0.00703407,(('JQ993785 Trebouxia arboricola':0.007005,'JQ993786 Trebouxia arboricola':0.01290821)[&label=0.967]:0.00856153,('Group 16 Trebouxia sp.[2]':8.0E-8,('EU551480 Trebouxia sp.':0.00190737,'DQ166580 Trebouxia sp.':0.00151799)[&label=0.777]:0.00151771)[&label=0.807]:0.001516)[&label=0.0]:9.0E-8)[&label=0.0]:7.0E-8)[&label=0.89]:0.00278912,('AY804016 Trebouxia sp.':0.00280955,(('AJ969516 Trebouxia sp.':0.06341841,('AY804017 Trebouxia sp.':0.00283597,('JF831904 Trebouxia crenulata':0.00468451,('AJ969524 Trebouxia sp.':0.01390932,('AJ969529 Trebouxia arboricola':0.00905163,(('AJ969604 Trebouxia sp.':1.0E-8,'AY804019 Trebouxia sp.':0.00984434)[&label=0.727]:0.00138109,('AJ969542 Trebouxia sp.':0.00647867,('Group 28 Trebouxia sp.[2]':0.00420439,('AJ969564 Trebouxia sp.':0.02255553,('Group 31 Trebouxia sp.[2]':9.0E-8,'FJ028715 clone ISB-20':0.00499942)[&label=0.0]:9.0E-8)[&label=0.739]:0.00141095)[&label=0.89]:0.00280656)[&label=0.0]:7.0E-8)[&label=0.0]:7.0034E-4)[&label=0.0]:7.1477E-4)[&label=0.0]:8.0E-8)[&label=0.881]:0.00281489)[&label=0.771]:0.00140109)[&label=0.781]:0.00140325,('DQ166584 Trebouxia sp.':0.01114351,(('EU551514 Trebouxia sp.':0.00961936,(('AJ969509 Trebouxia sp.':0.00993237,('AJ969523 Trebouxia sp.':0.00710929,'AJ969552 Trebouxia sp.':0.01746835)[&label=0.905]:0.00566153)[&label=0.756]:0.00132606,(('AJ969609 Trebouxia arboricola':0.04139594,'AJ969610 Trebouxia arboricola':0.02455574)[&label=0.983]:0.02887968,('JQ993794 Trebouxia arboricola':0.01017422,(((('JQ993795 Trebouxia arboricola':0.00573047,('JQ993784 Trebouxia arboricola':7.0E-8,('JQ993787 Trebouxia arboricola':0.00293298,'JQ993796 Trebouxia arboricola':0.00139839)[&label=0.761]:0.0013979)[&label=0.0]:7.0E-8)[&label=0.829]:0.00139312,('JQ993766 Trebouxia arboricola':0.00705936,'JQ993778 Trebouxia arboricola':0.00279515)[&label=0.743]:0.00139337)[&label=0.0]:9.0E-8,('JQ993761 Trebouxia arboricola':1.0E-8,'JQ993770 Trebouxia arboricola':0.00989164)[&label=0.819]:0.00139477)[&label=0.896]:0.00139451,('Group 23 Trebouxia arboricola[2]':0.00280587,(('AJ969526 Trebouxia sp.':0.04028524,'AJ969568 Trebouxia sp.':0.00288678)[&label=0.835]:0.00270324,('JQ993788 Trebouxia arboricola':1.0E-7,((('JQ993758 Trebouxia arboricola':0.0069971,('JQ993762 Trebouxia arboricola':0.00139221,'Group 24 Trebouxia arboricola[4]':1.0E-8)[&label=0.953]:0.00419433)[&label=0.0]:9.0E-8,((('JQ993797 Trebouxia arboricola':0.0014175,'JQ993798 Trebouxia arboricola':1.1E-7)[&label=0.933]:0.00421503,('JQ993799 Trebouxia arboricola':0.0013994,'AJ969565 Trebouxia sp.':0.00295501)[&label=0.0]:8.0E-8)[&label=0.906]:0.00278982,('Group 26 Trebouxia arboricola[2]':0.00139246,('Group 27 Trebouxia arboricola[4]':1.0E-8,'JQ993792 Trebouxia arboricola':0.00702867)[&label=0.916]:0.00279204)[&label=0.0]:1.1E-7)[&label=0.0]:1.0E-7)[&label=0.916]:0.00139175,(('JQ993774 Trebouxia arboricola':0.0014034,('Group 25 Trebouxia arboricola[2]':0.00279008,'JQ993781 Trebouxia arboricola':1.0E-7)[&label=0.932]:0.00562164)[&label=0.938]:0.00419766,('JQ993775 Trebouxia arboricola':0.00281052,'JQ993776 Trebouxia arboricola':0.00707411)[&label=0.889]:0.00280809)[&label=0.0]:7.0E-8)[&label=0.0]:1.0E-7)[&label=0.0]:1.0E-7)[&label=0.0]:7.0E-8)[&label=0.0]:9.0E-8)[&label=0.755]:0.00139497)[&label=0.878]:0.00280984)[&label=0.0]:8.0E-8)[&label=0.886]:0.00280055)[&label=0.784]:0.00138893,('DQ166610 Trebouxia sp.':0.00998294,'AJ969510 Trebouxia sp.':0.01534771)[&label=0.973]:0.01023215)[&label=0.0]:8.0E-8)[&label=0.0]:1.2E-7)[&label=0.0]:8.0E-8)[&label=0.85]:0.00139527)[&label=0.0]:8.0E-8)[&label=0.782]:0.0014072)[&label=0.643]:7.9281E-4)[&label=0.86]:0.00538255)[&label=0.997]:0.02973837)[&label=0.97]:0.01494776)[&label=0.799]:0.01231839)[&label=1.0]:0.29063602)[&label=0.967]:0.02889529,(('JN848816 Trebouxia sp.':0.022955,('EU416223 Trebouxia sp.':5.0E-8,'AY303139 Trebouxia sp.':0.00981967)[&label=0.831]:0.00420256)[&label=0.985]:0.0270836,('EU416219 Trebouxia sp.':0.00376109,('EU683444 Trebouxia sp.':0.00305416,('AF242471 Trebouxia sp.':0.0037366,'EU717915 Trebouxia sp.':0.00532175)[&label=0.0]:3.4E-7)[&label=0.804]:0.00556729)[&label=0.935]:0.01137568)[&label=0.9]:0.01308597)[&label=0.984]:0.02298577)[&label=0.976]:0.01593381,(('AJ293785 Trebouxia sp.':0.00186885,'AJ293778 Trebouxia sp.':0.01101676)[&label=0.759]:0.00186622,(('AF389929 Trebouxia impressa':0.00433882,('AF389932 Trebouxia impressa':0.00237975,('Group 120 Trebouxia sp.[3] T. impressa[3]':1.5E-7,'Group 125 Trebouxia impressa[1]':9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.982]:0.00917515,('DQ166601 Trebouxia sp.':1.4E-7,('DQ166578 Trebouxia sp.':0.00684472,('EU795063 Trebouxia sp.':0.0037279,'EU795082 Trebouxia sp.':2.2E-7)[&label=0.932]:0.00372782)[&label=0.0]:1.7E-7)[&label=0.839]:0.00186191)[&label=0.0]:1.3E-7)[&label=0.943]:0.00915451)[&label=0.731]:2.72E-6,(('AJ293777 Trebouxia sp.':1.3E-7,'Group 115 Trebouxia sp.[2] T. impressa[1] T. flava[1]':0.01093711)[&label=0.982]:0.01374349,(('AF345891 Trebouxia impressa':1.0E-8,('EU795058 Trebouxia sp.':1.1E-7,('AF345890 Trebouxia impressa':0.00189042,('AJ293776 Trebouxia sp.':0.00386654,(('EU795059 Trebouxia sp.':0.02274986,'AJ969605 Trebouxia sp.':0.00571468)[&label=0.839]:0.00370373,(('EU795057 Trebouxia sp.':0.00377579,'AF242469 Trebouxia potteri':0.00748621)[&label=0.0]:1.5E-7,('Group 178 Trebouxia impressa[2] T. sp.[1]':8.0E-8,'HQ026163 Trebouxia sp.':0.01434394)[&label=0.0]:8.0E-8)[&label=0.934]:0.00565736)[&label=0.749]:0.00185269)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:1.1E-7)[&label=0.999]:0.02497854,('AJ293779 Trebouxia sp.':0.00567697,'Group 154 Trebouxia sp.[2]':0.00183233)[&label=0.943]:0.00575971)[&label=0.0]:2.5E-7)[&label=0.792]:0.00361722)[&label=0.0]:0.01296426)[&label=0.927]:0.02397828)[&label=0.775]:0.00828261)[&label=0.808]:0.00711298,((('JN204819 Trebouxia impressa':0.0059981,(('JN204778 Trebouxia impressa':0.00902413,'JN204750 Trebouxia impressa':0.00198912)[&label=0.769]:0.00194407,('Group 142 Trebouxia impressa[1] T. sp.[3]':1.6E-7,('JN204820 Trebouxia impressa':0.00592771,'JN204806 Trebouxia impressa':0.01789118)[&label=0.0]:1.6E-7)[&label=0.0]:2.2E-7)[&label=0.869]:0.00383559)[&label=0.885]:0.00384464,('JN204759 Trebouxia impressa':0.01196538,(('AF389918 Trebouxia impressa':0.01569307,'AJ293794 Trebouxia sp.':0.00188957)[&label=0.777]:0.00185724,((('AJ007386 Trebouxia impressa':0.00859493,('AF389920 Trebouxia impressa':0.00206768,('Group 116 Trebouxia sp.[1] T. impressa[4]':2.3E-7,'DQ166581 Trebouxia sp.':0.0453692)[&label=0.0]:2.3E-7)[&label=0.0]:2.7E-7)[&label=0.435]:0.00212227,('JN204834 Trebouxia impressa':9.0E-8,('Group 122 Trebouxia impressa[1] T. sp.3[1]':1.6E-7,('AJ293775 Trebouxia sp.':0.00186666,'AY804021 Trebouxia sp.':0.01328328)[&label=0.0]:2.1E-7)[&label=0.978]:0.0074988)[&label=0.0]:9.0E-8)[&label=0.963]:0.00562091,(('AJ007384 Trebouxia impressa':0.00213924,('Group 123 Trebouxia impressa[1]':0.00227777,('Group 119 Trebouxia impressa[1]':1.0E-8,('Group 118 Trebouxia sp.[8] T. impressa[4] T. sp.9[1]':1.0E-7,(('AJ007383 Trebouxia impressa':0.00201014,'AF389933 Trebouxia impressa':0.00661304)[&label=0.0]:2.2E-7,(('EU795079 Trebouxia sp.':0.00186261,(('EU795067 Trebouxia sp.':0.00562425,('EU795069 Trebouxia sp.':0.01214126,'AJ318780 Trebouxia impressa':0.00189162)[&label=0.0]:1.3E-7)[&label=0.912]:0.00373861,('EU795053 Trebouxia sp.':0.00448056,'EU795068 Trebouxia sp.':0.00377628)[&label=0.0]:9.0E-8)[&label=0.0]:9.0E-8)[&label=0.0]:1.5E-7,('Group 153 Trebouxia sp.[3]':1.3E-7,('EU795065 Trebouxia sp.':0.00406585,('Group 152 Trebouxia sp.[1]':1.0E-8,'EU795076 Trebouxia sp.':0.00338092)[&label=0.0]:1.0E-8)[&label=0.0]:1.0E-8)[&label=0.936]:0.0018631)[&label=0.0]:1.7E-7)[&label=0.0]:2.2E-7)[&label=0.0]:1.66E-6)[&label=0.0]:0.00183182)[&label=0.742]:0.00193416)[&label=0.998]:0.02444969,('DQ166596 Trebouxia sp.':0.00642837,'DQ166592 Trebouxia sp.':0.00425202)[&label=0.986]:0.01332124)[&label=0.731]:0.00156443)[&label=0.0]:1.5E-7)[&label=0.814]:0.00192637)[&label=0.0]:1.4E-7)[&label=0.875]:0.00385269,('DQ166597 Trebouxia sp.':0.01277166,('EU717916 Trebouxia sp.':0.00533708,'EU717917 Trebouxia sp.':1.6E-7)[&label=0.834]:0.00496825)[&label=0.739]:0.00282825)[&label=0.756]:0.00190847)[&label=0.776]:0.00819879)[&label=0.282]:0.00150203)[&label=0.995]:0.04074292)[&label=0.999]:0.05660961)[&label=0.993]:0.03117195)[&label=0.884]:0.00770876);
 end;
 
 begin figtree;
