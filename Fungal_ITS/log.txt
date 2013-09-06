@@ -1,0 +1,63 @@
+blastn -query Prae02.fa -db nt -evalue 1e-180 -out PraeITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+
+(only sequences with scores >950 are Prae)
+
+awk '{if ( $16 > 950) print $3}' PraeITS.bl > PraeITS_acc.txt 
+
+wc -l PraeITS_acc.txt 
+
+(20)
+
+blastdbcmd -db nt -entry_batch PraeITS_acc.txt |../Scripts/GetRedundant.pl > PraeITS.fa
+ 
+ grep ">" PraeITS.fa |wc -l
+ 
+(41)
+
+grep ">" PraeITS.fa |perl -p -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/$1/' >PraeITS_acc.txt
+
+wc -l PraeITS_acc.txt
+
+(41)
+
+cat PraeITS_acc.txt | ../Scripts/GetGB.pl PraeITS.gb heath.obrien@gmail.com
+
+grep LOCUS PraeITS.gb |wc -l
+
+(41)
+
+../Scripts/ParseHost.pl PraeITS.gb >PraeITS_metadata.txt
+
+usearch -cluster_fast PraeITS.fa -id 1 -centroids PraeITS_nr.fa -uc PraeITS_groups.txt
+ 
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' PraeITS_nr.fa
+
+mafft PraeITS_nr.fa >PraeITS_aln.fa
+
+../Scripts/GetExcluded.pl Nostoc_rbcX_aln.fa |pbcopy
+
+ConvertAln.pl -i PraeITS_aln.fa -f phyext -o Prae.phy
+
+phyml -i PraeITS.phy
+
+../Scripts/AddSig.pl PraeITS.phy_phyml_tree.txt >PraeITS.nwk
+
+../Scripts/GetGroups.py -g PraeITS_groups.txt -m PraeITS_metadata.txt >PraeITS_metadata2.txt
+
+need to find prae09 (or reconstruct from haplotye network), can04 and evan04
+
+blastn -query Can06.fa -db nt -evalue 1e-180 -out CanITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+
+awk '{if ( $16 > 930) print $3}' CanITS.bl > CanITS_acc.txt 
+
+blastdbcmd -db nt -entry_batch CanITS_acc.txt |../Scripts/GetRedundant.pl > CanITS.fa
+
+grep ">" CanITS.fa |perl -p -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/$1/' >CanITS_acc.txt
+
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' CanITS.fa
+
+cat CanITS_acc.txt | ../Scripts/GetGB.pl CanITS.gb heath.obrien@gmail.com
+
+mafft CanITS.fa >CanITS_aln.fa
+
+ConvertAln.pl -i CanITS_aln.fa -f phyext -o CanITS.phy

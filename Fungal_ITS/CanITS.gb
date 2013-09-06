@@ -1,0 +1,2400 @@
+LOCUS       JX195256                 590 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK226 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195256
+VERSION     JX195256.1  GI:472179850
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 590)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 590)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK226"
+                     /db_xref="taxon:161979"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..202
+                     /product="internal transcribed spacer 1"
+     rRNA            203..354
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        355..553
+                     /product="internal transcribed spacer 2"
+     rRNA            554..>590
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtggggctt aatatccccc acgaacccta atcctttgtt
+       61 tactgcccca ttgtggttta cttgggttcg gtttggcttc aactttttct tttttggggt
+      121 cgtatgtgcc caaaaggctg ccacagttta aaaatctggt taaatacagt gatgtctgag
+      181 caaattattt aaataagcaa aactttcaac aacggatctc ttggttccgg catcgatgaa
+      241 gaacgcagcg aaatgcgata agtaatgtgg accgcagtac tcagcgactc atcgaatctt
+      301 tgaacgcaca ttgcgcccct tggtgtcccc aaagggcaca cctgttcgag cgtcatcata
+      361 cattgcatca ggctaagggc ccggcttgcg ttgggctttt tctatctatg gaaaggtctt
+      421 aaaatcagtg gctgttaagt taggcattcc agcgtagtga ttatattagc tgttgaaata
+      481 tctttttaca ataacagtca acacgtccag ggtttctgct ggcggagacc tggttggatt
+      541 tattatcaaa tattgacctc ggatcaggtg aggatacccg ctgaatttaa
+//
+
+LOCUS       AY257896                 541 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera boreorufescens internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AY257896
+VERSION     AY257896.1  GI:32364206
+KEYWORDS    .
+SOURCE      Peltigera boreorufescens
+  ORGANISM  Peltigera boreorufescens
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 541)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 541)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..541
+                     /organism="Peltigera boreorufescens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Goward & Ceska 82-1084 (UBC)"
+                     /db_xref="taxon:162041"
+     misc_RNA        1..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..348
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        349..541
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtggggctta atatccccca cgaaccctaa tcctttgttt actgccccat
+       61 tgtggtttac ttgggttcgg tttggcttca actttttctt ttttggggtc gtatgtgccc
+      121 aaaaggctgc cacagtttaa aaatctggtt aaatacagtg atgtctgagc aaattattta
+      181 aataagcaaa actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga
+      241 aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat
+      301 tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag
+      361 gctaagggcc cggcttgcgt tgggcttttt ctatctatgg aaaggtctta aaatcagtgg
+      421 ctgttaagtt aggcattcca gcgtagtgat tatattagct gttgaaatat ctttttacaa
+      481 taacagtcaa cacgtccagg gtttctgctg gcggagacct ggttggattt attatcaaat
+      541 a
+//
+
+LOCUS       FJ708876                 594 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-70-5-2 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708876
+VERSION     FJ708876.1  GI:255347210
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-70-5-2"
+                     /db_xref="taxon:161979"
+                     /haplotype="01"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..344
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        345..575
+                     /product="internal transcribed spacer 2"
+     rRNA            576..>594
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tcttttttgg ggtcgtatgt gcccaaaagg ctgccacagt ttaaaaatct
+      181 ggttaaatac agtgatgtct gagcaaatta tttaaataag caaaactttc aacaacggat
+      241 ctcttggttc cggcatcgat gaagaacgca gcgaaatgcg ataagtaatg tggaccgcag
+      301 tactcagcga ctcatcgaat ctttgaacgc acattgcgcc ccttggtgtc cccaaagggc
+      361 acacctgttc gagcgtcatc atacattgca tcaggctaag ggcccggctt gcgttgggct
+      421 ttttctatct atggaaaggt cttaaaatca gtggctgtta agttaggcat tccagcgtag
+      481 tgattatatt agctgttgaa ataccttttt acaataacag tcaacacgtc cagggtttct
+      541 gctggcggag acctggttgg atttattatc aaatattgac ctcggatcag gtga
+//
+
+LOCUS       FJ708875                 594 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-70-1-3 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708875
+VERSION     FJ708875.1  GI:255347209
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-70-1-3"
+                     /db_xref="taxon:161979"
+                     /haplotype="01"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..344
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        345..575
+                     /product="internal transcribed spacer 2"
+     rRNA            576..>594
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tcttttttgg ggtcgtatgt gcccaaaagg ctgccacagt ttaaaaatct
+      181 ggttaaatac agtgatgtct gagcaaatta tttaaataag caaaactttc aacaacggat
+      241 ctcttggttc cggcatcgat gaagaacgca gcgaaatgcg ataagtaatg tggaccgcag
+      301 tactcagcga ctcatcgaat ctttgaacgc acattgcgcc ccttggtgtc cccaaagggc
+      361 acacctgttc gagcgtcatc atacattgca tcaggctaag ggcccggctt gcgttgggct
+      421 ttttctatct atggaaaggt cttaaaatca gtggctgtta agttaggcat tccagcgtag
+      481 tgattatatt agctgttgaa ataccttttt acaataacag tcaacacgtc cagggtttct
+      541 gctggcggag acctggttgg atttattatc aaatattgac ctcggatcag gtga
+//
+
+LOCUS       FJ708874                 594 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-31-5-2 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708874
+VERSION     FJ708874.1  GI:255347208
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-31-5-2"
+                     /db_xref="taxon:161979"
+                     /haplotype="01"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..344
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        345..575
+                     /product="internal transcribed spacer 2"
+     rRNA            576..>594
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tcttttttgg ggtcgtatgt gcccaaaagg ctgccacagt ttaaaaatct
+      181 ggttaaatac agtgatgtct gagcaaatta tttaaataag caaaactttc aacaacggat
+      241 ctcttggttc cggcatcgat gaagaacgca gcgaaatgcg ataagtaatg tggaccgcag
+      301 tactcagcga ctcatcgaat ctttgaacgc acattgcgcc ccttggtgtc cccaaagggc
+      361 acacctgttc gagcgtcatc atacattgca tcaggctaag ggcccggctt gcgttgggct
+      421 ttttctatct atggaaaggt cttaaaatca gtggctgtta agttaggcat tccagcgtag
+      481 tgattatatt agctgttgaa ataccttttt acaataacag tcaacacgtc cagggtttct
+      541 gctggcggag acctggttgg atttattatc aaatattgac ctcggatcag gtga
+//
+
+LOCUS       FJ708873                 594 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-31-5-1 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708873
+VERSION     FJ708873.1  GI:255347207
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-31-5-1"
+                     /db_xref="taxon:161979"
+                     /haplotype="01"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..344
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        345..575
+                     /product="internal transcribed spacer 2"
+     rRNA            576..>594
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tcttttttgg ggtcgtatgt gcccaaaagg ctgccacagt ttaaaaatct
+      181 ggttaaatac agtgatgtct gagcaaatta tttaaataag caaaactttc aacaacggat
+      241 ctcttggttc cggcatcgat gaagaacgca gcgaaatgcg ataagtaatg tggaccgcag
+      301 tactcagcga ctcatcgaat ctttgaacgc acattgcgcc ccttggtgtc cccaaagggc
+      361 acacctgttc gagcgtcatc atacattgca tcaggctaag ggcccggctt gcgttgggct
+      421 ttttctatct atggaaaggt cttaaaatca gtggctgtta agttaggcat tccagcgtag
+      481 tgattatatt agctgttgaa ataccttttt acaataacag tcaacacgtc cagggtttct
+      541 gctggcggag acctggttgg atttattatc aaatattgac ctcggatcag gtga
+//
+
+LOCUS       AY257952                 541 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera canina internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257952
+VERSION     AY257952.1  GI:32364253
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 541)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 541)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..541
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Wong & Wong 4297 (CANL)"
+                     /db_xref="taxon:161979"
+     misc_RNA        1..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..348
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        349..541
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtggggctta atatccccca cgaaccctaa tcctttgttt actgccccat
+       61 tgtggtttac ttgggttcgg tttggcttca actttttctt ttttggggtc gtatgtgccc
+      121 aaaaggctgc cacagtttaa aaatctggtt aaatacagtg atgtctgagc aaattattta
+      181 aataagcaaa actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga
+      241 aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat
+      301 tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag
+      361 gctaagggcc cggcttgcgt tgggcttttt ctatctatgg aaaggtctta aaatcagtgg
+      421 ctgttaagtt aggcattcca gcgtagtgat tatattagct gttgaaatat ctttttacaa
+      481 taacagtcaa cacgtccagg gtttctgctg gcggaaacct ggttggattt attatcaaat
+      541 a
+//
+
+LOCUS       JX195257                 574 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK417 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195257
+VERSION     JX195257.1  GI:472179851
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 574)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 574)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..574
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK417"
+                     /db_xref="taxon:161979"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..223
+                     /product="internal transcribed spacer 1"
+     rRNA            224..375
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        376..573
+                     /product="internal transcribed spacer 2"
+     rRNA            574..>574
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taatgagggc gtgtggggct taatatcccc
+       61 cacgaaccct aatcctttgt ttactgcccc attgtggttt acttgggttc ggtttggctt
+      121 caactttttt ttttttgggg tcgtatgtgc ccaaaaggct gccacagttt aaaaatctgg
+      181 ttaaatacgg tgatgtctga gcaaattatt taaataagca aaactttcaa caacggatct
+      241 cttggttccg gcatcgatga agaacgcagc gaaatgcgat aagtaatgtg gaccgcagta
+      301 ctcagcgact catcgaatct ttgaacgcac attgcgcccc ttggtgtccc caaagggcac
+      361 acctgttcga gcgtcatcat acattgcatc aggctaaggg cccggcttgc gttgggcttt
+      421 ttctatctat ggaaaggtct taaaatcagt ggctgttaag ttaggcattc cagcgtagtg
+      481 attatattag ctgttgaaat atctttttac aataacagtc aacacgtcca aggtttctgc
+      541 tggcggagac ctggttggat ttattatcaa atat
+//
+
+LOCUS       AY257953                 541 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera canina internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257953
+VERSION     AY257953.1  GI:32364254
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 541)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 541)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..541
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Czyzewska 009205 (LOD-L)"
+                     /db_xref="taxon:161979"
+     misc_RNA        1..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..348
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        349..541
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtggggctta atatccccca cgaaccctaa tcctttgttt actgccccat
+       61 tgtggtttac ttgggttcgg tttggcttca actttttttt tttnggggtc gtatgtgccc
+      121 aaaaggctgc cacagtttaa aaatctggtt aaatacggtg atgtctgagc aaattattta
+      181 aataagcaaa actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga
+      241 aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat
+      301 tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag
+      361 gctaagggcc cggcttgcgt tgggcttttt ctatctatgg aaaggtctta aaatcagtgg
+      421 ctgttaagtt aggcattcca gcgtagtgat tatattagct gttgaaatat ctttttacaa
+      481 taacagtcaa cacgtccaag gtttctgctg gcggagacct ggttggattt attatcaaat
+      541 a
+//
+
+LOCUS       JX195265                 590 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK398 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195265
+VERSION     JX195265.1  GI:472179859
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 590)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 590)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK398"
+                     /db_xref="taxon:161979"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..202
+                     /product="internal transcribed spacer 1"
+     rRNA            203..354
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        355..552
+                     /product="internal transcribed spacer 2"
+     rRNA            553..>590
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtggggctt aatatccccc acgaacccta atcctttgtt
+       61 tactgcccca ttgtggttta cttgggttcg gtttggcttc aacttttttt tttttggggt
+      121 cgtatgtgcc caaaaggctg ccacagttta aaaatctggt taaatacggt gatgtctgag
+      181 caaattattt aaataagcaa aactttcaac aacggatctc ttggttccgg catcgatgaa
+      241 gaacgcagcg aaatgcgata agtaatgtgg accgcagtac tcagcgactc atcgaatctt
+      301 tgaacgcaca ttgcgcccct tggtgtcccc aaagggcaca cctgttcgag cgtcatcata
+      361 cattgcatca ggctaagggc ccggcttgcg ttgggctttt tctatctatg gaaaggtctt
+      421 aaaatcagtg gctgttaagt taggcattcc agcgtagtga ttatattagc tgttgaaata
+      481 tctttttaca ataacagtca acacgtccaa ggtttctgct ggcggagacc tgcttggatt
+      541 tattatcaaa tattgacctc ggatcaggtg aggatacccg ctgaatttaa
+//
+
+LOCUS       FJ708889                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-10-5-5 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708889
+VERSION     FJ708889.1  GI:255347223
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-10-5-5"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708888                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-10-5-2 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708888
+VERSION     FJ708888.1  GI:255347222
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-10-5-2"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708887                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-10-10-4 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708887
+VERSION     FJ708887.1  GI:255347221
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-10-10-4"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708886                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-10-0-6 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708886
+VERSION     FJ708886.1  GI:255347220
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-10-0-6"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708885                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-10-0-5 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708885
+VERSION     FJ708885.1  GI:255347219
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-10-0-5"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708884                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-10-0-3 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708884
+VERSION     FJ708884.1  GI:255347218
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-10-0-3"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708883                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-0-10-4 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708883
+VERSION     FJ708883.1  GI:255347217
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-0-10-4"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708882                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-0-0-7 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708882
+VERSION     FJ708882.1  GI:255347216
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-0-0-7"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708881                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-0-0-6 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708881
+VERSION     FJ708881.1  GI:255347215
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-0-0-6"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708880                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-39-5-2 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708880
+VERSION     FJ708880.1  GI:255347214
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-39-5-2"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708879                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-0-1-3 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708879
+VERSION     FJ708879.1  GI:255347213
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-0-1-3"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708878                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-0-1-2 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708878
+VERSION     FJ708878.1  GI:255347212
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-0-1-2"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708877                 595 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-0-1-1 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708877
+VERSION     FJ708877.1  GI:255347211
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-0-1-1"
+                     /db_xref="taxon:161979"
+                     /haplotype="02"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..63
+                     /product="18S ribosomal RNA"
+     misc_RNA        64..190
+                     /product="internal transcribed spacer 1"
+     rRNA            191..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..576
+                     /product="internal transcribed spacer 2"
+     rRNA            577..>595
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggg cttaatatcc
+       61 cccacgaacc ctaatccttt gtttactgcc ccattgtggt ttacttgggt tcggtttggc
+      121 ttcaactttt tttttttttg gggtcgtatg tgcccaaaag gctgccacag tttaaaaatc
+      181 tggttaaata cggtgatgtc tgagcaaatt atttaaataa gcaaaacttt caacaacgga
+      241 tctcttggtt ccggcatcga tgaagaacgc agcgaaatgc gataagtaat gtggaccgca
+      301 gtactcagcg actcatcgaa tctttgaacg cacattgcgc cccttggtgt ccccaaaggg
+      361 cacacctgtt cgagcgtcat catacattgc atcaggctaa gggcccggct tgcgttgggc
+      421 tttttctatc tatggaaagg tcttaaaatc agtggctgtt aagttaggca ttccagcgta
+      481 gtgattatat tagctgttga aatatctttt tacaataaca gtcaacacgt ccaaggtttc
+      541 tgctggcgga gacctggttg gatttattat caaatattga cctcggatca ggtga
+//
+
+LOCUS       FJ708891                 565 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB030611-5-10-6 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708891
+VERSION     FJ708891.1  GI:255347225
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 565)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-5-10-6"
+                     /db_xref="taxon:161979"
+                     /haplotype="03"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..49
+                     /product="18S ribosomal RNA"
+     misc_RNA        50..177
+                     /product="internal transcribed spacer 1"
+     rRNA            178..332
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        333..563
+                     /product="internal transcribed spacer 2"
+     rRNA            564..>565
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 aacctgcgga aggatcatta atgagggcgt gtggggctta atatccccca cgaaccctaa
+       61 tcctttgttt actgccccat tgtggtttac ttgggttcgg tttggcttca actttttttt
+      121 ttttttgggg tcgtatgtgc ccaaaaggct gccacagttt aaaaatctgg ttaaatacgg
+      181 tgatgtctga gcaaattatt taaataagca aaactttcaa caacggatct cttggttccg
+      241 gcatcgatga agaacgcagc gaaatgcgat aagtaatgtg gaccgcagta ctcagcgact
+      301 catcgaatct ttgaacgcac attgcgcccc ttggtgtccc caaagggcac acctgttcga
+      361 gcgtcatcat acattgcatc aggctaaggg cccggcttgc gttgggcttt ttctatctat
+      421 ggaaaggtct taaaatcagt ggctgttaag ttaggcattc cagcgtagtg attatattag
+      481 ctgttgaaat atctttttac aataacagtc aacacgtcca aggtttctgc tggcggagac
+      541 ctggttggat ttattatcaa atatt
+//
+
+LOCUS       FJ708890                 565 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera canina strain HOB020708-4-5-1 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ708890
+VERSION     FJ708890.1  GI:255347224
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 565)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-4-5-1"
+                     /db_xref="taxon:161979"
+                     /haplotype="03"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..49
+                     /product="18S ribosomal RNA"
+     misc_RNA        50..177
+                     /product="internal transcribed spacer 1"
+     rRNA            178..332
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        333..563
+                     /product="internal transcribed spacer 2"
+     rRNA            564..>565
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 aacctgcgga aggatcatta atgagggcgt gtggggctta atatccccca cgaaccctaa
+       61 tcctttgttt actgccccat tgtggtttac ttgggttcgg tttggcttca actttttttt
+      121 ttttttgggg tcgtatgtgc ccaaaaggct gccacagttt aaaaatctgg ttaaatacgg
+      181 tgatgtctga gcaaattatt taaataagca aaactttcaa caacggatct cttggttccg
+      241 gcatcgatga agaacgcagc gaaatgcgat aagtaatgtg gaccgcagta ctcagcgact
+      301 catcgaatct ttgaacgcac attgcgcccc ttggtgtccc caaagggcac acctgttcga
+      361 gcgtcatcat acattgcatc aggctaaggg cccggcttgc gttgggcttt ttctatctat
+      421 ggaaaggtct taaaatcagt ggctgttaag ttaggcattc cagcgtagtg attatattag
+      481 ctgttgaaat atctttttac aataacagtc aacacgtcca aggtttctgc tggcggagac
+      541 ctggttggat ttattatcaa atatt
+//
+
+LOCUS       FJ527271                 542 bp    DNA     linear   PLN 01-OCT-2009
+DEFINITION  Peltigera koponenii voucher LG:Hoffman 90-103 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   FJ527271
+VERSION     FJ527271.1  GI:259120535
+KEYWORDS    .
+SOURCE      Peltigera koponenii
+  ORGANISM  Peltigera koponenii
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Serusiaux,E., Goffinet,B., Miadlikowska,J. and Vitikainen,O.
+  TITLE     Taxonomy, phylogeny and biogeography of the lichen genus Peltigera
+            in Papua New Guinea
+  JOURNAL   Fungal Divers. 38, 185-224 (2009)
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Serusiaux,E., Goffinet,B., Miadlikowska,J. and Vitikainen,O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2008) Ecology and Evolutionary Biology,
+            University of Connecticut, 75 North Eagleville Road, Storrs, CT
+            06269-3043, USA
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Peltigera koponenii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LG:Hoffman 90-103"
+                     /db_xref="taxon:659359"
+     misc_RNA        <1..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..348
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        349..>542
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtggggctta atatccccca cgaaccctaa tcctttgttt attgccccat
+       61 tgtggtttac ttgggttcgg tttggcttca actttttttt ttttggggtc gtatgtgccc
+      121 aaaaggctgc cacagtttaa aaatctggtt aaatacggtg atgtctgagc aaattattta
+      181 aataagcaaa actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga
+      241 aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat
+      301 tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag
+      361 gctaagggcc cggcttgcgt tgggcttttt ctatctatgg gaaaggtctt aaaatcagtg
+      421 gctgttaagt taggcattcc agcgtagtga ttatattagc tgttgaaata tctttttaca
+      481 ataacagtca acacgtccaa ggtttctgct ggcggagacc tggttggatt tattatcaaa
+      541 ta
+//
+
+LOCUS       FJ527270                 542 bp    DNA     linear   PLN 01-OCT-2009
+DEFINITION  Peltigera koponenii voucher LG:Serusiaux s.n. internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   FJ527270
+VERSION     FJ527270.1  GI:259120534
+KEYWORDS    .
+SOURCE      Peltigera koponenii
+  ORGANISM  Peltigera koponenii
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Serusiaux,E., Goffinet,B., Miadlikowska,J. and Vitikainen,O.
+  TITLE     Taxonomy, phylogeny and biogeography of the lichen genus Peltigera
+            in Papua New Guinea
+  JOURNAL   Fungal Divers. 38, 185-224 (2009)
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Serusiaux,E., Goffinet,B., Miadlikowska,J. and Vitikainen,O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2008) Ecology and Evolutionary Biology,
+            University of Connecticut, 75 North Eagleville Road, Storrs, CT
+            06269-3043, USA
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Peltigera koponenii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LG:Serusiaux s.n."
+                     /db_xref="taxon:659359"
+     misc_RNA        <1..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..348
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        349..>542
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtggggctta atatccccca cgaaccctaa tcctttgttt attgccccat
+       61 tgtggtttac ttgggttcgg tttggcttca actttttttt ttttggggtc gtatgtgccc
+      121 aaaaggctgc cacagtttaa aaatctggtt aaatacggtg atgtctgagc aaattattta
+      181 aataagcaaa actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga
+      241 aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat
+      301 tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag
+      361 gctaagggcc cggcttgcgt tgggcttttt ctatctatgg gaaaggtctt aaaatcagtg
+      421 gctgttaagt taggcattcc agcgtagtga ttatattagc tgttgaaata tctttttaca
+      481 ataacagtca acacgtccaa ggtttctgct ggcggagacc tggttggatt tattatcaaa
+      541 ta
+//
+
+LOCUS       JX195258                 547 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK418 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JX195258
+VERSION     JX195258.1  GI:472179852
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 547)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 547)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..547
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK418"
+                     /db_xref="taxon:161979"
+     misc_RNA        <1..181
+                     /product="internal transcribed spacer 1"
+     rRNA            182..333
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        334..531
+                     /product="internal transcribed spacer 2"
+     misc_RNA        532..>547
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 gtggggctta atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac
+       61 ttgggttcgg tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc
+      121 cacagtttaa aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa
+      181 actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa
+      241 gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt
+      301 ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc
+      361 cggcttgcgt tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt
+      421 aggcattcca gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa
+      481 cacgtccaag gtttctgctg gcggagacct ggttggattt attatcaaat attgacctcg
+      541 gatcagg
+//
+
+LOCUS       JX195262                 545 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK420 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JX195262
+VERSION     JX195262.1  GI:472179856
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 545)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 545)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK420"
+                     /db_xref="taxon:161979"
+     misc_RNA        <1..181
+                     /product="internal transcribed spacer 1"
+     rRNA            182..333
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        334..531
+                     /product="internal transcribed spacer 2"
+     rRNA            532..>545
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 gtggggctta atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac
+       61 ttgggttcgg tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc
+      121 cacagtttaa aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa
+      181 actttcaaca acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa
+      241 gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt
+      301 ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc
+      361 cggcttgcgt tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt
+      421 aggcattcca gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa
+      481 cacgtccaag gtttctgctg gcggagacct gcttggattt attatcaaat attgacctcg
+      541 gatca
+//
+
+LOCUS       FJ527269                 543 bp    DNA     linear   PLN 01-OCT-2009
+DEFINITION  Peltigera koponenii voucher H:Koponen 34327 note holotype internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   FJ527269
+VERSION     FJ527269.1  GI:259120533
+KEYWORDS    .
+SOURCE      Peltigera koponenii
+  ORGANISM  Peltigera koponenii
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Serusiaux,E., Goffinet,B., Miadlikowska,J. and Vitikainen,O.
+  TITLE     Taxonomy, phylogeny and biogeography of the lichen genus Peltigera
+            in Papua New Guinea
+  JOURNAL   Fungal Divers. 38, 185-224 (2009)
+REFERENCE   2  (bases 1 to 543)
+  AUTHORS   Serusiaux,E., Goffinet,B., Miadlikowska,J. and Vitikainen,O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2008) Ecology and Evolutionary Biology,
+            University of Connecticut, 75 North Eagleville Road, Storrs, CT
+            06269-3043, USA
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Peltigera koponenii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="H:Koponen 34327"
+                     /db_xref="taxon:659359"
+                     /note="holotype"
+     misc_RNA        <1..189
+                     /product="internal transcribed spacer 1"
+     rRNA            190..348
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        349..>543
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtggggctta atatccccca cgaaccctaa tcctttgttt attgccccat
+       61 tgtggtttac ttgggttcgg tttggcttca actttttttt tttgggggtc gtatgtgccc
+      121 aaaaggctgc cacagtttaa aaatctggtt aaatacggtg atgtctgagc aaattattta
+      181 aataagcaaa actttcaaca acggatctnt tggttccggc atcgatgaag aacgcagcga
+      241 aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt gaacgcacat
+      301 tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcatac attgcatcag
+      361 gctaagggcc cggcttgcgt tgggcttttt cttatctatg ggaaaggtct taaaatcagt
+      421 ggctgttaag ttaggcattc cagcgtagtg attatattag ctgttgaaat atctttttac
+      481 aataacagtc aacacgtcca aggtttctgc tggcggagac ctggttggat ttattatcaa
+      541 ata
+//
+
+LOCUS       JX195263                 542 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK422 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JX195263
+VERSION     JX195263.1  GI:472179857
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK422"
+                     /db_xref="taxon:161979"
+     misc_RNA        <1..178
+                     /product="internal transcribed spacer 1"
+     rRNA            179..330
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        331..528
+                     /product="internal transcribed spacer 2"
+     misc_RNA        529..>542
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 gggcttaata tcccccacga accctaatcc tttgtttact gccccattgt ggtttacttg
+       61 ggttcggttt ggcttcaact tttttttttt tggggtcgta tgtgcccaaa aggctgccac
+      121 agtttaaaaa tctggttaaa tacggtgatg tctgagcaaa ttatttaaat aagcaaaact
+      181 ttcaacaacg gatctcttgg ttccggcatc gatgaagaac gcagcgaaat gcgataagta
+      241 atgtggaccg cagtactcag cgactcatcg aatctttgaa cgcacattgc gccccttggt
+      301 gtccccaaag ggcacacctg ttcgagcgtc atcatacatt gcatcaggct aagggcccgg
+      361 cttgcgttgg gctttttcta tctatggaaa ggtcttaaaa tcagtggctg ttaagttagg
+      421 cattccagcg tagtgattat attagctgtt gaaatatctt tttacaataa cagtcaacac
+      481 gtccaaggtt tctgctggcg gagacctgct tggatttatt atcaaatatt gacctcggat
+      541 ca
+//
+
+LOCUS       JX195261                 541 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK429 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JX195261
+VERSION     JX195261.1  GI:472179855
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 541)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 541)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..541
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK429"
+                     /db_xref="taxon:161979"
+     misc_RNA        <1..177
+                     /product="internal transcribed spacer 1"
+     rRNA            178..329
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        330..527
+                     /product="internal transcribed spacer 2"
+     rRNA            528..>541
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 ggcttaatat cccccacgaa ccctaatcct ttgtttactg ccccattgtg gtttacttgg
+       61 gttcggtttg gcttcaactt tttttttttt ggggtcgtat gtgcccaaaa ggctgccaca
+      121 gtttaaaaat ctggttaaat acggtgatgt ctgagcaaat tatttaaata agcaaaactt
+      181 tcaacaacgg atctcttggt tccggcatcg atgaagaacg cagcgaaatg cgataagtaa
+      241 tgtggaccgc agtactcagc gactcatcga atctttgaac gcacattgcg ccccttggtg
+      301 tccccaaagg gcacacctgt tcgagcgtca tcatacattg catcaggcta agggcccggc
+      361 ttgcgttggg ctttttctat ctatggaaag gtcttaaaat cagtggctgt taagttaggc
+      421 attccagcgt agtgattata ttagctgttg aaatatcttt ttacaataac agtcaacacg
+      481 tccaaggttt ctgctggcgg agacctgctt ggatttatta tcaaatattg acctcggatc
+      541 a
+//
+
+LOCUS       JX195264                 542 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK426 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JX195264
+VERSION     JX195264.1  GI:472179858
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK426"
+                     /db_xref="taxon:161979"
+     misc_RNA        <1..178
+                     /product="internal transcribed spacer 1"
+     rRNA            179..330
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        331..528
+                     /product="internal transcribed spacer 2"
+     rRNA            529..>542
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 ggcttaatat cccccacgaa ccctaatcct ttgtttactg ccccattgtg gtttacttgg
+       61 gttcggtttg gcttcaactt tttttttttt ggggtcgtaa tgtgcccaaa aggctgccac
+      121 agtttaaaaa tctggttaaa tacggtgatg tctgagcaaa ttatttaaat aagcaaaact
+      181 ttcaacaacg gatctcttgg ttccggcatc gatgaagaac gcagcgaaat gcgataagta
+      241 atgtggaccg cagtactcag cgactcatcg aatctttgaa cgcacattgc gccccttggt
+      301 gtccccaaag ggcacacctg ttcgagcgtc atcatacatt gcatcaggct aagggcccgg
+      361 cttgcgttgg gctttttcta tctatggaaa ggtcttaaaa tcagtggctg ttaagttagg
+      421 cattccagcg tagtgattat attagctgtt gaaatatctt tttacaataa cagtcaacac
+      481 gtccaaggtt tctgctggcg gagacctgct tggatttatt atcaaatatt gacctcggat
+      541 ca
+//
+
+LOCUS       HM448792                 522 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK127 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448792
+VERSION     HM448792.1  GI:312191887
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK127"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..135
+                     /product="internal transcribed spacer 1"
+     rRNA            136..290
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        291..521
+                     /product="internal transcribed spacer 2"
+     rRNA            >522
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc cacagtttaa
+      121 aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa actttcaaca
+      181 acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga
+      241 ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca
+      301 aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc cggcttgcgt
+      361 tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca
+      421 gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa cacgtccaag
+      481 gtttctgctg gcggagacct ggttggattt attatcaaat at
+//
+
+LOCUS       JX195259                 522 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera canina isolate UK567b internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JX195259
+VERSION     JX195259.1  GI:472179853
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 522)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /isolate="UK567b"
+                     /db_xref="taxon:161979"
+     misc_RNA        <1..171
+                     /product="internal transcribed spacer 1"
+     rRNA            172..323
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        324..521
+                     /product="internal transcribed spacer 2"
+     misc_RNA        522..>522
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc cacagtttaa
+      121 aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa actttcaaca
+      181 acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga
+      241 ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca
+      301 aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc cggcttgcgt
+      361 tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca
+      421 gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa cacgtccaag
+      481 gtttctgctg gcggagacct ggttggattt attatcaaat at
+//
+
+LOCUS       HM448793                 521 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK123 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448793
+VERSION     HM448793.1  GI:312191888
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 521)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 521)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK123"
+                     /db_xref="taxon:161979"
+     rRNA            <1..8
+                     /product="18S ribosomal RNA"
+     misc_RNA        9..134
+                     /product="internal transcribed spacer 1"
+     rRNA            135..289
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        290..520
+                     /product="internal transcribed spacer 2"
+     rRNA            >521
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 tatcccccac gaaccctaat cctttgttta ctgccccatt gtggtttact tgggttcggt
+       61 ttggcttcaa cttttttttt tttggggtcg tatgtgccca aaaggctgcc acagtttaaa
+      121 aatctggtta aatacggtga tgtctgagca aattatttaa ataagcaaaa ctttcaacaa
+      181 cggatctctt ggttccggca tcgatgaaga acgcagcgaa atgcgataag taatgtggac
+      241 cgcagtactc agcgactcat cgaatctttg aacgcacatt gcgccccttg gtgtccccaa
+      301 agggcacacc tgttcgagcg tcatcataca ttgcatcagg ctaagggccc ggcttgcgtt
+      361 gggctttttc tatctatgga aaggtcttaa aatcagtggc tgttaagtta ggcattccag
+      421 cgtagtgatt atattagctg ttgaaatatc tttttacaat aacagtcaac acgtccaagg
+      481 tttctgctgg cggagacctg gttggattta ttatcaaata t
+//
+
+LOCUS       HM448796                 528 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK133 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448796
+VERSION     HM448796.1  GI:312191891
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 528)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 528)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK133"
+                     /db_xref="taxon:161979"
+     rRNA            <1..15
+                     /product="18S ribosomal RNA"
+     misc_RNA        16..141
+                     /product="internal transcribed spacer 1"
+     rRNA            142..296
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        297..527
+                     /product="internal transcribed spacer 2"
+     rRNA            >528
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 gggcttatat cccccacgaa ccctaatcct ttgtttactg ccccattgtg gtttacttgg
+       61 gttcggtttg gcttcaactt tttttttttt ggggtcgtat gtgcccaaaa ggctgccaca
+      121 gtttaaaaat ctggttaaat acggtgatgt ctgagcaaat tatttaaata agcaaaactt
+      181 tcaacaacgg atctcttggt tccggcatcg atgaagaacg cagcgaaatg cgataagtaa
+      241 tgtggaccgc agtactcagc gactcatcga atctttgaac gcacattgcg ccccttggtg
+      301 tccccaaagg gcacacctgt tcgagcgtca tcatacattg catcaggcta agggcccggc
+      361 ttgcgttggg ctttttctat ctatggaaag gtcttaaaat cagtggctgt taagttaggc
+      421 attccagcgt agtgattata ttagctgttg aaatatcttt ttacaataac agtcancncn
+      481 tccaaggttt ctgctggcgg agacctggtt ggatttatta tcaaatat
+//
+
+LOCUS       HM448791                 533 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK118 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448791
+VERSION     HM448791.1  GI:312191886
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK118"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..135
+                     /product="internal transcribed spacer 1"
+     rRNA            136..290
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        291..521
+                     /product="internal transcribed spacer 2"
+     rRNA            522..>533
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc cacagtttaa
+      121 aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa actttcaaca
+      181 acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga
+      241 ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca
+      301 aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc cggcttgcgt
+      361 tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca
+      421 gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa cacgtccaag
+      481 gtttctgctg gcggagacct gcttggattt attatcaaat attgacctcg gat
+//
+
+LOCUS       HM448788                 522 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK111 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448788
+VERSION     HM448788.1  GI:312191883
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK111"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..135
+                     /product="internal transcribed spacer 1"
+     rRNA            136..290
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        291..521
+                     /product="internal transcribed spacer 2"
+     rRNA            >522
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc cacagtttaa
+      121 aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa actttcaaca
+      181 acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga
+      241 ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca
+      301 aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc cggcttgcgt
+      361 tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca
+      421 gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa cacgtccaag
+      481 gtttctgctg gcggagacct gcttggattt attatcaaat at
+//
+
+LOCUS       HM448790                 522 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK126 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448790
+VERSION     HM448790.1  GI:312191885
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK126"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..135
+                     /product="internal transcribed spacer 1"
+     rRNA            136..290
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        291..521
+                     /product="internal transcribed spacer 2"
+     rRNA            >522
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc cacagtttaa
+      121 aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa actttcaaca
+      181 acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga
+      241 ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca
+      301 aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc cggcttgcgt
+      361 tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca
+      421 gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa cacgtccaag
+      481 gtttctgctg gcggagacct gcttggattt attatcaaat at
+//
+
+LOCUS       HM448794                 522 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK132 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448794
+VERSION     HM448794.1  GI:312191889
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK132"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..135
+                     /product="internal transcribed spacer 1"
+     rRNA            136..290
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        291..521
+                     /product="internal transcribed spacer 2"
+     rRNA            >522
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtatgtgccc aaaaggctgc cacagtttaa
+      121 aaatctggtt aaatacggtg atgtctgagc aaattattta aataagcaaa actttcaaca
+      181 acggatctct tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga
+      241 ccgcagtact cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca
+      301 aagggcacac ctgttcgagc gtcatcatac attgcatcag gctaagggcc cggcttgcgt
+      361 tgggcttttt ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca
+      421 gcgtagtgat tatattagct gttgaaatat ctttttacaa taacagtcaa cncntccaag
+      481 gtttctgctg gcggagacct ggttggattt attatcaaat at
+//
+
+LOCUS       HM448795                 534 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK121 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448795
+VERSION     HM448795.1  GI:312191890
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 534)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 534)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK121"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..136
+                     /product="internal transcribed spacer 1"
+     rRNA            137..291
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        292..522
+                     /product="internal transcribed spacer 2"
+     rRNA            523..>534
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt ttttggggtc gtaatgtgcc caaaaggctg ccacagttta
+      121 aaaatctggt taaatacggt gatgtctgag caaattattt aaataagcaa aactttcaac
+      181 aacggatctc ttggttccgg catcgatgaa gaacgcagcg aaatgcgata agtaatgtgg
+      241 accgcagtac tcagcgactc atcgaatctt tgaacgcaca ttgcgcccct tggtgtcccc
+      301 aaagggcaca cctgttcgag cgtcatcata cattgcatca ggctaagggc ccggcttgcg
+      361 ttgggctttt tctatctatg gaaaggtctt aaaatcagtg gctgttaagt taggcattcc
+      421 agcgtagtga ttatattagc tgttgaaata tctttttaca ataacagtca acacgtccaa
+      481 ggtttctgct ggcggagacc tgcttggatt tattatcaaa tattgacctc ggat
+//
+
+LOCUS       HM448789                 523 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera canina voucher UK109 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448789
+VERSION     HM448789.1  GI:312191884
+KEYWORDS    .
+SOURCE      Peltigera canina
+  ORGANISM  Peltigera canina
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 523)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 523)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..523
+                     /organism="Peltigera canina"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK109"
+                     /db_xref="taxon:161979"
+     rRNA            <1..9
+                     /product="18S ribosomal RNA"
+     misc_RNA        10..136
+                     /product="internal transcribed spacer 1"
+     rRNA            137..291
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        292..522
+                     /product="internal transcribed spacer 2"
+     rRNA            >523
+                     /product="26S ribosomal RNA"
+ORIGIN      
+        1 atatccccca cgaaccctaa tcctttgttt actgccccat tgtggtttac ttgggttcgg
+       61 tttggcttca actttttttt tttttggggt cgtatgtgcc caaaaggctg ccacagttta
+      121 aaaatctggt taaatacggt gatgtctgag caaattattt aaataagcaa aactttcaac
+      181 aacggatctc ttggttccgg catcgatgaa gaacgcagcg aaatgcgata agtaatgtgg
+      241 accgcagtac tcagcgactc atcgaatctt tgaacgcaca ttgcgcccct tggtgtcccc
+      301 aaagggcaca cctgttcgag cgtcatcata cattgcatca ggctaagggc ccggcttgcg
+      361 ttgggctttt tctatctatg gaaaggtctt aaaatcagtg gctgttaagt taggcattcc
+      421 agcgtagtga ttatattagc tgttgaaata tctttttaca ataacagtca acacgtccaa
+      481 ggtttctgct ggcggagacc tgcttggatt tattatcaaa tat
+//
+
+LOCUS       AY257951                 543 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera evansiana internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257951
+VERSION     AY257951.1  GI:32364252
+KEYWORDS    .
+SOURCE      Peltigera evansiana
+  ORGANISM  Peltigera evansiana
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 543)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Peltigera evansiana"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Goward 89-145 (UBC)"
+                     /db_xref="taxon:161987"
+     misc_RNA        1..191
+                     /product="internal transcribed spacer 1"
+     rRNA            192..350
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        351..543
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccattg
+       61 tggtttactt gggttcggtt tggcttcaaa attttttttc ttttttgggg tcttgtgtgc
+      121 ccaaaaggct gctacatttt aaaaatctgg ttaaatacag tgatgtctga gcaaattatt
+      181 taaataagca aaactttcaa caacggatct cttggttccg gcatcgatga agaacgcagc
+      241 gaaatgcgat aagtaatgtg gaccgcagta ctcagcgact catcgaatct ttgaacgcac
+      301 attgcgcccc ttggtgtccc caaagggcac acctgttcga gcgtcatcat acattgcatc
+      361 aggctaaggg cccggcttgc gttgggcttt ttctatctat ggaaaggtct taaaatcagt
+      421 ggctgttaag ttaggcattc cagcgtagtg attatattag ctgttgaaat atctttttac
+      481 aataacagtc aacacgtcca aggtttctgc tggcggagac ctggttggat ttattatcaa
+      541 ata
+//
+
+LOCUS       AY257950                 543 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera evansiana internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257950
+VERSION     AY257950.1  GI:32364251
+KEYWORDS    .
+SOURCE      Peltigera evansiana
+  ORGANISM  Peltigera evansiana
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 543)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Peltigera evansiana"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Goward 94-972 (UBC)"
+                     /db_xref="taxon:161987"
+     misc_RNA        1..191
+                     /product="internal transcribed spacer 1"
+     rRNA            192..350
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        351..543
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccattg
+       61 tggtttactt gggttcggtt tggcttcaaa attttttttc ttttttgggg tcttgtgtgc
+      121 ccaaaaggct gctacatttt aaaaatctgg ttaaatacag tgatgtctga gcaaattatt
+      181 taaataagca aaactttcaa caacggatct cttggttccg gcatcgatga agaacgcagc
+      241 gaaatgcgat aagtaatgtg gaccgcagta ctcagcgact catcgaatct ttgaacgcac
+      301 attgcgcccc ttggtgtccc caaagggcac acctgttcga gcgtcatcat acattgcatc
+      361 aggctaaggg cccggcttgc gttgggcttt ttctatctat ggaaaggtct taaaatcagt
+      421 ggctgttaag ttaggcattc cagcgtagtg attatattag ctgttgaaat atctttttac
+      481 aataacagtc aacacgtcca aggtttctgc tggcggagac ctggttggat ttattatcaa
+      541 ata
+//
+

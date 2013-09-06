@@ -1,0 +1,2238 @@
+LOCUS       JX195325                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK409 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195325
+VERSION     JX195325.1  GI:472179919
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK409"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcasgtgag gatacccgct gartttaa
+//
+
+LOCUS       JX195324                 586 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK408 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195324
+VERSION     JX195324.1  GI:472179918
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 586)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 586)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..586
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK408"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>586
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaattt
+//
+
+LOCUS       JX195316                 609 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate K_S32 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195316
+VERSION     JX195316.1  GI:472179910
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="K_S32"
+                     /db_xref="taxon:162005"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..221
+                     /product="internal transcribed spacer 1"
+     rRNA            222..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        374..571
+                     /product="internal transcribed spacer 2"
+     rRNA            572..>609
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taatgagggc gtgtgggctt aatatcccca
+       61 cgaaccctaa tcctttgttt actgccccag tgtggtttac ttgggttcgg tttggcttcc
+      121 cgttttctta tgggggtctt atatgtgccc aaaaggctgc cacagtttaa aaatctggtt
+      181 aaatacagtg atgtctgagc aaattattta aataagcaaa actttcaaca acggatctct
+      241 tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga ccgcagtact
+      301 cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca aagggcacac
+      361 ctgttcgagc gtcatcaagc attgcatcag gctaagggcc cggcttgcgt tgggcttttt
+      421 ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca gcgtagtgat
+      481 tatattagct gttgaaatat ctttttacaa taacagtcaa catgtccaag gtttctgctg
+      541 gcggagacct ggttggattt actatcaaat attgacctcg gatcaggtga ggatacccgc
+      601 tgaatttaa
+//
+
+LOCUS       JX195317                 609 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate K_S58 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195317
+VERSION     JX195317.1  GI:472179911
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="K_S58"
+                     /db_xref="taxon:162005"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..221
+                     /product="internal transcribed spacer 1"
+     rRNA            222..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        374..571
+                     /product="internal transcribed spacer 2"
+     rRNA            572..>609
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taatgagggc gtgtgggctt aatatcccca
+       61 cgaaccctaa tcctttgttt actgccccag tgtggtttac ttgggttcgg tttggcttcc
+      121 cgttttctta tgggggtctt atatgtgccc aaaaggctgc cacagtttaa aaatctggtt
+      181 aaatacagtg atgtctgagc aaattattta aataagcaaa actttcaaca acggatctct
+      241 tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga ccgcagtact
+      301 cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca aagggcacac
+      361 ctgttcgagc gtcatcaagc attgcatcag gctaagggcc cggcttgcgt tgggcttttt
+      421 ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca gcgtagtgat
+      481 tatattagct gttgaaatat ctttttacaa taacagtcaa catgtccaag gtttctgctg
+      541 gcggagacct ggttggattt actatcaaat attgacctcg gatcaggtga ggatacccgc
+      601 tgaatttaa
+//
+
+LOCUS       JX195321                 609 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate K_S68 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195321
+VERSION     JX195321.1  GI:472179915
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="K_S68"
+                     /db_xref="taxon:162005"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..221
+                     /product="internal transcribed spacer 1"
+     rRNA            222..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        374..571
+                     /product="internal transcribed spacer 2"
+     rRNA            572..>609
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taatgagggc gtgtgggctt aatatcccca
+       61 cgaaccctaa tcctttgttt actgccccag tgtggtttac ttgggttcgg tttggcttcc
+      121 cgttttctta tgggggtctt atatgtgccc aaaaggctgc cacagtttaa aaatctggtt
+      181 aaatacagtg atgtctgagc aaattattta aataagcaaa actttcaaca acggatctct
+      241 tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga ccgcagtact
+      301 cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca aagggcacac
+      361 ctgttcgagc gtcatcaagc attgcatcag gctaagggcc cggcttgcgt tgggcttttt
+      421 ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca gcgtagtgat
+      481 tatattagct gttgaaatat ctttttacaa taacagtcaa catgtccaag gtttctgctg
+      541 gcggagacct ggttggattt actatcaaat attgacctcg gatcaggtga ggatacccgc
+      601 tgaatttaa
+//
+
+LOCUS       HM448797                 588 bp    DNA     linear   PLN 02-AUG-2012
+DEFINITION  Peltigera praetextata voucher UK116 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HM448797
+VERSION     HM448797.1  GI:312191892
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114 (1), 220-230 (2011)
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUN-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UK116"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..198
+                     /product="internal transcribed spacer 1"
+     rRNA            199..357
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        358..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195305                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK585 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195305
+VERSION     JX195305.1  GI:472179899
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK585"
+                     /db_xref="taxon:162005"
+                     /note="JR990997"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195306                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK221 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195306
+VERSION     JX195306.1  GI:472179900
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK221"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195307                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK223 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195307
+VERSION     JX195307.1  GI:472179901
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK223"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195309                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK64 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195309
+VERSION     JX195309.1  GI:472179903
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK64"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195310                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK67 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195310
+VERSION     JX195310.1  GI:472179904
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK67"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195311                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK69 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195311
+VERSION     JX195311.1  GI:472179905
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK69"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195312                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK419 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195312
+VERSION     JX195312.1  GI:472179906
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK419"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195313                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK377 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195313
+VERSION     JX195313.1  GI:472179907
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK377"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195314                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK379 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195314
+VERSION     JX195314.1  GI:472179908
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK379"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195315                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK400 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195315
+VERSION     JX195315.1  GI:472179909
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK400"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195318                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK397 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195318
+VERSION     JX195318.1  GI:472179912
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK397"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195319                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK399 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195319
+VERSION     JX195319.1  GI:472179913
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK399"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195320                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK406 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195320
+VERSION     JX195320.1  GI:472179914
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK406"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195322                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK391 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195322
+VERSION     JX195322.1  GI:472179916
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK391"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195323                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK394 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195323
+VERSION     JX195323.1  GI:472179917
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK394"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195326                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK410 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195326
+VERSION     JX195326.1  GI:472179920
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK410"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195327                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK415 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195327
+VERSION     JX195327.1  GI:472179921
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK415"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195328                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK393 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195328
+VERSION     JX195328.1  GI:472179922
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK393"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccca aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       FJ708906                 538 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera praetextata strain HOB030611-0-5-8 18S ribosomal RNA
+            gene, partial sequence; and internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   FJ708906
+VERSION     FJ708906.1  GI:255347240
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-0-5-8"
+                     /db_xref="taxon:162005"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..27
+                     /product="18S ribosomal RNA"
+     misc_RNA        28..153
+                     /product="internal transcribed spacer 1"
+     rRNA            154..308
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        309..538
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaat
+//
+
+LOCUS       KC437648                 538 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata strain HOB030611-5-10-7 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC437648
+VERSION     KC437648.1  GI:455475747
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing population structure and host specialization in
+            lichenized cyanobacteria
+  JOURNAL   New Phytol. 198 (2), 557-566 (2013)
+   PUBMED   23406441
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2013) Cell and Systems Biology, University of
+            Toronto, 25 Willcocks St., Toronto, ON M5S 3B2, Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-5-10-7"
+                     /db_xref="taxon:162005"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     misc_RNA        <1..186
+                     /product="internal transcribed spacer 1"
+     rRNA            187..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..>538
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaat
+//
+
+LOCUS       KC437650                 538 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata strain HOB030611-5-10-8 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KC437650
+VERSION     KC437650.1  GI:455475749
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing population structure and host specialization in
+            lichenized cyanobacteria
+  JOURNAL   New Phytol. 198 (2), 557-566 (2013)
+   PUBMED   23406441
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2013) Cell and Systems Biology, University of
+            Toronto, 25 Willcocks St., Toronto, ON M5S 3B2, Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-5-10-8"
+                     /db_xref="taxon:162005"
+                     /haplotype="02"
+                     /collection_date="11-Jun-2003"
+     misc_RNA        <1..186
+                     /product="internal transcribed spacer 1"
+     rRNA            187..345
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        346..>538
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaat
+//
+
+LOCUS       AY257947                 539 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera praetextata internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257947
+VERSION     AY257947.1  GI:32364248
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..539
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Reeb VR9-VIII-97 (F)"
+                     /db_xref="taxon:162005"
+     misc_RNA        1..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..346
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        347..539
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaata
+//
+
+LOCUS       AY257945                 539 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera praetextata internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257945
+VERSION     AY257945.1  GI:32364247
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..539
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Reeb VR 97 (F)"
+                     /db_xref="taxon:162005"
+     misc_RNA        1..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..346
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        347..539
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaata
+//
+
+LOCUS       AY257944                 539 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera praetextata internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257944
+VERSION     AY257944.1  GI:32364246
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..539
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Gos 5242 (UGDA-L)"
+                     /db_xref="taxon:162005"
+     misc_RNA        1..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..346
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        347..539
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaata
+//
+
+LOCUS       AY257914                 539 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera latopraetextata internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AY257914
+VERSION     AY257914.1  GI:32364222
+KEYWORDS    .
+SOURCE      Peltigera latopraetextata
+  ORGANISM  Peltigera latopraetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..539
+                     /organism="Peltigera latopraetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Goward 94-691 (UBC)"
+                     /db_xref="taxon:162044"
+     misc_RNA        1..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..346
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        347..539
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggagacctgg ttggatttac tatcaaata
+//
+
+LOCUS       JX195329                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK404a 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195329
+VERSION     JX195329.1  GI:472179923
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK404a"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccta aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195330                 588 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK404b 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195330
+VERSION     JX195330.1  GI:472179924
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK404b"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..200
+                     /product="internal transcribed spacer 1"
+     rRNA            201..352
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        353..550
+                     /product="internal transcribed spacer 2"
+     rRNA            551..>588
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgagggcg tgtgggctta atatccccac gaaccctaat cctttgttta
+       61 ctgccccagt gtggtttact tgggttcggt ttggcttccc gttttcttat gggggtctta
+      121 tatgtgccta aaaggctgcc acagtttaaa aatctggtta aatacagtga tgtctgagca
+      181 aattatttaa ataagcaaaa ctttcaacaa cggatctctt ggttccggca tcgatgaaga
+      241 acgcagcgaa atgcgataag taatgtggac cgcagtactc agcgactcat cgaatctttg
+      301 aacgcacatt gcgccccttg gtgtccccaa agggcacacc tgttcgagcg tcatcaagca
+      361 ttgcatcagg ctaagggccc ggcttgcgtt gggctttttc tatctatgga aaggtcttaa
+      421 aatcagtggc tgttaagtta ggcattccag cgtagtgatt atattagctg ttgaaatatc
+      481 tttttacaat aacagtcaac atgtccaagg tttctgctgg cggagacctg gttggattta
+      541 ctatcaaata ttgacctcgg atcaggtgag gatacccgct gaatttaa
+//
+
+LOCUS       JX195308                 589 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK430 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195308
+VERSION     JX195308.1  GI:472179902
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK430"
+                     /db_xref="taxon:162005"
+     rRNA            <1..11
+                     /product="18S ribosomal RNA"
+     misc_RNA        12..201
+                     /product="internal transcribed spacer 1"
+     rRNA            202..353
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        354..551
+                     /product="internal transcribed spacer 2"
+     rRNA            552..>589
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aaggatcatt aatgaggggc gtgtgggctt aatatcccca cgaaccctaa tcctttgttt
+       61 actgccccag tgtggtttac ttgggttcgg tttggcttcc cgttttctta tgggggtctt
+      121 atatgtgccc aaaaggctgc cacagtttaa aaatctggtt aaatacagtg atgtctgagc
+      181 aaattattta aataagcaaa actttcaaca acggatctct tggttccggc atcgatgaag
+      241 aacgcagcga aatgcgataa gtaatgtgga ccgcagtact cagcgactca tcgaatcttt
+      301 gaacgcacat tgcgcccctt ggtgtcccca aagggcacac ctgttcgagc gtcatcaagc
+      361 attgcatcag gctaagggcc cggcttgcgt tgggcttttt ctatctatgg aaaggtctta
+      421 aaatcagtgg ctgttaagtt aggcattcca gcgtagtgat tatattagct gttgaaatat
+      481 ctttttacaa taacagtcaa catgtccaag gtttctgctg gcggagacct ggttggattt
+      541 actatcaaat attgacctcg gatcaggtga ggatacccgc tgaatttaa
+//
+
+LOCUS       JX195304                 609 bp    DNA     linear   PLN 02-MAY-2013
+DEFINITION  Peltigera praetextata isolate UK525c 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX195304
+VERSION     JX195304.1  GI:472179898
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Lichen species identity and diversity of cyanobacterial toxins in
+            symbiosis
+  JOURNAL   New Phytol. 198 (3), 647-651 (2013)
+   PUBMED   23461682
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Biosciences, University of Helsinki,
+            Viikinkaari 1, Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /isolate="UK525c"
+                     /db_xref="taxon:162005"
+                     /note="A. Frisch 10/Jp5"
+     rRNA            <1..32
+                     /product="18S ribosomal RNA"
+     misc_RNA        33..221
+                     /product="internal transcribed spacer 1"
+     rRNA            222..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        374..571
+                     /product="internal transcribed spacer 2"
+     rRNA            572..>609
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taatgagggc gtgtgggctt aatatcccca
+       61 cgaaccctaa tcctttgttt actgccccag tgtggtttac ttgggttcgg tttggcttcc
+      121 cgttttctta tgggggtctt atatgtgccc aaaaggctgc cacagtttaa aaatctggtt
+      181 aaatacaatg atgtctgagc aaattattta aataagcaaa actttcaaca acggatctct
+      241 tggttccggc atcgatgaag aacgcagcga aatgcgataa gtaatgtgga ccgcagtact
+      301 cagcgactca tcgaatcttt gaacgcacat tgcgcccctt ggtgtcccca aagggcacac
+      361 ctgttcgagc gtcatcaagc attgcatcag gctaagggcc cggcttgcgt tgggcttttt
+      421 ctatctatgg aaaggtctta aaatcagtgg ctgttaagtt aggcattcca gcgtagtgat
+      481 tatattagct gttgaaatat ctttttacaa taacagtcaa catgtccaag gtttctgctg
+      541 gcggagacct ggttggattt actatcaaat attgacctcg gatcaggtga ggatacccgc
+      601 tgaatttaa
+//
+
+LOCUS       FJ708905                 572 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera praetextata strain HOB030611-0-0-5 18S ribosomal RNA
+            gene, partial sequence; and internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   FJ708905
+VERSION     FJ708905.1  GI:255347239
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 572)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 572)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..572
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /strain="HOB030611-0-0-5"
+                     /db_xref="taxon:162005"
+                     /haplotype="01"
+                     /collection_date="11-Jun-2003"
+     rRNA            <1..61
+                     /product="18S ribosomal RNA"
+     misc_RNA        62..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..342
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        343..572
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggc ttaatatccc
+       61 cacgaaccct aatcctttgt ttactgcccc agtgtggttt acttgggttc ggtttggctt
+      121 cccgttttct tatgggggtc ttatatgtgc ccaaaaggct gccacagttt aaaaatctgg
+      181 ttaaatacag tgatgtctga gcaaattatt taaataagca aaactttcaa caacggatct
+      241 cttggttccg gcatcgatga agaacgcagc gaaatgcgat aagtaatgtg gaccgcagta
+      301 ctcagcgact catcgaatct ttgaacgcat attgcgcccc ttggtgtccc caaagggcac
+      361 acctgttcga gcgtcatcaa gcattgcatc aggctaaggg cccggcttgc gttgggcttt
+      421 ttctatctat ggaaaggtct taaaatcagt ggctgttaag ttaggcattc cagcgtagtg
+      481 attatattag ctgttgaaat atctttttac aataacagtc aacatgtcca aggtttctgc
+      541 tggcggagac ctggttggat ttactatcaa at
+//
+
+LOCUS       FJ708904                 572 bp    DNA     linear   PLN 10-AUG-2009
+DEFINITION  Peltigera praetextata strain HOB020708-31-9-2 18S ribosomal RNA
+            gene, partial sequence; and internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   FJ708904
+VERSION     FJ708904.1  GI:255347238
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 572)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing reproductive isolation in highly diverse communities of
+            the lichen-forming fungal genus peltigera
+  JOURNAL   Evolution 63 (8), 2076-2086 (2009)
+   PUBMED   19453383
+REFERENCE   2  (bases 1 to 572)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2009) Biology, Duke University, Campus Box 90338,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..572
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /strain="HOB020708-31-9-2"
+                     /db_xref="taxon:162005"
+                     /haplotype="01"
+                     /collection_date="08-Jul-2002"
+     rRNA            <1..61
+                     /product="18S ribosomal RNA"
+     misc_RNA        62..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..342
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        343..572
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ggtttccgta ggtgaacctg cggaaggatc attaatgagg gcgtgtgggc ttaatatccc
+       61 cacgaaccct aatcctttgt ttactgcccc agtgtggttt acttgggttc ggtttggctt
+      121 cccgttttct tatgggggtc ttatatgtgc ccaaaaggct gccacagttt aaaaatctgg
+      181 ttaaatacag tgatgtctga gcaaattatt taaataagca aaactttcaa caacggatct
+      241 cttggttccg gcatcgatga agaacgcagc gaaatgcgat aagtaatgtg gaccgcagta
+      301 ctcagcgact catcgaatct ttgaacgcat attgcgcccc ttggtgtccc caaagggcac
+      361 acctgttcga gcgtcatcaa gcattgcatc aggctaaggg cccggcttgc gttgggcttt
+      421 ttctatctat ggaaaggtct taaaatcagt ggctgttaag ttaggcattc cagcgtagtg
+      481 attatattag ctgttgaaat atctttttac aataacagtc aacatgtcca aggtttctgc
+      541 tggcggagac ctggttggat ttactatcaa at
+//
+
+LOCUS       AY257900                 538 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera cinnamomea internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257900
+VERSION     AY257900.1  GI:32364210
+KEYWORDS    .
+SOURCE      Peltigera cinnamomea
+  ORGANISM  Peltigera cinnamomea
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Peltigera cinnamomea"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Goward 82-1416 (UBC)"
+                     /db_xref="taxon:161980"
+     misc_RNA        1..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..346
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        347..538
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcct gtgggcttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca ttccaaggtt tctgctggcg gagacctggt tggatttact atcaaata
+//
+
+LOCUS       GQ292463                 538 bp    DNA     linear   PLN 27-OCT-2009
+DEFINITION  Peltigera praetextata voucher Hur 041419 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   GQ292463
+VERSION     GQ292463.1  GI:261862403
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Wei,X.L. and Hur,J.-S.
+  TITLE     Taxonomic study on Peltigera of Korea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Wei,X.L. and Hur,J.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2009) Environmental Education, Sunchon National
+            University, 315 Maegok, Sunchun, Jeollanamdo 540-742, Korea
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Hur 041419"
+                     /db_xref="taxon:162005"
+     misc_RNA        <1..184
+                     /product="internal transcribed spacer 1"
+     rRNA            185..342
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        343..>538
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatcccaaaa accctaatcc tttgtttact gccccagtgt
+       61 ggtttacttg ggttcggttt ggcttcccgt tttcttatgg gggtcttata tgtgcccaaa
+      121 aggctgccac agtttaaaaa tctggttaaa tacaatgatg tctgagcaaa ttatttaaat
+      181 aagcaaaact ttcaacaacg gatctcttgg ttccggcatc gatgaagaac gcagcgaaat
+      241 gcgataagta atgtggaccg cagtactcag cgactcatcg aatctttgaa cgcacattgc
+      301 gccccttggt gtccccaaag ggcacacctg ttcgagcgtc atcaagcatt gcatcaggct
+      361 aagggcccgg cttgcgttgg gctttttcta tctatggaaa ggtcttaaaa tcagtggctg
+      421 ttaagttagg cattccagcg tagtgattat attagctgtt gaaatatctt tttacaataa
+      481 cagtcaacat gtccaaggtt tctgctggcg gagacctggt tggatttact atcaaata
+//
+
+LOCUS       GQ292454                 538 bp    DNA     linear   PLN 27-OCT-2009
+DEFINITION  Peltigera praetextata voucher Hur 060473 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   GQ292454
+VERSION     GQ292454.1  GI:261862394
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Wei,X.L. and Hur,J.-S.
+  TITLE     Taxonomic study on Peltigera of Korea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Wei,X.L. and Hur,J.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2009) Environmental Education, Sunchon National
+            University, 315 Maegok, Sunchun, Jeollanamdo 540-742, Korea
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Hur 060473"
+                     /db_xref="taxon:162005"
+     rRNA            <1..26
+                     /product="18S ribosomal RNA"
+     misc_RNA        27..184
+                     /product="internal transcribed spacer 1"
+     rRNA            185..342
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        343..>538
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atgagggcgt gtgggcttaa tatcccaaaa accctaatcc tttgtttact gccccagtgt
+       61 ggtttacttg ggttcggttt ggcttcccgt tttcttatgg gggtcttata tgtgcccaaa
+      121 aggctgccac agtttaaaaa tctggttaaa tacaatgatg tctgagcaaa ttatttaaat
+      181 aagcaaaact ttcaacaacg gatctcttgg ttccggcatc gatgaagaac gcagcgaaat
+      241 gcgataagta atgtggaccg cagtactcag cgactcatcg aatctttgaa cgcacattgc
+      301 gccccttggt gtccccaaag ggcacacctg ttcgagcgtc atcaagcatt gcatcaggct
+      361 aagggcccgg cttgcgttgg gctttttcta tctatggaaa ggtcttaaaa tcagtggctg
+      421 ttaagttagg cattccagcg tagtgattat attagctgtt gaaatatctt tttacaataa
+      481 cagtcaacat gtccaaggtt tctgctggcg gagacctggt tggatttact atcaaata
+//
+
+LOCUS       AY257943                 539 bp    DNA     linear   PLN 05-MAR-2004
+DEFINITION  Peltigera praetextata internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, and internal transcribed spacer 2, complete sequence.
+ACCESSION   AY257943
+VERSION     AY257943.1  GI:32364245
+KEYWORDS    .
+SOURCE      Peltigera praetextata
+  ORGANISM  Peltigera praetextata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; Lecanoromycetidae; Peltigerales; Peltigerineae;
+            Peltigeraceae; Peltigera.
+REFERENCE   1  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     New approach to an old problem: Incorporating signal from gap-rich
+            regions of ITS and rDNA large subunit into phylogenetic analyses to
+            resolve the Peltigera canina species complex
+  JOURNAL   Mycologia 95 (6), 1181-1203 (2003)
+   PUBMED   21149020
+REFERENCE   2  (bases 1 to 539)
+  AUTHORS   Miadlikowska,J., Lutzoni,F., Goward,T., Zoller,S. and Posada,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2003) Biology, Duke University, Science Drive
+            139, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..539
+                     /organism="Peltigera praetextata"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Cieslinski 1208 (KTC)"
+                     /db_xref="taxon:162005"
+     misc_RNA        1..187
+                     /product="internal transcribed spacer 1"
+     rRNA            188..346
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        347..539
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 atganngcgt ntnggnttaa tatccccacg aaccctaatc ctttgtttac tgccccagtg
+       61 tggtttactt gggttcggtt tggcttcccg ttttcttatg ggggtcttat atgtgcccaa
+      121 aaggctgcca cagtttaaaa atctggttaa atacagtgat gtctgagcaa attatttaaa
+      181 taagcaaaac tttcaacaac ggatctcttg gttccggcat cgatgaagaa cgcagcgaaa
+      241 tgcgataagt aatgtggacc gcagtactca gcgactcatc gaatctttga acgcacattg
+      301 cgccccttgg tgtccccaaa gggcacacct gttcgagcgt catcaagcat tgcatcaggc
+      361 taagggcccg gcttgcgttg ggctttttct atctatggaa aggtcttaaa atcagtggct
+      421 gttaagttag gcattccagc gtagtgatta tattagctgt tgaaatatct ttttacaata
+      481 acagtcaaca tgtccaaggt ttctgctggc ggaaacctgg ttggatttac tatcaaata
+//
+

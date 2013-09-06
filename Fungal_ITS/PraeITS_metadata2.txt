@@ -1,0 +1,49 @@
+AY257900	UNIQUE	IN TREE	NA	Peltigera cinnamomea	 	British Columbia, liard river hotsprings 	WNA	Miadlikowska	Mycologia 95 (6), 1181-1203 (2003)	21149020
+AY257914	Group 000	REDUNDANT	NA	Peltigera latopraetextata	 	British Columbia, marble canyon prov. Park	WNA	Miadlikowska	Mycologia 95 (6), 1181-1203 (2003)	21149020
+AY257943	UNIQUE	IN TREE	NA	Peltigera praetextata	 	Poland	Europe	Miadlikowska	Mycologia 95 (6), 1181-1203 (2003)	21149020
+AY257944	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Poland	Europe	Miadlikowska	Mycologia 95 (6), 1181-1203 (2003)	21149020
+AY257945	Group 000	REDUNDANT	NA	Peltigera praetextata	 	France	Europe	Miadlikowska	Mycologia 95 (6), 1181-1203 (2003)	21149020
+AY257947	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Canada		Miadlikowska	Mycologia 95 (6), 1181-1203 (2003)	21149020
+FJ708904	UNIQUE	IN TREE	NA	Peltigera praetextata	HOB020708-31-9-2	British Columbia, Spahats Creek	WNA	O'Brien	Evolution 63 (8), 2076-2086 (2009)	19453383
+FJ708905	Group 003	IN TREE	NA	Peltigera praetextata	HOB030611-0-0-5	British Columbia, Battle Creek	WNA	O'Brien	Evolution 63 (8), 2076-2086 (2009)	19453383
+FJ708906	Group 000	REDUNDANT	NA	Peltigera praetextata	HOB030611-0-5-8	British Columbia, Battle Creek	WNA	O'Brien	Evolution 63 (8), 2076-2086 (2009)	19453383
+GQ292454	Group 002	IN TREE	NA	Peltigera praetextata	 	Korea	Asia	Wei	Unpublished	 
+GQ292463	Group 002	REDUNDANT	NA	Peltigera praetextata	 	Korea	Asia	Wei	Unpublished	 
+HM448797	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland	Europe	Fedrowitz	Bryologist 114 (1), 220-230 (2011)	 
+JX195304	Group 007	IN TREE	NA	Peltigera praetextata	 	Japan, Hokkaido	Asia	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195305	Group 000	REDUNDANT	NA	Peltigera praetextata	 	China, Hunan	Asia	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195306	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland, Mikkeli	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195307	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland, Mikkeli	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195308	UNIQUE	IN TREE	NA	Peltigera praetextata	 	Finland, Mikkeli	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195309	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland, Saarijärvi	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195310	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland, Saarijärvi	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195311	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland, Saarijärvi	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195312	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Finland, Kuhmo	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195313	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Norway, Vestfold	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195314	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Norway, Vestfold	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195315	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Braemar	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195316	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195317	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195318	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195319	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195320	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195321	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195322	Group 000	IN TREE	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195323	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195324	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195325	UNIQUE	IN TREE	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195326	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195327	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195328	Group 000	REDUNDANT	NA	Peltigera praetextata	 	Scotland, Kindrogan	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195329	Group 001	IN TREE	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+JX195330	Group 001	REDUNDANT	NA	Peltigera praetextata	 	Scotland, East Perthshire	Europe	Kaasalainen	New Phytol. 198 (3), 647-651 (2013)	23461682
+KC437648	Group 000	REDUNDANT	NA	Peltigera praetextata	HOB030611-5-10-7	British Columbia, Battle Creek	WNA	O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+KC437650	Group 000	REDUNDANT	NA	Peltigera praetextata	HOB030611-5-10-8	British Columbia, Battle Creek	WNA	O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441
+prae02	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae03	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae04	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae05	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae06	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae07	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae08	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
+prae09	NA	REDUNDANT	NA	Peltigera praetextata		Ontario	ENA	Anstette	Unpublished	
