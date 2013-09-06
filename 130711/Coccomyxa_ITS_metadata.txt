@@ -1,77 +1,77 @@
-AB260896	Group 007	IN TREE	Paramecium bursaria	Trebouxiophyceae		 	 	Hoshina	Protist 159 (1), 53-63 (2008)	17936071
-AY293932	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.		C12	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293933	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.		C18	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293934	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.		C10	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293935	UNIQUE	IN TREE	Omphalina luteovitellina	Coccomyxa sp.		C1	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293936	UNIQUE	IN TREE	Omphalina grisella	Coccomyxa sp.		C13	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293937	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.		C6	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293938	Group 001	IN TREE	Omphalina ericetorum	Coccomyxa sp.		C8	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293939	UNIQUE	IN TREE	Omphalina velutina	Coccomyxa sp.		C15	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293940	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.		C2	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293941	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.		C4	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293942	Group 000	REDUNDANT	Omphalina ericetorum	Coccomyxa sp.		C5	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293943	Group 001	REDUNDANT	Omphalina sp.	Coccomyxa sp.		C7	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293944	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.		C9	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293945	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.		C19	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293946	UNIQUE	IN TREE	Omphalina grisella	Coccomyxa sp.		C20	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293947	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.		C16	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293948	Group 000	IN TREE	Omphalina hudsoniana	Coccomyxa sp.		C14	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293964	UNIQUE	IN TREE	Peltigera leucophlebia	Coccomyxa peltigerae-variolosae		UTEX 271	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293965	UNIQUE	IN TREE	Solorina crocea	Coccomyxa solorinae-croceae		UTEX 276	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293966	UNIQUE	IN TREE	Solorina bispora	Coccomyxa solorinae-bisporae		UTEX 275	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293967	UNIQUE	IN TREE	Solorina saccata	Coccomyxa solorinae-saccatae		UTEX 277	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY293968	UNIQUE	IN TREE	Lake Geneva	Coccomyxa chodatii		UTEX 266	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY328522	UNIQUE	IN TREE	Peltigera aphthosa	Coccomyxa peltigerae		SAG 216-5	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY328523	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa subellipsoidea		SAG 216-13	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY328524	UNIQUE	IN TREE	Free-living	Coccomyxa rayssiae		SAG 216-8	 	Zoller	Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)	14615198
-AY333650	UNIQUE	IN TREE	Peltigera britannica	Trebouxiophyceae		Rikkinen 98A16	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-FN298926	UNIQUE	IN TREE	Paramecium bursaria	Pseudococcomyxa simplex		SAG 216-9a	 	Proschold	Environ. Microbiol. 13 (2), 350-364 (2011)	20874732
-FN298927	Group 007	REDUNDANT	Paramecium bursaria	Coccomyxa sp.		CCAP 216/24	 	Proschold	Environ. Microbiol. 13 (2), 350-364 (2011)	20874732
-FN298928	UNIQUE	IN TREE	Stentor amethystinus	Coccomyxa sp.		CCAP 211/97	 	Proschold	Environ. Microbiol. 13 (2), 350-364 (2011)	20874732
-HE586504	UNIQUE	IN TREE	Paramecium bursaria	Pseudococcomyxa simplex		CAUP H 102	 	Nemjova	Unpublished	 
-HE586510	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586511	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586513	UNIQUE	IN TREE	Peltigera aphthosa	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586515	Group 032	IN TREE	tree bark	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586517	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586518	UNIQUE	IN TREE	limestone	Choricystis sp.		GSE4G	 	Nemjova	Unpublished	 
-HE586520	UNIQUE	IN TREE	wet sandstone rocks	Pseudococcomyxa simplex		CAUP H 103	 	Nemjova	Unpublished	 
-HE586521	UNIQUE	IN TREE	wet sandstone rocks	Pseudococcomyxa simplex		CAUP H 103	 	Nemjova	Unpublished	 
-HE586524	UNIQUE	IN TREE	Unknown	Paradoxia multiseta		UTEX LB 2460	 	Nemjova	Unpublished	 
-HE586525	UNIQUE	IN TREE	Unknown	PseudoCoccomyxa sp.	KN-2011-C15 816	 	Nemjova	Unpublished	 
-HE586526	UNIQUE	IN TREE	Unknown	PseudoCoccomyxa sp.	KN-2011-C15 816	 	Nemjova	Unpublished	 
-HE586527	UNIQUE	IN TREE	soil in spring area	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586540	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586541	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586542	UNIQUE	IN TREE	Solorina birae	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586543	UNIQUE	IN TREE	Solorina crocea	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586544	UNIQUE	IN TREE	Solorina saccata	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586545	UNIQUE	IN TREE	Peltigera leucophlebia	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586550	Group 032	REDUNDANT	tree bark	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586551	UNIQUE	IN TREE	tree bark	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586552	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586553	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586554	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586555	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586556	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
-HE586557	UNIQUE	IN TREE	soil	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 
+AB260896	Group 007	IN TREE	Paramecium bursaria	Trebouxiophyceae		 	 	Hoshina	"Protist 159 (1), 53-63 (2008)"	17936071
+AY293932	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.	C12		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293933	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.	C18		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293934	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.	C10		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293935	UNIQUE	IN TREE	Omphalina luteovitellina	Coccomyxa sp.	C1		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293936	UNIQUE	IN TREE	Omphalina grisella	Coccomyxa sp.	C13		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293937	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.	C6		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293938	Group 001	IN TREE	Omphalina ericetorum	Coccomyxa sp.	C8		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293939	UNIQUE	IN TREE	Omphalina velutina	Coccomyxa sp.	C15		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293940	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.	C2		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293941	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.	C4		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293942	Group 000	REDUNDANT	Omphalina ericetorum	Coccomyxa sp.	C5		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293943	Group 001	REDUNDANT	Omphalina sp.	Coccomyxa sp.	C7		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293944	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.	C9		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293945	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa sp.	C19		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293946	UNIQUE	IN TREE	Omphalina grisella	Coccomyxa sp.	C20		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293947	UNIQUE	IN TREE	Omphalina hudsoniana	Coccomyxa sp.	C16		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293948	Group 000	IN TREE	Omphalina hudsoniana	Coccomyxa sp.	C14		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293964	UNIQUE	IN TREE	Peltigera leucophlebia	Coccomyxa peltigerae-variolosae	UTEX 271		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293965	UNIQUE	IN TREE	Solorina crocea	Coccomyxa solorinae-croceae	UTEX 276		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293966	UNIQUE	IN TREE	Solorina bispora	Coccomyxa solorinae-bisporae	UTEX 275		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293967	UNIQUE	IN TREE	Solorina saccata	Coccomyxa solorinae-saccatae	UTEX 277		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY293968	UNIQUE	IN TREE	Lake Geneva	Coccomyxa chodatii	UTEX 266		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY328522	UNIQUE	IN TREE	Peltigera aphthosa	Coccomyxa peltigerae	SAG 216-5		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY328523	UNIQUE	IN TREE	Omphalina ericetorum	Coccomyxa subellipsoidea	SAG 216-13		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY328524	UNIQUE	IN TREE	Free-living	Coccomyxa rayssiae	SAG 216-8		 	Zoller	"Mol. Phylogenet. Evol. 29 (3), 629-640 (2003)"	14615198
+AY333650	UNIQUE	IN TREE	Peltigera britannica	Trebouxiophyceae	Rikkinen 98A16		 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+FN298926	UNIQUE	IN TREE	Paramecium bursaria	Pseudococcomyxa simplex	SAG 216-9a		 	Proschold	"Environ. Microbiol. 13 (2), 350-364 (2011)"	20874732
+FN298927	Group 007	REDUNDANT	Paramecium bursaria	Coccomyxa sp.	CCAP 216/24		 	Proschold	"Environ. Microbiol. 13 (2), 350-364 (2011)"	20874732
+FN298928	UNIQUE	IN TREE	Stentor amethystinus	Coccomyxa sp.	CCAP 211/97		 	Proschold	"Environ. Microbiol. 13 (2), 350-364 (2011)"	20874732
+HE586504	UNIQUE	IN TREE	Paramecium bursaria	Pseudococcomyxa simplex	CAUP H 102		 	Nemjova	Unpublished	 
+HE586510	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586511	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586513	UNIQUE	IN TREE	Peltigera aphthosa	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586515	Group 032	IN TREE	tree bark	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586517	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586518	UNIQUE	IN TREE	limestone	Choricystis sp.	GSE4G		 	Nemjova	Unpublished	 
+HE586520	UNIQUE	IN TREE	wet sandstone rocks	Pseudococcomyxa simplex	CAUP H 103		 	Nemjova	Unpublished	 
+HE586521	UNIQUE	IN TREE	wet sandstone rocks	Pseudococcomyxa simplex	CAUP H 103		 	Nemjova	Unpublished	 
+HE586524	UNIQUE	IN TREE	Unknown	Paradoxia multiseta	UTEX LB 2460		 	Nemjova	Unpublished	 
+HE586525	UNIQUE	IN TREE	Unknown	PseudoCoccomyxa sp.	KN-2011-C15 816	 	Nemjova	Unpublished	 	
+HE586526	UNIQUE	IN TREE	Unknown	PseudoCoccomyxa sp.	KN-2011-C15 816	 	Nemjova	Unpublished	 	
+HE586527	UNIQUE	IN TREE	soil in spring area	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586540	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586541	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586542	UNIQUE	IN TREE	Solorina birae	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586543	UNIQUE	IN TREE	Solorina crocea	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586544	UNIQUE	IN TREE	Solorina saccata	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586545	UNIQUE	IN TREE	Peltigera leucophlebia	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586550	Group 032	REDUNDANT	tree bark	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586551	UNIQUE	IN TREE	tree bark	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586552	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586553	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586554	UNIQUE	IN TREE	mucilaginous overgrow on rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586555	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586556	UNIQUE	IN TREE	rotting wood	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
+HE586557	UNIQUE	IN TREE	soil	Coccomyxa sp.	KN-2011-C15	 	Nemjova	Unpublished	 	
 HQ335215	UNIQUE	IN TREE	unknown	Coccomyxa sp.	S2	 	 	Zhang	Unpublished	 
 HQ335216	UNIQUE	IN TREE	unknown	Coccomyxa sp.	S10	 	 	Zhang	Unpublished	 
-AY333647	Group 004	IN TREE	Nephroma arcticum	Trebouxiophyceae		Wehr 59	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_1	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_2	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_3	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_4	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_5	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_6	Group 004	REDUNDANT	Nephroma expallidum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_7	Group 004	REDUNDANT	Peltigera aphthosa	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_8	Group 004	REDUNDANT	Peltigera aphthosa	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_9	Group 004	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333647_10	Group 004	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333648	Group 002	IN TREE	Nephroma arcticum	Trebouxiophyceae		Rikkinen 004009	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333648_1	Group 002	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333648_2	Group 002	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333648_3	Group 002	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333649	Group 003	IN TREE	Nephroma expallidum	Trebouxiophyceae		Ulvinen 15 July 1999	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333649_1	Group 003	REDUNDANT	Peltigera aphthosa	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333649_2	Group 003	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
+AY333647	Group 004	IN TREE	Nephroma arcticum	Trebouxiophyceae	Wehr 59		 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_1	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_2	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_3	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_4	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_5	Group 004	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_6	Group 004	REDUNDANT	Nephroma expallidum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_7	Group 004	REDUNDANT	Peltigera aphthosa	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_8	Group 004	REDUNDANT	Peltigera aphthosa	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_9	Group 004	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333647_10	Group 004	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333648	Group 002	IN TREE	Nephroma arcticum	Trebouxiophyceae	Rikkinen 004009		 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333648_1	Group 002	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333648_2	Group 002	REDUNDANT	Nephroma arcticum	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333648_3	Group 002	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333649	Group 003	IN TREE	Nephroma expallidum	Trebouxiophyceae	Ulvinen 15 July 1999		 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333649_1	Group 003	REDUNDANT	Peltigera aphthosa	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
+AY333649_2	Group 003	REDUNDANT	Peltigera leucophlebia	Trebouxiophyceae			 	Lohtander	"Lichenologist (Lond.) 35 (4), 325-339 (2003)"	 
