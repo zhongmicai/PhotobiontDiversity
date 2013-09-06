@@ -60,7 +60,10 @@ def GetGroups(file):
   with open(file, 'rU') as f:
     reader=csv.reader(f,delimiter='\t')
     for type, group, length, percent_id, strand, x1, x2, aln, query, hit in reader:
-      accession = string.split(string.split(query,"|")[3], ".")[0]
+      if "|" in query:
+        query = string.split(query,"|")[3]
+      if "." in query:
+        accession = string.split(query,".")[0]
       if type == 'S': representatives[accession] = int(group)
       elif type == 'H': groups[accession] = int(group)
   return groups, representatives
