@@ -57,3 +57,5 @@ cat Asterochloris_ITS.phy_phyml_tree.txt | ../Scripts/AddMetadata.pl Asterochlor
 ../Scripts/ColourTree.pl Asterochloris_ITS_host.nwk genus >Asterochloris_ITS_host_col.nwk
 
 mv Asterochloris_ITS_metadata2.txt Asterochloris_ITS_metadata.txt
+
+mv Asterochloris_ITS.phy_phyml_tree.txt Asterochloris_ITS.nwk
