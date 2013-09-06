@@ -70,9 +70,9 @@ wc -l Nostoc_rbcX_metadata2.txt
 
 (731)
 
-../Scripts/GetGroups.py -g Nostoc_rbcX_groups.txt -m Nostoc_rbcX_metadata2.txt >Nostoc_rbcX_metadata.txt 
-
 usearch -cluster_fast Nostoc_rbcX.fa -id 1 -centroids Nostoc_rbcX_nr.fa -uc Nostoc_rbcX_groups.txt
+
+../Scripts/GetGroups.py -g Nostoc_rbcX_groups.txt -m Nostoc_rbcX_metadata2.txt >Nostoc_rbcX_metadata.txt
  
 perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Nostoc_rbcX_nr.fa
 
