@@ -249,7 +249,7 @@ EU683444	UNIQUE	IN TREE	Flavoparmelia caperata	Trebouxia sp.
 EU717915	UNIQUE	IN TREE	Flavoparmelia caperata	Trebouxia sp.
 EU717918	UNIQUE	IN TREE	Flavoparmelia caperata	Trebouxia gelatinosa
 AJ249575	UNIQUE	IN TREE	Flavoparmelia subrudecta	Trebouxia gelatinosa
-AJ293783	Group 60	REDUNDANT	from Buellia georgei	Trebouxia sp.
+AJ293783	Group 60	REDUNDANT	Buellia georgei	Trebouxia sp.
 AF344176	Group 41	IN TREE	Fulgensia fulgida	Trebouxia asymmetrica
 AF344175	Group 41	REDUNDANT	Fulgensia fulgida	Trebouxia asymmetrica
 JN204748	Group 213	REDUNDANT	fungal sp.	Trebouxia jamesii
@@ -724,8 +724,8 @@ FJ170747	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
 FJ170750	Group 196	IN TREE	Letharia vulpina	Trebouxia jamesii
 FJ170755	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
 FJ170756	UNIQUE	IN TREE	Letharia vulpina	Trebouxia jamesii
-AF534385	Group 16	REDUNDANT	lichen Lecanora rupicola	Trebouxia sp.
-AF534386	Group 16	IN TREE	lichen Rimularia insularis	Trebouxia sp.
+AF534385	Group 16	REDUNDANT	Lecanora rupicola	Trebouxia sp.
+AF534386	Group 16	IN TREE	Rimularia insularis	Trebouxia sp.
 AJ249576	Group 120	IN TREE	Melanelia glabra	Trebouxia impressa
 HQ026223	UNIQUE	IN TREE	Parmelia squarrosa	Trebouxia sp.
 HQ026225	Group 176	REDUNDANT	Parmelia squarrosa	Trebouxia sp.
@@ -930,7 +930,7 @@ AJ293779	UNIQUE	IN TREE	Physconia perisidiosa	Trebouxia sp.
 EU795076	UNIQUE	IN TREE	Physconia servitii	Trebouxia sp.
 JX036214	Group 20	REDUNDANT	Polysporina frigida	Trebouxia sp.
 JX036190	Group 20	REDUNDANT	Polysporina sp.	Trebouxia sp.
-AY804022	Group 28	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
+AY804022	Group 28	REDUNDANT	Lecanora muralis	Trebouxia sp.
 DQ133475	Group 43	IN TREE	Protoparmeliopsis muralis	Trebouxia sp.
 DQ133479	Group 43	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
 AY804023	Group 5	REDUNDANT	Protoparmeliopsis muralis	Trebouxia sp.
