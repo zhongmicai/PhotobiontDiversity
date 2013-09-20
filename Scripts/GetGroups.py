@@ -64,6 +64,8 @@ def GetGroups(file):
         query = string.split(query,"|")[3]
       if "." in query:
         accession = string.split(query,".")[0]
+      else:
+        accession = query
       if type == 'S': representatives[accession] = int(group)
       elif type == 'H': groups[accession] = int(group)
   return groups, representatives
