@@ -1,0 +1,29 @@
+cat Cyano16S_acc.txt |../Scripts/GetGB.pl Cyano16S.gbk heath.obrien@gmail.com
+
+../Scripts/ParseHost.pl Cyano16S.gbk >Cyano16S_metadata.txt
+
+../Scripts/ConvertSeq.pl -i Cyano16S.gbk -f fasta
+
+usearch -cluster_fast Cyano16S.fa -id 1 -centroids Cyano16S_nr.fa -uc Cyano16S_groups.txt
+
+../Scripts/GetGroups.py -g Cyano16S_greoups.txt -m Cyano16S_metadata.txt >Cyano16S_metadata2.txt
+ 
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Cyano16S_nr.fa
+
+mafft Cyano16S_nr.fa >Cyano16S_aln.fa
+
+../Scripts/GetExcluded.pl Cyano16S_aln.fa |pbcopy
+
+trimal -in Cyano16S_aln.fa -phylip -select `pbpaste` >Cyano16S.phy
+
+phyml -i Cyano16S.phy
+
+../Scripts/AddSig.pl Cyano16S.phy_phyml_tree.nwk >Cyano16S.nwk
+
+cat Cyano16S.nwk | ../Scripts/AddMetadata.pl Cyano16S_metadata2.txt host >Cyano16S_host.nwk
+
+no representatives sequences in tree for Group 070
+no representatives sequences in tree for NA
+
+../Scripts/ColourTree.pl Nostoc_rbcX_host family >Nostoc_rbcX_host_col.nwk
+
