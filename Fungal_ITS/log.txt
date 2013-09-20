@@ -46,6 +46,8 @@ phyml -i PraeITS.phy
 
 need to find prae09 (or reconstruct from haplotye network), can04 and evan04
 
+
+
 blastn -query Can06.fa -db nt -evalue 1e-180 -out CanITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
 
 awk '{if ( $16 > 930) print $3}' CanITS.bl > CanITS_acc.txt 
@@ -61,3 +63,12 @@ cat CanITS_acc.txt | ../Scripts/GetGB.pl CanITS.gb heath.obrien@gmail.com
 mafft CanITS.fa >CanITS_aln.fa
 
 ConvertAln.pl -i CanITS_aln.fa -f phyext -o CanITS.phy
+
+[manual trim]
+
+phyml -i CanITS.phy
+
+../Scripts/ParseHost.pl CanITS.gb >CanITS_metadata.txt
+
+
+blastn -query Evan01.fa -db nt -evalue 1e-180 -out EvanITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
