@@ -13,7 +13,8 @@ my $infile = Bio::SeqIO->new('-file' => $infilename,
 while ( my $seq_obj = $infile->next_seq ) {
   if ( $seq_obj->display_id eq 'AJ632030' or $seq_obj->display_id eq 'JQ993758' or 
        $seq_obj->display_id eq 'AF345436' or $seq_obj->display_id eq 'AY293964' or
-       $seq_obj->display_id eq 'JQ617958' or $seq_obj->display_id eq 'FJ534625') {
+       $seq_obj->display_id eq 'JQ617958' or $seq_obj->display_id eq 'FJ534625' or
+       $seq_obj->display_id eq 'JQ007778' ) {
     my $seq = $seq_obj->seq;
     my @starts;
     my @ends;
