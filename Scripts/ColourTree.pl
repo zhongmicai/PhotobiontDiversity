@@ -40,6 +40,7 @@ my %family = ('Collema', 'Collemataceae',
             'Pseudocyphellaria', 'Lobariaceae',
             'Stereocaulon', 'Stereocaulaceae',
             'Sticta', 'Lobariaceae',
+            'Acantholichen', 'Corticiaceae',
             'Acanthothecis', 'Graphidaceae',
             'Acarospora', 'Acarosporaceae',
             'Acrocordia', 'Dothideomycetes incertae sedis',
@@ -57,12 +58,15 @@ my %family = ('Collema', 'Collemataceae',
             'Carbonea', 'Lecanoraceae',
             'Cetraria', 'Parmeliaceae',
             'Chaenotheca', 'Coniocybaceae',
+            'Coccocarpia', 'Coccocarpiaceae',
             'Coenogonium', 'Coenogoniaceae',
             'Cryptothelium', 'Trypetheliaceae',
             'Cryptothecia', 'Arthoniaceae',
             'Cystocoleus', 'Dothideomycetes incertae sedis',
+            'Dendriscocaulon', 'Lobariaceae',
             'Dendrographa', 'Roccellaceae',
             'Dichosporidium', 'Roccellaceae',
+            'Dictyonema', 'Hygrophoraceae',
             'Dimelaena', 'Caliciaceae',
             'Dimerella', 'Coenogoniaceae',
             'Diorygma', 'Graphidaceae',
@@ -134,14 +138,33 @@ my %family = ('Collema', 'Collemataceae',
             'Xanthoparmelia', 'Parmeliaceae',
             'Xanthoria', 'Teloschistaceae',
             'Anthoceros', 'Plant',
+            'Azolla', 'Plant',
             'Blasia', 'Plant',
-            'Cylindrospermum', 'Free-living',
+            'Dioon', 'Plant',
             'Encephalartos', 'Plant',
-            'Geosiphon', 'Other',
+            'Geosiphon', 'Geosiphonaceae',
             'Macrozamia', 'Plant',
-            'Nostoc', 'Free-living',
             'Gunnera', 'Plant',
-            'Cycas', 'Plant'
+            'Cycas', 'Plant',
+            'Stangeria', 'Plant',
+            'Anabaena', 'Free-living',
+            'Anabaenopsis', 'Free-living',
+            'Aphanizomenon', 'Free-living',
+            'Calothrix', 'Free-living',
+            'Cyanospira', 'Free-living',
+            'Cylindrospermopsis', 'Free-living',
+            'Cylindrospermum', 'Free-living',
+            'Dolichospermum', 'Free-living',
+            'Fischerella', 'Free-living',
+            'Gloeotrichia', 'Free-living',
+            'Hapalosiphon', 'Free-living',
+            'Mastigocladus', 'Free-living',
+            'Nodularia', 'Free-living',
+            'Nostoc', 'Free-living',
+            'Nostochopsis', 'Free-living',
+            'Scytonema', 'Free-living',
+            'Trichormus', 'Free-living',
+            'Westiellopsis', 'Free-living'
             );
             
 my %orders = ('Arthoniaceae', 'Arthoniales',
@@ -211,29 +234,35 @@ my %class = ( 'Acarosporomycetidae', 'Lecanoromycetes',
               'Chaetothyriomycetidae', 'Eurotiomycetes',
          );
               
-my %host = ('Collema', 'Lichen',
-            'Degelia', 'Lichen',
-            'Leptogium', 'Lichen',
-            'Lobaria', 'Lichen',
-            'Massalongia', 'Lichen',
-            'Nephroma', 'Lichen',
-            'Pannaria', 'Lichen',
-            'Parmeliella', 'Lichen',
-            'Peltigera', 'Lichen',
-            'Protopannaria', 'Lichen',
-            'Pseudocyphellaria', 'Lichen',
-            'Stereocaulon', 'Lichen',
-            'Sticta', 'Lichen',
-            'Anthoceros', 'Plant',
-            'Blasia', 'Plant',
-            'Cylindrospermum', 'Free-living',
-            'Encephalartos', 'Plant',
-            'Geosiphon', 'Other',
-            'Macrozamia', 'Plant',
-            'Nostoc', 'Free-living',
-            'Gunnera', 'Plant',
-            'Cycas', 'Plant'
-         );
+my %other = ('Anthoceros', 'Plant',
+             'Azolla', 'Plant',
+             'Blasia', 'Plant',
+             'Dioon', 'Plant',
+             'Encephalartos', 'Plant',
+             'Geosiphon', 'Other',
+             'Macrozamia', 'Plant',
+             'Gunnera', 'Plant',
+             'Cycas', 'Plant',
+             'Stangeria', 'Plant',
+             'Anabaena', 'Free-living',
+             'Anabaenopsis', 'Free-living',
+             'Aphanizomenon', 'Free-living',
+             'Calothrix', 'Free-living',
+             'Cyanospira', 'Free-living',
+             'Cylindrospermopsis', 'Free-living',
+             'Cylindrospermum', 'Free-living',
+             'Dolichospermum', 'Free-living',
+             'Fischerella', 'Free-living',
+             'Gloeotrichia', 'Free-living',
+             'Hapalosiphon', 'Free-living',
+             'Mastigocladus', 'Free-living',
+             'Nodularia', 'Free-living',
+             'Nostoc', 'Free-living',
+             'Nostochopsis', 'Free-living',
+             'Scytonema', 'Free-living',
+             'Trichormus', 'Free-living',
+             'Westiellopsis', 'Free-living'
+           );
 
 my %host_colors = ('Plant', '#7CDC00',
                 'Free-living', '#00AAB7',
@@ -242,19 +271,23 @@ my %host_colors = ('Plant', '#7CDC00',
                 );
                 
 
-my %family_colors = ('Collemataceae', '#-16777088', #midnight
-                  'Pannariaceae', '#-39322', #salmon
-                  'Lobariaceae', '#-8372224', #mocha
-                  'unknown', '#000000', #black
-                  'Nephromataceae', '#-32768', #tangarine
-                  'Peltigeraceae', '#-65536', #maraschino
-                  'Stereocaulaceae', '#-3381505', #lavender
-                  'Graphidaceae', '#005C26',  #Dark Green
-                  'Coenogoniaceae', '#-16776961', #blueberry
-                  'Arthoniaceae', '#-65536', #maraschino
-                  'Free-living', '#-16744320', #teal 
-                  'Plant', '#-16744448', #clover
-            );
+my %family_colors = ('Coccocarpiaceae', '#-10040065', #sky
+                     'Collemataceae', '#-16777088', #midnight
+                     'Corticiaceae', '#-8388480', #plum (basidiolichens)
+                     'Geosiphonaceae', '#-8388608', #cayenne
+                     'Hygrophoraceae', '#-8388480', #plum (basidiolichens)
+                     'Pannariaceae', '#-39322', #salmon
+                     'Lobariaceae', '#-8372224', #mocha
+                     'unknown', '#000000', #black
+                     'Nephromataceae', '#-32768', #tangarine
+                     'Peltigeraceae', '#-65536', #maraschino
+                     'Stereocaulaceae', '#-3381505', #lavender
+                     'Graphidaceae', '#005C26',  #Dark Green
+                     'Coenogoniaceae', '#-16776961', #blueberry
+                     'Arthoniaceae', '#-65536', #maraschino
+                     'Free-living', '#-16744320', #teal 
+                     'Plant', '#-16744448', #clover
+                     );
 
 my %class_colors = ( 'Arthoniomycetes', '#FFA500', #orange 
                      'Lecanoromycetes',  '#005C26',  #Dark Green
@@ -355,11 +388,15 @@ sub ColorByGenus {
     my $genus = $1;
     if ( $1 eq 'Group' or $comparison =~ /specialists/i) {next; }
     #print STDERR "??\n";
-    if ( $comparison =~ /host/i ) { 
-      if ( $host{$genus} and $host_colors{$host{$genus}} ) {
-        if ( $group and $group ne $host_colors{$host{$genus}} ) { $multiple = 1; }
-        $group = $host_colors{$host{$genus}}; 
+    if ( $comparison =~ /host/i ) {
+      my $host;
+      if ( $family{$genus} ) { $host = 'Lichen'; }
+      if ( $other{$genus} ) { $host = $other{$genus}; }
+      if ( $host and $host_colors{$host} ) {
+        if ( $group and $group ne $host_colors{$host} ) { $multiple = 1; }
+        $group = $host_colors{$host};
       }
+      else { print STDERR "$genus not included in Lichen families or in other category\n"; }
     }
     elsif ( $comparison =~ /family/i ) { 
       if ( $family{$genus} and $family_colors{$family{$genus}} ) {
