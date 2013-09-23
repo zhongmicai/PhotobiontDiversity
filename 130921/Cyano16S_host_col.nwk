@@ -1,437 +1,437 @@
 #NEXUS
 begin taxa;
 	dimensions ntax=430;
-	taxlabels
-	'Z82784 Microcystis aeruginosa'
-	MAU40338
-	'AY224195 Synechocystis sp.'
-	'AY422695 Gloeothece sp.'
-	'X78680 Gloeothece membranacea'
-	'AJ621832 Chroococcus submarinus'
-	'Group 033 Gloeocapsa sp.[1]'
-	'Y18792 Spirulina sp.'
-	'DQ072918 Gloeothece'
-	'AJ871987 biological soil'
-	'DQ460700 Coleofasciculus chthonoplastes'
-	'DQ914863 Chroococcidiopsis sp.'
-	'AF132779 Calothrix desertica'
-	'Group 164 Scytonema sp.[2]'
-	'AF334698 Scytonema hyalinum'
-	'AF334700 Scytonema hyalinum'
-	'AJ544080 Nostochopsis lobatus'
-	'AJ544222 Westiellopsis sp.'
-	'AB093491 Fischerella sp.'
-	'AB093484 Hapalosiphon delicatulus'
-	'AY034793 Hapalosiphon welwitschii'
-	'EF545603 Mastigocladus sp.'
-	'AB075987 Fischerella thermalis'
-	'AF132788 Fischerella muscicola'
-	'AB039003 Fischerella muscicola'
-	'AF067819 Cylindrospermopsis raciborskii'
-	'AF092504 Cylindrospermopsis raciborskii'
-	'AJ293110 Anabaena cf. cylindrica'
-	'AJ630428 Anabaena oscillarioides'
-	'AM711551 Azolla pinnata subsp. pinnata'
-	'AY742450 Azolla filiculoides'
-	'AM711552 Azolla caroliniana'
-	'AM711550 Azolla rubra'
-	'AJ630458 Anabaena augstumalis'
-	'AF091150 Anabaena cylindrica'
-	'AJ630456 Trichormus variabilis str. HINDAK 2001/4'
-	'AJ630427 Anabaena oscillarioides'
-	'AJ630414 Anabaena cf. cylindrica XP6B'
-	'AJ293119 Anabaena cf. cylindrica'
-	'AJ133154 Aphanizomenon flos-aquae'
-	'AJ133155 Aphanizomenon flos-aquae'
-	'AJ133153 Aphanizomenon sp.'
-	'AJ293130 Aphanizomenon flos-aquae'
-	'AJ293115 Dolichospermum macrosporum'
-	'AF247594 Anabaena solitaria'
-	'AJ630433 Anabaena planctonica'
-	'AF247591 Anabaena affinis'
-	'AB271212 Dolichospermum spiroides'
-	'AJ293129 Aphanizomenon flos-aquae'
-	'DQ264163 Anabaena sigmoidea'
-	'AF247596 Dolichospermum flos-aquae'
-	'AF160256 Anabaena bergii'
-	'AF268009 Nodularia spumigena'
-	'AB075991 Nodularia sp.'
-	'AF268021 Nodularia harveyana'
-	'AM711553 Nodularia sp.'
-	'AM711554 Nodularia harveyana'
-	'AF268018 Nodularia sphaerocarpa'
-	'DQ185243 Nodularia sphaerocarpa'
-	'DQ185241 Nodularia spumigena'
-	'DQ460705 Nodularia spumigena'
-	'AF268020 Nodularia harveyana'
-	'DQ185231 Nodularia harveyana'
-	'AY038033 Anabaenopsis sp.'
-	'AY038036 Cyanospira rippkae'
-	'DQ265950 Stereocaulon exutum'
-	'EU818947 Acantholichen pannarioides'
-	'EU818953 Dictyonema glabratum'
-	'EU818963 Dictyonema schenckianum'
-	'EU818949 Coccocarpia palmicola'
-	'EU818950 Coccocarpia palmicola'
-	'EU818956 Dictyonema glabratum'
-	'DQ265951 Stereocaulon fronduliferum'
-	'EU818955 Dictyonema glabratum'
-	'EU818966 Dictyonema sericeum'
-	'EU818965 Dictyonema schenckianum'
-	'DQ265949 Stereocaulon ramulosum'
-	'EU818964 Dictyonema schenckianum'
-	'EU818952 Dictyonema aeruginosulum'
-	'EU818951 Coccocarpia stellata'
-	'EU818954 Dictyonema glabratum'
-	'EU818959 Dictyonema glabratum'
-	'EU818957 Dictyonema glabratum'
-	'EU818961 Dictyonema interruptum'
-	'EU818948 Coccocarpia filiformis'
-	'EU818958 Dictyonema glabratum'
-	'EU818960 Dictyonema hernandezii'
-	'EU818962 Dictyonema phyllogenum'
-	'AM230705 Gloeotrichia echinulata'
-	'AM230703 Gloeotrichia echinulata'
-	'DQ185207 Peltigera didactyla'
-	'AF506237 Blasia pusilla'
-	'AJ133163 Cylindrospermum stagnale'
-	'AM711543 Nostoc sp.'
-	'AY742454 Gunnera dentata'
-	'AM711523 Nostoc muscorum'
-	'AM711534 Dioon edule'
-	'Group 020 Nostoc muscorum[2]'
-	'AM711549 Nostoc sp.'
-	'AM711533 Cycas revoluta'
-	'AM711532 Cycas circinalis'
-	'AM711541 Gunnera prorepens'
-	'AY742452 Gunnera dentata'
-	'AJ630450 Nostoc ellipsosporum'
-	'AM711529 Nostoc calcicola'
-	'DQ185208 Geosiphon pyriforme'
-	'AJ133161 Nostoc sp.'
-	'DQ265954 Fuscopannaria leucophaea'
-	'AM711522 Anthoceros laevis'
-	'AJ630449 Nostoc edaphicum'
-	'KF142676 Gunnera magellanica'
-	'KF142668 Gunnera magellanica'
-	'KF142678 Gunnera magellanica'
-	'KF142675 Gunnera magellanica'
-	'KF142674 Gunnera magellanica'
-	'KF142677 Gunnera magellanica'
-	'DQ185210 Encephalartos natalensis'
-	'DQ185216 Collema crispum'
-	'AY577537 Nostoc desertorum'
-	'EU178143 Nostoc flagelliforme'
-	'DQ185223 Nostoc commune'
-	'AM711531 Anthoceros laevis'
-	'AF506247 Peltigera praetextata'
-	'AF506246 Nostoc sp.'
-	'Group 000 Peltigera sp.[2] P. neopolydactyla[3] P. membranacea[1] P. degenii[5]'
-	'JQ007814 Peltigera degenii'
-	'EF102281 Peltigera membranacea'
-	'Group 030 Peltigera membranacea[2]'
-	'JQ007816 Peltigera membranacea'
-	'JQ007819 Peltigera neopolydactyla'
-	'JQ007809 Peltigera membranacea'
-	'EF102284 Peltigera neopolydactyla'
-	'DQ185244 Peltigera degenii'
-	'JQ007810 Peltigera degenii'
-	'EF102283 Peltigera neopolydactyla'
-	'DQ265955 Peltigera degenii'
-	'JQ007800 Peltigera sp.'
-	'AY742449 Gunnera prorepens'
-	'AM711539 Gunnera macrophylla'
-	'AF506242 Nostoc sp.'
-	'FJ815304 Peltigera leucophlebia'
-	'FJ815294 Peltigera leucophlebia'
-	'FJ815301 Peltigera leucophlebia'
-	'FJ815291 Peltigera leucophlebia'
-	'AY566855 Pannaria pezizoides'
-	'EU022742 Blasia pusilla'
-	'AY333634 Nephroma arcticum'
-	'Group 026 Peltigera membranacea[2] P. hymenina[1]'
-	'EF102293 Peltigera sp.'
-	'JQ007770 Peltigera membranacea'
-	'AF062638 Nostoc sp.'
-	'DQ185212 Blasia pusilla'
-	'AM711526 Gunnera tinctoria'
-	'Group 014 Gunnera tinctoria[1] G. manicata[1]'
-	'DQ185245 Peltigera didactyla'
-	'DQ185256 Gunnera manicata'
-	'AM711545 Nostoc sp.'
-	'DQ185226 Peltigera membranacea'
-	'DQ185258 Nostoc punctiforme'
-	'DQ265956 Peltigera neopolydactyla'
-	'AB098071 Nostoc commune'
-	'FJ815299 Peltigera leucophlebia'
-	'AM711546 Nostoc sp.'
-	'AF506239 Peltigera pruinosa'
-	'Y12688 Nostoc commune var. flagelliforme'
-	'AM711528 Nostoc sp.'
-	'EF174233 Pannaria andina'
-	'JQ007801 Peltigera sp.'
-	'JN847337 Leptogium gelatinosum'
-	'DQ185232 Leptogium gelatinosum'
-	'JN847347 Leptogium pseudofurfuraceum'
-	'DQ185235 Massalongia carnosa'
-	'AF506241 Nephroma arcticum'
-	'FJ815295 Peltigera leucophlebia'
-	'JQ007769 Peltigera dolichorrhiza'
-	'FJ815305 Peltigera leucophlebia'
-	'AY333637 Nephroma expallidum'
-	'AM711542 Gunnera tinctoria'
-	'EU178144 Nostoc sphaeroides'
-	'AF506243 Peltigera pruinosa'
-	'FJ815298 Peltigera leucophlebia'
-	'Group 242 Protopannaria pezizoides[1] epixylic bryophyte[1]'
-	'AF506240 Peltigera venosa'
-	'DQ265959 Collema flaccidum'
-	'DQ265960 Collema flaccidum'
-	'JQ007762 Peltigera rufescens'
-	'DQ185217 Peltigera rufescens'
-	'DQ185218 Peltigera rufescens'
-	'FJ815293 Peltigera leucophlebia'
-	'DQ185224 Peltigera neopolydactyla'
-	'FJ815306 Peltigera leucophlebia'
-	'Group 404 Peltigera leucophlebia[1] Nostoc sp.[1]'
-	'FJ815297 Peltigera leucophlebia'
-	'FJ815303 Peltigera leucophlebia'
-	'AY333640 Nephroma arcticum'
-	'FJ815314 Peltigera leucophlebia'
-	'AY333638 Nephroma arcticum'
-	'AY328897 Nephroma arcticum'
-	'AY328899 Lobaria pulmonaria'
-	'Group 001 Peltigera collina[9]'
-	'JQ007776 Peltigera collina'
-	'AF506245 Peltigera collina'
-	'JQ007761 Leptogium furfuraceum'
-	'Group 032 Pannaria fulvescens[1] P. elixii[1]'
-	'EF174230 Pannaria elixii'
-	'EF102280 Peltigera malacea'
-	'AY328896 Nephroma expallidum'
-	'AY333642 Nephroma expallidum'
-	'AY333641 Nephroma arcticum'
-	'JQ007764 Nephroma arcticum'
-	'AF506248 Nephroma expallidum'
-	'EF102268 Protopannaria pezizoides'
-	'JQ007763 Nephroma arcticum'
-	'AF506249 Peltigera malacea'
-	'JQ007766 Leptogium lichenoides'
-	'JQ007765 Leptogium lichenoides'
-	'DQ265944 Sticta hypochra'
-	'DQ265945 Sticta hypochra'
-	'Group 376 Pannaria farinosa[1] Sticta hypochra[1]'
-	'DQ265948 Sticta hypochra'
-	'DQ265947 Sticta hypochra'
-	'AJ344563 Nostoc sp.'
-	'JQ007760 Peltigera degenii'
-	'JN847353 Leptogium furfuraceum'
-	'EF174207 Pannaria inctrina'
-	'Group 035 Pannaria cf. allorhiza[1] P. inctrina[1]'
-	'Group 034 Pannaria patagonia[1] P. inctrina[1]'
-	'JQ007740 Leptogium sp.'
-	'EF174200 Pannaria lobulifera'
-	'Group 029 Pannaria arthroophylla[1] P. lobulifera[1]'
-	'JN847352 Collema nigrescens'
-	'JN847348 Collema nigrescens'
-	'AY333621 Nephroma bellum'
-	'EF102255 Nephroma bellum'
-	'DQ265924 Pseudocyphellaria clathrata'
-	'AF506253 Nephroma parile'
-	'EF102248 Lobaria pulmonaria'
-	'Group 019 Nephroma parile[2]'
-	'Group 015 Parmeliella triptophylla[1] Nephroma bellum[2]'
-	'AY333616 Nephroma resupinatum'
-	'Group 260 Nephroma resupinatum[1] N. bellum[1]'
-	'EF102265 Nephroma resupinatum'
-	'EF102249 Lobaria pulmonaria'
-	'JN847335 Nephroma resupinatum'
-	'Group 165 Nephroma resupinatum[1] N. bellum[1]'
-	'Group 259 Lobaria pulmonaria[1] Nephroma bellum[1]'
-	'JQ007751 Nephroma parile'
-	'AY112695 Nephroma resupinatum'
-	'AF506256 Nephroma bellum'
-	'AF506254 Parmeliella triptophylla'
-	'AF506255 Parmeliella triptophylla'
-	'JQ007759 Nephroma bellum'
-	'JN847334 Nephroma bellum'
-	'Group 027 Nephroma parile[2]'
-	'Group 018 Nephroma parile[2]'
-	'Group 007 Nephroma parile[7] Parmeliella triptophylla[2] N. bellum[2]'
-	'DQ185250 Cycas circinalis'
-	'Group 004 Nephroma parile[5] Parmeliella triptophylla[1] Lobaria pulmonaria[2]'
-	'Group 017 Pannaria rubiginella[1] Pseudocyphellaria gilva[1]'
-	'EF536021 Pannaria andina'
-	'DQ185229 Sticta beauvoisii'
-	'EF174222 Pannaria araneosa'
-	'JQ007737 Sticta sp.'
-	'EF174218 Pannaria pallida'
-	'DQ265943 Pseudocyphellaria coriifolia'
-	'JN847339 Lobaria pulmonaria'
-	'Group 022 Nephroma washingtoniense[1] N. helveticum[1]'
-	'DQ265941 Pseudocyphellaria intricata'
-	'JN847357 Lobaria pulmonaria'
-	'DQ265930 Pseudocyphellaria crocata'
-	'DQ265932 Pseudocyphellaria crocata'
-	'JN847361 Parmeliella triptophylla'
-	'Group 163 Pseudocyphellaria intricata[1] P. sp.[1]'
-	'Group 010 Pannaria aff. athroophylla[1] P. pallida[1] P. farinosa[1] Nephroma cellulosum[3]'
-	'Group 009 Pseudocyphellaria hirsuta[1] P. pilosella[1] P. coriifolia[1]'
-	'JQ007749 Pseudocyphellaria cf. crocata'
-	'JQ007747 Parmeliella sp.'
-	'AF506258 Nephroma helveticum'
-	'AF506259 Lobaria retigera'
-	'AY333626 Nephroma resupinatum'
-	'AF506262 Nephroma helveticum'
-	'EF174217 Pannaria euphylla'
-	'JQ007748 Pseudocyphellaria cf. hirsuta'
-	'AF506261 Lobaria pulmonaria'
-	'EF102247 Lobaria pulmonaria'
-	'EF102242 Lobaria pulmonaria'
-	'EF102246 Lobaria pulmonaria'
-	'EF174213 Pannaria farinosa'
-	'JQ007736 Pseudocyphellaria cf. hirsuta'
-	'Group 008 Nephroma resupinatum[1] Pseudocyphellaria hirsuta[1] Lobaria pulmonaria[2] N. laevigatum[4] P. crocata[1] L. amplissima[1] Degelia plumbea[1]'
-	'JN847346 Pseudocyphellaria sp.'
-	'DQ185259 Sticta fuliginosa'
-	'Group 235 Sticta fuliginosa[1] Nephroma helveticum[1]'
-	'JN847356 Sticta fuliginosa'
-	'Group 005 Sticta sylvatica[1] Nephroma laevigatum[2] S. weigelii[1]'
-	'JQ007730 Sticta fuliginosa'
-	'Group 023 Pseudocyphellaria sp.[1] Nephroma helveticum[1]'
-	'EF174214 Pannaria mosenii'
-	'EF174211 Pannaria farinosa'
-	'EF174212 Pannaria farinosa'
-	'DQ185238 Pannaria conoplea'
-	'AF506264 Nephroma laevigatum'
-	'JN847354 Pseudocyphellaria sp.'
-	'DQ265942 Pseudocyphellaria crocata'
-	'DQ265927 Pseudocyphellaria intricata'
-	'Group 346 Lobaria oregana[1] Nostoc sp.[1]'
-	'AY333615 Nephroma parile'
-	'EF174226 Pannaria isabellina'
-	'EF174227 Pannaria durietzii'
-	'Group 012 Pannaria durietzii[2] P. isabellina[1]'
-	'AF506260 Nephroma helveticum'
-	'JN847358 Lobaria virens'
-	'JQ007739 Sticta sp.'
-	'DQ265940 Pseudocyphellaria crocata'
-	'JN847342 Pseudocyphellaria sp.'
-	'JN847351 Sticta limbata'
-	'JQ007738 Pseudocyphellaria sp.'
-	'JN847350 Fuscopannaria leucostictoides'
-	'Group 013 Lobaria scrobiculata[3]'
-	'DQ265920 Lobaria amplissima'
-	'AF506263 Nephroma resupinatum'
-	'EF102259 Nephroma laevigatum'
-	'Group 021 Pannaria conoplea[1] P. rubiginosa[1]'
-	'JN847333 Lobaria pulmonaria'
-	'EF102267 Nephroma tangeriense'
-	'JN847359 Nephroma laevigatum'
-	'Group 028 Lobaria pulmonaria[1] Nephroma washingtoniense[1]'
-	'Group 234 Lobaria scrobiculata[1] L. amplissima[1]'
-	'Group 350 Pseudocyphellaria crocata[2]'
-	'EF174219 Pannaria tavaresii'
-	'Group 002 Pseudocyphellaria mallota[2] Nephroma laevigatum[1] N. cellulosum[1] P. coriifolia[1] N. tangeriense[1] Lobaria scrobiculata[1] P. scabrosa[2] N. helveticum[2] P. imshaugii[1] P. farinosa[1] Dendriscocaulon[1] P. crocata[2] P. elixii[1] N. bellum[1] P. andina[1]'
-	'JQ007785 Peltigera sp.'
-	'AY333639 Peltigera praetextata'
-	'JQ007784 Peltigera evansiana'
-	'DQ185253 Peltigera aphthosa'
-	'DQ265952 Stereocaulon tomentosum'
-	'JQ007799 Nephroma arcticum'
-	'DQ185247 Peltigera membranacea'
-	'Group 016 Peltigera leucophlebia[2]'
-	'JQ007798 Peltigera polydactylon'
-	'JQ007788 Peltigera praetextata'
-	'JQ007787 Peltigera praetextata'
-	'Group 024 Peltigera praetextata[2]'
-	'Group 003 Peltigera leucophlebia[2] P. praetextata[3]'
-	'Group 011 Peltigera praetextata[3]'
-	'Group 006 Peltigera praetextata[4]'
-	'Group 190 Peltigera praetextata[2]'
-	'JQ007790 Peltigera praetextata'
-	'EF102277 Peltigera leucophlebia'
-	'DQ185203 Peltigera membranacea'
-	'Group 282 Peltigera horizontalis[1] P. membranacea[1]'
-	'Group 349 Peltigera leucophlebia[1] P. praetextata[1] P. aphthosa[1]'
-	'AF506238 Nostoc sp.'
-	'EF102290 Peltigera praetextata'
-	'EU282432 Nostoc sp.'
-	'AM711535 Encephalartos villosus'
-	'DQ185251 Stangeria paradoxa'
-	'AY742451 Gunnera monoika'
-	'AM711540 Gunnera hamiltonii'
-	'DQ185254 Nostoc muscorum'
-	'DQ185248 Peltigera membranacea'
-	'AF027654 Peltigera membranacea'
-	'EF174232 Pannaria obscura'
-	'AJ630453 Nostoc sp.'
-	'DQ185204 Peltigera canina'
-	'DQ185205 Peltigera rufescens'
-	'DQ185206 Peltigera didactyla'
-	'AF317630 Nostoc sp.'
-	'Z82805 Nostoc sp.'
-	'EF102276 Peltigera leucophlebia'
-	'EU178142 Nostoc commune'
-	'DQ265953 Protopannaria pezizoides'
-	'Group 025 Pannaria pezizoides[1] Leptogium corniculatum[1]'
-	'JN847344 Leptogium palmatum'
-	'AJ630447 Nostoc calcicola'
-	'DQ185213 Anthoceros sp.'
-	'DQ185209 Anthoceros sp.'
-	'JQ007767 Peltigera praetextata'
-	'EU022740 Nostoc sp.'
-	'DQ185255 Blasia pusilla'
-	'DQ185225 Peltigera canina'
-	'DQ185249 Peltigera rufescens'
-	'DQ185221 Peltigera rufescens'
-	'DQ185246 Peltigera lepidophora'
-	'Group 031 Nostoc sp.[1] N. commune[1]'
-	'DQ185239 Peltigera canina'
-	'DQ185230 Peltigera canina'
-	'DQ185219 Peltigera rufescens'
-	'DQ185215 Peltigera rufescens'
-	'DQ185222 Peltigera canina'
-	'DQ265958 Leptogium saturninum'
-	'DQ265957 Leptogium saturninum'
-	'DQ185220 Peltigera didactyla'
-	'DQ185214 Peltigera rufescens'
-	'EU087570 Nostoc sp.'
-	'AY742453 Anthoceros sp.'
-	'DQ185257 Geosiphon pyriforme'
-	'AF027655 Macrozamia sp.'
-	'DQ185211 Blasia pusilla'
-	'AY577535 Collema tenax'
-	'AF062637 Nostoc sp.'
-	'DQ185234 Lobaria hallii'
-	'AF506244 Lobaria hallii'
-	'KF142669 Gunnera magellanica'
-	'KF142671 Gunnera magellanica'
-	'KF142673 Gunnera magellanica'
-	'KF142667 Gunnera magellanica'
-	'KF142670 Gunnera magellanica'
-	'KF142672 Gunnera magellanica'
-	'AM711544 Nostoc sp.'
-	'AY742447 Gunnera monoika'
-	'DQ185240 Nostoc sp.'
-	'AM711547 Nostoc sp.'
-	'AM711538 Nostoc sp.'
-	'AJ630454 Trichormus azollae'
-	'DQ185242 Nostoc sp.'
-	'AF317631 Nostoc sp.'
-	'Z82803 Nostoc sp.'
-	'AM711530 Nostoc sp.'
-	'AY218827 Nostoc muscorum'
-	'AY742448 Gunnera dentata'
-	'AM711548 Nostoc elgonense'
-	'AM711525 Nostoc sp.'
-	'AM711537 Nostoc sp.'
-	'AB093483 Scytonema sp.'
-	'AY069954 Scytonema sp.'
-	'DQ235801 Scytonema sp.'
-	'AB075996 Scytonema hofmanni'
-	'EU818967 Scytonema sp.'
-	'AB039005 Chroococcidiopsis thermalis'
+	taxlabels[&!color=#A0A0A0]
+	'Z82784 Microcystis aeruginosa'[&!color=#A0A0A0]
+	MAU40338[&!color=#A0A0A0]
+	'AY224195 Synechocystis sp.'[&!color=#A0A0A0]
+	'AY422695 Gloeothece sp.'[&!color=#A0A0A0]
+	'X78680 Gloeothece membranacea'[&!color=#A0A0A0]
+	'AJ621832 Chroococcus submarinus'[&!color=#A0A0A0]
+	'Group 033 Gloeocapsa sp.[1]'[&!color=#A0A0A0]
+	'Y18792 Spirulina sp.'[&!color=#A0A0A0]
+	'DQ072918 Gloeothece'[&!color=#A0A0A0]
+	'AJ871987 biological soil'[&!color=#A0A0A0]
+	'DQ460700 Coleofasciculus chthonoplastes'[&!color=#A0A0A0]
+	'DQ914863 Chroococcidiopsis sp.'[&!color=#A0A0A0]
+	'AF132779 Calothrix desertica'[&!color=#-16744320]
+	'Group 164 Scytonema sp.[2]'[&!color=#-16744320]
+	'AF334698 Scytonema hyalinum'[&!color=#-16744320]
+	'AF334700 Scytonema hyalinum'[&!color=#-16744320]
+	'AJ544080 Nostochopsis lobatus'[&!color=#-16744320]
+	'AJ544222 Westiellopsis sp.'[&!color=#-16744320]
+	'AB093491 Fischerella sp.'[&!color=#-16744320]
+	'AB093484 Hapalosiphon delicatulus'[&!color=#-16744320]
+	'AY034793 Hapalosiphon welwitschii'[&!color=#-16744320]
+	'EF545603 Mastigocladus sp.'[&!color=#-16744320]
+	'AB075987 Fischerella thermalis'[&!color=#-16744320]
+	'AF132788 Fischerella muscicola'[&!color=#-16744320]
+	'AB039003 Fischerella muscicola'[&!color=#-16744320]
+	'AF067819 Cylindrospermopsis raciborskii'[&!color=#-16744320]
+	'AF092504 Cylindrospermopsis raciborskii'[&!color=#-16744320]
+	'AJ293110 Anabaena cf. cylindrica'[&!color=#-16744320]
+	'AJ630428 Anabaena oscillarioides'[&!color=#-16744320]
+	'AM711551 Azolla pinnata subsp. pinnata'[&!color=#-16744448]
+	'AY742450 Azolla filiculoides'[&!color=#-16744448]
+	'AM711552 Azolla caroliniana'[&!color=#-16744448]
+	'AM711550 Azolla rubra'[&!color=#-16744448]
+	'AJ630458 Anabaena augstumalis'[&!color=#-16744320]
+	'AF091150 Anabaena cylindrica'[&!color=#-16744320]
+	'AJ630456 Trichormus variabilis str. HINDAK 2001/4'[&!color=#-16744320]
+	'AJ630427 Anabaena oscillarioides'[&!color=#-16744320]
+	'AJ630414 Anabaena cf. cylindrica XP6B'[&!color=#-16744320]
+	'AJ293119 Anabaena cf. cylindrica'[&!color=#-16744320]
+	'AJ133154 Aphanizomenon flos-aquae'[&!color=#-16744320]
+	'AJ133155 Aphanizomenon flos-aquae'[&!color=#-16744320]
+	'AJ133153 Aphanizomenon sp.'[&!color=#-16744320]
+	'AJ293130 Aphanizomenon flos-aquae'[&!color=#-16744320]
+	'AJ293115 Dolichospermum macrosporum'[&!color=#-16744320]
+	'AF247594 Anabaena solitaria'[&!color=#-16744320]
+	'AJ630433 Anabaena planctonica'[&!color=#-16744320]
+	'AF247591 Anabaena affinis'[&!color=#-16744320]
+	'AB271212 Dolichospermum spiroides'[&!color=#-16744320]
+	'AJ293129 Aphanizomenon flos-aquae'[&!color=#-16744320]
+	'DQ264163 Anabaena sigmoidea'[&!color=#-16744320]
+	'AF247596 Dolichospermum flos-aquae'[&!color=#-16744320]
+	'AF160256 Anabaena bergii'[&!color=#-16744320]
+	'AF268009 Nodularia spumigena'[&!color=#-16744320]
+	'AB075991 Nodularia sp.'[&!color=#-16744320]
+	'AF268021 Nodularia harveyana'[&!color=#-16744320]
+	'AM711553 Nodularia sp.'[&!color=#-16744320]
+	'AM711554 Nodularia harveyana'[&!color=#-16744320]
+	'AF268018 Nodularia sphaerocarpa'[&!color=#-16744320]
+	'DQ185243 Nodularia sphaerocarpa'[&!color=#-16744320]
+	'DQ185241 Nodularia spumigena'[&!color=#-16744320]
+	'DQ460705 Nodularia spumigena'[&!color=#-16744320]
+	'AF268020 Nodularia harveyana'[&!color=#-16744320]
+	'DQ185231 Nodularia harveyana'[&!color=#-16744320]
+	'AY038033 Anabaenopsis sp.'[&!color=#-16744320]
+	'AY038036 Cyanospira rippkae'[&!color=#-16744320]
+	'DQ265950 Stereocaulon exutum'[&!color=#-3381505]
+	'EU818947 Acantholichen pannarioides'[&!color=#-8388480]
+	'EU818953 Dictyonema glabratum'[&!color=#-8388480]
+	'EU818963 Dictyonema schenckianum'[&!color=#-8388480]
+	'EU818949 Coccocarpia palmicola'[&!color=#-10040065]
+	'EU818950 Coccocarpia palmicola'[&!color=#-10040065]
+	'EU818956 Dictyonema glabratum'[&!color=#-8388480]
+	'DQ265951 Stereocaulon fronduliferum'[&!color=#-3381505]
+	'EU818955 Dictyonema glabratum'[&!color=#-8388480]
+	'EU818966 Dictyonema sericeum'[&!color=#-8388480]
+	'EU818965 Dictyonema schenckianum'[&!color=#-8388480]
+	'DQ265949 Stereocaulon ramulosum'[&!color=#-3381505]
+	'EU818964 Dictyonema schenckianum'[&!color=#-8388480]
+	'EU818952 Dictyonema aeruginosulum'[&!color=#-8388480]
+	'EU818951 Coccocarpia stellata'[&!color=#-10040065]
+	'EU818954 Dictyonema glabratum'[&!color=#-8388480]
+	'EU818959 Dictyonema glabratum'[&!color=#-8388480]
+	'EU818957 Dictyonema glabratum'[&!color=#-8388480]
+	'EU818961 Dictyonema interruptum'[&!color=#-8388480]
+	'EU818948 Coccocarpia filiformis'[&!color=#-10040065]
+	'EU818958 Dictyonema glabratum'[&!color=#-8388480]
+	'EU818960 Dictyonema hernandezii'[&!color=#-8388480]
+	'EU818962 Dictyonema phyllogenum'[&!color=#-8388480]
+	'AM230705 Gloeotrichia echinulata'[&!color=#-16744320]
+	'AM230703 Gloeotrichia echinulata'[&!color=#-16744320]
+	'DQ185207 Peltigera didactyla'[&!color=#-65536]
+	'AF506237 Blasia pusilla'[&!color=#-16744448]
+	'AJ133163 Cylindrospermum stagnale'[&!color=#-16744320]
+	'AM711543 Nostoc sp.'[&!color=#-16744320]
+	'AY742454 Gunnera dentata'[&!color=#-16744448]
+	'AM711523 Nostoc muscorum'[&!color=#-16744320]
+	'AM711534 Dioon edule'[&!color=#-16744448]
+	'Group 020 Nostoc muscorum[2]'[&!color=#-16744320]
+	'AM711549 Nostoc sp.'[&!color=#-16744320]
+	'AM711533 Cycas revoluta'[&!color=#-16744448]
+	'AM711532 Cycas circinalis'[&!color=#-16744448]
+	'AM711541 Gunnera prorepens'[&!color=#-16744448]
+	'AY742452 Gunnera dentata'[&!color=#-16744448]
+	'AJ630450 Nostoc ellipsosporum'[&!color=#-16744320]
+	'AM711529 Nostoc calcicola'[&!color=#-16744320]
+	'DQ185208 Geosiphon pyriforme'[&!color=#-8388608]
+	'AJ133161 Nostoc sp.'[&!color=#-16744320]
+	'DQ265954 Fuscopannaria leucophaea'[&!color=#-39322]
+	'AM711522 Anthoceros laevis'[&!color=#-16744448]
+	'AJ630449 Nostoc edaphicum'[&!color=#-16744320]
+	'KF142676 Gunnera magellanica'[&!color=#-16744448]
+	'KF142668 Gunnera magellanica'[&!color=#-16744448]
+	'KF142678 Gunnera magellanica'[&!color=#-16744448]
+	'KF142675 Gunnera magellanica'[&!color=#-16744448]
+	'KF142674 Gunnera magellanica'[&!color=#-16744448]
+	'KF142677 Gunnera magellanica'[&!color=#-16744448]
+	'DQ185210 Encephalartos natalensis'[&!color=#-16744448]
+	'DQ185216 Collema crispum'[&!color=#-16777088]
+	'AY577537 Nostoc desertorum'[&!color=#-16744320]
+	'EU178143 Nostoc flagelliforme'[&!color=#-16744320]
+	'DQ185223 Nostoc commune'[&!color=#-16744320]
+	'AM711531 Anthoceros laevis'[&!color=#-16744448]
+	'AF506247 Peltigera praetextata'[&!color=#-65536]
+	'AF506246 Nostoc sp.'[&!color=#-16744320]
+	'Group 000 Peltigera sp.[2] P. neopolydactyla[3] P. membranacea[1] P. degenii[5]'[&!color=#-65536]
+	'JQ007814 Peltigera degenii'[&!color=#-65536]
+	'EF102281 Peltigera membranacea'[&!color=#-65536]
+	'Group 030 Peltigera membranacea[2]'[&!color=#-65536]
+	'JQ007816 Peltigera membranacea'[&!color=#-65536]
+	'JQ007819 Peltigera neopolydactyla'[&!color=#-65536]
+	'JQ007809 Peltigera membranacea'[&!color=#-65536]
+	'EF102284 Peltigera neopolydactyla'[&!color=#-65536]
+	'DQ185244 Peltigera degenii'[&!color=#-65536]
+	'JQ007810 Peltigera degenii'[&!color=#-65536]
+	'EF102283 Peltigera neopolydactyla'[&!color=#-65536]
+	'DQ265955 Peltigera degenii'[&!color=#-65536]
+	'JQ007800 Peltigera sp.'[&!color=#-65536]
+	'AY742449 Gunnera prorepens'[&!color=#-16744448]
+	'AM711539 Gunnera macrophylla'[&!color=#-16744448]
+	'AF506242 Nostoc sp.'[&!color=#-16744320]
+	'FJ815304 Peltigera leucophlebia'[&!color=#-65536]
+	'FJ815294 Peltigera leucophlebia'[&!color=#-65536]
+	'FJ815301 Peltigera leucophlebia'[&!color=#-65536]
+	'FJ815291 Peltigera leucophlebia'[&!color=#-65536]
+	'AY566855 Pannaria pezizoides'[&!color=#-39322]
+	'EU022742 Blasia pusilla'[&!color=#-16744448]
+	'AY333634 Nephroma arcticum'[&!color=#-32768]
+	'Group 026 Peltigera membranacea[2] P. hymenina[1]'[&!color=#-65536]
+	'EF102293 Peltigera sp.'[&!color=#-65536]
+	'JQ007770 Peltigera membranacea'[&!color=#-65536]
+	'AF062638 Nostoc sp.'[&!color=#-16744320]
+	'DQ185212 Blasia pusilla'[&!color=#-16744448]
+	'AM711526 Gunnera tinctoria'[&!color=#-16744448]
+	'Group 014 Gunnera tinctoria[1] G. manicata[1]'[&!color=#-16744448]
+	'DQ185245 Peltigera didactyla'[&!color=#-65536]
+	'DQ185256 Gunnera manicata'[&!color=#-16744448]
+	'AM711545 Nostoc sp.'[&!color=#-16744320]
+	'DQ185226 Peltigera membranacea'[&!color=#-65536]
+	'DQ185258 Nostoc punctiforme'[&!color=#-16744320]
+	'DQ265956 Peltigera neopolydactyla'[&!color=#-65536]
+	'AB098071 Nostoc commune'[&!color=#-16744320]
+	'FJ815299 Peltigera leucophlebia'[&!color=#-65536]
+	'AM711546 Nostoc sp.'[&!color=#-16744320]
+	'AF506239 Peltigera pruinosa'[&!color=#-65536]
+	'Y12688 Nostoc commune var. flagelliforme'[&!color=#-16744320]
+	'AM711528 Nostoc sp.'[&!color=#-16744320]
+	'EF174233 Pannaria andina'[&!color=#-39322]
+	'JQ007801 Peltigera sp.'[&!color=#-65536]
+	'JN847337 Leptogium gelatinosum'[&!color=#-16777088]
+	'DQ185232 Leptogium gelatinosum'[&!color=#-16777088]
+	'JN847347 Leptogium pseudofurfuraceum'[&!color=#-16777088]
+	'DQ185235 Massalongia carnosa'[&!color=#000000]
+	'AF506241 Nephroma arcticum'[&!color=#-32768]
+	'FJ815295 Peltigera leucophlebia'[&!color=#-65536]
+	'JQ007769 Peltigera dolichorrhiza'[&!color=#-65536]
+	'FJ815305 Peltigera leucophlebia'[&!color=#-65536]
+	'AY333637 Nephroma expallidum'[&!color=#-32768]
+	'AM711542 Gunnera tinctoria'[&!color=#-16744448]
+	'EU178144 Nostoc sphaeroides'[&!color=#-16744320]
+	'AF506243 Peltigera pruinosa'[&!color=#-65536]
+	'FJ815298 Peltigera leucophlebia'[&!color=#-65536]
+	'Group 242 Protopannaria pezizoides[1] epixylic bryophyte[1]'[&!color=#-39322]
+	'AF506240 Peltigera venosa'[&!color=#-65536]
+	'DQ265959 Collema flaccidum'[&!color=#-16777088]
+	'DQ265960 Collema flaccidum'[&!color=#-16777088]
+	'JQ007762 Peltigera rufescens'[&!color=#-65536]
+	'DQ185217 Peltigera rufescens'[&!color=#-65536]
+	'DQ185218 Peltigera rufescens'[&!color=#-65536]
+	'FJ815293 Peltigera leucophlebia'[&!color=#-65536]
+	'DQ185224 Peltigera neopolydactyla'[&!color=#-65536]
+	'FJ815306 Peltigera leucophlebia'[&!color=#-65536]
+	'Group 404 Peltigera leucophlebia[1] Nostoc sp.[1]'[&!color=#000000]
+	'FJ815297 Peltigera leucophlebia'[&!color=#-65536]
+	'FJ815303 Peltigera leucophlebia'[&!color=#-65536]
+	'AY333640 Nephroma arcticum'[&!color=#-32768]
+	'FJ815314 Peltigera leucophlebia'[&!color=#-65536]
+	'AY333638 Nephroma arcticum'[&!color=#-32768]
+	'AY328897 Nephroma arcticum'[&!color=#-32768]
+	'AY328899 Lobaria pulmonaria'[&!color=#-8372224]
+	'Group 001 Peltigera collina[9]'[&!color=#-65536]
+	'JQ007776 Peltigera collina'[&!color=#-65536]
+	'AF506245 Peltigera collina'[&!color=#-65536]
+	'JQ007761 Leptogium furfuraceum'[&!color=#-16777088]
+	'Group 032 Pannaria fulvescens[1] P. elixii[1]'[&!color=#-39322]
+	'EF174230 Pannaria elixii'[&!color=#-39322]
+	'EF102280 Peltigera malacea'[&!color=#-65536]
+	'AY328896 Nephroma expallidum'[&!color=#-32768]
+	'AY333642 Nephroma expallidum'[&!color=#-32768]
+	'AY333641 Nephroma arcticum'[&!color=#-32768]
+	'JQ007764 Nephroma arcticum'[&!color=#-32768]
+	'AF506248 Nephroma expallidum'[&!color=#-32768]
+	'EF102268 Protopannaria pezizoides'[&!color=#-39322]
+	'JQ007763 Nephroma arcticum'[&!color=#-32768]
+	'AF506249 Peltigera malacea'[&!color=#-65536]
+	'JQ007766 Leptogium lichenoides'[&!color=#-16777088]
+	'JQ007765 Leptogium lichenoides'[&!color=#-16777088]
+	'DQ265944 Sticta hypochra'[&!color=#-8372224]
+	'DQ265945 Sticta hypochra'[&!color=#-8372224]
+	'Group 376 Pannaria farinosa[1] Sticta hypochra[1]'[&!color=#000000]
+	'DQ265948 Sticta hypochra'[&!color=#-8372224]
+	'DQ265947 Sticta hypochra'[&!color=#-8372224]
+	'AJ344563 Nostoc sp.'[&!color=#-16744320]
+	'JQ007760 Peltigera degenii'[&!color=#-65536]
+	'JN847353 Leptogium furfuraceum'[&!color=#-16777088]
+	'EF174207 Pannaria inctrina'[&!color=#-39322]
+	'Group 035 Pannaria cf. allorhiza[1] P. inctrina[1]'[&!color=#-39322]
+	'Group 034 Pannaria patagonia[1] P. inctrina[1]'[&!color=#-39322]
+	'JQ007740 Leptogium sp.'[&!color=#-16777088]
+	'EF174200 Pannaria lobulifera'[&!color=#-39322]
+	'Group 029 Pannaria arthroophylla[1] P. lobulifera[1]'[&!color=#-39322]
+	'JN847352 Collema nigrescens'[&!color=#-16777088]
+	'JN847348 Collema nigrescens'[&!color=#-16777088]
+	'AY333621 Nephroma bellum'[&!color=#-32768]
+	'EF102255 Nephroma bellum'[&!color=#-32768]
+	'DQ265924 Pseudocyphellaria clathrata'[&!color=#-8372224]
+	'AF506253 Nephroma parile'[&!color=#-32768]
+	'EF102248 Lobaria pulmonaria'[&!color=#-8372224]
+	'Group 019 Nephroma parile[2]'[&!color=#-32768]
+	'Group 015 Parmeliella triptophylla[1] Nephroma bellum[2]'[&!color=#000000]
+	'AY333616 Nephroma resupinatum'[&!color=#-32768]
+	'Group 260 Nephroma resupinatum[1] N. bellum[1]'[&!color=#-32768]
+	'EF102265 Nephroma resupinatum'[&!color=#-32768]
+	'EF102249 Lobaria pulmonaria'[&!color=#-8372224]
+	'JN847335 Nephroma resupinatum'[&!color=#-32768]
+	'Group 165 Nephroma resupinatum[1] N. bellum[1]'[&!color=#-32768]
+	'Group 259 Lobaria pulmonaria[1] Nephroma bellum[1]'[&!color=#000000]
+	'JQ007751 Nephroma parile'[&!color=#-32768]
+	'AY112695 Nephroma resupinatum'[&!color=#-32768]
+	'AF506256 Nephroma bellum'[&!color=#-32768]
+	'AF506254 Parmeliella triptophylla'[&!color=#-39322]
+	'AF506255 Parmeliella triptophylla'[&!color=#-39322]
+	'JQ007759 Nephroma bellum'[&!color=#-32768]
+	'JN847334 Nephroma bellum'[&!color=#-32768]
+	'Group 027 Nephroma parile[2]'[&!color=#-32768]
+	'Group 018 Nephroma parile[2]'[&!color=#-32768]
+	'Group 007 Nephroma parile[7] Parmeliella triptophylla[2] N. bellum[2]'[&!color=#000000]
+	'DQ185250 Cycas circinalis'[&!color=#-16744448]
+	'Group 004 Nephroma parile[5] Parmeliella triptophylla[1] Lobaria pulmonaria[2]'[&!color=#000000]
+	'Group 017 Pannaria rubiginella[1] Pseudocyphellaria gilva[1]'[&!color=#000000]
+	'EF536021 Pannaria andina'[&!color=#-39322]
+	'DQ185229 Sticta beauvoisii'[&!color=#-8372224]
+	'EF174222 Pannaria araneosa'[&!color=#-39322]
+	'JQ007737 Sticta sp.'[&!color=#-8372224]
+	'EF174218 Pannaria pallida'[&!color=#-39322]
+	'DQ265943 Pseudocyphellaria coriifolia'[&!color=#-8372224]
+	'JN847339 Lobaria pulmonaria'[&!color=#-8372224]
+	'Group 022 Nephroma washingtoniense[1] N. helveticum[1]'[&!color=#-32768]
+	'DQ265941 Pseudocyphellaria intricata'[&!color=#-8372224]
+	'JN847357 Lobaria pulmonaria'[&!color=#-8372224]
+	'DQ265930 Pseudocyphellaria crocata'[&!color=#-8372224]
+	'DQ265932 Pseudocyphellaria crocata'[&!color=#-8372224]
+	'JN847361 Parmeliella triptophylla'[&!color=#-39322]
+	'Group 163 Pseudocyphellaria intricata[1] P. sp.[1]'[&!color=#-8372224]
+	'Group 010 Pannaria aff. athroophylla[1] P. pallida[1] P. farinosa[1] Nephroma cellulosum[3]'[&!color=#000000]
+	'Group 009 Pseudocyphellaria hirsuta[1] P. pilosella[1] P. coriifolia[1]'[&!color=#-8372224]
+	'JQ007749 Pseudocyphellaria cf. crocata'[&!color=#-8372224]
+	'JQ007747 Parmeliella sp.'[&!color=#-39322]
+	'AF506258 Nephroma helveticum'[&!color=#-32768]
+	'AF506259 Lobaria retigera'[&!color=#-8372224]
+	'AY333626 Nephroma resupinatum'[&!color=#-32768]
+	'AF506262 Nephroma helveticum'[&!color=#-32768]
+	'EF174217 Pannaria euphylla'[&!color=#-39322]
+	'JQ007748 Pseudocyphellaria cf. hirsuta'[&!color=#-8372224]
+	'AF506261 Lobaria pulmonaria'[&!color=#-8372224]
+	'EF102247 Lobaria pulmonaria'[&!color=#-8372224]
+	'EF102242 Lobaria pulmonaria'[&!color=#-8372224]
+	'EF102246 Lobaria pulmonaria'[&!color=#-8372224]
+	'EF174213 Pannaria farinosa'[&!color=#-39322]
+	'JQ007736 Pseudocyphellaria cf. hirsuta'[&!color=#-8372224]
+	'Group 008 Nephroma resupinatum[1] Pseudocyphellaria hirsuta[1] Lobaria pulmonaria[2] N. laevigatum[4] P. crocata[1] L. amplissima[1] Degelia plumbea[1]'[&!color=#000000]
+	'JN847346 Pseudocyphellaria sp.'[&!color=#-8372224]
+	'DQ185259 Sticta fuliginosa'[&!color=#-8372224]
+	'Group 235 Sticta fuliginosa[1] Nephroma helveticum[1]'[&!color=#000000]
+	'JN847356 Sticta fuliginosa'[&!color=#-8372224]
+	'Group 005 Sticta sylvatica[1] Nephroma laevigatum[2] S. weigelii[1]'[&!color=#000000]
+	'JQ007730 Sticta fuliginosa'[&!color=#-8372224]
+	'Group 023 Pseudocyphellaria sp.[1] Nephroma helveticum[1]'[&!color=#000000]
+	'EF174214 Pannaria mosenii'[&!color=#-39322]
+	'EF174211 Pannaria farinosa'[&!color=#-39322]
+	'EF174212 Pannaria farinosa'[&!color=#-39322]
+	'DQ185238 Pannaria conoplea'[&!color=#-39322]
+	'AF506264 Nephroma laevigatum'[&!color=#-32768]
+	'JN847354 Pseudocyphellaria sp.'[&!color=#-8372224]
+	'DQ265942 Pseudocyphellaria crocata'[&!color=#-8372224]
+	'DQ265927 Pseudocyphellaria intricata'[&!color=#-8372224]
+	'Group 346 Lobaria oregana[1] Nostoc sp.[1]'[&!color=#000000]
+	'AY333615 Nephroma parile'[&!color=#-32768]
+	'EF174226 Pannaria isabellina'[&!color=#-39322]
+	'EF174227 Pannaria durietzii'[&!color=#-39322]
+	'Group 012 Pannaria durietzii[2] P. isabellina[1]'[&!color=#-39322]
+	'AF506260 Nephroma helveticum'[&!color=#-32768]
+	'JN847358 Lobaria virens'[&!color=#-8372224]
+	'JQ007739 Sticta sp.'[&!color=#-8372224]
+	'DQ265940 Pseudocyphellaria crocata'[&!color=#-8372224]
+	'JN847342 Pseudocyphellaria sp.'[&!color=#-8372224]
+	'JN847351 Sticta limbata'[&!color=#-8372224]
+	'JQ007738 Pseudocyphellaria sp.'[&!color=#-8372224]
+	'JN847350 Fuscopannaria leucostictoides'[&!color=#-39322]
+	'Group 013 Lobaria scrobiculata[3]'[&!color=#-8372224]
+	'DQ265920 Lobaria amplissima'[&!color=#-8372224]
+	'AF506263 Nephroma resupinatum'[&!color=#-32768]
+	'EF102259 Nephroma laevigatum'[&!color=#-32768]
+	'Group 021 Pannaria conoplea[1] P. rubiginosa[1]'[&!color=#-39322]
+	'JN847333 Lobaria pulmonaria'[&!color=#-8372224]
+	'EF102267 Nephroma tangeriense'[&!color=#-32768]
+	'JN847359 Nephroma laevigatum'[&!color=#-32768]
+	'Group 028 Lobaria pulmonaria[1] Nephroma washingtoniense[1]'[&!color=#000000]
+	'Group 234 Lobaria scrobiculata[1] L. amplissima[1]'[&!color=#-8372224]
+	'Group 350 Pseudocyphellaria crocata[2]'[&!color=#-8372224]
+	'EF174219 Pannaria tavaresii'[&!color=#-39322]
+	'Group 002 Pseudocyphellaria mallota[2] Nephroma laevigatum[1] N. cellulosum[1] P. coriifolia[1] N. tangeriense[1] Lobaria scrobiculata[1] P. scabrosa[2] N. helveticum[2] P. imshaugii[1] P. farinosa[1] Dendriscocaulon[1] P. crocata[2] P. elixii[1] N. bellum[1] P. andina[1]'[&!color=#000000]
+	'JQ007785 Peltigera sp.'[&!color=#-65536]
+	'AY333639 Peltigera praetextata'[&!color=#-65536]
+	'JQ007784 Peltigera evansiana'[&!color=#-65536]
+	'DQ185253 Peltigera aphthosa'[&!color=#-65536]
+	'DQ265952 Stereocaulon tomentosum'[&!color=#-3381505]
+	'JQ007799 Nephroma arcticum'[&!color=#-32768]
+	'DQ185247 Peltigera membranacea'[&!color=#-65536]
+	'Group 016 Peltigera leucophlebia[2]'[&!color=#-65536]
+	'JQ007798 Peltigera polydactylon'[&!color=#-65536]
+	'JQ007788 Peltigera praetextata'[&!color=#-65536]
+	'JQ007787 Peltigera praetextata'[&!color=#-65536]
+	'Group 024 Peltigera praetextata[2]'[&!color=#-65536]
+	'Group 003 Peltigera leucophlebia[2] P. praetextata[3]'[&!color=#-65536]
+	'Group 011 Peltigera praetextata[3]'[&!color=#-65536]
+	'Group 006 Peltigera praetextata[4]'[&!color=#-65536]
+	'Group 190 Peltigera praetextata[2]'[&!color=#-65536]
+	'JQ007790 Peltigera praetextata'[&!color=#-65536]
+	'EF102277 Peltigera leucophlebia'[&!color=#-65536]
+	'DQ185203 Peltigera membranacea'[&!color=#-65536]
+	'Group 282 Peltigera horizontalis[1] P. membranacea[1]'[&!color=#-65536]
+	'Group 349 Peltigera leucophlebia[1] P. praetextata[1] P. aphthosa[1]'[&!color=#-65536]
+	'AF506238 Nostoc sp.'[&!color=#-16744320]
+	'EF102290 Peltigera praetextata'[&!color=#-65536]
+	'EU282432 Nostoc sp.'[&!color=#-16744320]
+	'AM711535 Encephalartos villosus'[&!color=#-16744448]
+	'DQ185251 Stangeria paradoxa'[&!color=#-16744448]
+	'AY742451 Gunnera monoika'[&!color=#-16744448]
+	'AM711540 Gunnera hamiltonii'[&!color=#-16744448]
+	'DQ185254 Nostoc muscorum'[&!color=#-16744320]
+	'DQ185248 Peltigera membranacea'[&!color=#-65536]
+	'AF027654 Peltigera membranacea'[&!color=#-65536]
+	'EF174232 Pannaria obscura'[&!color=#-39322]
+	'AJ630453 Nostoc sp.'[&!color=#-16744320]
+	'DQ185204 Peltigera canina'[&!color=#-65536]
+	'DQ185205 Peltigera rufescens'[&!color=#-65536]
+	'DQ185206 Peltigera didactyla'[&!color=#-65536]
+	'AF317630 Nostoc sp.'[&!color=#-16744320]
+	'Z82805 Nostoc sp.'[&!color=#-16744320]
+	'EF102276 Peltigera leucophlebia'[&!color=#-65536]
+	'EU178142 Nostoc commune'[&!color=#-16744320]
+	'DQ265953 Protopannaria pezizoides'[&!color=#-39322]
+	'Group 025 Pannaria pezizoides[1] Leptogium corniculatum[1]'[&!color=#000000]
+	'JN847344 Leptogium palmatum'[&!color=#-16777088]
+	'AJ630447 Nostoc calcicola'[&!color=#-16744320]
+	'DQ185213 Anthoceros sp.'[&!color=#-16744448]
+	'DQ185209 Anthoceros sp.'[&!color=#-16744448]
+	'JQ007767 Peltigera praetextata'[&!color=#-65536]
+	'EU022740 Nostoc sp.'[&!color=#-16744320]
+	'DQ185255 Blasia pusilla'[&!color=#-16744448]
+	'DQ185225 Peltigera canina'[&!color=#-65536]
+	'DQ185249 Peltigera rufescens'[&!color=#-65536]
+	'DQ185221 Peltigera rufescens'[&!color=#-65536]
+	'DQ185246 Peltigera lepidophora'[&!color=#-65536]
+	'Group 031 Nostoc sp.[1] N. commune[1]'[&!color=#-16744320]
+	'DQ185239 Peltigera canina'[&!color=#-65536]
+	'DQ185230 Peltigera canina'[&!color=#-65536]
+	'DQ185219 Peltigera rufescens'[&!color=#-65536]
+	'DQ185215 Peltigera rufescens'[&!color=#-65536]
+	'DQ185222 Peltigera canina'[&!color=#-65536]
+	'DQ265958 Leptogium saturninum'[&!color=#-16777088]
+	'DQ265957 Leptogium saturninum'[&!color=#-16777088]
+	'DQ185220 Peltigera didactyla'[&!color=#-65536]
+	'DQ185214 Peltigera rufescens'[&!color=#-65536]
+	'EU087570 Nostoc sp.'[&!color=#-16744320]
+	'AY742453 Anthoceros sp.'[&!color=#-16744448]
+	'DQ185257 Geosiphon pyriforme'[&!color=#-8388608]
+	'AF027655 Macrozamia sp.'[&!color=#-16744448]
+	'DQ185211 Blasia pusilla'[&!color=#-16744448]
+	'AY577535 Collema tenax'[&!color=#-16777088]
+	'AF062637 Nostoc sp.'[&!color=#-16744320]
+	'DQ185234 Lobaria hallii'[&!color=#-8372224]
+	'AF506244 Lobaria hallii'[&!color=#-8372224]
+	'KF142669 Gunnera magellanica'[&!color=#-16744448]
+	'KF142671 Gunnera magellanica'[&!color=#-16744448]
+	'KF142673 Gunnera magellanica'[&!color=#-16744448]
+	'KF142667 Gunnera magellanica'[&!color=#-16744448]
+	'KF142670 Gunnera magellanica'[&!color=#-16744448]
+	'KF142672 Gunnera magellanica'[&!color=#-16744448]
+	'AM711544 Nostoc sp.'[&!color=#-16744320]
+	'AY742447 Gunnera monoika'[&!color=#-16744448]
+	'DQ185240 Nostoc sp.'[&!color=#-16744320]
+	'AM711547 Nostoc sp.'[&!color=#-16744320]
+	'AM711538 Nostoc sp.'[&!color=#-16744320]
+	'AJ630454 Trichormus azollae'[&!color=#-16744320]
+	'DQ185242 Nostoc sp.'[&!color=#-16744320]
+	'AF317631 Nostoc sp.'[&!color=#-16744320]
+	'Z82803 Nostoc sp.'[&!color=#-16744320]
+	'AM711530 Nostoc sp.'[&!color=#-16744320]
+	'AY218827 Nostoc muscorum'[&!color=#-16744320]
+	'AY742448 Gunnera dentata'[&!color=#-16744448]
+	'AM711548 Nostoc elgonense'[&!color=#-16744320]
+	'AM711525 Nostoc sp.'[&!color=#-16744320]
+	'AM711537 Nostoc sp.'[&!color=#-16744320]
+	'AB093483 Scytonema sp.'[&!color=#-16744320]
+	'AY069954 Scytonema sp.'[&!color=#-16744320]
+	'DQ235801 Scytonema sp.'[&!color=#-16744320]
+	'AB075996 Scytonema hofmanni'[&!color=#-16744320]
+	'EU818967 Scytonema sp.'[&!color=#-16744320]
+	'AB039005 Chroococcidiopsis thermalis'[&!color=#A0A0A0]
 ;
 end;
 
