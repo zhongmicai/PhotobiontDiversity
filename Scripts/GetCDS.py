@@ -1,6 +1,15 @@
 #!/usr/local/bin/python
-#assign new sequences to pre-defined Trebouxia clades. Info is added to the 7th column of the metadata file
-#this would be more robust if it used all of the sequences that have been assigned to clades to define the clades.
+"""
+Extract the CDS sequence corresponding to the specified (gene) feature. Input sequences
+must be in Genbank format. ID and description of the larger sequence are copied to the subsequence
+
+For protein-coding markers, this will take care of all necessary trimming and reverse-complementing
+
+If the specified gene is not present, a warning is printed
+
+If an outfile is not specified, a default file is used (by replacing the file extension
+with "_<gene>.fa"
+"""
 import sys, getopt, string
 from Bio import SeqIO
 
@@ -37,7 +46,10 @@ def main(argv):
           gene_seq.description = seq.description
       except KeyError:
         pass
-    seq_list.append(gene_seq)  
+    try:    
+      seq_list.append(gene_seq)
+    except UnboundLocalError:
+      print "no gene called %s found for %s!" % ( gene, seq.id )
   SeqIO.write(seq_list, outfilename, "fasta")  
 
 if __name__ == "__main__":
