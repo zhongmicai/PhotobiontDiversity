@@ -280,70 +280,70 @@ AJ969505	UNIQUE	IN TREE	Xanthoria borealis	Trebouxia sp.		T. sp. 4		Nyati Unpubl
 AJ969506	UNIQUE	IN TREE	Xanthoria borealis	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969507	UNIQUE	IN TREE	Xanthoria borealis	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969508	Group 40	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969509	UNIQUE	IN TREE	Xanthoria turbinata	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969510	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969509	UNIQUE	IN TREE	Xanthoria turbinata	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
+AJ969510	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969511	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969512	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969513	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969514	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969515	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
+AJ969512	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
+AJ969513	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969514	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969515	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969516	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969517	Group 40	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969518	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969519	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969520	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969518	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
+AJ969519	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
+AJ969520	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969521	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969522	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969523	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969523	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969524	UNIQUE	IN TREE	Xanthoria calcicola	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969525	UNIQUE	IN TREE	Xanthoria fallax	Trebouxia sp.		T. impressa		Nyati Unpublished 	
-AJ969526	UNIQUE	IN TREE	Xanthoria polycarpa	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969526	UNIQUE	IN TREE	Xanthoria polycarpa	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969527	Group 38	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969528	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969528	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969529	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia arboricola		T. arboricola		Nyati Unpublished 	
-AJ969530	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969530	UNIQUE	IN TREE	Xanthoria ligulata	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969531	UNIQUE	IN TREE	Xanthoria polycarpa	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969532	Group 220	IN TREE	Xanthoria sp.	Trebouxia sp.		T. gelatinosa		Nyati Unpublished 	
+AJ969532	Group 220	IN TREE	Xanthoria sp.	Trebouxia sp.		T. gelatinosa		Nyati J. Phycology (2013) 	
 AJ969533	UNIQUE	IN TREE	Xanthoria fallax	Trebouxia sp.		T. impressa		Nyati Unpublished 	
 AJ969534	UNIQUE	IN TREE	Xanthoria hasseana	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969535	UNIQUE	IN TREE	Xanthoria polycarpa	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
+AJ969535	UNIQUE	IN TREE	Xanthoria polycarpa	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969536	NOT INCLUDED	NOT INCLUDED	Xanthoria calcicola	Trebouxia sp.				Nyati Unpublished 	
 AJ969537	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969538	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969539	Group 22	REDUNDANT	Xanthoria ectaneoides	Trebouxia sp.		T. sp. 4		Nyati Unpublished 	
+AJ969539	Group 22	REDUNDANT	Xanthoria ectaneoides	Trebouxia sp.		T. sp. 4		Nyati J. Phycology (2013) 	
 AJ969540	UNIQUE	IN TREE	Xanthoria flammea	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969541	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969542	UNIQUE	IN TREE	Xanthoria calcicola	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969542	UNIQUE	IN TREE	Xanthoria calcicola	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969543	Group 40	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969544	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969545	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969546	Group 30	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
+AJ969545	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969546	Group 30	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969547	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969548	Group 30	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969549	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969550	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
+AJ969549	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969550	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969551	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969552	UNIQUE	IN TREE	Xanthoria calcicola	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969552	UNIQUE	IN TREE	Xanthoria calcicola	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969553	Group 40	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969554	Group 39	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
+AJ969554	Group 39	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969555	Group 40	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969556	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969557	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969558	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
+AJ969556	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969557	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969558	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969559	Group 38	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969560	Group 17	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969560	Group 17	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969561	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969562	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969563	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969564	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969565	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969565	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969566	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969567	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969568	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969569	UNIQUE	IN TREE	Xanthoria candelaria	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969570	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969568	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
+AJ969569	UNIQUE	IN TREE	Xanthoria candelaria	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969570	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969571	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969572	Group 22	REDUNDANT	Xanthoria polycarpa	Trebouxia sp.		T. sp. 4		Nyati Unpublished 	
+AJ969572	Group 22	REDUNDANT	Xanthoria polycarpa	Trebouxia sp.		T. sp. 4		Nyati J. Phycology (2013) 	
 AJ969573	Group 31	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969574	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969575	Group 40	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
@@ -351,10 +351,10 @@ AJ969576	Group 40	REDUNDANT	Xanthoria candelaria	Trebouxia sp.		T. decolorans		N
 AJ969577	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969578	UNIQUE	IN TREE	Xanthoria elegans	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969579	UNIQUE	IN TREE	Teloschistes chrysopthalmus	Trebouxia sp.		T. gelatinosa		Nyati Unpublished 	
-AJ969580	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969581	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969580	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969581	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969582	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
-AJ969583	Group 18	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
+AJ969583	Group 18	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969584	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969585	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969586	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
@@ -362,28 +362,28 @@ AJ969587	Group 33	REDUNDANT	Xanthoria sp.	Trebouxia sp.		T. decolorans		Nyati Un
 AJ969588	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969589	Group 33	REDUNDANT	Xanthoria sp.	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AJ969590	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969591	Group 31	REDUNDANT	Xanthoria capensis	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
+AJ969591	Group 31	REDUNDANT	Xanthoria capensis	Trebouxia sp.		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969592	Group 38	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969593	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969594	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969595	Group 39	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
+AJ969595	Group 39	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
 AJ969596	Group 38	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969597	Group 40	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969598	Group 38	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969599	Group 39	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969600	Group 22	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. sp. 4		Nyati Unpublished 	
+AJ969599	Group 39	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
+AJ969600	Group 22	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. sp. 4		Nyati J. Phycology (2013) 	
 AJ969601	Group 38	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
 AJ969602	Group 38	IN TREE	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
-AJ969603	Group 22	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. sp. 4		Nyati Unpublished 	
+AJ969603	Group 22	REDUNDANT	Xanthoria parietina	Trebouxia sp.		T. sp. 4		Nyati J. Phycology (2013) 	
 AJ969604	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969605	UNIQUE	IN TREE	Xanthoria ulophyllodes	Trebouxia sp.		T. impressa		Nyati Unpublished 	
 AJ969606	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969607	UNIQUE	IN TREE	Xanthoria parietina	Trebouxia sp.		T. arboricola		Nyati Unpublished 	
 AJ969608	Group 33	IN TREE	Xanthoria parietina	Trebouxia sp.		T. decolorans		Nyati Unpublished 	
-AJ969609	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia arboricola		T. arboricola		Nyati Unpublished 	
+AJ969609	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia arboricola		T. arboricola		Nyati J. Phycology (2013) 	
 AJ969610	UNIQUE	IN TREE	Xanthoria sp.	Trebouxia arboricola		T. arboricola		Nyati Unpublished 	
 AJ969611	UNIQUE	IN TREE	Xanthoria ectaneoides	Trebouxia arboricola		T. arboricola		Nyati Unpublished 	
-AJ970889	Group 39	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati Unpublished 	
+AJ970889	Group 39	REDUNDANT	Xanthoria parietina	Trebouxia decolorans		T. decolorans		Nyati J. Phycology (2013) 	
 AM159202	Group 40	REDUNDANT		Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AM159203	UNIQUE	IN TREE		Trebouxia sp.		T. impressa		Nyati Unpublished 	
 AM159204	UNIQUE	IN TREE		Trebouxia sp		T. sp. 4		Nyati Unpublished 	
@@ -392,7 +392,7 @@ AM159206	UNIQUE	IN TREE		Trebouxia sp		T. sp. 4		Nyati Unpublished
 AM159207	UNIQUE	IN TREE		Trebouxia sp.		T. decolorans		Nyati Unpublished 	
 AM159208	UNIQUE	IN TREE		Trebouxia sp		T. sp. 4		Nyati Unpublished 	
 AM159209	UNIQUE	IN TREE		Trebouxia sp.		T. impressa		Nyati Unpublished 	
-AM159210	UNIQUE	IN TREE		Trebouxia sp.		T. decolorans		Nyati Unpublished 	
+AM159210	UNIQUE	IN TREE		Trebouxia sp.		T. decolorans		Nyati J. Phycology (2013) 	
 AM159211	UNIQUE	IN TREE		Trebouxia sp.		T. gelatinosa		Nyati Unpublished 	
 AM159212	UNIQUE	IN TREE		Trebouxia sp.		T. gelatinosa		Nyati Unpublished 	
 AM159213	UNIQUE	IN TREE	Xanthomendoza sp.	Trebouxia sp.		T. gelatinosa		Nyati Unpublished 	
