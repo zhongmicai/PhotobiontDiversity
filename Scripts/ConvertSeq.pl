@@ -130,10 +130,12 @@ sub ConvertSeqs {
                            -file   => $in_name);
     my $outfile;
     if ( $out_format =~ /phy/i and $out_format =~ /ext/i ) { open(OUT, ">>$out_name"); } #extended phylip format
+    elsif ( $out_format =~ /mega/i ) { open(OUT, ">>$out_name"); } #mega format
     else {  $outfile = Bio::AlignIO->new(-file => ">>$out_name",
                                         '-format' => $out_format);}
     while ( my $aln = $infile->next_aln ) {
       if ( $out_format =~ /phy/i and $out_format =~ /ext/i ) { WritePhylipExt($aln); }
+      elsif ( $out_format =~ /mega/i ) { WriteMega($aln, $out_name); }
       else { $outfile->write_aln($aln); }
     }
   }
@@ -149,6 +151,7 @@ sub GetExtension {
   elsif ( $format eq "clustalw" ) { return ".aln";}
   elsif ( $format eq "genbank" ) { return ".gbk";}
   elsif ( $format eq "nexus" ) { return ".nex";}
+  elsif ( $format eq "mega" ) { return ".meg";}
   else {die "file format not recognized!";}
 }
 
@@ -169,19 +172,6 @@ sub GetFormat {
   return $format;
 }
 
-sub WritePhylipExt {
-  my $aln = shift;
-  my @seqs = $aln->each_seq;
-  print OUT scalar(@seqs), " ", length($seqs[0]->seq), "\n";
-  my @name_lengths;
-  foreach (@seqs) { push(@name_lengths, length($_->display_id)); }
-  my $name_size = max(@name_lengths) + 1;
-  if ( $name_size < 10 ) { $name_size = 10; }
-  foreach (@seqs) {
-    printf OUT "%-*s",  $name_size, $_->display_id;
-    print OUT $_->seq, "\n";
-  }
-}
 
 
 sub WriteSeqs {
@@ -197,31 +187,33 @@ sub WriteSeqs {
   }
 }
 
-sub snp2aln {
-  my $file = shift;
-  open (IN, $file);
-  my @taxa;
-  my @seqs;
-  while (<IN>) {
-    chomp($_);
-    $_ =~ s/\s+$//;
-    my @chars = split(/\t/, $_);
-    shift(@chars);
-    shift(@chars);
-    unless (@taxa) { @taxa = @chars; next; }
-    for ( my $x = 0; $x < @chars; $x ++ ) { $chars[$x] =~ s/.*\(([ACGT])\)/$1/; }
-    unless (@seqs) { @seqs = @chars; next; }
-    for ( my $x = 0; $x < scalar(@chars); $x ++ ) {
-      $seqs[$x] .= $chars[$x]
-    }
+sub WritePhylipExt {
+  my $aln = shift;
+  my @seqs = $aln->each_seq;
+  print OUT scalar(@seqs), " ", length($seqs[0]->seq), "\n";
+  my @name_lengths;
+  foreach (@seqs) { push(@name_lengths, length($_->display_id)); }
+  my $name_size = max(@name_lengths) + 1;
+  if ( $name_size < 10 ) { $name_size = 10; }
+  foreach (@seqs) {
+    printf OUT "%-*s",  $name_size, $_->display_id;
+    print OUT $_->seq, "\n";
   }
-  my $aln = new Bio::SimpleAlign;
-  for ( my $x = 0; $x < scalar(@seqs); $x ++ ) {
-    my $seq = new Bio::LocatableSeq(-seq => $seqs[$x],
-                                    -id => $taxa[$x],
-                                    -start => 1,
-                                    -end => length($seqs[$x]));
-    $aln->add_seq($seq);
-  }
-  return $aln;
 }
+
+
+sub WriteMega {
+  my $aln = shift;
+  my $outfilename = shift;
+  my @seqs = $aln->each_seq;
+  print OUT "#Mega\n!Title $outfilename;\n\n";
+  my @name_lengths;
+  foreach (@seqs) { push(@name_lengths, length($_->display_id)); }
+  my $name_size = max(@name_lengths) + 1;
+  if ( $name_size < 10 ) { $name_size = 10; }
+  foreach (@seqs) {
+    printf OUT "#%-*s",  $name_size, $_->display_id;
+    print OUT $_->seq, "\n";
+  }
+}
+
