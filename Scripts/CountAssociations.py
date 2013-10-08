@@ -1,4 +1,4 @@
-#!/opt/local/bin/python
+#!/usr/local/bin/python
 #count the number of host genus / photobiont clade associations and print matrix
 import sys, getopt
 import csv

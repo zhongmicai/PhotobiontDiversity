@@ -1,4 +1,4 @@
-#!/opt/local/bin/python
+#!/usr/local/bin/python
 #assign new sequences to pre-defined Trebouxia clades. Info is added to the 7th column of the metadata file
 #this would be more robust if it used all of the sequences that have been assigned to clades to define the clades.
 import sys, getopt, string
