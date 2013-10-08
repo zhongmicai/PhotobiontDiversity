@@ -11,6 +11,7 @@ _Scripts used to manipulate data files for PhotobiontDiversity.wordpress.com_
 * ConvertSeq.pl -convert among different sequence/alignment file formats
 * CountAssociations.py -produces a matrix of host genus / algal clade assocaitions
 * FilterSeq.pl -remove sequence longer/shorter than specified values(s)
+* GetCDS.py - Extract CDS sequence for specified feature from longer genbank sequence
 * GetClades.py -adds metadata info about clade membership using hard-coded clade definitions
 * GetExcluded.pl -print the gap intervals of a designated sequence to act as an exclusion set for trimming
 * GetFasta.pl -use NCBI Eutils to fetch fasta formated sequences by accession number
