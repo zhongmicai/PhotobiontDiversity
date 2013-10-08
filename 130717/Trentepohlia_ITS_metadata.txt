@@ -1,0 +1,62 @@
+JQ617977	Acrocordia gemmata	Trentepohlia sp.	TreFl 156 	 	Hametner	Unpublished	 
+JQ617952	Arthonia cinnabarina	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617961	Arthonia cinnabarina	Printzina cf. lagenifera	TreFl 137 	 	Hametner	Unpublished	 
+KC489118	Arthonia cinnabarina	Printzina sp.	TreFl118 	 	Hametner	Unpublished	 
+KC489150	Arthonia cinnabarina	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617979	Arthonia radiata	Trentepohlia sp.	TreFl 155 	 	Hametner	Unpublished	 
+KC489132	Coenogonium cf. stramineum	Printzina sp.	Cs19 	 	Hametner	Unpublished	 
+KC489129	Coenogonium flavoviride	Printzina sp.	Cf43 	 	Hametner	Unpublished	 
+KC489136	Coenogonium interpositum	Trentepohlia arborum	 	 	Hametner	Unpublished	 
+KC489131	Coenogonium leprieurii	Trentepohlia sp.	Cl17 	 	Hametner	Unpublished	 
+KC489138	Coenogonium linkii	Trentepohlia aurea	 	 	Hametner	Unpublished	 
+KC489135	Coenogonium siquirrense	Printzina sp.	Csfd 	 	Hametner	Unpublished	 
+KC489127	Coenogonium sp.	Trentepohlia arborum	 	 	Hametner	Unpublished	 
+KC489134	Coenogonium subdilutum	Printzina sp.	Cs67 	 	Hametner	Unpublished	 
+KC489133	Coenogonium subluteum	Trentepohlia sp.	Cs87 	 	Hametner	Unpublished	 
+JQ617950	Dimerella pineti	Printzina sp.	TreFl 65 	 	Hametner	Unpublished	 
+KC489123	Diorygma pruinosum	Trentepohlia sp.	TreFl51 	 	Hametner	Unpublished	 
+JQ687379	Free-living	Trentepohlia aurea	SAG483-1	 	Hametner	Unpublished	 
+KC489141	Glyphis cicatricosa	Trentepohlia sp.	TreFl81 	 	Hametner	Unpublished	 
+JX675733	Graphis apertella	Printzina sp.	TreFl 69 	 	Hametner	Unpublished	 
+KC489144	Graphis cf. polyclades	Printzina sp.	DS14 	 	Hametner	Unpublished	 
+KC489155	Graphis cf. pseudosophistica	Trentepohlia sp.	TreFl44 	 	Hametner	Unpublished	 
+KC489143	Graphis cf. subruiziona	Printzina sp.	DS13 	 	Hametner	Unpublished	 
+KC489147	Graphis cincta	Printzina sp.	TreFl71 	 	Hametner	Unpublished	 
+JX675734	Graphis leptocarpa	Printzina sp.	TreFl 57 	 	Hametner	Unpublished	 
+JX675732	Graphis lineola	Printzina sp.	TreFl 55 	 	Hametner	Unpublished	 
+JF727811	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JF727814	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617951	Graphis scripta	Printzina sp.	TreFl 28 	 	Hametner	Unpublished	 
+JQ617953	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617954	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617955	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617956	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617957	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617958	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JQ617959	Graphis scripta	Printzina lagenifera	 	 	Hametner	Unpublished	 
+KC489112	Graphis sp.	Printzina lagenifera	 	 	Hametner	Unpublished	 
+KC489113	Graphis sp.	Printzina lagenifera	 	 	Hametner	Unpublished	 
+KC489114	Graphis sp.	Printzina lagenifera	 	 	Hametner	Unpublished	 
+KC489116	Graphis sp.	Trentepohlia sp.	DS35 	 	Hametner	Unpublished	 
+KC489145	Graphis sp.	Printzina sp.	DS11 	 	Hametner	Unpublished	 
+JF727819	Graphis submarginata	Printzina sp.	TreFl 53 	 	Hametner	Unpublished	 
+JQ617948	Gyalecta jenensis	Trentepohlia aurea	 	 	Hametner	Unpublished	 
+KC489154	Hemithecium laubertianum	Trentepohlia sp.	TreFl160 	 	Hametner	Unpublished	 
+KC489148	Herpothallon sp.	Printzina cf. lagenifera	TreFl42 	 	Hametner	Unpublished	 
+KC489151	Leiorreuma hypomelaenum	Printzina sp.	TreFl62 	 	Hametner	Unpublished	 
+JQ617960	Lotrema lepadinum	Printzina cf. lagenifera	TreFl 22 	 	Hametner	Unpublished	 
+KC489115	Mycoporum sp.	Trentepohlia sp.	DS22 	 	Hametner	Unpublished	 
+KC489117	Phaeographis inusta	Printzina sp.	TreFl106 	 	Hametner	Unpublished	 
+KC489152	Phaeographis inusta	Trentepohlia sp.	TreFl134 	 	Hametner	Unpublished	 
+KC489140	Phaeographis sp.	Trentepohlia sp.	TreFl56 	 	Hametner	Unpublished	 
+KC489119	Phaeographis subdividens	Printzina sp.	TreFl98 	 	Hametner	Unpublished	 
+JQ617949	Pyrenula laevigata	Printzina sp.	TreFl 26 	 	Hametner	Unpublished	 
+JQ617962	Pyrenula laevigata	Printzina sp.	TreFl 135 	 	Hametner	Unpublished	 
+KC489142	Sarcographa cinchonarum	Trentepohlia sp.	TreFl82 	 	Hametner	Unpublished	 
+KC489149	Strigula elegans	Printzina cf. lagenifera	TreFl60 	 	Hametner	Unpublished	 
+JQ617981	unknown	Trentepohlia sp.	TreFl 154 	 	Hametner	Unpublished	 
+JX675735	unknown	Printzina sp.	fTA58 	 	Hametner	Unpublished	 
+JX675738	unknown	Trentepohlia arborum	 	 	Hametner	Unpublished	 
+JX675739	unknown	Printzina cf. lagenifera	fT7 	 	Hametner	Unpublished	 
+JX675740	unknown	Printzina lagenifera	 	 	Hametner	Unpublished	 
+JX866795	unknown	Cephaleuros virescens	 	 	Hametner	Unpublished	 
