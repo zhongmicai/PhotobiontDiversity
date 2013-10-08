@@ -3,32 +3,21 @@ PhotobiontDiversity
 
 Data and scripts for PhotobiontDiversity.wordpress.com
 
-Master Datasets:
+Asterochloris ITS data: 130612
 
-Ncommune_rbcX.fa -initial query sequence
+Coccomyxa ITS data: 130711
 
-Nostoc_rbcX_acc.txt -list of rbcX accession numbers
+Cyanobacteria 16S data: 130921
 
-Nostoc_rbcX_aln.fa -MAFFT alignment in fasta format
+Nostoc rbcX data: 130819
 
-Nostoc_rbcX_gis.txt -list of rbcX GI numbers
+Trebouxia ITS data: 130601
 
-Nostoc_rbcX_host.nwk -rbcX phylogeny with host information as taxon names
+Trebouxiophyceae rbcL data: 131010
 
-Nostoc_rbcX_metadata.txt -information about host and redundancy for each sequence
+Trentepohlia ITS data: 130717
 
-Nostoc_rbcX_nr_aln.fa -MAFFT alignment in fasta format with redundant sequences removed
-
-Nostoc_rbcX.fa -all unmodified rbcX sequences
-
-Nostoc_rbcX.nex -NEXUS alignment of non-redundant sequences
-
-Nostoc_rbcX.nwk -rbcX phylogeny
-
-Nostoc_rbcX.pdf -PDF of rbcX phylogeny
-
-Nostoc_rbcX.phy phylip formated alignment of trimmed and filtered sequences
-
+Trentepohlia rbcL data: 130723
 ===================
 Scripts -folder of scripts used to generate datasets
 
