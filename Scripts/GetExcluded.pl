@@ -3,18 +3,26 @@ use warnings;
 use strict;
 use Bio::SeqIO;
 
+# print the gap intervals of a designated sequence to act as an exclusion set for trimming
+# using trimal
+
+#Usage: GetExcluded.pl infile |pbcopy
+#       trimal -in alignment_file -phylip -select `pbpaste` > outfile
+
 my $infilename = shift;
 
 my $infile = Bio::SeqIO->new('-file' => $infilename,
          '-format' => 'fasta') or die "could not open seq file $infilename\n";
 
-#AJ632030 is the template sequence for the Nostoc_rbcX dataset
-#JQ993758 is the template sequence for the Trebouxia_ITS dataset
 while ( my $seq_obj = $infile->next_seq ) {
-  if ( $seq_obj->display_id eq 'AJ632030' or $seq_obj->display_id eq 'JQ993758' or 
-       $seq_obj->display_id eq 'AF345436' or $seq_obj->display_id eq 'AY293964' or
-       $seq_obj->display_id eq 'JQ617958' or $seq_obj->display_id eq 'FJ534625' or
-       $seq_obj->display_id eq 'JQ007778' ) {
+  if ( $seq_obj->display_id eq 'AJ632030'    # Nostoc rbcX ref seq
+       or $seq_obj->display_id eq 'JQ993758' # Trebouxia ITS ref seq
+       or $seq_obj->display_id eq 'AF345436' # Asterochloris ITS ref seq
+       or $seq_obj->display_id eq 'AY293964' # Coccomyxa ITS ref seq
+       or $seq_obj->display_id eq 'JQ617958' # Trentepohlia ITS ref seq 
+       or $seq_obj->display_id eq 'FJ534625' # Trentepohlia rbcL ref seq
+       or $seq_obj->display_id eq 'JQ007778' # Cyanobacteria 16S ref seq
+      ) {
     my $seq = $seq_obj->seq;
     my @starts;
     my @ends;

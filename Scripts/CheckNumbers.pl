@@ -1,5 +1,9 @@
 #!/usr/bin/perl -w
 
+# A little script to make sure that all sequence within a range of accession numbers are in a file
+
+#Usage: grep "prefix" metadatafile | cut -f1 | sort | CheckNumbers.pl start end
+
 use warnings;
 use strict;
 

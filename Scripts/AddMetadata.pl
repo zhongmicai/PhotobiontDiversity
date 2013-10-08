@@ -1,5 +1,9 @@
 #!/usr/bin/perl -w
+
 #Add algal taxonomy info (species) or host info from metadata file to phylogeny.
+
+#Usage: cat treefile | AddMetadata.pl metadatafile species|host > outfile
+
 use warnings;
 use strict;
 use autodie qw(open close);

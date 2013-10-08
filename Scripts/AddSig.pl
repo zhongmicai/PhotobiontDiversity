@@ -1,4 +1,10 @@
 #!/usr/bin/perl -w
+
+#convert branch support values to binary (<.9 = 0; >=.9 = 1)
+#These significant branches can be visualised with FigTree as node shapes
+
+#Usage: AddSig.pl treefile >outfile
+
 use warnings;
 use strict;
 use autodie qw(open close);

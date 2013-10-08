@@ -1,4 +1,13 @@
 #!/usr/bin/perl -w
+
+# Colour taxa in tree according to various criteria (species, genus, host, specialists
+# or custom (a lits of species to be differentially coloured))
+
+# Treefile must have a separate taxa block, which is most easily accomplished by opening
+# it in FigTree and saving
+
+#Usage: ColourTree.pl <Treefile> <comparison>
+
 use warnings;
 use strict;
 use autodie qw(open close);
