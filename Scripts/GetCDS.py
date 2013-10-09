@@ -46,9 +46,10 @@ def main(argv):
           gene_seq.description = seq.description
       except KeyError:
         pass
-    try:    
+    if gene_seq:    
       seq_list.append(gene_seq)
-    except UnboundLocalError:
+      gene_seq = ''
+    else:
       print "no gene called %s found for %s!" % ( gene, seq.id )
   SeqIO.write(seq_list, outfilename, "fasta")  
 
