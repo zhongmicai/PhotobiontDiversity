@@ -86,7 +86,7 @@ def draw_tree(tree, file):
     add_sig(tree)
     ts = TreeStyle()
     ts.branch_vertical_margin = 1
-    ts.scale = 500
+    ts.scale = 1500
     tree.render(file, tree_style=ts, w=3000, units='mm')
 
 def add_faces(leaf, label_info):
