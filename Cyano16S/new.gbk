@@ -1,0 +1,1953 @@
+LOCUS       DQ234825                1479 bp    DNA     linear   BCT 02-NOV-2005
+DEFINITION  Anabaena flos-aquae strain UTEX LB2557 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   DQ234825
+VERSION     DQ234825.1  GI:78217337
+KEYWORDS    .
+SOURCE      Dolichospermum flos-aquae
+  ORGANISM  Dolichospermum flos-aquae
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Dolichospermum.
+REFERENCE   1  (bases 1 to 1479)
+  AUTHORS   Choi,G.-G. and Oh,H.-M.
+  TITLE     Phylogenetic diversity of Nostocaceae, inferred from 16S rRNA gene
+            and cpcBA-intergenic spacer sequence analyses
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1479)
+  AUTHORS   Choi,G.-G. and Oh,H.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2005) Korea Research Institute of Bioscience &
+            Biotechnology, Environmental Biotechnology Laboratory, 52
+            Eoeun-dong, Yuseong-gu, Daejeon 305-333, Korea
+FEATURES             Location/Qualifiers
+     source          1..1479
+                     /organism="Dolichospermum flos-aquae"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX LB2557"
+                     /db_xref="taxon:1166"
+     rRNA            <1..>1479
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggtgtcttcg gacatagtgg cggacgggtg agtaacgcgt gagaatctag cttcaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc ggaaggtgaa aggcttgctg
+      181 cctgaagatg agctcgcgtc cgattagcta gtaggtgggg taagagccta cctaggcgac
+      241 gatcggtagc tggtctgaga ggatgaccag ccacactggg actgagacac ggcccagact
+      301 cctacgggag gcagcagtgg ggaattttcc gcaatgggcg aaagcctgac ggagcaatac
+      361 cgcgtgaggg aggaaggctc ttgggttgta aacctctttt ctcagggaag aacacaatga
+      421 cggtacctga ggaatcagca tcggctaact ccgtgccagc agccgcggta atacggagga
+      481 tgcaagcgtt atccggaatg attgggcgta aagcgtccgc aggtggctgt gtaagtctgc
+      541 tgtcaaagag caaagctcaa ctttgtaaag gcagtggaaa ctacacggct agagtgcgtt
+      601 cggggcagag ggaattcctg gtgtagcggt gaaatgcgta gagatcaggg agaacaccgg
+      661 tggcgaaggc gctctgctag gccgcaactg acactgaggg acgaaagcta ggggagcgaa
+      721 tgggattaga taccccagta gtcctagctg taaacgatgg atactaggcg tggcttgtat
+      781 cgacccgagc cgtgccgtag ctaacgcgtt aagtatcccg cctggggagt acgcacgcaa
+      841 gtgtgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagtatg tggtttaatt
+      901 cgatgcaacg cgaagaacct taccaaggct tgacatgtcg cgaacttttc tgaaaggaag
+      961 aggtgccttc gggagcgcga acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag
+     1021 atgttgggtt aagtcccgca acgagcgcaa ccctcgtttt tagttgccag cattaagttg
+     1081 ggcactctag agagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaagtcag
+     1141 catgcccctt acgccttggg ctacacacgt actacaatgc tacggacaga gggcagcaag
+     1201 ctagcgatag caagctaatc ccataaaccg tggctcagtt cagatcgaag gctgcaactc
+     1261 gccttcgtga aggaggaatc gctagtaatt gcaggtcagc atactgcagt gaattcgttc
+     1321 ccgggccttg tacacaccgc ccgtcacacc atggaagctg gcaacgcccg aagtcattac
+     1381 tccaaccttt cgagggggag gatgcctaag gcagtgctgg tgactggggt gaagtcgtaa
+     1441 caaggtagcc gtaccggaag gtgtggctgg atcacctcc
+//
+
+LOCUS       HM573456                1441 bp    DNA     linear   BCT 31-JAN-2012
+DEFINITION  Anabaena oryzae Ind3 16S ribosomal RNA gene, partial sequence.
+ACCESSION   HM573456
+VERSION     HM573456.1  GI:302125117
+KEYWORDS    .
+SOURCE      Anabaena oryzae Ind3
+  ORGANISM  Anabaena oryzae Ind3
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena.
+REFERENCE   1  (bases 1 to 1441)
+  AUTHORS   Mishra,A.K., Shukla,E., Singh,S.S., Singh,P., Srivastava,A. and
+            Singh,A.
+  TITLE     Molecular characterization of heterocystous cyanobacteria based on
+            16S rRNA analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1441)
+  AUTHORS   Mishra,A.K., Shukla,E., Singh,S.S., Singh,P., Srivastava,A. and
+            Singh,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUN-2010) Botany, Banaras Hindu University,
+            Laboratory of Microbial Genetics, Department of Botany, Banaras
+            Hindu University, Varanasi, Uttar Pradesh 221005, India
+FEATURES             Location/Qualifiers
+     source          1..1441
+                     /organism="Anabaena oryzae Ind3"
+                     /mol_type="genomic DNA"
+                     /strain="Ind3"
+                     /isolation_source="dried water body"
+                     /db_xref="taxon:1137142"
+                     /country="India: Vishwanath Temple, Banaras Hindu
+                     University, Varanasi, Uttar Pradesh"
+     rRNA            <1..>1441
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggatgaacg ctggcggtat gcttaacaca tgcaagtcga acggtgtctt cggacatagt
+       61 ggcggacggg tgagtaacgc gtgagaatct agcttcaggt tggacaacca ctggaaacgg
+      121 tggctaatac ggatgtgccg aaaggtgaaa ggcttgctgc ctgaagatga gctcgcgtct
+      181 gattagctag ttggtggggt aagagcctac caaggcgacg atcagtagct ggtctgagag
+      241 gatgatcagc cacactggga ctgagacacg gcccagactc ctacgggagg cagcagtggg
+      301 gaattttccg caatgggcga aagcctgacg gagcaatacc gcgtgaggga ggaaggctct
+      361 tgggttgtaa acctcttttc tcagggaaga acacaatgac ggtacctgag gaatcagcat
+      421 cggctaactc cgtgccagca gccgcggtaa tacggaggat gcaagcgtta tccggaatga
+      481 ttgggcgtaa agcgtccgca ggtggccttg taagtctgct gtcaaagagc gaagctcaac
+      541 ttcgtaaagg cagtggaaac tacagggcta gagtgcgttc ggtgcagagg gacttcctgg
+      601 tgtagcggtg aaatgtgtag agatcaggaa gaacaccggt ggcgaaggcg ctctgctagg
+      661 ccgtcactga cactgaggga ggaaagctag gggagcgaat gggattagat accccagtag
+      721 tcctagctgt aaacgatgga tactaggcgt ggcttgtatc gacccgagcc gtgccgtagc
+      781 taacgcgtta agtatcccgc ctggggagta cgcacgcaag tgtgaaactc aaaggaattg
+      841 acgggggccc gcacaagcgg tggagtatgt ggtttaattt gatgcaacgc gaagaacctt
+      901 accaaggctt gacatgtcgc gaatcttctt gaaaggtcag agtgccttcg ggagcgcgaa
+      961 cacaggtggt gcatggctgt cgtcagcttg tgtcgtgaga tgttgggtta agtcccgcaa
+     1021 cgagcgcaac cctcgttttt agttgccagc attaagttgg gcactctaga gagactgccg
+     1081 gtgacaaacc ggaggaaggt ggggatgacg tcaagtcagc atgcccctta cgtcttgggc
+     1141 tacacacgta ctacaatgct acggacagag ggcagcaagc tagcgatagc aagctaatcc
+     1201 cgtaaaccgt ggctcagttc agatcgcagg ctgcaactcg ccttcgtgaa ggaggaatcg
+     1261 ctagtaattg caggtcagca tattgcagtg aattcgttcc cgggccttgt acacaccgcc
+     1321 cgtcacacca tggaagctgg caacgcccga agtcattact ccaaccattc gtgggggagg
+     1381 atgcctaagg cagtgctggt gactggggtg aagtcgtaac aaggtagccg taccggaagg
+     1441 t
+//
+
+LOCUS       JN873351                1392 bp    DNA     linear   BCT 27-FEB-2012
+DEFINITION  Anabaena vaginicola ISC90 16S ribosomal RNA gene, partial sequence.
+ACCESSION   JN873351
+VERSION     JN873351.1  GI:377685890
+KEYWORDS    .
+SOURCE      Anabaena vaginicola ISC90
+  ORGANISM  Anabaena vaginicola ISC90
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena.
+REFERENCE   1  (bases 1 to 1392)
+  AUTHORS   Aghashariatmadari,Z., Riahi,H., Shokravi,S., Bolfion,M., Soltani,N.
+            and Baftechi,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2011) Dept. of Biology, Faculty of Biosciences,
+            Shahid Beheshti University, Velenjak, Tehran, Tehran 19615, Iran
+FEATURES             Location/Qualifiers
+     source          1..1392
+                     /organism="Anabaena vaginicola ISC90"
+                     /mol_type="genomic DNA"
+                     /strain="ISC90"
+                     /isolation_source="paddy field"
+                     /db_xref="taxon:1149771"
+                     /country="Iran"
+                     /PCR_primers="fwd_name: fd1, fwd_seq: agagtttgatcctggctc,
+                     rev_name: rd1, rev_seq: aaggaggtgatccagcc"
+     rRNA            <1..>1392
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgcagtcgaa cggaatcttt agggatttag tggcggacgg gtgagtaacg cgtgagaatc
+       61 tggcttcagg tcggggacaa cagttggaaa cgactgctaa taccggatat gccgagaggt
+      121 gaaagattaa ttgcctggag atgagctcgc gtctgattag ctagttggtg gggtaagagc
+      181 ctaccaaggc gacgatcagt agctggtctg agaggatgat cagcccacac tgggactgag
+      241 acacggccca gactcctacg ggaggcagca gtggggaatt ttccgcaatg ggcgaaagcc
+      301 tgacggagca ataccgcgtg agggaggaag gctcttgggt cgtaaacctc ttttctcagg
+      361 gaagaaaaaa atgacggtac ctgaggaata agcatcggct aactccgtgc cagcagccgc
+      421 ggtaatacgg aggatgcaag cgttatccgg aatgattggg cgtaaagcgt ccgcaggtgg
+      481 ccatgtaagt ctgctgttaa agagtcatgc tcaacatgat aaaagcagtg gaaactacac
+      541 ggctagagta cgttcggggc agagggaatt cctggtgtag cggtgaaatg cgtagatatc
+      601 aggaagaaca ccggtggcga aagcgctctg ctaggccgta actgacactg agggacgaaa
+      661 gctaggggag cgaatgggat tagatacccc agtagtccta gccgtaaacg atggatacta
+      721 ggcgtggctt gtatcgaccc gagccgtgcc gtagctaacg cgttaagtat cccgcctggg
+      781 gagtacgcac gcaagtgtga aactcaaagg aattgacggg ggcccgcaca agcggtggag
+      841 tatgtggttt aattcgatgc aacgcgaaga accttaccaa gacttgacat gtcgcgaatc
+      901 ttcttgaaag ggaagagtgc cttcgggagc gcgaacacag gtggtgcatg gctgtcgtca
+      961 gctcgtgtcg tgagaatgtt gggttaagtc ccgcaacgag cgcaaccctc gtttttagtt
+     1021 gccagcatta agttgggcac tctagagaga ctgccggtga caaaccggag gaaggtgagg
+     1081 atgacgtcaa gtcagcatgc cccttacgtc ttgggctaca cacgtactac aatgctacgg
+     1141 acaaagggca gctacacagc ggatgtgatg ctaatctcat aaaccgtagc tcagttcaga
+     1201 tcgcaggctg caactcgcct gcgtgaagga ggaatcgcta gttaattgca agaggtcagc
+     1261 atactgcagt gaattcgttc ccgggccttg tacacaccgc ccgtcacacc atggaagttg
+     1321 gtcacgcccg aagtcattac cccaaccgaa aggaggggga tgcctaaggt aggactggtg
+     1381 actggggtga ag
+//
+
+LOCUS       EU022724                1483 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. SKS9 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022724
+VERSION     EU022724.1  GI:154361752
+KEYWORDS    .
+SOURCE      Nostoc sp. SKS9
+  ORGANISM  Nostoc sp. SKS9
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1483
+                     /organism="Nostoc sp. SKS9"
+                     /mol_type="genomic DNA"
+                     /isolate="SKS9"
+                     /host="Blasia pusilla"
+                     /db_xref="taxon:457967"
+                     /country="Norway: Skibotn"
+     rRNA            <1..>1483
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggaatctttc gggatttagt ggcggacggg tgagtaacgc gtgagaatct ggcttcaggt
+      121 ctgggacaac cactggaaac ggtggctaat accggatgtg ccgagaggtg aaaggttaac
+      181 tgcctgaaga tgagctcgcg tctgattagc tagttggaag tgtaatggac tcccaaggcg
+      241 acgatcagta gctggtctga gaggacgatc agccacactg ggactgagac acggcccaga
+      301 ctcctacggg aggcagcagt ggggaatttt ccgcaatggg cgaaagcctg acggagcaat
+      361 accgcgtgag ggaggaaggc tcttgggtcg taaacctctt ttctcaagga agaacacaat
+      421 gacggtactt gaggaataag catcggctaa ctccgtgcca gcagccgcgg taatacggag
+      481 gatgcaagcg ttatccggaa tgattgggcg taaagcgtcc gcaggtggca atgtaagtct
+      541 gctgttaaag agtctagctc aactagataa gagcagtgga aactacatag ctagagtacg
+      601 ttcggggcag agggaattcc tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc
+      661 ggtggcgaag gcgctctgct aggccgtaac tgacactgag ggacgaaagc taggggagcg
+      721 aatgggatta gataccccag tagtcctagc cgtaaacgat ggatactagg cgtggcttgt
+      781 atcgacccga gccgtgccgt agctaacgcg ttaagtatcc cgcctgggga gtacgccggc
+      841 aacggtgaaa ctcaaaggaa ttgacggggg cccgcacaag cggtggagta tgtggtttaa
+      901 ttcgatgcaa cgcgaagaac cttaccaagg cttgacatgt cgcgaatctt cttgaaaggg
+      961 aagagtgcct tcgggagcgc gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg
+     1021 agatgttggg ttaagtcccg caacgagcgc aaccctcgtt tttagttgcc agcattaagt
+     1081 tgggcactct agagagactg ccggtgacaa accggaggaa ggtggggatg acgtcaagtc
+     1141 agcatgcccc ttacgccttg ggctacacac gtactacaat gctccggaca gagggcagca
+     1201 agcatgcgaa tgcaagcaaa tcccgtaaac cggagctcag ttcagatcgc aggctgcaac
+     1261 tcgcctgcgt gaaggaggaa tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt
+     1321 tcccgggcct tgtacacacc gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt
+     1381 actccaacca ttcgtggagg aggatgccta aggcaggact ggtgactggg gtgaagtcgt
+     1441 aacaaggtag ccgtaccgga aggtgtggct ggatcacctc ctt
+//
+
+LOCUS       EU022708                1485 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. KVJ10 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022708
+VERSION     EU022708.1  GI:154361736
+KEYWORDS    .
+SOURCE      Nostoc sp. KVJ10
+  ORGANISM  Nostoc sp. KVJ10
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1485)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1485)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1485
+                     /organism="Nostoc sp. KVJ10"
+                     /mol_type="genomic DNA"
+                     /isolate="KVJ10"
+                     /host="Blasia pusilla"
+                     /db_xref="taxon:457941"
+                     /country="Norway: Kvaloya"
+     rRNA            <1..>1485
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggtgtcttcg gacacagtgg cggacgggtg agtaacgcgt gagaatctgg ctttaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc cgtaattggg tgaaaggtta
+      181 actgcctgaa gatgagctcg cgtctgatta gctagttgga agtgtaatgg actcccaagg
+      241 cgacgatcag tagctggtct gagaggacga tcagccacac tgggactgag acacggccca
+      301 gactcctacg ggaggcagca gtggggaatt ttccgcaatg ggcgaaagcc tgacggagca
+      361 ataccgcgtg agggaggaag gctcttgggt cgtaaacctc ttttctcagg gaagaacaca
+      421 atgacggtac ctgaggaata agcatcggct aactccgtgc cagcagccgc ggtaatacgg
+      481 aggatgcaag cgttatccgg aatgattggg cgtaaagcgt ccgcaggtgg caatgtaagt
+      541 ctgctgttaa agagtctagc tcaactagat aagagcagtg gaaactacat agctagagta
+      601 cgttcggggc agagggaatt cctggtgtag cggtgaaatg cgtagagatc aggaagaaca
+      661 ccagtggcga aggcgctctg ctaggccgta actgacactg agggacgaaa gctaggggag
+      721 cgaatgggat tagatacccc agtagtccta gccgtaaacg atggatacta ggcgtggctt
+      781 gtatcgaccc gagccgtgcc gtagctaacg cgttaagtat cccgcctggg gagtacgccg
+      841 gcaacggtga aactcaaagg aattgacggg ggcccgcaca agcggtggag tatgtggttt
+      901 aattcgatgc aacgcgaaga accttaccaa ggcttgacat gtcgcgaatc ttctcgaaag
+      961 ggaagagtgc cttcgggagc gcgaacacag gtggtgcatg gctgtcgtca gctcgtgtcg
+     1021 tgagatgttg ggttaagtcc cgcaacgagc gcaaccctcg tttttagttg ccagcattaa
+     1081 gttgggcact ctagagagac tgccggtgac aaaccggagg aaggtgggga tgacgtcaag
+     1141 tcagcatgcc ccttacgcct tgggctacac acgtactaca atgctccgga cagagggcag
+     1201 caagcatgcg aatgcaagca aatcccgtaa accggagctc agttcagatc gcaggctgca
+     1261 actcgcctgc gtgaaggagg aatcgctagt aattgcaggt cagcatactg cagtgaattc
+     1321 gttcccgggc cttgtacaca ccgcccgtca caccatggaa gctggtagtg cccgaagtca
+     1381 ttactccaac ctttcgggga ggaggatgcc taaggcagga ctggtgactg gggtgaagtc
+     1441 gtaacaaggt agccgtaccg gaaggtgtgg ctggatcacc tcctt
+//
+
+LOCUS       EU022728                1483 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. KVJ18 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022728
+VERSION     EU022728.1  GI:154361756
+KEYWORDS    .
+SOURCE      Nostoc sp. KVJ18
+  ORGANISM  Nostoc sp. KVJ18
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1483
+                     /organism="Nostoc sp. KVJ18"
+                     /mol_type="genomic DNA"
+                     /isolate="KVJ18"
+                     /host="Blasia pusilla"
+                     /db_xref="taxon:457942"
+                     /country="Norway: Kvaloya"
+     rRNA            <1..>1483
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 gaaatctttc gggatttagt ggcggacggg tgagtaacgc gtgagaatct ggcttcaggt
+      121 ctgggacaac cactggaaac ggtggctaat accggatgtg ccgagaggtg aaaggttaac
+      181 tgcctgaaga tgagctcgcg tctgattagc tagttggaag tgtaatggac tcccaaggcg
+      241 acgatcagta gctggtctga gaggacgatc agccacactg ggactgagac acggcccaga
+      301 ctcctacggg aggcagcagt ggggaatttt ccgcaatggg cgaaagcctg acggagcaat
+      361 accgcgtgag ggaggaaggc tcttgggtcg taaacctctt ttctcaggga agaacaaaat
+      421 gacggtacct gaggaataag catcggctaa ctccgtgcca gcagccgcgg taatacggag
+      481 gatgcaagcg ttatccggaa tgattgggcg taaagcgtcc gcaggtggct atgtaagtct
+      541 gctgttaaag agtctagctc aactagataa gagcagtgga aactacaagg ctagagtacg
+      601 ttcggggcag agggaattcc tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc
+      661 ggtggcgaag gcgctctgct aggccgtaac tgacactgag ggacgaaagc taggggagcg
+      721 aatgggatta gataccccag tagtcctagc cgtaaacgat ggatactagg cgtggcttgt
+      781 atcgacccga gccgtgccgt agctaacgcg ttaagtatcc cgcctgggga gtacgccggc
+      841 aacggtgaaa ctcaaaggaa ttgacggggg cccgcacaag cggtggagta tgtggtttaa
+      901 ttcgatgcaa cgcgaagaac cttaccaagg cttgacatgt cgcgaatctc ggtgaaagct
+      961 gagagtgcct tcgggagcgc gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg
+     1021 agatgttggg ttaagtcccg caacgagcgc aaccctcgtt tttagttgcc agcattaagt
+     1081 tgggcactct agagagactg ccggtgacaa accggaggaa ggtggggatg acgtcaagtc
+     1141 agcatgcccc ttacgccttg ggctacacac gtactacaat gctccggaca gagggcagca
+     1201 agcatgcgaa tgcaagcaaa tcccgtaaac cggagctcag ttcagatcgc aggctgcaac
+     1261 tcgcctgcgt gaaggaggaa tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt
+     1321 tcccgggcct tgtacacacc gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt
+     1381 actccaacca ttcgtggagg aggatgccta aggcaggact ggtgactggg gtgaagtcgt
+     1441 aacaaggtag ccgtaccgga aggtgtggct ggatcacctc ctt
+//
+
+LOCUS       EU022717                1483 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. SKJ2 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022717
+VERSION     EU022717.1  GI:154361745
+KEYWORDS    .
+SOURCE      Nostoc sp. SKJ2
+  ORGANISM  Nostoc sp. SKJ2
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1483
+                     /organism="Nostoc sp. SKJ2"
+                     /mol_type="genomic DNA"
+                     /isolate="SKJ2"
+                     /host="Blasia pusilla"
+                     /db_xref="taxon:457957"
+                     /country="Norway: Skibotn"
+     rRNA            <1..>1483
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggaatctttc gggatttagt ggcggacggg tgagtaacgc gtgagaatct ggcttcaggt
+      121 ctgggacaac cactggaaac ggtggctaat accggatgtg ccgagaggtg aaaggttaac
+      181 tgcctgaaga tgagctcgcg tctgattagc tagttggaag tgtaatggac tcccaaggcg
+      241 acgatcagta gctggtctga gaggacgatc agccacactg ggactgagac acggcccaga
+      301 ctcctacggg aggcagcagt ggggaatttt ccgcaatggg cgaaagcctg acggagcaat
+      361 accgcgtgag ggaggaaggc tcttgggtcg taaacctctt ttctcaagga agaacacaat
+      421 gacggtactt gaggaataag catcggctaa ctccgtgcca gcagccgcgg taatacggag
+      481 gatgcaagcg ttatccggaa tgattgggcg taaagcgtcc gcaggtggca atgtaagtct
+      541 gctgttaaag agtctagctc aactagataa gagcagtgga aactacatag ctagagtacg
+      601 ttcggggcag agggaattcc tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc
+      661 ggtggcgaag gcgctctgct aggccgtaac tgacactgag ggacgaaagc taggggagcg
+      721 aatgggatta gataccccag tagtcctagc cgtaaacgat ggatactagg cgtggcttgt
+      781 atcgacccga gccgtgccgt agctaacgcg ttaagtatcc cgcctgggga gtacgccggc
+      841 aacggtgaaa ctcaaaggaa ttgacggggg cccgcacaag cggtggagta tgtggtttaa
+      901 ttcgatgcaa cgcgaagaac cttaccaagg cttgacatgt cgcgaatctt tctgaaagga
+      961 gagagtgcct tcgggagcgc gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg
+     1021 agatgttggg ttaagtcccg caacgagcgc aaccctcgtt tttagttgcc agcattaagt
+     1081 tgggcactct agagagactg ccggtgacaa accggaggaa ggtggggatg acgtcaagtc
+     1141 agcatgcccc ttacgccttg ggctacacac gtactacaat gctccggaca gagggcagca
+     1201 agcatgcgaa tgcaagcaaa tcccggaaac cggagctcag ttcagatcgc aggctgcaac
+     1261 tcgcctgcgt gaaggaggaa tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt
+     1321 tcccgggcct tgtacacacc gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt
+     1381 actccaacct ttcggggagg aggatgccta aggcaggact ggtgactggg gtgaagtcgt
+     1441 aacaaggtag ccgtaccgga aggtgtggct ggatcacctc ctt
+//
+
+LOCUS       FR798931                1462 bp    DNA     linear   BCT 04-FEB-2011
+DEFINITION  Chroococcus sp. VP2-04c partial 16S rRNA gene, strain VP2-04c.
+ACCESSION   FR798931
+VERSION     FR798931.1  GI:322504120
+KEYWORDS    .
+SOURCE      Chroococcus sp. VP2-04c
+  ORGANISM  Chroococcus sp. VP2-04c
+            Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+            Chroococcus.
+REFERENCE   1
+  AUTHORS   Cuzman,O.A., Ventura,S., Sili,C., Mascalchi,C., Turchetti,T.,
+            D'Acqui,L.P. and Tiano,P.
+  TITLE     Biodiversity of phototrophic biofilms dwelling on monumental
+            fountains
+  JOURNAL   Microb. Ecol. 60 (1), 81-95 (2010)
+   PUBMED   20446084
+REFERENCE   2  (bases 1 to 1462)
+  AUTHORS   Ventura,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2011) Ventura S., National Research Council of
+            Italy, Institute of Ecosystem Study, Via Madonna del Piano 10,
+            Sesto Fiorentino, 50019, ITALY
+FEATURES             Location/Qualifiers
+     source          1..1462
+                     /organism="Chroococcus sp. VP2-04c"
+                     /mol_type="genomic DNA"
+                     /strain="VP2-04c"
+                     /isolation_source="concrete-made fountain with stagnant
+                     water, black dry crust"
+                     /db_xref="taxon:980455"
+                     /country="Italy:Firenze, Villa La Pietra"
+     gene            <1..>1462
+                     /gene="16S rRNA"
+     rRNA            <1..>1462
+                     /gene="16S rRNA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggaactttta ggagttcagt
+       61 ggcggacggg tgagtaacgc gtgagaatct ggcttcaggt cggggacaac cactggaaac
+      121 ggtggctaat accggatgag ccttttggta aaagattgca ttgcctgaag aagagctcgc
+      181 gtctgattag ctagttggtg tggtaagggc gcaccaaggc gacgatcagt agctggtctg
+      241 agaggatgat cagccacact gggactgaga cacggcccag actcctacgg gaggcagcag
+      301 tggggaattt tccgcaatgg gcgaaagcct gacggagcaa taccgcgtga gggaggaagg
+      361 ctcttgggtt gtaaacctct tttctcaggg aagataatga cggtacctga ggaatcagca
+      421 tcggctaact ccgtgccagc agccgcggta atacggagga tgcaagcgtt atccggaatg
+      481 attgggcgta aagagtccgt aggtggcatt tcaagtctgc tgttaaaggt cggggctcaa
+      541 ctccgaaaga gcggtggaaa ctgaagagct agaggttggt aggggcagag ggaattccca
+      601 gtgtagcggt gaaatgcgta gagattggga agaacaccgg tggcgaaagc gctctgctgg
+      661 accaagactg acactgaggg acgaaagcta ggggagcgaa tgggattaga taccccagta
+      721 gtcctagccg taaacgatgg atactaggcg ttgttggtat cgaccccagc agtgccggag
+      781 ctaacgcgtt aagtatcccg cctggggagt acgcgcgcaa gcgtgaaact caaaggaatt
+      841 gacgggggcc cgcacaagcg gtggagtatg tggtttaatt cgatgcaacg cgaagaacct
+      901 taccagggct tgacatgtcg cgaatcgggg ggaaacttct gagtgcctta gggagcgcga
+      961 acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag atgttgggtt aagtcccgca
+     1021 acgagcgcaa ccctcgtttt tagttgccag cattaagttg ggcactctag agagactgcc
+     1081 ggtgacaaac cggaggaagg tggggatgac gtcaagtcag catgcccctt acgtcctggg
+     1141 ctacacacgt actacaatgc tacggacaaa gggcagccag acagcgatgt cgagcaaatc
+     1201 ccataaaccg tggctcagtt cagatcgcag gctgcaactc gcctgcgtga aggtggaatc
+     1261 gctagtaatc ccagatcagc agtgctgggg tgaatacgtt cccgggcctt gtacacaccg
+     1321 cccgtcacac catggaagtt ggccacgccc gaagtcgtta ccctaaccca agtggagggg
+     1381 gatgccgaag gcagggctga tgactggggt gaagtcgtaa caaggtagcc gtaccggaag
+     1441 gtgtggctgg atcacctcct tt
+//
+
+LOCUS       HQ591510                1493 bp    DNA     linear   BCT 04-MAY-2011
+DEFINITION  Nostoc sp. 'Nephroma bellum cyanobiont' isolate KF17 16S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   HQ591510
+VERSION     HQ591510.1  GI:312190987
+KEYWORDS    .
+SOURCE      Nostoc sp. 'Nephroma bellum cyanobiont'
+  ORGANISM  Nostoc sp. 'Nephroma bellum cyanobiont'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1493)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114, 220-230 (2011)
+REFERENCE   2  (bases 1 to 1493)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..1493
+                     /organism="Nostoc sp. 'Nephroma bellum cyanobiont'"
+                     /mol_type="genomic DNA"
+                     /isolate="KF17"
+                     /db_xref="taxon:198970"
+                     /note="amplified with cyanobacteria-specific reverse
+                     primer;
+                     PCR_primers=fwd_name: 27F, rev_name: 23S30R"
+     rRNA            <1..>1493
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggtgtcttcg gacacagtgg
+       61 cggacgggtg agtaacgcgt gagaatctgg ctttaggtct gggacaacca ctggaaacgg
+      121 tggctaatac cggatgtgcc cttaggggtg aaaggttaac tgcctgaaga tgagctcgcg
+      181 tctgattagc tagttggtgt ggtaagagcg caccaaggcg acgatcagta gctggtctga
+      241 gaggacgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggtcg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaataag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggct atgtaagtct gctgttaaag agtctagctc
+      541 aactagataa gagcagtgga aactacaagg ctagagtgcg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc ggtggcgaag gcgctctgct
+      661 aggccgcaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc cgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgccggc aacggtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatctt gatgaaagtt gagagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctccggaca gagggcagca agccagcgat ggcaagcaaa
+     1201 tcccgtaaac cggagctcag ttcagatcgc aggctgcaac tcgcctgcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt actccaaccc ttaggggagg
+     1381 aggatgccta aggcaggact ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggtgtggct ggatcacctc ctttttaggg agacctacac ccctcagaaa tcg
+//
+
+LOCUS       HQ591518                1543 bp    DNA     linear   BCT 04-MAY-2011
+DEFINITION  Nostoc sp. 'Nephroma bellum cyanobiont' isolate KF91B 16S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   HQ591518
+VERSION     HQ591518.1  GI:312190995
+KEYWORDS    .
+SOURCE      Nostoc sp. 'Nephroma bellum cyanobiont'
+  ORGANISM  Nostoc sp. 'Nephroma bellum cyanobiont'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1543)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114, 220-230 (2011)
+REFERENCE   2  (bases 1 to 1543)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..1543
+                     /organism="Nostoc sp. 'Nephroma bellum cyanobiont'"
+                     /mol_type="genomic DNA"
+                     /isolate="KF91B"
+                     /db_xref="taxon:198970"
+                     /note="amplified with cyanobacteria-specific reverse
+                     primer;
+                     PCR_primers=fwd_name: 27F, rev_name: 23S30R"
+     rRNA            <1..>1543
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggtgtcttcg gacacagtgg
+       61 cggacgggtg agtaacgcgt gagaatctag ctttaggtct gggacaacca ctggaaacgg
+      121 tggctaatac cggatgtgcc ctgaggggtg aaaggttaac tgcctgaaga tgagctcgcg
+      181 tctgattagc tagttggtgt ggtaagagcg caccaaggcg acgatcagta gctggtctga
+      241 gaggacgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggtcg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaataag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggct atgtaagtct gctgttaaag agtctagctc
+      541 aactagataa gagcagtgga aactacaagg ctagagtgcg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc ggtggcgaag gcgctctgct
+      661 aggccgcaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc cgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgccggc aacggtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatctt gatgaaagtt gagagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctccggaca gagggcagca agcgcgcgag tgcaagcaaa
+     1201 tcccgtaaac cggagctcag ttcagatcgc aggctgcaac tcgcctgcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt actccaaccc ttaggggagg
+     1381 aggatgccta aggcaggact ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggtgtggct ggatcacctc ctttttaggg agacctacac ccctcagaaa tcgaaaaaca
+     1501 caaagttata tagatactga gttggtctaa cctaggtcgg tcg
+//
+
+LOCUS       HQ591521                1541 bp    DNA     linear   BCT 04-MAY-2011
+DEFINITION  Nostoc sp. 'Nephroma parile cyanobiont' isolate UK115 16S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   HQ591521
+VERSION     HQ591521.1  GI:312190998
+KEYWORDS    .
+SOURCE      Nostoc sp. 'Nephroma parile cyanobiont'
+  ORGANISM  Nostoc sp. 'Nephroma parile cyanobiont'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1541)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114, 220-230 (2011)
+REFERENCE   2  (bases 1 to 1541)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..1541
+                     /organism="Nostoc sp. 'Nephroma parile cyanobiont'"
+                     /mol_type="genomic DNA"
+                     /isolate="UK115"
+                     /db_xref="taxon:198972"
+                     /note="amplified with cyanobacteria-specific reverse
+                     primer;
+                     PCR_primers=fwd_name: 27F, rev_name: 23S30R"
+     rRNA            <1..>1541
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggtgtcttcg gacacagtgg
+       61 cggacgggtg agtaacgcgt gagaatctgg ctttaggtct gggacaacca ctggaaacgg
+      121 tggctaatac cggatgtgcc gaaaggtgaa aggttaactg cctgaagatg agctcgcgtc
+      181 tgattagcta gttggtgtgg taagagcgca ccaaggcgac gatcagtagc tggtctgaga
+      241 ggacgatcag ccacactggg actgagacac ggcccagact cctacgggag gcagcagtgg
+      301 ggaattttcc gcaatgggcg aaagcctgac ggagcaatac cgcgtgaggg aggaaggctc
+      361 ttgggtcgta aacctctttt ctcagggaag aacacaatga cggtacctga ggaataagca
+      421 tcggctaact ccgtgccagc agccgcggta atacggagga tgnaagcgtt atccggaatg
+      481 attgggcgta aagcgtccgc aggtggctat gtaagtctgc tgttaaagag tctagctcaa
+      541 ctagataaga gcagtggaaa ctacaaggct agagtgcgtt cggggcagag ggaattcctg
+      601 gtgtagcggt gaaatgcgta gagatcagga agaacaccgg tggcgaaggc gctctgctag
+      661 gccgcaactg acactgaggg acgaaagcta ggggagcgaa tgggattaga taccccagta
+      721 gtcctagccg taaacgatgg atactaggcg tggcttgtat cgacccgagc cgtgccgtag
+      781 ctaacgcgtt aagtatcccg cctggggagt acgccggcaa cggtgaaact caaaggaatt
+      841 gacgggggcc cgcacaagcg gtggagtatg tggtttaatt cgatgcaacg cgaagaacct
+      901 taccaaggct tgacatgtcg cgaatcttga tgaaagttga gagtgccttc gggagcgcga
+      961 acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag atgttgggtt aagtcccgca
+     1021 acgagcgcaa ccctcgtttt tagttgccag cattaagttg ggcactctag agagactgcc
+     1081 ggtgacaaac cggaggaagg tggggatgac gtcaagtcag catgcccctt acgccttggg
+     1141 ctacacacgt actacaatgc tccggacaga gggcagcaag cgcgcgagtg caagcaaatc
+     1201 ccgtaaaccg gagctcagtt cagatcgcag gctgcaactc gcctgcgtga aggaggaatc
+     1261 gctagtaatt gcaggtcagc atactgcagt gaattcgttc ccgggccttg tacacaccgc
+     1321 ccgtcacacc atggaagctg gtagtgcccg aagtcattac tccaaccttt cggggaggag
+     1381 gatgcctaag gcaggactgg tgactggggt gaagtcgtaa caaggtagcc gtaccggaag
+     1441 gtgtggctgg atcacctcct ttttagggag acctacaccc ctcagaaatc gaaaaacaca
+     1501 aagttatata gatactgagt tggtctaacc taggtcggtc g
+//
+
+LOCUS       HQ591528                1542 bp    DNA     linear   BCT 04-MAY-2011
+DEFINITION  Nostoc sp. 'Nephroma resupinatum cyanobiont' isolate KF217 16S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   HQ591528
+VERSION     HQ591528.1  GI:312191005
+KEYWORDS    .
+SOURCE      Nostoc sp. 'Nephroma resupinatum cyanobiont'
+  ORGANISM  Nostoc sp. 'Nephroma resupinatum cyanobiont'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Genotype variability of Nostoc symbionts associated with three
+            epiphytic Nephroma species in a boreal forest landscape
+  JOURNAL   Bryologist 114, 220-230 (2011)
+REFERENCE   2  (bases 1 to 1542)
+  AUTHORS   Fedrowitz,K., Kaasalainen,U. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2010) Department of Ecology, Swedish University
+            of Agricultural Sciences (SLU), P.O. Box 7044, Uppsala 75007,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Nostoc sp. 'Nephroma resupinatum cyanobiont'"
+                     /mol_type="genomic DNA"
+                     /isolate="KF217"
+                     /db_xref="taxon:77195"
+                     /note="amplified with cyanobacteria-specific reverse
+                     primer;
+                     PCR_primers=fwd_name: 27F, rev_name: 23S30R"
+     rRNA            <1..>1542
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggtgtcttcg gacacagtgg
+       61 cggacgggtg agtaacgcgt gagaatctgg ctttaggtct gggacaacca ctggaaacgg
+      121 tggctaatac cggatgtgcc cttaggggtg aaaggttaac tgcctgaaga tgagctcgcg
+      181 tctgattagc tagttggtgt ggtaagagcg caccaaggcg acgatcagta gctggtctga
+      241 gaggacgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggtcg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaataag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggct atgtaagtct gctgttaaag agtctagctc
+      541 aactagataa gagcagtgga aactacaagg ctagagtgcg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc ggtggcgaag gcgctctgct
+      661 aggccgcaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc cgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgccggc aacggtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatctt gatgaaagtt gagagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctccggaca gagggcagca agccagcgat ggcaagcaaa
+     1201 tcccgtaaac cggagctcag ttcagatcgc aggctgcaac tcgcctgcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt actccaaccc ttaggggagg
+     1381 aggatgccta aggcaggact ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggtgtggct ggatcacctc ctttttaggg agacctacac ccctcagaaa tcgaaaaaca
+     1501 caaagttata tagatactga gttggtctaa cctaggtcgg tc
+//
+
+LOCUS       FJ546713                1413 bp    DNA     linear   BCT 29-DEC-2008
+DEFINITION  Nodularia spumigena GSL023 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   FJ546713
+VERSION     FJ546713.1  GI:218668422
+KEYWORDS    .
+SOURCE      Nodularia spumigena GSL023
+  ORGANISM  Nodularia spumigena GSL023
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1  (bases 1 to 1413)
+  AUTHORS   Beer,L.L., Brown,S.L., Baxter,B.K., Spear,J.R. and Posewitz,M.W.
+  TITLE     Phototroph Diversity of Great Salt Lake, Utah, USA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1413)
+  AUTHORS   Beer,L.L., Brown,S.L., Baxter,B.K., Spear,J.R. and Posewitz,M.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2008) Chemistry and Geochemistry, Colorado School
+            of Mines, 1500 Illinois Street, Golden, CO 80401, USA
+FEATURES             Location/Qualifiers
+     source          1..1413
+                     /organism="Nodularia spumigena GSL023"
+                     /mol_type="genomic DNA"
+                     /isolate="GSL023"
+                     /isolation_source="Great Salt Lake, South Arm"
+                     /db_xref="taxon:582745"
+                     /country="USA: Utah"
+                     /collection_date="2007"
+                     /note="PCR_primers=fwd_name: 8F, rev_name: 1492R"
+     rRNA            <1..>1413
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggtctcttcg gagatagtgg
+       61 cggacgggtg agtaacgcgt gagaatctag cttcaggtcg gggacaacca cgggaaactg
+      121 tggctaatac cggatatgcc gagaggtgaa aggctagctg cctgaagatg agctcgcgtc
+      181 tgattagcta gtaggtgtgg taaaagcgca cctaggcgac gatcagtagc tggtctgaga
+      241 ggatgatcag ccacactggg actgagacac ggcccagact cctacgggag gcagcagtgg
+      301 ggaattttcc gcaatgggcg aaagcctgac ggagcaatac cgcgtgaggg aggaaggctc
+      361 ttgggttgta aacctctttt ctcagggaag aaaaaaatga cggtacctga ggaataagca
+      421 tcggctaact ccgtgccagc agccgcggta atacggagga tgcaagcgtt atccggaatg
+      481 attgggcgta aagggtccgc aggtggctat gtaagtctgc tgttaaagaa cctagcttaa
+      541 ctaggtaaaa gcagtggaaa ctacacagct agagtgcgtt cggggtagag ggaattcctg
+      601 gtgtagcggt gaaatgcgta gatatcagga agaacaccag tggcgaaggc gctctactag
+      661 gccgcaactg acactgaggg acgaaagcta ggggagcgaa tgggattaga taccccagta
+      721 gtcctagccg taaacgatgg atactaggcg tggcttgtat cgacacaagc cgtgccggag
+      781 ctaacgcgtt aagtatcccg cctggggagt acgcacgcaa gtgtgaaact caaaggaatt
+      841 gacgggggcc cgcacaagcg gtggagtatg tggtttaatt cgatgcaacg cgaagaacct
+      901 taccaagact tgacatgtcg cgaatctttt tgaaaggaga gagtgccttc gggagcgcga
+      961 acacaggcgg tgcatggctg tcgtcagctc gtgtcgtgag atgttgggtt aagtcccgca
+     1021 acgagcgcaa ccctcgtttt tagttgccag cattaagttg ggcactctag agagactgcc
+     1081 ggtgacaaac cggaggaagg tggggatgac gtcaagtcag catgcccctt acgtcttggg
+     1141 gctacgcacg tactacaatg ctacggacaa agggcagcta cacagcaatg tgatgcaaat
+     1201 ctcaaaaaac cgtagctcag ttcagatcgc aggctgcaac tcgcctgcgt gaagtcggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggtcacgcc cgaagtcgtt accccaactt ttcggagagg
+     1381 gggatgccga aggcaggact ggtgactggg gtg
+//
+
+LOCUS       AB088405                1444 bp    DNA     linear   BCT 07-JAN-2012
+DEFINITION  Nostoc commune gene for 16S rRNA, partial sequence, strain: M-13.
+ACCESSION   AB088405
+VERSION     AB088405.2  GI:32400663
+KEYWORDS    .
+SOURCE      Nostoc commune
+  ORGANISM  Nostoc commune
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1
+  AUTHORS   Arima,H., Horiguchi,N., Takaichi,S., Kofuji,R., Ishida,K.I.,
+            Wada,K. and Sakamoto,T.
+  TITLE     Molecular genetic and chemotaxonomic characterization of the
+            terrestrial cyanobacterium Nostoc commune and its neighboring
+            species
+  JOURNAL   FEMS Microbiol. Ecol. (2011) In press
+   PUBMED   22066798
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1444)
+  AUTHORS   Sakamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2002) Contact:Toshio Sakamoto Kanazawa
+            University, School of Natural System, College of Science and
+            Engineering; Kakuma, Kanazawa, Ishikawa 920-1192, Japan
+COMMENT     On Jul 1, 2003 this sequence version replaced gi:21929146.
+FEATURES             Location/Qualifiers
+     source          1..1444
+                     /organism="Nostoc commune"
+                     /mol_type="genomic DNA"
+                     /strain="M-13"
+                     /culture_collection="IAM:M-13"
+                     /db_xref="taxon:1178"
+     rRNA            <1..>1444
+                     /product="16S ribosomal RNA"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+ORIGIN      
+        1 aggatgaacg ctggcggtat gcttaacaca tgcaagtcga acggtgtctt cggacacagt
+       61 ggcggacggg tgagtaacgc gtgagaatct gccatcaggt ctgggacaac cactggaaac
+      121 ggtggctaat accggatgtg ccgtaaggtg aaaggttaac tgcctgttga tgagctcgcg
+      181 tctgattagc tagttggaag tgtaatggac tcccaaggcg acgatcagta gctggtctga
+      241 gaggacgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggtcg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaataag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggca atgtaagtct gctgttaaag agtctagctc
+      541 aactagataa gagcagtgga aactacatag ctagagtacg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc agtggcgaag gcgctctgct
+      661 aggccgtaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc cgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgccggc aacggtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatctt gacgaaagtt gagagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctccggaca gagggcagca agcatgcgaa tgcaagcaaa
+     1201 tcccgtaaac cggagctcag ttcagatcgc aggctgcaac tcgcctgcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt actccaacca ttcgtggagg
+     1381 aggatgccta aggcaggact ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggt
+//
+
+LOCUS       HE974995                1556 bp    DNA     linear   BCT 03-SEP-2012
+DEFINITION  Nostoc commune CCAP 1453/24 partial 16S rRNA gene, strain CCAP
+            1453/24.
+ACCESSION   HE974995
+VERSION     HE974995.1  GI:403213265
+KEYWORDS    .
+SOURCE      Nostoc commune CCAP 1453/24
+  ORGANISM  Nostoc commune CCAP 1453/24
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1
+  AUTHORS   Gachon,C.M.M., Heesch,S., Kuepper,F.C., Achilles-Day,U.,
+            Campbell,C.N., Clarke,A., Field,J., Proeschold,T., Rad-Menendez,C.,
+            Saxon,R.G., Veszelovszki,A., Gontarek,S. and Day,J.G.
+  TITLE     Barcoding and taxonomic revision of the Culture Collection for
+            Algae and Protozoa (CCAP)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1556)
+  AUTHORS   Gachon,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2012) Scottish Association for Marine Science,
+            Molecular and Microbial Biology, Dunstaffnage Marine Laboratory,
+            Oban, PA37 1QA, UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..1556
+                     /organism="Nostoc commune CCAP 1453/24"
+                     /mol_type="genomic DNA"
+                     /strain="CCAP 1453/24"
+                     /culture_collection="CCAP:1453/24"
+                     /db_xref="taxon:1221581"
+                     /country="South Africa:Pretoria"
+                     /collection_date="1971"
+                     /PCR_primers="fwd_name: BS-1F, fwd_seq:
+                     gatcctkgctcaggatkaacgctggc, rev_name: CPL-10R, rev_seq:
+                     gccggctcattcttcaac"
+     gene            <1..>1556
+                     /gene="16S rRNA"
+     rRNA            <1..>1556
+                     /gene="16S rRNA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgatcctggc tcaggatgaa cgctggcggt atgcttaaca catgcaagtc gaacggtgtc
+       61 ttcggacaca gtggcggacg ggtgagtaac gcgtgagaat ctggcttcag gtctgggaca
+      121 accactggaa acggtggcta ataccggatg tgcccttcgg ggtgaaaggt taactgcctg
+      181 aagatgagct cgcgtctgat tagctagttg gaagtgtaat ggactcccaa ggcgacgatc
+      241 cagtagctgg tctgagagga cgatcagcca cactgggact gagacacggc ccagactcct
+      301 acgggaggca gcagtgggga attttccgca atgggcgaaa gcctgacgga gcaataccgc
+      361 gtgagggagg aaggctcttg ggtcgtaaac ctcttttctc agggaagaac acaatgacgg
+      421 tacctgagga ataagcatcg gctaactccg tgccagcagc cgcggtaata cggaggatgc
+      481 aagcgttatc cggaatgatt gggcgtaaag cgtccgcagg tggcaatgta agtctgctgt
+      541 taaagagtct agctcaacta gatacaagca gtggaaacta catagctaga gtacgttcgg
+      601 ggcagaggga attcctggtg tagcggtgaa atgcgtagag atcaggaaga acaccagtgg
+      661 cgaaggcgct ctgctaggcc gtaactgaca ctgagggacg aaagctaggg gagcgaatgg
+      721 gattagatac cccagtagtc ctagccgtaa acgatggata ctaggcgtgg cttgtatcga
+      781 cccgagccgt gccgtagcta acgcgttaag tatcccgcct ggggagtacg ccggcaacgg
+      841 tgaaactcaa aggaattgac gggggcccgc acaagcggtg gagtatgtgg tttaattcga
+      901 tgcaacgcga agaaccttac caaggcttga catgtcgcga atcctggtga aagctgggag
+      961 tgccttcggg agcgcgaaca caggtggtgc atggctgtcg tcagctcgtg tcgtgagatg
+     1021 ttgggttaag tcccgcaacg agcgcaaccc tcgtttttag ttgccagcat taagttgggc
+     1081 actctagaga gactgccggt gacaaaccgg aggaaggtgg ggatgacgtc aagtcagcat
+     1141 gccccttacg ccttgggcta cacacgtact acaatgctcc ggacagaggg cagcaagcgg
+     1201 gcgaccgcaa gcaaatcccg taaaccggag ctcagttcag atcgcaggct gcaactcgcc
+     1261 tgcgtgaagg aggaatcgct agtaattgca ggtcagcata ctgcagtgaa ttcgttcccg
+     1321 ggccttgtac acaccgcccg tcacaccatg gaagctggta gtgcccgaag tcattactcc
+     1381 aaccattcgt ggaggaggat gcctaaggca ggactggtga ctggggtgaa gtcgtaacaa
+     1441 ggtagccgta ccggaaggtg tggctggatc acctcctttt tagggagacc tacacccctt
+     1501 acatatcgaa aaacaaacag ttaaatagat agtaagttgg tcattcctta ggtcgg
+//
+
+LOCUS       AB093490                1442 bp    DNA     linear   BCT 05-OCT-2006
+DEFINITION  Nostoc entophytum IAM M-267 gene for 16S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB093490
+VERSION     AB093490.1  GI:29824078
+KEYWORDS    .
+SOURCE      Nostoc entophytum IAM M-267
+  ORGANISM  Nostoc entophytum IAM M-267
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Desmonostoc.
+REFERENCE   1
+  AUTHORS   Seo,P. and Yokota,A.
+  TITLE     Heterophyletic evidence of Cyanobacteria Subsection IV, Based on
+            16S rDNA analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1442)
+  AUTHORS   Seo,P. and Yokota,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2002) Akira Yokota, Inst. Mol. Cell. Biosciences,
+            The University of Tokyo, Center for Bioinformatics; 1-1-1, Yayoi,
+            Bunkyo-Ku, Tokyo 113-0032, Japan
+            (E-mail:aa07149@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-7828,
+            Fax:81-3-5841-8490)
+FEATURES             Location/Qualifiers
+     source          1..1442
+                     /organism="Nostoc entophytum IAM M-267"
+                     /mol_type="genomic DNA"
+                     /strain="IAM M-267"
+                     /db_xref="taxon:211009"
+     rRNA            <1..>1442
+                     /product="16S ribosomal RNA"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac ggtgtcttcg gacatagtgg
+       61 cggacgggtg agtaacgcgt gagaatctag cttcaggtct gggacaacca ctggaaacgg
+      121 tggctaatac cggatgtgcc ggaaggtgaa aggcttgctg cctgaagatg agctcgcgtc
+      181 cgattagcta gtaggtgggg taagagccta cctaggcgac gatcggtagc tggtctgaga
+      241 ggatgaccag ccacactggg actgagacac ggcccagact cctacgggag gcagcagtgg
+      301 ggaattttcc gcaatgggcg aaagcctgac ggagcaatac cgcgtgaggg aggaaggctc
+      361 ttgggttgta aacctctttt ctcagggaag aacacaatga cggtacctga ggaatcagca
+      421 tcggctaact ccgtgccagc agccgcggta atacggagga tgcaagcgtt atccggaatg
+      481 attgggcgta aagcgtccgc aggtggctgt gtaagtctgc tgtcaaagag caaagctcaa
+      541 ctttgtaaag gcagtggaaa ctacacggct agagtgcgtt cggggcagag ggaattcctg
+      601 gtgtagcggt gaaatgcgta gagatcagga agaacaccgg tggcgaaggc gctctgctag
+      661 gccgcaactg acactgaggg acgaaagcta ggggagcgaa tgggattaga taccccagta
+      721 gtcctagctg taaacgatgg atactaggcg tggcttgtat cgacccgagc cgtgccgtag
+      781 ctaacgcgtt aagtatcccg cctggggagt acgcacgcaa gtgtgaaact caaaggaatt
+      841 gacgggggcc cgcacaagcg gtggagtatg tggtttaatt cgatgcaacg cgaagaacct
+      901 taccaaggct tgacatgtcg cgaactcttc tgaaaggaag aggtgccttc gggagcgcga
+      961 acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag atgttgggtt aagtcccgca
+     1021 acgagcgcaa ccctggtttt tagttgccag cattaagttg ggcactctag agagactgcc
+     1081 ggtgacaaac cggaggaagg tggggatgac gtcaagtcag catgcccctt acgccttggg
+     1141 ctacacacgt actacaatgc tacggacaga gggcagcaag ctagcgatag caagctaatc
+     1201 ccataaaccg tggctcagtt cagatcgaag gctgcaactc gccttcgtga aggaggaatc
+     1261 gctagtaatt gcaggtcagc atactgcagt gaattcgttc ccgggccttg tacacaccgc
+     1321 ccgtcacacc atggaagctg gcaacgcccg aagtcattac tccaaccttt cgagggggag
+     1381 gatgcctaag gcagtgctgg tgactggggt gaagtcgtaa caaggtagcc gtaccggaag
+     1441 gt
+//
+
+LOCUS       AB074503                1441 bp    DNA     linear   BCT 18-FEB-2003
+DEFINITION  Nostoc linckia gene for 16S ribosomal RNA, partial sequence.
+ACCESSION   AB074503
+VERSION     AB074503.1  GI:23978186
+KEYWORDS    .
+SOURCE      Nostoc linckia
+  ORGANISM  Nostoc linckia
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1
+  AUTHORS   Seo,P. and Yokota,A.
+  TITLE     The phylogenetic relationships of cyanobacteria inferred grom gyrB
+            sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1441)
+  AUTHORS   Seo,P. and Yokota,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2001) Pil-Soo Seo, Inst. Mol. Cell. Biosciences,
+            The University of Tokyo, Center for Bioinformatics; 1-1-1, Yayoi,
+            Bunkyo-Ku, Tokyo 113-0032, Japan
+            (E-mail:aa07149@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-7828,
+            Fax:81-3-5841-8490)
+FEATURES             Location/Qualifiers
+     source          1..1441
+                     /organism="Nostoc linckia"
+                     /mol_type="genomic DNA"
+                     /strain="IAM M-251"
+                     /db_xref="taxon:92942"
+     rRNA            <1..>1441
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac gaactcttcg gagttagtgg
+       61 cggacgggtg agtaacgcgt gagaatctag cttcaggtct gggacaacca ctggaaacgg
+      121 tggctaatac cggatgtgcc gaaaggtgaa aggcttgctg cctgaagatg agctcgcgtc
+      181 tgattagcta gtaggtgggg taagagccta cctaggcgac gatcagtagc tggtctgaga
+      241 ggacgatcag ccacactggg actgagacac ggcccagact cctacgggag gcagcagtgg
+      301 ggaattttcc gcaatgggcg aaagcctgac ggagcaatac cgcgtgaggg aggaaggctc
+      361 ttgggttgta aacctctttt ctcagggaag aacacaatga cggtacctga ggaatcagca
+      421 tcggctaact ccgtgccagc agccgcggta atacggagga tgcaagcgtt atccggaatg
+      481 attgggcgta aagcgtccgc aggtggctgt gtaagtctgc tgtcaaagag cgaagctcaa
+      541 cttcgtaaag gcagtggaaa ctacacggct agagtgcgtt cggggcagag ggaattcctg
+      601 gtgtagcggt gaaatgcgta gagatcagga agaacaccgg tggcgaaggc gctctgctag
+      661 gccgcaactg acactgaggg acgaaagcta ggggagcgaa tgggattaga taccccagta
+      721 gtcctagctg taaacgatgg atactaggcg tggcttgtat cgacccgagc cgtgccgtag
+      781 ctaacgcgtt aagtatcccg cctggggagt acgcacgcaa gtgtgaaact caaaggaatt
+      841 gacgggggcc cgcacaagcg gtggagtatg tggtttaatt cgatgcaacg cgaagaacct
+      901 taccaaggct tgacatgtcg cgaaccttct tgaaagagaa gggtgccttc gggagcgcga
+      961 acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag atgttgggtt aagtcccgca
+     1021 acgagcgcaa ccctcgtttt tagttgccag cattaagttg ggcactctag agagactgcc
+     1081 ggtgacaaac cggaggaagg tggggatgac gtcaagtcag catgcccctt acgccttggg
+     1141 ctacacacgt actacaatgc tacggacaga gggcagcaag ctagcgatag caagctaatc
+     1201 ccataaaccg tggctcagtt cagatcgaag gctgcaactc gccttcgtga aggaggaatc
+     1261 gctagtaatt gcaggtcagc atactgcagt gaattcgttc ccgggccttg tacacaccgc
+     1321 ccgtcacacc atggaagctg gcaacgcccg aagtcattac tccaaccatt cgtgggggag
+     1381 gatgcctaag gcagtgctgg tgactggggt gaagtcgtaa caaggtagcc gtaccggaag
+     1441 g
+//
+
+LOCUS       AB325907                1444 bp    DNA     linear   BCT 07-JAN-2012
+DEFINITION  Nostoc linckia var. arvense IAM M-30 gene for 16S rRNA, partial
+            sequence.
+ACCESSION   AB325907
+VERSION     AB325907.1  GI:190350837
+KEYWORDS    .
+SOURCE      Nostoc linckia var. arvense IAM M-30
+  ORGANISM  Nostoc linckia var. arvense IAM M-30
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1
+  AUTHORS   Arima,H., Horiguchi,N., Takaichi,S., Kofuji,R., Ishida,K.I.,
+            Wada,K. and Sakamoto,T.
+  TITLE     Molecular genetic and chemotaxonomic characterization of the
+            terrestrial cyanobacterium Nostoc commune and its neighboring
+            species
+  JOURNAL   FEMS Microbiol. Ecol. (2011) In press
+   PUBMED   22066798
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1444)
+  AUTHORS   Arima,H., Horiguchi,N. and Sakamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUN-2007) Contact:Toshio Sakamoto Kanazawa
+            University, School of Natural System, College of Science and
+            Engineering; Kakuma, Kanazawa, Ishikawa 920-1192, Japan
+FEATURES             Location/Qualifiers
+     source          1..1444
+                     /organism="Nostoc linckia var. arvense IAM M-30"
+                     /mol_type="genomic DNA"
+                     /strain="IAM M-30"
+                     /variety="arvense"
+                     /db_xref="taxon:374164"
+                     /PCR_primers="fwd_seq: ggagagtttgatcctggctc, rev_seq:
+                     aaaggaggtgatccagccac"
+     rRNA            <1..>1444
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggatgaacg ctggcggtat gcttaacaca tgcaagtcga acgaactctt cggagttagt
+       61 ggcggacggg tgagtaacgc gtgagaatct agcttcaggt ctgggacaac cactggaaac
+      121 ggtggctaat accggatgtg ccgaaaggtg aaaggcttgc tgcctgaaga tgagctcgcg
+      181 tctgattagc tagtaggtgg ggtaagagcc tacctaggcg acgatcagta gctggtctga
+      241 gaggacgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggttg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaatcag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggct gtgtaagtct gctgtcaaag agcgaagctc
+      541 aacttcgtaa aggcagtgga aactacacgg ctagagtgcg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc ggtggcgaag gcgctctgct
+      661 aggccgcaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc tgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgcacgc aagtgtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaacctt cttgaaagag aagggtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctacggaca gagggcagca agctagcgat agcaagctaa
+     1201 tcccataaac cgtggctcag ttcagatcga aggctgcaac tcgccttcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggcaacgcc cgaagtcatt actccaacca ttcgtggggg
+     1381 aggatgccta aggcagtgct ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggt
+//
+
+LOCUS       HM573462                1442 bp    DNA     linear   BCT 31-JAN-2012
+DEFINITION  Nostoc muscorum Ind33 16S ribosomal RNA gene, partial sequence.
+ACCESSION   HM573462
+VERSION     HM573462.1  GI:302125123
+KEYWORDS    .
+SOURCE      Nostoc muscorum Ind33
+  ORGANISM  Nostoc muscorum Ind33
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Desmonostoc.
+REFERENCE   1  (bases 1 to 1442)
+  AUTHORS   Mishra,A.K., Shukla,E., Singh,S.S., Singh,P., Srivastava,A. and
+            Singh,A.
+  TITLE     Molecular characterization of heterocystous cyanobacteria based on
+            16S rRNA analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1442)
+  AUTHORS   Mishra,A.K., Shukla,E., Singh,S.S., Singh,P., Srivastava,A. and
+            Singh,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUN-2010) Botany, Banaras Hindu University,
+            Laboratory of Microbial Genetics, Department of Botany, Banaras
+            Hindu University, Varanasi, Uttar Pradesh 221005, India
+FEATURES             Location/Qualifiers
+     source          1..1442
+                     /organism="Nostoc muscorum Ind33"
+                     /mol_type="genomic DNA"
+                     /strain="Ind33"
+                     /isolation_source="paddy field"
+                     /db_xref="taxon:1137225"
+                     /country="India: Agricultural Farms, Banaras Hindu
+                     University, Varanasi, Uttar Pradesh"
+     rRNA            <1..>1442
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggatgaacg ctggcggtat gcttaacaca tgcaagtcga acggtgtctt cggacatagt
+       61 ggcggacggg tgagtaacgc gtgagaatct agcttcaggt tggacaacca ctggaaacgg
+      121 tggctaatac ggatgtgccg aaaggtgaaa ggcttgctgc ctgaagatga gctcgcgtct
+      181 gattagctag ttggtggggt aagagcctac caaggcgacg atcagtagct ggtctgagag
+      241 gatgatcagc cacactggga ctgagacacg gcccagactc ctacgggagg cagcagtggg
+      301 gaattttccg caatgggcga aagcctgacg gagcaatacc gcgtgaggga ggaaggctct
+      361 tgggttgtaa acctcttttc tcagggaaga acacaatgac ggtacctgag gaatcagcat
+      421 cgggctaact ccgtgccagc agccgcggta atacggagga tgcaagcgtt atccggaatg
+      481 attgggcgta aagcgtccgc aggtggcctt gtaagtctgc tgttaaagag cgaggctcaa
+      541 ctttgtaaag gcagtggaaa ctacagggct agagtgcgtt cggggcagag ggaattcctg
+      601 gtgtagcggt gaaatgcgta gagatcagga agaacaccgg tggcgaaggc gctctgctag
+      661 gccgtaactg acactgaggg acgaaagcta ggggagcgaa tgggattaga taccccagta
+      721 gtcctagctg taaacgatgg atactaggcg tggcttgtat cgacccgagc cgtgccgtag
+      781 ctaacgcgtt aagtatcccg cctggggagt acgcacgcaa gtgtgaaact caaaggaatt
+      841 gacgggggcc cgcacaagcg gtggagtatg tggtttaatt cgatgcaacg cgaagaacct
+      901 taccaaggct tgacatgtcg cgaatcttct tgaaaggtca gagtgccttc gggagcgcga
+      961 acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag atgttgggtt aagtcccgca
+     1021 acgagcgcaa ccctcgtttt tagttgccag cattaagttg ggcactctag agagactgcc
+     1081 ggtgacaaac cggaggaagg tggggatgac gtcaagtcag catgcccctt acgtcttggg
+     1141 ctacacacgt actacaatgc tacggacaga gggcagcaag ctagcgatag caagctaatc
+     1201 ccgtaaaccg tggctcagtt cagatcgcag gctgcaactc gccttcgtga aggaggaatc
+     1261 gctagtaatt gcaggtcagc atactgcagt gaattcgttc ccgggccttg tacacaccgc
+     1321 ccgtcacacc atggaagctg gcaacgcccg aagtcattac tccaaccatt cgtgggggag
+     1381 gatgcctaag gcagtgctgg tgactggggt gaagtcgtaa caaggtagcc gtaccggaag
+     1441 gt
+//
+
+LOCUS       EU022737                1481 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. SKJF2 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022737
+VERSION     EU022737.1  GI:154361765
+KEYWORDS    .
+SOURCE      Nostoc sp. SKJF2
+  ORGANISM  Nostoc sp. SKJF2
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1481
+                     /organism="Nostoc sp. SKJF2"
+                     /mol_type="genomic DNA"
+                     /isolate="SKJF2"
+                     /db_xref="taxon:457961"
+                     /country="Norway: Skibotn"
+                     /note="free-living"
+     rRNA            <1..>1481
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggaatcttcg gatttagtgg cggacgggtg agtaacgcgt gagaatctgg cttcaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc gagaggtgaa aggttaactg
+      181 cctgaagatg agctcgcgtc tgattagcta gttggaagtg taacggactc ccaaggcgac
+      241 gatcagtagc tggtctgaga ggacgatcag ccacactggg actgagacac ggcccagact
+      301 cctacgggag gcagcagtgg ggaattttcc gcaatgggcg aaagcctgac ggagcaatac
+      361 cgcgtgaggg aggaaggctc ttgggtcgta aacctctttt ctcagggaag aacacaatga
+      421 cggtacctga ggaataagca tcggctaact ccgtgccagc agccgcggta atacggagga
+      481 tgcaagcgtt atccggaatg attgggcgta aagcgtccgc aggtggcaat gtaagtctgc
+      541 tgttaaagag tctagctcaa ctagataaga gcagtggaaa ctacatagct agagtacgtt
+      601 cggggcagag ggaattcctg gtgtagcggt gaaatgcgta gagatcagga agaacaccgg
+      661 tggcgaaggc gctctgctag gccgtaactg acactgaggg acgaaagcta ggggagcgaa
+      721 tgggattaga taccccagta gtcctagccg taaacgatgg atactaggcg tggcttgtat
+      781 cgacccgagc cgtgccgtag ctaacgcgtt aagtatcccg cctggggagt acgccggcaa
+      841 cggtgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagtatg tggtttaatt
+      901 cgatgcaacg cgaagaacct taccaaggct tgacatgtcg cgaatcttga tgaaagttga
+      961 gagtgccttc gggagcgcga acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag
+     1021 atgttgggtt aagtcccgca acgagcgcaa ccctcgtttt tagttgccag cattaagttg
+     1081 ggcactctag agagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaagtcag
+     1141 catgcccctt acgccttggg ctacacacgt actacaatgc tccggacaga gggcagcaag
+     1201 catgcgaatg caagcaaatc ccggaaaccg gagctcagtt cagatcgcag gctgcaactc
+     1261 gcctgcgtga aggaggaatc gctagtaatt gcaggtcagc atactgcagt gaattcgttc
+     1321 ccgggccttg tacacaccgc ccgtcacacc atggaagctg gtagtgcccg aagtcattac
+     1381 tccaaccatt cgtggaggag gatgcctaag gcaggactgg tgactggggt gaagtcgtaa
+     1441 caaggtagcc gtaccggaag gtgtggctgg atcacctcct t
+//
+
+LOCUS       GU062468                1467 bp    DNA     linear   BCT 01-NOV-2009
+DEFINITION  Nostoc sp. 1189P 16S ribosomal RNA gene, partial sequence.
+ACCESSION   GU062468
+VERSION     GU062468.1  GI:262073527
+KEYWORDS    .
+SOURCE      Nostoc sp. 1189P
+  ORGANISM  Nostoc sp. 1189P
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1467)
+  AUTHORS   Suzuki,E., Iwasaki,I. and Ohmori,M.
+  TITLE     16S ribosomal RNA sequences of Nostoc strains isolated from the
+            lichen Peltigera polydactylon
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1467)
+  AUTHORS   Suzuki,E., Iwasaki,I. and Ohmori,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2009) Biological Production, Akita Prefectural
+            University, 241-438, Simoshinjo Nakano Aza Kaidohata Nishi, Akita
+            010-0195, Japan
+FEATURES             Location/Qualifiers
+     source          1..1467
+                     /organism="Nostoc sp. 1189P"
+                     /mol_type="genomic DNA"
+                     /strain="1189P"
+                     /db_xref="taxon:381331"
+                     /PCR_primers="fwd_name: 843B, fwd_seq:
+                     ggctcaggatgaacgctggcgg, rev_name: 844B, rev_seq:
+                     aggaggtgatccagccacaccttc"
+     rRNA            <1..>1467
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggctcaggat gaacgctggc ggtatgctta acacatgcaa gtcgaacggt gtcttcggac
+       61 atagtggcgg acgggtgagt aacgcgtgag aatctaccat caggtctggg acaaccactg
+      121 gaaacggtgg ctaataccgg atgtgccgag aggtgaaagg ttaactgcct gatgatgagc
+      181 tcgcgtctga ttagctagtt ggaagtgtaa tggactccca aggcgacgat cagtagctgg
+      241 tctgagagga cgatcagcca cactgggact gagacacggc ccagactcct acgggaggca
+      301 gcagtgggga attttccgca atgggcgaaa gcctgacgga gcaataccgc gtgagggagg
+      361 aaggctcttg ggtcgtaaac ctcttttctc agggaagaaa aaaatgacgg tacctgagga
+      421 ataagcatcg gctaactccg tgccagcagc cgcggtaata cggaggatgc aagcgttatc
+      481 cggaatgatt gggcgtaaag cgtccgcagg tggcaatgta agtctgctgt taaagagtga
+      541 ggctcaacct cataagagca gtggaaacta catagctaga gtacgttcgg ggcagaggga
+      601 attcctggtg tagcggtgaa atgcgtagag atcaggaaga acaccggtgg cgaaggcgct
+      661 ctgctaggcc gtaactgaca ctgagggacg aaagctaggg gagcgaatgg gattagatac
+      721 cccagtagtc ctagccgtaa acgatggata ctaggcgtgg cttgtatcga cccgagccgt
+      781 gccgtagcta acgcgttaag tatcccgcct ggggagtacg ccggcaacgg tgaaactcaa
+      841 aggaattgac gggggcccgc acaagcggtg gagtatgtgg tttaattcga tgcaacgcga
+      901 agaaccttac caaggcttga catgtcgcga atcctggtga aagctgggag tgccttcggg
+      961 agcgcgaaca caggtggtgc atggctgtcg tcagctcgtg tcgtgagatg ttgggttaag
+     1021 tcccgcaacg agcgcaaccc tcgtttttag ttgccagcat taagttgggc actctagaga
+     1081 gactgccggt gacaaaccgg aggaaggtgg ggatgacgtc aagtcagcat gccccttacg
+     1141 ccttgggcta cacacgtact acaatgctcc ggacagaggg cagcaagcat gcgaatgcaa
+     1201 gcaaatcccg gaaaccggag ctcagttcag atcgcaggct gcaactcgcc tgcgtgaagg
+     1261 aggaatcgct agtaattgca ggtcagcata ctgcagtgaa ttcgttcccg ggccttgtac
+     1321 acaccgcccg tcacaccatg gaagctggta gtgcccgaag tcattactcc aactgttcgc
+     1381 agaggaggat gcctaaggca ggactggtga ctggggtgaa gtcgtaacaa ggtagccgta
+     1441 ccggaaggtg tggctggatc acctcct
+//
+
+LOCUS       GU062469                1469 bp    DNA     linear   BCT 01-NOV-2009
+DEFINITION  Nostoc sp. 1190P 16S ribosomal RNA gene, partial sequence.
+ACCESSION   GU062469
+VERSION     GU062469.1  GI:262073528
+KEYWORDS    .
+SOURCE      Nostoc sp. 1190P
+  ORGANISM  Nostoc sp. 1190P
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1469)
+  AUTHORS   Suzuki,E., Iwasaki,I. and Ohmori,M.
+  TITLE     16S ribosomal RNA sequences of Nostoc strains isolated from the
+            lichen Peltigera polydactylon
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1469)
+  AUTHORS   Suzuki,E., Iwasaki,I. and Ohmori,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2009) Biological Production, Akita Prefectural
+            University, 241-438, Simoshinjo Nakano Aza Kaidohata Nishi, Akita
+            010-0195, Japan
+FEATURES             Location/Qualifiers
+     source          1..1469
+                     /organism="Nostoc sp. 1190P"
+                     /mol_type="genomic DNA"
+                     /strain="1190P"
+                     /db_xref="taxon:437743"
+                     /PCR_primers="fwd_name: 843B, fwd_seq:
+                     ggctcaggatgaacgctggcgg, rev_name: 844B, rev_seq:
+                     aggaggtgatccagccacaccttc"
+     rRNA            <1..>1469
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggctcaggat gaacgctggc ggtatgctta acacatgcaa gtcgaacgga gcctttcggg
+       61 gcttagtggc ggacgggtga gtaacgcgtg agaatctacc atcaggtctg ggacaaccac
+      121 tggaaacggt ggctaatacc ggatgtgccg agaggtgaaa ggttaactgc ctgttgatga
+      181 gctcgcgtct gattagctag ttggaagtgt aacggactcc caaggcgacg atcagtagct
+      241 ggtctgagag gacgatcagc cacactggga ctgagacacg gcccagactc ctacgggagg
+      301 cagcagtggg gaattttccg caatgggcga aagcctgacg gagcaatacc gcgtgaggga
+      361 ggaaggctct tgggtcgtaa acctcttttc tcagggaaga aaaaaatgac ggtacctgag
+      421 gaataagcat cggctaactc cgtgccagca gccgcggtaa tacggaggat gcaagcgtta
+      481 tccggaatga ttgggcgtaa agcgtccgca ggtggcaatg taagtctgct gttaaagagt
+      541 ctagctcaac tagataagag cagtggaaac tacatagcta gagtacgttc ggggcagagg
+      601 gaattcctgg tgtagcggtg aaatgcgtag agatcaggaa gaacaccggt ggcgaaggcg
+      661 ctctgctagg ccgtaactga cactgaggga cgaaagctag gggagcgaat gggattagat
+      721 accccagtag tcctagccgt aaacgatgga tactaggcgt ggcttgtatc gacccgagcc
+      781 gtgccgtagc taacgcgtta agtatcccgc ctggggagta cgccggcaac ggtgaaactc
+      841 aaaggaattg acgggggccc gcacaagcgg tggagtatgt ggtttaattc gatgcaacgc
+      901 gaagaacctt accaaggctt gacatgtcgc gaattctggt gaaagctggg agtgccttcg
+      961 ggagcgcgaa cacaggtggt gcatggctgt cgtcagctcg tgtcgtgaga tgttgggtta
+     1021 agtcccgcaa cgagcgcaac cctcgttttt agttgccagc attaagttgg gcactctaga
+     1081 gagactgccg gtgacaaacc ggaggaaggt ggggatgacg tcaagtcagc atgcccctta
+     1141 cgccttgggc tacacacgta ctacaatgct ccggacagag ggcagcaagc atgcgaatgc
+     1201 aagcaaatcc cggaaaccgg agctcagttc agatcgcagg ctgcaactcg cctgcgtgaa
+     1261 ggaggaatcg ctagtaattg caggtcagca tactgcagtg aattcgttcc cgggccttgt
+     1321 acacaccgcc cgtcacacca tggaagctgg tagtgcccga agtcattact ccaaccattc
+     1381 gtggaggagg atgcctaagg caggactggt gactggggtg aagtcgtaac aaggtagccg
+     1441 taccggaagg tgtggctgga tcacctcct
+//
+
+LOCUS       EU022709                1485 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. KVJF1 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022709
+VERSION     EU022709.1  GI:154361737
+KEYWORDS    .
+SOURCE      Nostoc sp. KVJF1
+  ORGANISM  Nostoc sp. KVJF1
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1485)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1485)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1485
+                     /organism="Nostoc sp. KVJF1"
+                     /mol_type="genomic DNA"
+                     /isolate="KVJF1"
+                     /db_xref="taxon:457947"
+                     /country="Norway: Kvaloya"
+                     /note="free-living"
+     rRNA            <1..>1485
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggtgtcttcg gacacagtgg cggacgggtg agtaacgcgt gagaatctgg ctttaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc cgtaattggg tgaaaggtta
+      181 actgcctgaa gatgagctcg cgtctgatta gctagttgga agtgtaatgg actcccaagg
+      241 cgacgatcag tagctggtct gagaggacga tcagccacac tgggactgag acacggccca
+      301 gactcctacg ggaggcagca gtggggaatt ttccgcaatg ggcgaaagcc tgacggagca
+      361 ataccgcgtg agggaggaag gctcttgggt cgtaaacctc ttttctcagg gaagaacaca
+      421 atgacggtac ctgaggaata agcatcggct aactccgtgc cagcagccgc ggtaatacgg
+      481 aggatgcaag cgttatccgg aatgattggg cgtaaagcgt ccgcaggtgg caatgtaagt
+      541 ctgctgttaa agagtctagc tcaactagat aagagcagtg gaaactacat agctagagta
+      601 cgttcggggc agagggaatt cctggtgtag cggtgaaatg cgtagagatc aggaagaaca
+      661 ccagtggcga aggcgctctg ctaggccgta actgacactg agggacgaaa gctaggggag
+      721 cgaatgggat tagatacccc agtagtccta gccgtaaacg atggatacta ggcgtggctt
+      781 gtatcgaccc gagccgtgcc gtagctaacg cgttaagtat cccgcctggg gagtacgccg
+      841 gcaacggtga aactcaaagg aattgacggg ggcccgcaca agcggtggag tatgtggttt
+      901 aattcgatgc aacgcgaaga accttaccaa ggcttgacat gtcgcgaatc ttctcgaaag
+      961 ggaagagtgc cttcgggagc gcgaacacag gtggtgcatg gctgtcgtca gctcgtgtcg
+     1021 tgagatgttg ggttaagtcc cgcaacgagc gcaaccctcg tttttagttg ccagcattaa
+     1081 gttgggcact ctagagagac tgccggtgac aaaccggagg aaggtgggga tgacgtcaag
+     1141 tcagcatgcc ccttacgcct tgggctacac acgtactaca atgctccgga cagagggcag
+     1201 caagcatgcg aatgcaagca aatcccgtaa accggagctc agttcagatc gcaggctgca
+     1261 actcgcctgc gtgaaggagg aatcgctagt aattgcaggt cagcatactg cagtgaattc
+     1321 gttcccgggc cttgtacaca ccgcccgtca caccatggaa gctggtagtg cccgaagtca
+     1381 ttactccaac ctttcgggga ggaggatgcc taaggcagga ctggtgactg gggtgaagtc
+     1441 gtaacaaggt agccgtaccg gaaggtgtgg ctggatcacc tcctt
+//
+
+LOCUS       EU022729                1483 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. KVJF16 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022729
+VERSION     EU022729.1  GI:154361757
+KEYWORDS    .
+SOURCE      Nostoc sp. KVJF16
+  ORGANISM  Nostoc sp. KVJF16
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1483)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1483
+                     /organism="Nostoc sp. KVJF16"
+                     /mol_type="genomic DNA"
+                     /isolate="KVJF16"
+                     /db_xref="taxon:457949"
+                     /country="Norway: Kvaloya"
+                     /note="free-living"
+     rRNA            <1..>1483
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 gaaatctttc gggatttagt ggcggacggg tgagtaacgc gtgagaatct ggcttcaggt
+      121 ctgggacaac cactggaaac ggtggctaat accggatgtg ccgagaggtg aaaggttaac
+      181 tgcctgaaga tgagctcgcg tctgattagc tagttggaag tgtaatggac tcccaaggcg
+      241 acgatcagta gctggtctga gaggacgatc agccacactg ggactgagac acggcccaga
+      301 ctcctacggg aggcagcagt ggggaatttt ccgcaatggg cgaaagcctg acggagcaat
+      361 accgcgtgag ggaggaaggc tcttgggtcg taaacctctt ttctcaggga agaacaaaat
+      421 gacggtacct gaggaataag catcggctaa ctccgtgcca gcagccgcgg taatacggag
+      481 gatgcaagcg ttatccggaa tgattgggcg taaagcgtcc gcaggtggct atgtaagtct
+      541 gctgttaaag agtctagctc aactagataa gagcagtgga aactacaagg ctagagtacg
+      601 ttcggggcag agggaattcc tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc
+      661 ggtggcgaag gcgctctgct aggccgtaac tgacactgag ggacgaaagc taggggagcg
+      721 aatgggatta gataccccag tagtcctagc cgtaaacgat ggatactagg cgtggcttgt
+      781 atcgacccga gccgtgccgt agctaacgcg ttaagtatcc cgcctgggga gtacgccggc
+      841 aacggtgaaa ctcaaaggaa ttgacggggg cccgcacaag cggtggagta tgtggtttaa
+      901 ttcgatgcaa cgcgaagaac cttaccaagg cttgacatgt cgcgaatctc ggtgaaagct
+      961 gagagtgcct tcgggagcgc gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg
+     1021 agatgttggg ttaagtcccg caacgagcgc aaccctcgtt tttagttgcc agcattaagt
+     1081 tgggcactct agagagactg ccggtgacaa accggaggaa ggtggggatg acgtcaagtc
+     1141 agcatgcccc ttacgccttg ggctacacac gtactacaat gctccggaca gagggcagca
+     1201 agcatgcgaa tgcaagcaaa tcccgtaaac cggagctcag ttcagatcgc aggctgcaac
+     1261 tcgcctgcgt gaaggaggaa tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt
+     1321 tcccgggcct tgtacacacc gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt
+     1381 actccaacca ttcgtggagg aggatgccta aggcaggact ggtgactggg gtgaagtcgt
+     1441 aacaaggtag ccgtaccgga aggtgtggct ggatcacctc ctt
+//
+
+LOCUS       HM573458                1444 bp    DNA     linear   BCT 31-JAN-2012
+DEFINITION  Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence.
+ACCESSION   HM573458
+VERSION     HM573458.1  GI:302125119
+KEYWORDS    .
+SOURCE      Nostoc sp. PCC 7120 (Anabaena sp. PCC 7120)
+  ORGANISM  Nostoc sp. PCC 7120
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1444)
+  AUTHORS   Mishra,A.K., Shukla,E., Singh,S.S., Singh,P., Srivastava,A. and
+            Singh,A.
+  TITLE     Molecular characterization of heterocystous cyanobacteria based on
+            16S rRNA analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1444)
+  AUTHORS   Mishra,A.K., Shukla,E., Singh,S.S., Singh,P., Srivastava,A. and
+            Singh,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUN-2010) Botany, Banaras Hindu University,
+            Laboratory of Microbial Genetics, Department of Botany, Banaras
+            Hindu University, Varanasi, Uttar Pradesh 221005, India
+FEATURES             Location/Qualifiers
+     source          1..1444
+                     /organism="Nostoc sp. PCC 7120"
+                     /mol_type="genomic DNA"
+                     /strain="PCC 7120"
+                     /db_xref="taxon:103690"
+                     /note="strain coidentity: PCC 7120=Ind43; obtained from
+                     laboratory of Prof. C.P. Wolk from the University of
+                     Michigan"
+     rRNA            <1..>1444
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggatgaacg ctggcggtat gcttaacaca tgcaagtcga acggtctctt cggacatagt
+       61 ggcggacggg tgagtaacgc gtgagaatct agcttcaggt cggggacaac cactggaaac
+      121 ggtggctaat accggatgtg ccgaaaggtg aaagacttac tgcctgaaga tgagctcgcg
+      181 tctgattagc tagttggtgg ggtaagagcc caccaaggcg acgatcagta gctggtctga
+      241 gaggatgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggttg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaatcag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggcc ttgtaagtct gctgtcaaag agcgaagctc
+      541 aacttcgtaa aggcagtgga aactacacgg ctagagtgcg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc ggtggcgaag gcgctctgct
+      661 aggccgcaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc tgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgcacgc aagtgtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatctg attgaaaggt cagagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctacggaca gagggcagca agctagcgat agcaagctaa
+     1201 tcccataaac cgtggctcag ttcagatcga aggctgcaac tcgccttcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggcaacgcc cgaagtcatt actccaacca ttcgtggggg
+     1381 aggatgccta aggcagtgct ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggt
+//
+
+LOCUS       AB325908                1444 bp    DNA     linear   BCT 07-JAN-2012
+DEFINITION  Nostoc sp. PCC 7906 gene for 16S rRNA, partial sequence.
+ACCESSION   AB325908
+VERSION     AB325908.1  GI:190350838
+KEYWORDS    .
+SOURCE      Nostoc sp. PCC 7906
+  ORGANISM  Nostoc sp. PCC 7906
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Desmonostoc.
+REFERENCE   1
+  AUTHORS   Arima,H., Horiguchi,N., Takaichi,S., Kofuji,R., Ishida,K.I.,
+            Wada,K. and Sakamoto,T.
+  TITLE     Molecular genetic and chemotaxonomic characterization of the
+            terrestrial cyanobacterium Nostoc commune and its neighboring
+            species
+  JOURNAL   FEMS Microbiol. Ecol. (2011) In press
+   PUBMED   22066798
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1444)
+  AUTHORS   Arima,H., Horiguchi,N. and Sakamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUN-2007) Contact:Toshio Sakamoto Kanazawa
+            University, School of Natural System, College of Science and
+            Engineering; Kakuma, Kanazawa, Ishikawa 920-1192, Japan
+FEATURES             Location/Qualifiers
+     source          1..1444
+                     /organism="Nostoc sp. PCC 7906"
+                     /mol_type="genomic DNA"
+                     /strain="IAM M-14"
+                     /db_xref="taxon:1181"
+                     /PCR_primers="fwd_seq: ggagagtttgatcctggctc, rev_seq:
+                     aaaggaggtgatccagccac"
+                     /note="synonym: Nostoc muscorum IAM M-14"
+     rRNA            <1..>1444
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aggatgaacg ctggcggtat gcttaacaca tgcaagtcga acggtgtctt cggacatagt
+       61 ggcggacggg tgagtaacgc gtgagaatct agcttcaggt ytrggacaac cactggaaac
+      121 ggtggctaat acyggatgtg ccgaaaggtg aaaggcttgc tgcctgaaga tgagctcgcg
+      181 tctgattagc tagttggtgg ggtaagagcc taccaaggcg acgatcagta gctggtctga
+      241 gaggatgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggttg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaatcag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggcc ttgtaagtct gctgtcaaag agcgaagctc
+      541 aacttcgtaa aggcagtgga aactacacgg ctagagtgcg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc ggtggcgaag gcgctctgct
+      661 aggccgcaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc tgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgcacgc aagtgtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatctg attgaaaggt cagagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctacggaca gagggcagca agctagcgat agcaagctaa
+     1201 tcccataaac cgtggctcag ttcagatcga aggctgcaac tcgccttcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggcaacgcc cgaagtcatt actccaacca ttcgtggggg
+     1381 aggatgccta aggcagtgct ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggt
+//
+
+LOCUS       EU022713                1481 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. SKJF1 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022713
+VERSION     EU022713.1  GI:154361741
+KEYWORDS    .
+SOURCE      Nostoc sp. SKJF1
+  ORGANISM  Nostoc sp. SKJF1
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1481
+                     /organism="Nostoc sp. SKJF1"
+                     /mol_type="genomic DNA"
+                     /isolate="SKJF1"
+                     /db_xref="taxon:457960"
+                     /country="Norway: Skibotn"
+                     /note="free-living"
+     rRNA            <1..>1481
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggaatcttcg gatttagtgg cggacgggtg agtaacgcgt gagaatctgg cttcaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc gagaggtgaa aggttaactg
+      181 cctgaagatg agctcgcgtc tgattagcta gttggaagtg taacggactc ccaaggcgac
+      241 gatcagtagc tggtctgaga ggacgatcag ccacactggg actgagacac ggcccagact
+      301 cctacgggag gcagcagtgg ggaattttcc gcaatgggcg aaagcctgac ggagcaatac
+      361 cgcgtgaggg aggaaggctc ttgggtcgta aacctctttt ctcagggaag aacacaatga
+      421 cggtacctga ggaataagca tcggctaact ccgtgccagc agccgcggta atacggagga
+      481 tgcaagcgtt atccggaatg attgggcgta aagcgtccgc aggtggcaat gtaagtctgc
+      541 tgttaaagag tctagctcaa ctagataaga gcagtggaaa ctacatagct agagtacgtt
+      601 cggggcagag ggaattcctg gtgtagcggt gaaatgcgta gagatcagga agaacaccgg
+      661 tggcgaaggc gctctgctag gccgtaactg acactgaggg acgaaagcta ggggagcgaa
+      721 tgggattaga taccccagta gtcctagccg taaacgatgg atactaggcg tggcttgtat
+      781 cgacccgagc cgtgccgtag ctaacgcgtt aagtatcccg cctggggagt acgccggcaa
+      841 cggtgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagtatg tggtttaatt
+      901 cgatgcaacg cgaagaacct taccaaggct tgacatgtcg cgaatcttga tgaaagttga
+      961 gagtgccttc gggagcgcga acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag
+     1021 atgttgggtt aagtcccgca acgagcgcaa ccctcgtttt tagttgccag cattaagttg
+     1081 ggcactctag agagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaagtcag
+     1141 catgcccctt acgccttggg ctacacacgt actacaatgc tccggacaga gggcagcaag
+     1201 catgcgaatg caagcaaatc ccggaaaccg gagctcagtt cagatcgcag gctgcaactc
+     1261 gcctgcgtga aggaggaatc gctagtaatt gcaggtcagc atactgcagt gaattcgttc
+     1321 ccgggccttg tacacaccgc ccgtcacacc atggaagctg gtagtgcccg aagtcattac
+     1381 tccaaccatt cgtggaggag gatgcctaag gcaggactgg tgactggggt gaagtcgtaa
+     1441 caaggtagcc gtaccggaag gtgtggctgg atcacctcct t
+//
+
+LOCUS       HM623782                1600 bp    DNA     linear   BCT 30-APR-2011
+DEFINITION  Nostoc sp. UAM 307 16S ribosomal RNA gene and 16S-23S ribosomal RNA
+            intergenic spacer, partial sequence.
+ACCESSION   HM623782
+VERSION     HM623782.1  GI:313906874
+KEYWORDS    .
+SOURCE      Nostoc sp. UAM 307
+  ORGANISM  Nostoc sp. UAM 307
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1600)
+  AUTHORS   Mateo,P., Perona,E., Berrendero,E., Leganes,F., Martin,M. and
+            Golubic,S.
+  TITLE     Life cycle as a stable trait in the evaluation of diversity of
+            Nostoc from biofilms in rivers
+  JOURNAL   FEMS Microbiol. Ecol. 76 (2), 185-198 (2011)
+   PUBMED   21223333
+REFERENCE   2  (bases 1 to 1600)
+  AUTHORS   Berrendero,E., Mateo,P., Perona,E., Leganes,F., Martin,M. and
+            Golubic,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-JUL-2010) Biologia, Universidad Autonoma de Madrid,
+            Facultad de Ciencias (Ed. Biologia) c/Darwin, 2, Madrid, Madrid
+            28049, Espana
+FEATURES             Location/Qualifiers
+     source          1..1600
+                     /organism="Nostoc sp. UAM 307"
+                     /mol_type="genomic DNA"
+                     /strain="MA4"
+                     /isolation_source="rock surface of calcareous river"
+                     /culture_collection="UAM<ESP>:307"
+                     /db_xref="taxon:932010"
+                     /country="Spain: Matarrana River, Teruel, East Spain"
+     rRNA            <1..1482
+                     /product="16S ribosomal RNA"
+     misc_RNA        1483..>1600
+                     /product="16S-23S ribosomal RNA intergenic spacer"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggtgtcttcg gacatagtgg cggacgggtg agtaacgcgt gagaatctag cttcaggtct
+      121 aggacaacca ctggaaacgg tggctaatac tggatgtgcc ggaaggtgaa aggcttgctg
+      181 cctgaagatg agctcgcgtc tgattagcta gttggtgggg taagagccta ccaaggcgac
+      241 gatcagtagc tggtctgaga ggatgatcag ccacactggg actgagacac ggcccagact
+      301 cctacgggag gcagcagtgg ggaattttcc gcaatgggcg aaagcctgac ggagcaatac
+      361 cgcgtgaggg aggaaggctc ttgggttgta aacctctttt ctcagggaag aacacaatga
+      421 cggtacctga ggaatcagca tcggctaact ccgtgccagc agccgcggta atacggagga
+      481 tgcaagcgtt atccggaatg attgggcgta aagcgtccgc aggtggctgt gtaagtctgc
+      541 tgttaaagag tctagctcaa ctagataaag gcagtggaaa ctacacggct agagtgcgtt
+      601 cggggcagag ggaattcctg gtgtagcggt gaaatgcgta gagatcagga agaacaccgg
+      661 tggcgaaggc gctctgctag gccgcaactg acactgaggg acgaaagcta ggggagcgaa
+      721 tgggattaga taccccagta gtcctagctg taaacgatgg atactaggcg tggcttgtat
+      781 cgacccgagc cgtgccgtag ctaacgcgtt aagtatcccg cctggggagt acgcacgcaa
+      841 gtgtgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagtatg tggtttaatt
+      901 cgatgcaacg cgaagaacct taccaaggct tgacatgtcg cgaatcttct tgaaagggaa
+      961 gagtgccttc gggagcgcga acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag
+     1021 atgttgggtt aagtcccgca acgagcgcaa ccctcgtttt tagttgccag cattaagttg
+     1081 ggcactctag agagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaagtcag
+     1141 catgcccctt acgccttggg ctacacacgt actacaatgc tacggacaga gggcagcaag
+     1201 catgtgaatg caagctaatc ccataaaccg tggctcagtt cagatcgaag gctgcaactc
+     1261 gccttcgtga aggaggaatc gctagtaatt gcaggtcagc atactgcagt gaattcgttc
+     1321 ccgggccttg tacacaccgc ccgtcacacc atggaagctg gcaacgcccg aagtcattac
+     1381 tccaactttt cggagaggag gatgcctaag gcagtgctgg tgactggggt gaagtcgtaa
+     1441 caaggtagcc gtaccggaag gtgtggctgg atcacctcct ttttagggag acctacaccc
+     1501 ctcaaatatt gaaagcaaac agcaaataaa tattgagatg gtcaaaccta ggtcggtcga
+     1561 ggatgttaag tagctttcta gtaattaatg atttcgttaa
+//
+
+LOCUS       EU022726                1481 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. SKSL1 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022726
+VERSION     EU022726.1  GI:154361754
+KEYWORDS    .
+SOURCE      Nostoc sp. SKSL1
+  ORGANISM  Nostoc sp. SKSL1
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1481
+                     /organism="Nostoc sp. SKSL1"
+                     /mol_type="genomic DNA"
+                     /isolate="SKSL1"
+                     /host="Peltigera canina"
+                     /db_xref="taxon:457970"
+                     /country="Norway: Skibotn"
+     rRNA            <1..>1481
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggtgctttcg ggcacagtgg cggacgggtg agtaacgcgt gagaatctgg ctctaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc gagaggtgaa aggttaactg
+      181 cctagagatg agctcgcgtc tgattagcta gttggaagtg taatggactc ccaaggcgac
+      241 gatcagtagc tggtctgaga ggacgatcag ccacactggg actgagacac ggcccagact
+      301 cctacgggag gcagcagtgg ggaattttcc gcaatgggcg aaagcctgac ggagcaatac
+      361 cgcgtgaggg aggaaggctc ttgggtcgta aacctctttt ctcagggaag aacaaaatga
+      421 cggtacctga ggaataagca tcggctaact ccgtgccagc agccgcggta atacggagga
+      481 tgcaagcgtt atccggaatg attgggcgta aagcgtccgc aggtggctat gtaagtctgc
+      541 tgttaaagag tctagctcaa ctagataaga gcagtggaaa ctacaaggct agagtacgtt
+      601 cggggcagag ggaattcctg gtgtagcggt gaaatgcgta gagatcagga agaacaccgg
+      661 tggcgaaggc gctctgctag gccgtaactg acactgaggg acgaaagcta ggggagcgaa
+      721 tgggattaga taccccagta gtcctagccg taaacgatgg atactaggcg tggcttgtat
+      781 cgacccgagc cgtgccgtag ctaacgcgtt aagtatcccg cctggggagt acgccggcaa
+      841 cggtgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagtatg tggtttaatt
+      901 cgatgcaacg cgaagaacct taccaaggct tgacatgtcg cgaatcctgg tgaaagctgg
+      961 gagtgccttc gggagcgcga acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag
+     1021 atgttgggtt aagtcccgca acgagcgcaa ccctcgtttt tagttgccag cattaagttg
+     1081 ggcactctag agagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaagtcag
+     1141 catgcccctt acgccttggg ctacacacgt actacaatgc tccggacaga gggcagcaag
+     1201 catgcgaatg caagcaaatc ccggaaaccg gagctcagtt cagatcgcag gctgcaactc
+     1261 gcctgcgtga aggaggaatc gctagtaatt gcaggtcagc atactgcagt gaattcgttc
+     1321 ccgggccttg tacacaccgc ccgtcacacc atggaagctg gtagtgcccg aagtcattac
+     1381 tccaaccctt cggggaggag gatgcctaag gcaggactgg tgactggggt gaagtcgtaa
+     1441 caaggtagcc gtaccggaag gtgtggctgg atcacctcct t
+//
+
+LOCUS       FJ815321                1389 bp    DNA     linear   ENV 23-AUG-2010
+DEFINITION  Uncultured Nostoc sp. clone UK24 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   FJ815321
+VERSION     FJ815321.1  GI:225922051
+KEYWORDS    ENV.
+SOURCE      uncultured Nostoc sp.
+  ORGANISM  uncultured Nostoc sp.
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc;
+            environmental samples.
+REFERENCE   1  (bases 1 to 1389)
+  AUTHORS   Kaasalainen,U., Jokela,J., Fewer,D.P., Sivonen,K. and Rikkinen,J.
+  TITLE     Microcystin production in the tripartite cyanolichen Peltigera
+            leucophlebia
+  JOURNAL   Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)
+   PUBMED   19445594
+REFERENCE   2  (bases 1 to 1389)
+  AUTHORS   Kaasalainen,U., Jokela,J., Fewer,D.P., Sivonen,K. and Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2009) Department of Biological and Environmental
+            Sciences and Department of Applied Chemistry and Microbiology,
+            University of Helsinki, P.O. Box 56, Helsinki 00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..1389
+                     /organism="uncultured Nostoc sp."
+                     /mol_type="genomic DNA"
+                     /host="Peltigera leucophlebia"
+                     /db_xref="taxon:340711"
+                     /clone="UK24"
+                     /environmental_sample
+                     /country="Finland"
+     rRNA            <1..>1389
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 acacatgcaa gtcgaacgaa atctttaggg atttagtggc ggacgggtga gtaacgcgtg
+       61 agaatctagc tctaggtctg ggacgaccac tggaaacggt ggctaatacc ggatgtgccg
+      121 agaggtgaaa ggttaactgc ctagagatga gctcgcgtct gattagctag ttggaagtgt
+      181 aacggactcc caaggcgacg atcagtagct ggtctgagag gacgatcagc cacactggga
+      241 ctgagacacg gcccagactc ctacgggagg cagcagtggg gaattttccg caatgggcga
+      301 aagcctgacg gagcaatacc gcgtgaggga ggaaggctct tgggtcgtaa acctcttttc
+      361 tcagggaaga acacaatgac ggtacctgag gaataagcat cggctaactc cgtgccagca
+      421 gccgcggtaa tacggaggat gcaagcgtta tccggaatga ttgggcgtaa agcgtccgca
+      481 ggtggcaatg taagtctgct gttaaagagt ctagctcaac tagataagag cagtggaaac
+      541 tacatagcta gagtacgttc ggggcagagg gaattcctgg tgtagcggtg aaatgcgtag
+      601 agatcaggaa gaacaccggt ggcgaaggcg ctctgctagg ccgtaactga cactgaggga
+      661 cgaaagctag gggagcgaat gggattagat accccagtag tcctagccgt aaacgatgga
+      721 tactaggcgt ggcttgtatc gacccgagcc gtgccgtagc taacgcgtta agtatcccgc
+      781 ctggggagta cgccggcaac ggtgaaactc aaaggaattg acgggggccc gcacaagcgg
+      841 tggagtatgt ggtttaattc gatgcaacgc gaagaacctt accaaggctt gacatgtcgc
+      901 gaatcttgac gaaagttgag agtgccttcg ggagcgcgaa cacaggtggt gcatggctgt
+      961 cgtcagctcg tgtcgtgaga tgttgggtta agtcccgcaa cgagcgcaac cctcgttttt
+     1021 agttgccagc attaagttgg gcactctaga gagactgccg gtgacaaacc ggaggaaggt
+     1081 ggggatgacg tcaagtcagc atgcccctta cgccttgggc tacacacgta ctacaatgct
+     1141 acggacaaag ggcagctaca cagcaatgtg atgcaaatct cataaaccgt agctcagttc
+     1201 agatcgcagg ctgcaactcg cctgcgtgaa ggaggaatcg ctagtaattg caggtcagca
+     1261 tactgcagtg aattcgttcc cgggccttgt acacaccgcc cgccacacca tggaagctgg
+     1321 tagtgcccga agtcattact ccaaccattc gtggaggagg atgcctaagg caggactggt
+     1381 gactggggt
+//
+
+LOCUS       JQ007783                1543 bp    DNA     linear   ENV 17-APR-2012
+DEFINITION  Uncultured Nostoc sp. clone K_J13 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JQ007783
+VERSION     JQ007783.1  GI:380082780
+KEYWORDS    ENV.
+SOURCE      uncultured Nostoc sp.
+  ORGANISM  uncultured Nostoc sp.
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc;
+            environmental samples.
+REFERENCE   1  (bases 1 to 1543)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Cyanobacteria produce a high variety of hepatotoxic peptides in
+            lichen symbiosis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)
+   PUBMED   22451908
+REFERENCE   2  (bases 1 to 1543)
+  AUTHORS   Kaasalainen,U., Fewer,D.P., Jokela,J., Wahlsten,M., Sivonen,K. and
+            Rikkinen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2011) Department of Biosciences, University of
+            Helsinki, Viikinkaari 1, Helsinki 00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..1543
+                     /organism="uncultured Nostoc sp."
+                     /mol_type="genomic DNA"
+                     /host="Peltigera leucophlebia; specimen: KF_J13"
+                     /db_xref="taxon:340711"
+                     /clone="K_J13"
+                     /environmental_sample
+     rRNA            <1..1543
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gatgaacgct ggcggtatgc ttaacacatg caagtcgaac gaaatctttc gggatttagt
+       61 ggcggacggg tgagtaacgc gtgagaatct ggcttcaggt ctgggacaac cactggaaac
+      121 ggtggctaat accggatgtg ccgaaaggtg aaaggttaac tgcctgaaga tgagctcgcg
+      181 tctgattagc tagttggtag agtaagagcc taccaaggcg acgatcagta gctggtctga
+      241 gaggacgatc agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt
+      301 ggggaatttt ccgcaatggg cgaaagcctg acggagcaat accgcgtgag ggaggaaggc
+      361 tcttgggtcg taaacctctt ttctcaggga agaacacaat gacggtacct gaggaataag
+      421 catcggctaa ctccgtgcca gcagccgcgg taatacggag gatgcaagcg ttatccggaa
+      481 tgattgggcg taaagcgtcc gcaggtggca atgtaagtct gctgttaaag agtctagctc
+      541 aactagataa gagcagtgga aactacatag ctagagtacg ttcggggcag agggaattcc
+      601 tggtgtagcg gtgaaatgcg tagagatcag gaagaacacc agtggcgaag gcgctctgct
+      661 aggccgtaac tgacactgag ggacgaaagc taggggagcg aatgggatta gataccccag
+      721 tagtcctagc cgtaaacgat ggatactagg cgtggcttgt atcgacccga gccgtgccgt
+      781 agctaacgcg ttaagtatcc cgcctgggga gtacgccggc aacggtgaaa ctcaaaggaa
+      841 ttgacggggg cccgcacaag cggtggagta tgtggtttaa ttcgatgcaa cgcgaagaac
+      901 cttaccaagg cttgacatgt cgcgaatcct ggtgaaagct gggagtgcct tcgggagcgc
+      961 gaacacaggt ggtgcatggc tgtcgtcagc tcgtgtcgtg agatgttggg ttaagtcccg
+     1021 caacgagcgc aaccctcgtt tttagttgcc agcattaagt tgggcactct agagagactg
+     1081 ccggtgacaa accggaggaa ggtggggatg acgtcaagtc agcatgcccc ttacgccttg
+     1141 ggctacacac gtactacaat gctccggaca gagggcagca agcgcgcgag tgcaagcaaa
+     1201 tcccgtaaac cggagctcag ttcagatcgc aggctgcaac tcgcctgcgt gaaggaggaa
+     1261 tcgctagtaa ttgcaggtca gcatactgca gtgaattcgt tcccgggcct tgtacacacc
+     1321 gcccgtcaca ccatggaagc tggtagtgcc cgaagtcatt acttcaacct gcaaaggaga
+     1381 aggatgccta aggcaggact ggtgactggg gtgaagtcgt aacaaggtag ccgtaccgga
+     1441 aggtgtggct ggatcacctc ctttttaggg agacctacac ccctcagaaa tcgaaaagca
+     1501 tacagcgata tagatactga gttggtctaa cctaggtcgg tcg
+//
+
+LOCUS       EU022727                1481 bp    DNA     linear   BCT 06-AUG-2007
+DEFINITION  Nostoc sp. SKSL2 16S ribosomal RNA gene, partial sequence.
+ACCESSION   EU022727
+VERSION     EU022727.1  GI:154361755
+KEYWORDS    .
+SOURCE      Nostoc sp. SKSL2
+  ORGANISM  Nostoc sp. SKSL2
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     The diversity and allelopathic interactions between cyanobionts of
+            hepatic Blasia pusilla from two sites in northern Norway
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1481)
+  AUTHORS   Liaimer,A., Papaefthimou,D., Robertsen,E. and Elvebakk,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2007) Biology, Faculty of Science, Dramsveien
+            201, Tromsoe 9037, Norway
+FEATURES             Location/Qualifiers
+     source          1..1481
+                     /organism="Nostoc sp. SKSL2"
+                     /mol_type="genomic DNA"
+                     /isolate="SKSL2"
+                     /host="Peltigera scabrosa"
+                     /db_xref="taxon:457971"
+                     /country="Norway: Skibotn"
+     rRNA            <1..>1481
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 agagtttgat cctggctcag gatgaacgct ggcggtatgc ttaacacatg caagtcgaac
+       61 ggtgctttcg ggcacagtgg cggacgggtg agtaacgcgt gagaatctgg ctctaggtct
+      121 gggacaacca ctggaaacgg tggctaatac cggatgtgcc gagaggtgaa aggttaactg
+      181 cctagagatg agctcgcgtc tgattagcta gttggaagtg taatggactc ccaaggcgac
+      241 gatcagtagc tggtctgaga ggacgatcag ccacactggg actgagacac ggcccagact
+      301 cctacgggag gcagcagtgg ggaattttcc gcaatgggcg aaagcctgac ggagcaatac
+      361 cgcgtgaggg aggaaggctc ttgggtcgta aacctctttt ctcagggaag aacaaaatga
+      421 cggtacctga ggaataagca tcggctaact ccgtgccagc agccgcggta atacggagga
+      481 tgcaagcgtt atccggaatg attgggcgta aagcgtccgc aggtggctat gtaagtctgc
+      541 tgttaaagag tctagctcaa ctagataaga gcagtggaaa ctacaaggct agagtacgtt
+      601 cggggcagag ggaattcctg gtgtagcggt gaaatgcgta gagatcagga agaacaccgg
+      661 tggcgaaggc gctctgctag gccgtaactg acactgaggg acgaaagcta ggggagcgaa
+      721 tgggattaga taccccagta gtcctagccg taaacgatgg atactaggcg tggcttgtat
+      781 cgacccgagc cgtgccgtag ctaacgcgtt aagtatcccg cctggggagt acgccggcaa
+      841 cggtgaaact caaaggaatt gacgggggcc cgcacaagcg gtggagtatg tggtttaatt
+      901 cgatgcaacg cgaagaacct taccaaggct tgacatgtcg cgaatcctgg tgaaagctgg
+      961 gagtgccttc gggagcgcga acacaggtgg tgcatggctg tcgtcagctc gtgtcgtgag
+     1021 atgttgggtt aagtcccgca acgagcgcaa ccctcgtttt tagttgccag cattaagttg
+     1081 ggcactctag agagactgcc ggtgacaaac cggaggaagg tggggatgac gtcaagtcag
+     1141 catgcccctt acgccttggg ctacacacgt actacaatgc tccggacaga gggcagcaag
+     1201 catgcgaatg caagcaaatc ccggaaaccg gagctcagtt cagatcgcag gctgcaactc
+     1261 gcctgcgtga aggaggaatc gctagtaatt gcaggtcagc atactgcagt gaattcgttc
+     1321 ccgggccttg tacacaccgc ccgtcacacc atggaagctg gtagtgcccg aagtcattac
+     1381 tccaaccctt cggggaggag gatgcctaag gcaggactgg tgactggggt gaagtcgtaa
+     1441 caaggtagcc gtaccggaag gtgtggctgg atcacctcct t
+//
+
+LOCUS       JN565281                1343 bp    DNA     linear   BCT 29-OCT-2012
+DEFINITION  Scytonema cf. fritschii UCFS22 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   JN565281
+VERSION     JN565281.1  GI:359457068
+KEYWORDS    .
+SOURCE      Scytonema cf. fritschii UCFS22
+  ORGANISM  Scytonema cf. fritschii UCFS22
+            Bacteria; Cyanobacteria; Nostocales; Scytonemataceae; Scytonema.
+REFERENCE   1  (bases 1 to 1343)
+  AUTHORS   Smith,F.M.J., Wood,S.A., Wilks,T., Kelly,D., Broady,P.A.,
+            Williamson,W. and Gaw,S.
+  TITLE     Survey of Scytonema (Cyanobacteria) and associated saxitoxins in
+            the littoral zone of recreational lakes in Canterbury (New Zealand)
+  JOURNAL   Phycologia 51 (5), 542-551 (2012)
+REFERENCE   2  (bases 1 to 1343)
+  AUTHORS   Smith,F.M.J., Wood,S.A., Wilks,T., Kelly,D., Broady,P.A., Gaw,S.
+            and Williamson,W.
+  TITLE     Survey of Scytonema (Cyanobacteria) and associated saxitoxins in
+            the littoral zone of recreational lakes in Canterbury (New Zealand)
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1343)
+  AUTHORS   Smith,F.M.J., Wood,S.A., Wilks,T., Kelly,D., Broady,P.A., Gaw,S.
+            and Williamson,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2011) Department of Chemistry, University of
+            Canterbury, Ilam Rd Private Bag 4800, Christchurch 8140, New
+            Zealand
+FEATURES             Location/Qualifiers
+     source          1..1343
+                     /organism="Scytonema cf. fritschii UCFS22"
+                     /mol_type="genomic DNA"
+                     /strain="UCFS22"
+                     /db_xref="taxon:1123976"
+                     /PCR_primers="fwd_name: 27f, fwd_seq:
+                     agagtttgatcctggctcag, fwd_name: 740f, fwd_seq:
+                     ggcyrwawctgacactsaggga, rev_name: 809r, rev_seq:
+                     gcttcggcacggctcgggtcgata, rev_name: 1494r, rev_seq:
+                     tacggctaccttgttacgac"
+     rRNA            <1..>1343
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 acatgcaagt cgaacgggtt caagggaact agtggcggac gggtgagtaa cgcgtgagaa
+       61 tctggcttct ggtccgggac aacagttgga aacggctgct aataccggat gtgctgaaaa
+      121 gtgaaaggct agctgccaga agatgagctc gcgtccgatt agctagttgg tgtggtaaag
+      181 gcgcaccaag gcgacgatcg gtagctggtc tgagaggatg atcagccaca ctggaactga
+      241 gacacggtcc agactcctac gggaggcagc agtggggaat tttccgcaat gggcgaaagc
+      301 ctgacggagc aataccgcgt gagggaggaa ggctcttggg ttgtaaacct cttttctcag
+      361 ggaagaataa tgacggtacc tgaggaataa gcatcggcta actccgtgcc agcagccgcg
+      421 gtaatacgga ggatgcaagc gttatccgga atgattgggc gtaaagcgtc cgcaggtggc
+      481 aattcaagtc ggctgtcaaa gcgtctggct caactagata aaggcagtgg aaactgaata
+      541 gctagagtat ggtaggggta gagggaattc ctggtgtagc ggtgaaatgc gtagagatca
+      601 ggaagaacac cggtggcgaa ggcgctctgc tggaccaaaa ctgacactga gggacgaaag
+      661 ctaggggagc gaatgggatt agatacccca gtagtcctag ccgtaaacga tggatactag
+      721 gcgttacgtg tatcgaccca cgtagtgccg gagccaacgc gttaagtatc ccgcctgggg
+      781 agtacgccgg caacggtgaa actcaaagga attgacgggg gcccgcacaa gcggtggagt
+      841 atgtggttta attcgatgca acgcgaagaa ccttaccagg gtttgacatg tccggaacat
+      901 ttgtgaaagc agatggtgcc ttcgggagcc ggaacacagg tggtgcatgg ctgtcgtcag
+      961 ctcgtgtcgt gagatgttgg gttaagtccc gcaacgagcg caaccctcgt acttagttgc
+     1021 catcattaag ttgggaactc taaggagact gccggtgaca aaccggagga aggtggggat
+     1081 gacgtcaagt cagcatgccc cttacgccct gggctacaca cgtactacaa tgctgtggac
+     1141 aaagggcagc tagctagcga tagtcggcaa atcccagaaa ccacggctca gttcagatcg
+     1201 taggctgcaa ctcgcctacg tgaaggtgga atcgctagta attgcaggtc agcatactgc
+     1261 agtgaattcg ttcccgggcc ttgtacacac cgcccgtcac accatggaag ctggtcacgc
+     1321 ccgaagtcgt taccctaact cta
+//
+

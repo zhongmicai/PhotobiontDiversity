@@ -1,0 +1,34 @@
+pbpaste | ../Scripts/FilterAccessions.py >new_acc.txt
+ 
+cat new_acc.txt |../Scripts/GetGB.pl new.gbk heath.obrien@gmail.com
+
+../Scripts/ParseHost.pl new.gbk >new_metadata.txt
+
+../Scripts/ConvertSeq.pl -i new.gbk -f fasta
+
+cp ../130921/Cyano16S.gbk ./
+cat new.gbk >>Cyano16S.gbk 
+cp ../130921/Cyano16S.fa ./
+cat new.fa >>Cyano16S.fa 
+cp ../130921/Cyano16S_acc.txt ./
+cat new_acc.txt >>Cyano16S_acc.txt 
+
+usearch -cluster_fast Cyano16S.fa -id 1 -centroids Cyano16S_nr.fa -uc Cyano16S_groups.txt
+
+../Scripts/GetGroups.py -g Cyano16S_groups.txt -l 16S
+ 
+perl -pi -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' Cyano16S_nr.fa
+
+mafft Cyano16S_nr.fa >Cyano16S_aln.fa
+
+../Scripts/GetExcluded.pl Cyano16S_aln.fa |pbcopy
+
+trimal -in Cyano16S_aln.fa -phylip -select `pbpaste` >Cyano16S.phy
+
+phyml -i Cyano16S.phy
+
+../Scripts/AddSig.pl Cyano16S.phy_phyml_tree.nwk >Cyano16S.nwk
+
+cat Cyano16S.nwk | ../Scripts/AddMetadata.pl Cyano16S_metadata.txt host >Cyano16S_host.nwk
+
+../Scripts/ColourTree.pl Cyano16S_host.nwk family >Cyano16S_host_col.nwk
