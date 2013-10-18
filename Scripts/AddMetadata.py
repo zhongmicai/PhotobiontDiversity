@@ -29,9 +29,10 @@ def main(argv):
   treefilename = ''
   locus = ''
   outfilename = ''
-  usage = 'AddMetadata.py -t <treefile> -l <locus> -o <outfile>'
+  searchterm = ''
+  usage = 'AddMetadata.py -t <treefile> -l <locus> -o <outfile> -s <search>'
   try:
-    opts, args = getopt.getopt(argv,"ht:l:o:",["tree=","locus=","out="])
+    opts, args = getopt.getopt(argv,"ht:l:o:s:",["tree=","locus=","out=", "search="])
     if not opts:
       raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
@@ -47,6 +48,8 @@ def main(argv):
        locus = arg
     elif opt in ("-o", "--out"):
        outfilename = arg
+    elif opt in ("-s", "--search"):
+       searchterm = arg
 
   tree = Tree(treefilename)
 
@@ -75,7 +78,17 @@ def main(argv):
           label_info = [host]
         else:    
           label_info = [species]
-
+    
+    if searchterm and leaf.name.find(searchterm) > -1:
+      print "adding highlighting to node %s" % leaf.name
+      nst = NodeStyle()
+      nst["bgcolor"] = "Yellow"
+      leaf.set_style(nst)
+      label = TextFace(leaf.name.replace("New ", ""))    #This replace statement will soon be a relic and will need to be removed
+      label.background.color = "Yellow"
+      leaf.add_face(label, column = 0, position="branch-right")
+    else:                                                                 #This will include the group names / accession numbers in the tree. This may or may not be useful
+      leaf.add_face(TextFace(leaf.name.replace("New ", "")), column = 0)  #This replace statement will soon be a relic and will need to be removed
     add_faces(leaf, label_info)
    
   draw_tree(tree, outfilename)   
@@ -87,8 +100,10 @@ def draw_tree(tree, file):
     ts = TreeStyle()
     ts.branch_vertical_margin = 1
     ts.scale = 1500
+    ts.show_leaf_name = False
     tree.render(file, tree_style=ts, w=3000, units='mm')
-
+    #tree.show()
+    
 def add_faces(leaf, label_info):
       colours = get_colours(label_info)
       y = 0
