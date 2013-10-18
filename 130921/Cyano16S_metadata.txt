@@ -1,556 +1,557 @@
-EU282432	UNIQUE	IN TREE	free-living	Nostoc sp.		195-A22	 	Vishnivetskaya	(in) Margesin,R. (Ed.); PERMAFROST SOILS: 73-84; Springer-Verlag Berlin Heidelberg (2009)	 
-EU818947	UNIQUE	IN TREE	Acantholichen pannarioides	Scytonema sp.		Sipman_48329	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818948	UNIQUE	IN TREE	Coccocarpia filiformis	Scytonema sp.		R16	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818949	UNIQUE	IN TREE	Coccocarpia palmicola	Scytonema sp.		R03	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818950	UNIQUE	IN TREE	Coccocarpia palmicola	Scytonema sp.		R13	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818951	UNIQUE	IN TREE	Coccocarpia stellata	Scytonema sp.		R17	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818952	UNIQUE	IN TREE	Dictyonema aeruginosulum 	Scytonema sp.		Nelsen_3754	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818953	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		17538	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818954	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		R06	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818955	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		R11	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818956	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		R18	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818957	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		R19	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818958	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		R20	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818959	UNIQUE	IN TREE	Dictyonema glabratum	Scytonema sp.		Leucking_16563	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818960	UNIQUE	IN TREE	Dictyonema hernandezii 	Scytonema sp.		R14	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818961	UNIQUE	IN TREE	Dictyonema interruptum	Scytonema sp.		Ertz_10475	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818962	UNIQUE	IN TREE	Dictyonema phyllogenum	Scytonema sp.		Leucking_15207a	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818963	UNIQUE	IN TREE	Dictyonema schenckianum	Scytonema sp.		R01	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818964	UNIQUE	IN TREE	Dictyonema schenckianum	Scytonema sp.		R02	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818965	UNIQUE	IN TREE	Dictyonema schenckianum	Scytonema sp.		R07	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818966	UNIQUE	IN TREE	Dictyonema sericeum	Scytonema sp.		Leucking_16561	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-EU818967	UNIQUE	IN TREE	free-living	Scytonema sp.		R09	 	Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)	21628288
-Z82776	Group 404	REDUNDANT	free-living	Nostoc sp.		NIVA-CYA 124	 	Rudi	Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)	9212409
-Z82784	UNIQUE	IN TREE	free-living	Microcystis aeruginosa 		NIVA-CYA 43, ATCC 22663	 	Rudi	Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)	9212409
-Z82803	UNIQUE	IN TREE	free-living	Nostoc sp.		strainCYA 246/PCC 7120	 	Rudi	Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)	9212409
-Z82804	Group 031	REDUNDANT	free-living	Nostoc sp.		NIVA-CYA 308	 	Rudi	Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)	9212409
-Z82805	UNIQUE	IN TREE	free-living	Nostoc sp.		NIVA-CYA 194	 	Rudi	Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)	9212409
-AF092504	UNIQUE	IN TREE	free-living	Cylindrospermopsis raciborskii 		AWT205	 	Beltran	Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)	11010900
-AF247591	UNIQUE	IN TREE	free-living	Anabaena affinis 		NIES-40	 	Beltran	Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)	11010900
-AF247594	UNIQUE	IN TREE	free-living	Anabaena solitaria 		NIES-80	 	Beltran	Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)	11010900
-AY566855	UNIQUE	IN TREE	Pannaria pezizoides	Nostoc sp.		IO-102-I	 	Oksanen	Appl. Environ. Microbiol. 70 (10), 5756-5763 (2004)	15466511
-AY422695	UNIQUE	IN TREE	free-living	Gloeothece sp.		 	 	Boison	Appl. Environ. Microbiol. 70 (12), 7070-7077 (2004)	15574902
-AY742447	UNIQUE	IN TREE	Gunnera monoika	Nostoc sp.		8916	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742448	UNIQUE	IN TREE	Gunnera dentata	Nostoc sp.		8941	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742449	UNIQUE	IN TREE	Gunnera prorepens	Nostoc sp.		8963	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742450	UNIQUE	IN TREE	Azolla filiculoides	Nostoc sp.		 	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742451	UNIQUE	IN TREE	Gunnera monoika	Nostoc sp.		PCC 9229	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742452	UNIQUE	IN TREE	Gunnera dentata	Nostoc sp.		PCC 9231	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742453	UNIQUE	IN TREE	Anthoceros sp.	Nostoc sp.		PCC 9305	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-AY742454	UNIQUE	IN TREE	Gunnera dentata	Nostoc sp.		8938	 	Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)	15549268
-DQ265920	UNIQUE	IN TREE	Lobaria amplissima	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265921	Group 008	REDUNDANT	Lobaria amplissima	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265922	Group 002	REDUNDANT	Lobaria scrobiculata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265923	Group 002	REDUNDANT	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265924	UNIQUE	IN TREE	Pseudocyphellaria clathrata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265925	Group 002	REDUNDANT	Pseudocyphellaria mallota	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265926	Group 009	IN TREE	Pseudocyphellaria coriifolia	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265927	UNIQUE	IN TREE	Pseudocyphellaria intricata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265928	Group 008	REDUNDANT	Pseudocyphellaria hirsuta	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265929	Group 002	IN TREE	Pseudocyphellaria scabrosa	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265930	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265931	Group 350	REDUNDANT	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265932	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265933	Group 002	REDUNDANT	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265934	Group 163	REDUNDANT	Pseudocyphellaria intricata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265935	Group 009	REDUNDANT	Pseudocyphellaria hirsuta	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265936	Group 008	REDUNDANT	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265937	Group 002	REDUNDANT	Pseudocyphellaria coriifolia	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265938	Group 009	REDUNDANT	Pseudocyphellaria pilosella	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265939	Group 002	REDUNDANT	Pseudocyphellaria mallota	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265940	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265941	UNIQUE	IN TREE	Pseudocyphellaria intricata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265942	UNIQUE	IN TREE	Pseudocyphellaria crocata	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265943	UNIQUE	IN TREE	Pseudocyphellaria coriifolia	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265944	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265945	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265946	Group 376	REDUNDANT	Sticta hypochra	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265947	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265948	UNIQUE	IN TREE	Sticta hypochra	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265949	UNIQUE	IN TREE	Stereocaulon ramulosum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265950	UNIQUE	IN TREE	Stereocaulon exutum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265951	UNIQUE	IN TREE	Stereocaulon fronduliferum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265952	UNIQUE	IN TREE	Stereocaulon tomentosum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265953	UNIQUE	IN TREE	Protopannaria pezizoides	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265954	UNIQUE	IN TREE	Fuscopannaria leucophaea	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265955	UNIQUE	IN TREE	Peltigera degenii	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265956	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265957	UNIQUE	IN TREE	Leptogium saturninum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265958	UNIQUE	IN TREE	Leptogium saturninum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265959	UNIQUE	IN TREE	Collema flaccidum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265960	UNIQUE	IN TREE	Collema flaccidum	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-DQ265961	Group 002	REDUNDANT	Pseudocyphellaria scabrosa	Nostoc sp.		 	 	Stenroos	Cladistics 22 (3), 230-238 (2006)	 
-JN847338	Group 346	IN TREE	Lobaria oregana	Nostoc 		 	 	Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847356	UNIQUE	IN TREE	Sticta fuliginosa	Nostoc 		 	 	Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847360	Group 018	IN TREE	Nephroma parile	Nostoc 		 	 	Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-DQ914863	UNIQUE	IN TREE	free-living	Chroococcidiopsis sp.		CC1	 	Pointing	Environ. Microbiol. 9 (2), 414-424 (2007)	17222139
-DQ185203	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185204	UNIQUE	IN TREE	Peltigera canina	Nostoc sp.		Mollenhauer 1:1-064	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185205	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		Mollenhauer 1:1-065	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185206	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		Mollenhauer 1:1-066	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185207	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		Mollenhauer 1:1-067	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185208	UNIQUE	IN TREE	Geosiphon pyriforme 	Nostoc sp.		Mollenhauer 1:1-088	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185209	UNIQUE	IN TREE	Anthoceros sp. 	Nostoc sp.		Mollenhauer 1:1-106b2	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185210	UNIQUE	IN TREE	Encephalartos natalensis 	Nostoc sp.		Mollenhauer 1:1-108	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185211	UNIQUE	IN TREE	Blasia pusilla	Nostoc sp.		Mollenhauer 1:1-115	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185212	UNIQUE	IN TREE	Blasia pusilla	Nostoc sp.		Mollenhauer 1:1-125	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185213	UNIQUE	IN TREE	Anthoceros sp. 	Nostoc sp.		Mollenhauer 1:1-150b	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185214	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		Mollenhauer 94.1	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185215	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185216	UNIQUE	IN TREE	Collema crispum	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185217	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185218	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185219	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185220	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185221	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185222	UNIQUE	IN TREE	Peltigera canina	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185223	UNIQUE	IN TREE	free-living	Nostoc commune 		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185224	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185225	UNIQUE	IN TREE	Peltigera canina	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185226	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185227	Group 282	IN TREE	Peltigera membranacea	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185228	Group 282	REDUNDANT	Peltigera horizontalis	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185229	UNIQUE	IN TREE	Sticta beauvoisii	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185230	UNIQUE	IN TREE	Peltigera canina	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185231	UNIQUE	IN TREE	free-living	Nodularia harveyana 		Huebel 1983/300	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185232	UNIQUE	IN TREE	Leptogium gelatinosum	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185233	Group 234	IN TREE	Lobaria amplissima	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185234	UNIQUE	IN TREE	Lobaria hallii	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185235	UNIQUE	IN TREE	Massalongia carnosa	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185236	Group 259	IN TREE	Nephroma bellum	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185237	Group 235	IN TREE	Nephroma helveticum	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185238	UNIQUE	IN TREE	Pannaria conoplea	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185239	UNIQUE	IN TREE	Peltigera canina	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185240	UNIQUE	IN TREE	free-living	Nostoc sp.		PCC 6720	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185241	UNIQUE	IN TREE	free-living	Nodularia spumigena 		PCC 73104	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185242	UNIQUE	IN TREE	free-living	Nostoc sp.		PCC 7423	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185243	UNIQUE	IN TREE	free-living	Nodularia sphaerocarpa 		PCC 7804	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185244	UNIQUE	IN TREE	Peltigera degenii	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185245	UNIQUE	IN TREE	Peltigera didactyla	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185246	UNIQUE	IN TREE	Peltigera lepidophora	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185247	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185248	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185249	UNIQUE	IN TREE	Peltigera rufescens	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185250	UNIQUE	IN TREE	Cycas circinalis 	Nostoc sp.		SAG 29.90	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185251	UNIQUE	IN TREE	Stangeria paradoxa 	Nostoc sp.		SAG 36.92	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185252	Group 349	IN TREE	Peltigera aphthosa	Nostoc sp.		SAG 39.87	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185253	UNIQUE	IN TREE	Peltigera aphthosa	Nostoc sp.		SAG 41.87	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185254	UNIQUE	IN TREE	free-living	Nostoc muscorum 		SAG 57.79	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185255	UNIQUE	IN TREE	Blasia pusilla	Nostoc punctiforme 		SAG 65.79	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185256	UNIQUE	IN TREE	Gunnera manicata 	Nostoc punctiforme 		SAG 68.79	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185257	UNIQUE	IN TREE	Geosiphon pyriforme 	Nostoc punctiforme 		SAG 69.79	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185258	UNIQUE	IN TREE	free-living	Nostoc punctiforme 		SAG 71.79	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-DQ185259	UNIQUE	IN TREE	Sticta fuliginosa	Nostoc sp.		 	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 
-AB098071	UNIQUE	IN TREE	free-living	Nostoc commune		SO-42	 	Arima	FEMS Microbiol. Ecol. (2011) In press	22066798
-AY790835	Group 164	REDUNDANT	free-living	Scytonema sp.		CCMEE 5099	 	Norris	FEMS Microbiol. Ecol. 57 (3), 470-483 (2006)	16907760
-DQ531698	Group 164	IN TREE	free-living	Scytonema sp.		FGP-7A	 	Yeager	FEMS Microbiol. Ecol. 60 (1), 85-97 (2007)	17381526
-AM230703	UNIQUE	IN TREE	free-living	Gloeotrichia echinulata 		PYH6	 	Sihvonen	FEMS Microbiol. Ecol. 61 (1), 74-84 (2007)	17466025
-AM230705	UNIQUE	IN TREE	free-living	Gloeotrichia echinulata 		URA3	 	Sihvonen	FEMS Microbiol. Ecol. 61 (1), 74-84 (2007)	17466025
-EU087570	UNIQUE	IN TREE	free-living	Nostoc sp.		CCMEE 6160	 	Knowles	FEMS Microbiol. Ecol. 66 (2), 261-270 (2008)	18710394
-AB039000	Group 033	IN TREE	free-living	Gloeocapsa sp.		PCC 73106	 	Ishida	FEMS Microbiol. Lett. 201 (1), 79-82 (2001)	11445171
-AB039003	UNIQUE	IN TREE	free-living	Fischerella muscicola 		PCC 7414	 	Ishida	FEMS Microbiol. Lett. 201 (1), 79-82 (2001)	11445171
-AB039005	UNIQUE	IN TREE	free-living	Chroococcidiopsis thermalis 		PCC 7203	 	Ishida	FEMS Microbiol. Lett. 201 (1), 79-82 (2001)	11445171
-U40338	NA	REDUNDANT	free-living	Microcystis aeruginosa 		PCC7005	 	Neilan	Int. J. Syst. Bacteriol. 47 (3), 693-697 (1997)	9226902
-AJ133155	UNIQUE	IN TREE	free-living	Aphanizomenon flos-aquae		TR183	 	Lehtimaki	Int. J. Syst. Evol. Microbiol. 50 (PT 3), 1043-1053 (2000)	10843044
-Y18792	UNIQUE	IN TREE	free-living	Spirulina sp.		MPI S4	 	Nubel	Int. J. Syst. Evol. Microbiol. 50 (PT 3), 1265-1277 (2000)	10843072
-AF268009	UNIQUE	IN TREE	free-living	Nodularia spumigena		NSLA01	 	Moffitt	Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)	11321097
-AF268018	UNIQUE	IN TREE	free-living	Nodularia sphaerocarpa		CDAC1966/93-1	 	Moffitt	Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)	11321097
-AF268020	UNIQUE	IN TREE	free-living	Nodularia harveyana		CDAC1983/300	 	Moffitt	Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)	11321097
-AF268021	UNIQUE	IN TREE	free-living	Nodularia harveyana 		UTEX-B2093	 	Moffitt	Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)	11321097
-AJ133153	UNIQUE	IN TREE	free-living	Aphanizomenon sp.		202	 	Lyra	Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)	11321098
-AJ133154	UNIQUE	IN TREE	free-living	Aphanizomenon flos-aquae		PCC 7905	 	Lyra	Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)	11321098
-AJ133161	UNIQUE	IN TREE	free-living	Nostoc sp.		152	 	Lyra	Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)	11321098
-AJ133163	UNIQUE	IN TREE	free-living	Cylindrospermum stagnale 		PCC 7417	 	Lyra	Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)	11321098
-AJ293110	UNIQUE	IN TREE	free-living	Anabaena cf. cylindrica		133	 	Gugger	Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)	12361299
-AJ293115	UNIQUE	IN TREE	free-living	Dolichospermum macrosporum		PMC9301	 	Gugger	Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)	12361299
-AJ293119	UNIQUE	IN TREE	free-living	Anabaena cf. cylindrica		PMC9705	 	Gugger	Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)	12361299
-AJ293129	UNIQUE	IN TREE	free-living	Aphanizomenon flos-aquae		PMC9706	 	Gugger	Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)	12361299
-AJ293130	UNIQUE	IN TREE	free-living	Aphanizomenon flos-aquae		PMC9707	 	Gugger	Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)	12361299
-AJ544080	UNIQUE	IN TREE	free-living	Nostochopsis lobatus 		92.1	 	Gugger	Int. J. Syst. Evol. Microbiol. 54 (PT 2), 349-357 (2004)	15023942
-AJ544222	UNIQUE	IN TREE	free-living	Westiellopsis sp.		89-785/4	 	Gugger	Int. J. Syst. Evol. Microbiol. 54 (PT 2), 349-357 (2004)	15023942
-AY112695	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.		VI.5	 	Oksanen	Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)	15143022
-AY328896	UNIQUE	IN TREE	Nephroma expallidum	Nostoc sp.		9.4.22	 	Oksanen	Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)	15143022
-AY328897	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.		113.5	 	Oksanen	Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)	15143022
-AY328898	Group 242	REDUNDANT	epixylic bryophyte	Nostoc sp.		117.8.2	 	Oksanen	Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)	15143022
-AY328899	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		119.7.1	 	Oksanen	Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)	15143022
-AJ630414	UNIQUE	IN TREE	free-living	Anabaena cf. cylindrica XP6B		XP6B	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630427	UNIQUE	IN TREE	free-living	Anabaena oscillarioides 		BECID32	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630428	UNIQUE	IN TREE	free-living	Anabaena oscillarioides 		BO HINDAK 1984/43	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630433	UNIQUE	IN TREE	free-living	Anabaena planctonica 		1tu36s8	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630447	UNIQUE	IN TREE	free-living	Nostoc calcicola 		III	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630449	UNIQUE	IN TREE	free-living	Nostoc edaphicum 		X	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630450	UNIQUE	IN TREE	free-living	Nostoc ellipsosporum 		V	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630451	Group 020	REDUNDANT	free-living	Nostoc muscorum 		I	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630453	UNIQUE	IN TREE	free-living	Nostoc sp.		1tu14s8	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630454	UNIQUE	IN TREE	free-living	Trichormus azollae 		Kom BAI/1983	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630456	UNIQUE	IN TREE	free-living	Trichormus variabilis str. 'HINDAK 2001/4'		HINDAK 2001/4	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-AJ630458	UNIQUE	IN TREE	free-living	Anabaena augstumalis 		SCMIDKE JAHNKE/4a	 	Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847
-DQ460700	UNIQUE	IN TREE	free-living	Coleofasciculus chthonoplastes 		 	 	Palinska	Int. J. Syst. Evol. Microbiol. 56 (PT 10), 2253-2263 (2006)	17012544
-DQ460705	UNIQUE	IN TREE	free-living	Nodularia spumigena 		 	 	Palinska	Int. J. Syst. Evol. Microbiol. 56 (PT 10), 2253-2263 (2006)	17012544
-AM711522	UNIQUE	IN TREE	Anthoceros laevis 	Nostoc sp.		Al1	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711523	UNIQUE	IN TREE	free-living	Nostoc muscorum		Lukesova 1/87	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711524	Group 020	IN TREE	free-living	Nostoc muscorum		Lukesova 2/91	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711525	UNIQUE	IN TREE	free-living	Nostoc sp.		PCC 8976	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711526	UNIQUE	IN TREE	Gunnera tinctoria 	Nostoc sp.		0GU36S01	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711527	Group 014	IN TREE	Gunnera tinctoria 	Nostoc sp.		0GU36S02	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711528	UNIQUE	IN TREE	free-living	Nostoc sp.		Lukesova 40/93	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711529	UNIQUE	IN TREE	free-living	Nostoc calcicola		TH2S22	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711530	UNIQUE	IN TREE	free-living	Nostoc sp.		996	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711531	UNIQUE	IN TREE	Anthoceros laevis 	Nostoc sp.		Al3	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711532	UNIQUE	IN TREE	Cycas circinalis 	Nostoc sp.		Cc2	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711533	UNIQUE	IN TREE	Cycas revoluta 	Nostoc sp.		Cr4	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711534	UNIQUE	IN TREE	Dioon edule	Nostoc sp.		De1	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711535	UNIQUE	IN TREE	Encephalartos villosus 	Nostoc sp.		Ev1	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711536	Group 014	REDUNDANT	Gunnera manicata 	Nostoc sp.		Gm	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711537	UNIQUE	IN TREE	free-living	Nostoc sp.		PCC 8112	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711538	UNIQUE	IN TREE	free-living	Nostoc sp.		PCC 9426	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711539	UNIQUE	IN TREE	Gunnera macrophylla 	Nostoc sp.		8901:01:00	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711540	UNIQUE	IN TREE	Gunnera hamiltonii 	Nostoc sp.		8926	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711541	UNIQUE	IN TREE	Gunnera prorepens	Nostoc sp.		8964:03:00	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711542	UNIQUE	IN TREE	Gunnera tinctoria 	Nostoc sp.		9104	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711543	UNIQUE	IN TREE	free-living	Nostoc sp.		Cam2S01	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711544	UNIQUE	IN TREE	free-living	Nostoc sp.		Mau15	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711545	UNIQUE	IN TREE	free-living	Nostoc sp.		Lukesova 1/86	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711546	UNIQUE	IN TREE	free-living	Nostoc sp.		Lukesova 5/96	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711547	UNIQUE	IN TREE	free-living	Nostoc sp.		TH1S01	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711548	UNIQUE	IN TREE	free-living	Nostoc elgonense 		TH3S05	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711549	UNIQUE	IN TREE	free-living	Nostoc sp.		TO1S01	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711550	UNIQUE	IN TREE	Azolla rubra	cyanobacterium		 	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711551	UNIQUE	IN TREE	Azolla pinnata subsp. pinnata	cyanobacterium		 	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711552	UNIQUE	IN TREE	Azolla caroliniana	cyanobacterium		 	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711553	UNIQUE	IN TREE	free-living	Nodularia sp.		Lukesova 1/91	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-AM711554	UNIQUE	IN TREE	free-living	Nodularia harveyana		Lukesova 18/94	 	Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)	18319454
-Y12687	Group 031	IN TREE	free-living	Nostoc commune		 	 	Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
-Y12688	UNIQUE	IN TREE	free-living	Nostoc commune var. flagelliforme		 	 	Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201
-AF132779	UNIQUE	IN TREE	free-living	Calothrix desertica 		PCC 7102	 	Turner	J. Eukaryot. Microbiol. 46 (4), 327-338 (1999)	10461381
-AF132788	UNIQUE	IN TREE	free-living	Fischerella muscicola 		PCC 7414	 	Turner	J. Eukaryot. Microbiol. 46 (4), 327-338 (1999)	10461381
-AF067819	UNIQUE	IN TREE	free-living	Cylindrospermopsis raciborskii		 	 	Saker	J. Phycol. (1998) In press	 
-DQ264163	UNIQUE	IN TREE	free-living	Anabaena sigmoidea 		9BU29S1	 	Willame	J. Phycol. 42 (6), 1312-1332 (2006)	 
-DQ072918	UNIQUE	IN TREE	free-living	Gloeothece 		 	 	Uku	J. Phycol. 43 (4), 768-779 (2007)	 
-EF174200	UNIQUE	IN TREE	Pannaria lobulifera 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174201	Group 029	REDUNDANT	Pannaria lobulifera 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174202	Group 029	IN TREE	Pannaria arthroophylla	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174203	Group 034	REDUNDANT	Pannaria inctrina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174204	Group 034	IN TREE	Pannaria patagonia	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174205	Group 035	IN TREE	Pannaria inctrina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174206	Group 035	REDUNDANT	Pannaria cf. allorhiza	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174207	UNIQUE	IN TREE	Pannaria inctrina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174208	Group 010	REDUNDANT	Pannaria aff. athroophylla 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174209	Group 010	REDUNDANT	Pannaria pallida	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174210	Group 010	REDUNDANT	Pannaria farinosa 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174211	UNIQUE	IN TREE	Pannaria farinosa 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174212	UNIQUE	IN TREE	Pannaria farinosa 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174213	UNIQUE	IN TREE	Pannaria farinosa 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174214	UNIQUE	IN TREE	Pannaria mosenii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174215	Group 002	REDUNDANT	Pannaria farinosa 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174216	Group 002	REDUNDANT	Pannaria elixii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174217	UNIQUE	IN TREE	Pannaria euphylla	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174218	UNIQUE	IN TREE	Pannaria pallida	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174219	UNIQUE	IN TREE	Pannaria tavaresii 	Nostoc sp. 		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174220	Group 021	IN TREE	Pannaria rubiginosa	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174221	Group 021	REDUNDANT	Pannaria conoplea	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174222	UNIQUE	IN TREE	Pannaria araneosa	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174223	Group 012	REDUNDANT	Pannaria isabellina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174224	Group 012	REDUNDANT	Pannaria durietzii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174225	Group 012	IN TREE	Pannaria durietzii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174226	UNIQUE	IN TREE	Pannaria isabellina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174227	UNIQUE	IN TREE	Pannaria durietzii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174228	Group 376	IN TREE	Pannaria farinosa 	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174229	Group 032	REDUNDANT	Pannaria elixii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174230	UNIQUE	IN TREE	Pannaria elixii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174231	Group 032	IN TREE	Pannaria fulvescens	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174232	UNIQUE	IN TREE	Pannaria obscura	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF174233	UNIQUE	IN TREE	Pannaria andina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF536020	Group 002	REDUNDANT	Psudocyphellaria imshaugii	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF536021	UNIQUE	IN TREE	Pannaria andina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF536022	Group 002	REDUNDANT	Pannaria andina	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF536023	Group 017	IN TREE	Pseudocyphellaria gilva	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-EF536024	Group 017	REDUNDANT	Pannaria rubiginella	Nostoc sp.		 	 	Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)	 
-AF027653	Group 000	REDUNDANT	Peltigera membranacea	Nostoc sp.		TDI#AR94	 	Miao	Lichenologist (Lond.) 29, 571-586 (1997)	 
-AF027654	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		PCC9709	 	Miao	Lichenologist (Lond.) 29, 571-586 (1997)	 
-AF027655	UNIQUE	IN TREE	Macrozamia sp. 	Nostoc punctiforme 		PCC73102	 	Miao	Lichenologist (Lond.) 29, 571-586 (1997)	 
-AY333615	UNIQUE	IN TREE	Nephroma parile	Nostoc sp.		23_Nash_III_30009A	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333616	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.		25_Nash_III_30009	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333617	Group 260	REDUNDANT	Nephroma bellum	Nostoc sp.		26_Nash_III 30009	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333618	Group 007	REDUNDANT	Nephroma parile	Nostoc sp.		27_Rikkinen_et_al._003005	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333619	Group 007	REDUNDANT	Nephroma parile	Nostoc sp.		28_Vitikainen_13242	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333620	Group 007	REDUNDANT	Nephroma parile	Nostoc sp.		29_Hansen_22_June_1998	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333621	UNIQUE	IN TREE	Nephroma bellum	Nostoc sp.		34_Vitikainen_13239	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333622	Group 002	REDUNDANT	Nephroma bellum	Nostoc sp.		35_Ahti_&_Djan-Chekar_60277	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333623	Group 002	REDUNDANT	Dendriscocaulon 	Nostoc sp.		36_Rikkinen_000313	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333624	Group 002	REDUNDANT	Nephroma helveticum	Nostoc sp.		37_Rikkinen_A33A	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333625	Group 002	REDUNDANT	Nephroma tangeriense	Nostoc sp.		39_Burgaz_22_July_1995	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333626	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.		40_Rikkinen_98A34B	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333627	Group 002	REDUNDANT	Nephroma laevigatum	Nostoc sp.		41_Skyten_6243	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333628	Group 002	REDUNDANT	Nephroma cellulosum	Nostoc sp.		42_Stenroos_3680	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333629	Group 002	REDUNDANT	Nephroma helveticum	Nostoc sp.		44_Nash_III_37165	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333630	Group 008	REDUNDANT	Nephroma laevigatum	Nostoc sp.		51_Mayrhofer_&_Prugger_11583	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333631	Group 008	REDUNDANT	Nephroma laevigatum	Nostoc sp.		52_Feuerer_&_Marth_19_July_1997	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333632	Group 235	REDUNDANT	Sticta fuliginosa	Nostoc sp.		53_Rikkinen_980W1A	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333633	Group 008	REDUNDANT	Nephroma laevigatum	Nostoc sp.		54_Kaantonen_284/94	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333634	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.		57_Rikkinen_et_al._003002	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333635	Group 025	IN TREE	Leptogium corniculatum	Nostoc sp.		60_Rikkinen_V2b	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333636	Group 025	REDUNDANT	Pannaria pezizoides	Nostoc sp.		61_Rikkinen_E10	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333637	UNIQUE	IN TREE	Nephroma expallidum	Nostoc sp.		64_Ulvinen_22_July_1998	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333638	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.		68_Hansen_700B	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333639	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		69_Rikkinen_V2A	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333640	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.		70_Hansen_6_Aug._1998	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333641	UNIQUE	IN TREE	Nephroma arcticum	Nostoc sp.		74_Rikkinen_et_al._003016	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-AY333642	UNIQUE	IN TREE	Nephroma expallidum	Nostoc sp.		75_Hansen_31_July_1998	 	Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)	 
-KF142667	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap1	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142668	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap2	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142669	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap3	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142670	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap4	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142671	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap5	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142672	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap6	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142673	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap7	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142674	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap8	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142675	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap9	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142676	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap10	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142677	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap11	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-KF142678	UNIQUE	IN TREE	Gunnera magellanica	Nostoc sp.		Hap12	 	Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130
-AJ871987	UNIQUE	IN TREE	biological soil	Microcoleus steenstrupii		 	 	Gundlapally	Microb. Ecol. 52 (2), 345-357 (2006)	16691327
-AY038033	UNIQUE	IN TREE	free-living	Anabaenopsis sp.		PCC 9215	 	Iteman	Microbiology 148 (Pt 2), 481-496 (2002)	11832512
-AY038036	UNIQUE	IN TREE	free-living	Cyanospira rippkae		PCC 9501	 	Iteman	Microbiology 148 (Pt 2), 481-496 (2002)	11832512
-X78680	UNIQUE	IN TREE	free-living	Gloeothece membranacea 		PCC6501	 	Nelissen	Mol. Biol. Evol. 12 (6), 1166-1173 (1995)	8524048
-AJ344563	UNIQUE	IN TREE	free-living	Nostoc sp.		SAG 2028	 	Fewer	Mol. Phylogenet. Evol. 23 (1), 82-90 (2002)	12182405
-FJ815291	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.		UK18	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815293	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815294	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815295	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815297	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815298	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815299	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815301	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815302	Group 404	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815303	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815304	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815305	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815306	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-FJ815314	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc 		 	 	Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)	19445594
-EF102241	Group 008	REDUNDANT	Degelia plumbea	Nostoc sp.		Dplu	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102242	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul376	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102243	Group 004	REDUNDANT	Lobaria pulmonaria	Nostoc sp.		Lpul376b	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102244	Group 259	REDUNDANT	Lobaria pulmonaria	Nostoc sp.		Lpul385	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102245	Group 004	REDUNDANT	Lobaria pulmonaria	Nostoc sp.		Lpul391	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102246	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul400	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102247	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul413	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102248	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul424	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102249	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		Lpul431	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102250	Group 008	REDUNDANT	Lobaria pulmonaria	Nostoc sp.		Lpul23259	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102251	Group 008	REDUNDANT	Lobaria pulmonaria	Nostoc sp.		Lpul23259b	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102252	Group 234	REDUNDANT	Lobaria scrobiculata	Nostoc sp.		Lscrsn	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102253	Group 007	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel383	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102254	Group 015	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel388	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102255	UNIQUE	IN TREE	Nephroma bellum	Nostoc sp.		Nbel393	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102256	Group 007	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel415	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102257	Group 165	IN TREE	Nephroma bellum	Nostoc sp.		Nbel21173	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102258	Group 015	REDUNDANT	Nephroma bellum	Nostoc sp.		Nbel19679	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102259	UNIQUE	IN TREE	Nephroma laevigatum	Nostoc sp.		Nlae381	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102260	Group 008	REDUNDANT	Nephroma laevigatum	Nostoc sp.		Nlae403	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102261	Group 007	REDUNDANT	Nephroma parile	Nostoc sp.		Npar382	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102262	Group 007	REDUNDANT	Nephroma parile	Nostoc sp.		Npar386	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102263	Group 007	REDUNDANT	Nephroma parile	Nostoc sp.		Npar402	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102264	Group 004	REDUNDANT	Nephroma parile	Nostoc sp.		Npar416	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102265	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.		Nres379	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102266	Group 165	REDUNDANT	Nephroma resupinatum	Nostoc sp.		Nres19573	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102267	UNIQUE	IN TREE	Nephroma tangeriense	Nostoc sp.		Ntan434	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102268	UNIQUE	IN TREE	Protopannaria pezizoides	Nostoc sp.		Ppez426	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102269	Group 007	REDUNDANT	Parmeliella triptophylla	Nostoc sp.		Ptri387	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102270	Group 015	IN TREE	Parmeliella triptophylla	Nostoc sp.		Ptri392	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102271	Group 007	REDUNDANT	Parmeliella triptophylla	Nostoc sp.		Ptri401	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102272	Group 004	REDUNDANT	Parmeliella triptophylla	Nostoc sp.		Ptri412	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102273	Group 349	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu377	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102274	Group 003	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu390	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102275	Group 003	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu399	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102276	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu463	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102277	UNIQUE	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu21759	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102278	Group 016	REDUNDANT	Peltigera leucophlebia	Nostoc sp.		Pleu21834	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102279	Group 016	IN TREE	Peltigera leucophlebia	Nostoc sp.		Pleu21860	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102280	UNIQUE	IN TREE	Peltigera malacea	Nostoc sp.		Pmal429	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102281	UNIQUE	IN TREE	Peltigera membranacea	Nostoc sp.		Pmem425	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102282	Group 026	REDUNDANT	Peltigera membranacea	Nostoc sp.		Pmemb432	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102283	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.		Pneo395	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102284	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc sp.		Pneo410	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102285	Group 190	REDUNDANT	Peltigera praetextata	Nostoc sp.		Ppra378	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102286	Group 349	REDUNDANT	Peltigera praetextata	Nostoc sp.		Ppra384	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102287	Group 003	REDUNDANT	Peltigera praetextata	Nostoc sp.		Ppra389	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102288	Group 003	REDUNDANT	Peltigera praetextata	Nostoc sp.		Ppra398	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102289	Group 024	REDUNDANT	Peltigera praetextata	Nostoc sp.		Ppra414	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102290	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra418	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102291	Group 003	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra428	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102292	Group 024	IN TREE	Peltigera praetextata	Nostoc sp.		Ppra430	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102293	UNIQUE	IN TREE	Peltigera sp.	Nostoc sp.		Psp437	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-EF102294	Group 350	IN TREE	Pseudocyphellaria crocata	Nostoc sp.		Pcro436	 	Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057
-AY577535	UNIQUE	IN TREE	Collema tenax	Nostoc lichenoides 		CNP-AK1	 	Rehakova	Phycologia 46, 481-502 (2007)	 
-AY577537	UNIQUE	IN TREE	free-living	Nostoc desertorum 		CM1-VF14	 	Rehakova	Phycologia 46, 481-502 (2007)	 
-AB075987	UNIQUE	IN TREE	free-living	Fischerella thermalis 		PCC 7521	 	Tomitani	Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)	16569695
-AB075991	UNIQUE	IN TREE	free-living	Nodularia sp.		KAC 17	 	Tomitani	Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)	16569695
-AB075996	UNIQUE	IN TREE	free-living	Scytonema hofmanni 		PCC 7110	 	Tomitani	Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)	16569695
-JQ007729	Group 005	REDUNDANT	Nephroma laevigatum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007730	UNIQUE	IN TREE	Sticta fuliginosa	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007731	Group 005	REDUNDANT	Nephroma laevigatum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007732	Group 005	IN TREE	Sticta sylvatica	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007733	Group 010	IN TREE	Nephroma cellulosum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007734	Group 010	REDUNDANT	Nephroma cellulosum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007735	Group 010	REDUNDANT	Nephroma cellulosum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007736	UNIQUE	IN TREE	Pseudocyphellaria cf. hirsuta	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007737	UNIQUE	IN TREE	Sticta sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007738	UNIQUE	IN TREE	Pseudocyphellaria sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007739	UNIQUE	IN TREE	Sticta sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007740	UNIQUE	IN TREE	Leptogium sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007741	Group 163	IN TREE	Pseudocyphellaria sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007744	Group 013	IN TREE	Lobaria scrobiculata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007745	Group 013	REDUNDANT	Lobaria scrobiculata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007746	Group 013	REDUNDANT	Lobaria scrobiculata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007747	UNIQUE	IN TREE	Parmeliella sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007748	UNIQUE	IN TREE	Pseudocyphellaria cf. hirsuta	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007749	UNIQUE	IN TREE	Pseudocyphellaria cf. crocata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007750	Group 022	REDUNDANT	Nephroma helveticum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007751	UNIQUE	IN TREE	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007752	Group 018	REDUNDANT	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007753	Group 004	IN TREE	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007754	Group 004	REDUNDANT	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007755	Group 004	REDUNDANT	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007756	Group 004	REDUNDANT	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007757	Group 027	REDUNDANT	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007758	Group 027	IN TREE	Nephroma parile	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007759	UNIQUE	IN TREE	Nephroma bellum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007760	UNIQUE	IN TREE	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007761	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007762	UNIQUE	IN TREE	Peltigera rufescens	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007763	UNIQUE	IN TREE	Nephroma arcticum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007764	UNIQUE	IN TREE	Nephroma arcticum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007765	UNIQUE	IN TREE	Leptogium lichenoides	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007766	UNIQUE	IN TREE	Leptogium lichenoides	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007767	UNIQUE	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007768	Group 242	IN TREE	Protopannaria pezizoides	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007769	UNIQUE	IN TREE	Peltigera dolichorrhiza	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007770	UNIQUE	IN TREE	Peltigera membranacea	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007771	Group 026	REDUNDANT	Peltigera membranacea	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007772	Group 026	IN TREE	Peltigera hymenina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007773	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007774	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007775	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007776	UNIQUE	IN TREE	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007777	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007778	Group 001	IN TREE	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007779	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007780	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007781	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007782	Group 001	REDUNDANT	Peltigera collina	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007784	UNIQUE	IN TREE	Peltigera evansiana	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007785	UNIQUE	IN TREE	Peltigera sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007787	UNIQUE	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007788	UNIQUE	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007789	Group 011	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007790	UNIQUE	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007791	Group 006	REDUNDANT	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007792	Group 011	REDUNDANT	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007793	Group 011	REDUNDANT	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007794	Group 006	REDUNDANT	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007795	Group 006	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007796	Group 190	IN TREE	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007797	Group 006	REDUNDANT	Peltigera praetextata	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007798	UNIQUE	IN TREE	Peltigera polydactylon	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007799	UNIQUE	IN TREE	Nephroma arcticum	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007800	UNIQUE	IN TREE	Peltigera sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007801	UNIQUE	IN TREE	Peltigera sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007802	Group 000	REDUNDANT	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007803	Group 000	REDUNDANT	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007804	Group 000	REDUNDANT	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007805	Group 000	REDUNDANT	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007806	Group 000	REDUNDANT	Peltigera neopolydactyla	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007807	Group 000	REDUNDANT	Peltigera neopolydactyla	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007808	Group 000	REDUNDANT	Peltigera neopolydactyla	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007809	UNIQUE	IN TREE	Peltigera membranacea	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007810	UNIQUE	IN TREE	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007811	Group 000	IN TREE	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007812	Group 000	REDUNDANT	Peltigera sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007813	Group 000	REDUNDANT	Peltigera sp.	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007814	UNIQUE	IN TREE	Peltigera degenii	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007816	UNIQUE	IN TREE	Peltigera membranacea	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007817	Group 030	REDUNDANT	Peltigera membranacea	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007818	Group 030	IN TREE	Peltigera membranacea	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007819	UNIQUE	IN TREE	Peltigera neopolydactyla	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-JQ007836	Group 070	REDUNDANT	Degelia atlantica	Nostoc 		 	 	Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)	22451908
-AB271212	UNIQUE	IN TREE	free-living	Dolichospermum spiroides		 	 	Ishikawa	Published Only in Database (2006)	 
-AF506237	UNIQUE	IN TREE	Blasia pusilla	cf. Calothrix sp. 'muscicolous cyanobiont 5'		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506238	UNIQUE	IN TREE	free-living	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506239	UNIQUE	IN TREE	Peltigera pruinosa	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506240	UNIQUE	IN TREE	Peltigera venosa	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506241	UNIQUE	IN TREE	 Nephroma arcticum 	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506242	UNIQUE	IN TREE	free-living	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506243	UNIQUE	IN TREE	Peltigera pruinosa	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506244	UNIQUE	IN TREE	Lobaria hallii	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506245	UNIQUE	IN TREE	Peltigera collina	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506246	UNIQUE	IN TREE	free-living	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506247	UNIQUE	IN TREE	Peltigera praetextata	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506248	UNIQUE	IN TREE	Nephroma expallidum 	Nostoc sp.		9.4.19	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506249	UNIQUE	IN TREE	Peltigera malacea	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506250	Group 346	REDUNDANT	free-living	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506251	Group 019	IN TREE	Nephroma parile	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506252	Group 019	REDUNDANT	Nephroma parile	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506253	UNIQUE	IN TREE	Nephroma parile	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506254	UNIQUE	IN TREE	Parmeliella triptophylla	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506255	UNIQUE	IN TREE	Parmeliella triptophylla	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506256	UNIQUE	IN TREE	Nephroma bellum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506257	Group 007	IN TREE	Nephroma parile	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506258	UNIQUE	IN TREE	Nephroma helveticum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506259	UNIQUE	IN TREE	Lobaria retigera 	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506260	UNIQUE	IN TREE	Nephroma helveticum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506261	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506262	UNIQUE	IN TREE	Nephroma helveticum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506263	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506264	UNIQUE	IN TREE	Nephroma laevigatum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF506265	Group 008	IN TREE	Nephroma resupinatum	Nostoc sp.		 	 	Rikkinen	Science 297 (5580), 357 (2002)	12130774
-AF062637	UNIQUE	IN TREE	free-living	Nostoc sp.		GSV224	 	Hoffmann	Submitted (01-MAY-1998) Chemistry, University of Hawaii at Manoa, 2545 The Mall, Honolulu, HI 96822, USA	 
-AF062638	UNIQUE	IN TREE	free-living	Nostoc sp.		ATCC 53789	 	Hoffmann	Submitted (01-MAY-1998) Chemistry, University of Hawaii at Manoa, 2545 The Mall, Honolulu, HI 96822, USA	 
-AY069954	UNIQUE	IN TREE	free-living	Scytonema sp.		U-3-3	 	Hoffmann	Submitted (12-DEC-2001) Chemistry, University of Hawaii at Manoa, 2545 McCarthy Mall, Honolulu, HI 96822, USA	 
-AY034793	UNIQUE	IN TREE	free-living	Hapalosiphon welwitschii		 	 	Hoffmann	Submitted (14-MAY-2001) Chemistry, University of Hawaii at Manoa, 2545 McCarthy Mall, Honolulu, HI 96822, USA	 
-AB093483	UNIQUE	IN TREE	free-living	Scytonema sp.		IAM M-262	 	Seo	Unpublished	 
-AB093484	UNIQUE	IN TREE	free-living	Hapalosiphon delicatulus 		IAM M-266	 	Seo	Unpublished	 
-AB093491	UNIQUE	IN TREE	free-living	Fischerella sp.		IAM M-263	 	Seo	Unpublished	 
-AF091150	UNIQUE	IN TREE	free-living	Anabaena cylindrica 		NIES19 (PCC7122)	 	Neilan	Unpublished	 
-AF160256	UNIQUE	IN TREE	free-living	Anabaena bergii		283A	 	Schembri	Unpublished	 
-AF247596	UNIQUE	IN TREE	free-living	Dolichospermum flos-aquae		NRC44-1	 	Beltran	Unpublished	 
-AF317630	UNIQUE	IN TREE	free-living	Nostoc sp.		AWT 203	 	Beltran	Unpublished	 
-AF317631	UNIQUE	IN TREE	free-living	Nostoc sp.		PCC 7120	 	Beltran	Unpublished	 
-AF334698	UNIQUE	IN TREE	free-living	Scytonema hyalinum		FI-8A	 	Flechtner	Unpublished	 
-AF334700	UNIQUE	IN TREE	free-living	Scytonema hyalinum		FI-8A	 	Flechtner	Unpublished	 
-AJ621832	UNIQUE	IN TREE	free-living	Chroococcus submarinus 		kopara-BM	 	Richert	Unpublished	 
-AY224195	UNIQUE	IN TREE	free-living	Synechocystis sp.		PCC 6803	 	Minda	Unpublished	 
-DQ235801	UNIQUE	IN TREE	free-living	Scytonema sp.		CCG1	 	Gaylarde	Unpublished	 
-EF545603	UNIQUE	IN TREE	free-living	Mastigocladus sp.		 	 	Morales	Unpublished	 
-EU022740	UNIQUE	IN TREE	free-living	Nostoc sp.		 	 	Liaimer	Unpublished	 
-EU022742	UNIQUE	IN TREE	Blasia pusilla	Nostoc sp.		 	 	Liaimer	Unpublished	 
-EU178142	UNIQUE	IN TREE	free-living	Nostoc commune 		AHNG0605	 	Liu	Unpublished	 
-EU178143	UNIQUE	IN TREE	free-living	Nostoc flagelliforme 		IMGA0408	 	Liu	Unpublished	 
-EU178144	UNIQUE	IN TREE	free-living	Nostoc sphaeroides 		HBHF0604	 	Liu	Unpublished	 
-AY218827	UNIQUE	IN TREE	free-living	Nostoc muscorum 		CENA18	 	Fiore Mde	Water Res. 39 (20), 5017-5026 (2005)	16289234
-JN847333	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847334	UNIQUE	IN TREE	Nephroma bellum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847335	UNIQUE	IN TREE	Nephroma resupinatum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847336	Group 260	IN TREE	Nephroma resupinatum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847337	UNIQUE	IN TREE	Leptogium gelatinosum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847339	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847340	Group 022	IN TREE	Nephroma washingtoniense	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847341	Group 028	REDUNDANT	Nephroma washingtoniense	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847342	UNIQUE	IN TREE	Pseudocyphellaria sp.	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847343	Group 005	REDUNDANT	Sticta weigelii	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847344	UNIQUE	IN TREE	Leptogium palmatum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847345	Group 028	IN TREE	Lobaria pulmonaria	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847346	UNIQUE	IN TREE	Pseudocyphellaria sp.	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847347	UNIQUE	IN TREE	Leptogium pseudofurfuraceum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847348	UNIQUE	IN TREE	Collema nigrescens	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847349	Group 023	IN TREE	Nephroma helveticum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847350	UNIQUE	IN TREE	Fuscopannaria leucostictoides	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847351	UNIQUE	IN TREE	Sticta limbata	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847352	UNIQUE	IN TREE	Collema nigrescens	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847353	UNIQUE	IN TREE	Leptogium furfuraceum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847354	UNIQUE	IN TREE	Pseudocyphellaria sp.	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847355	Group 023	REDUNDANT	Pseudocyphellaria sp.	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847357	UNIQUE	IN TREE	Lobaria pulmonaria	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847358	UNIQUE	IN TREE	Lobaria virens	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847359	UNIQUE	IN TREE	Nephroma laevigatum	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
-JN847361	UNIQUE	IN TREE	Parmeliella triptophylla	Nostoc 				Olsson	Curr. Genet. 58 (1), 49-58 (2012)	22210193
+"Accession","Group","Representative","Host","Species","Clade","Strain","Location","Author","Reference","Pubmed","Gene","16S"
+"EU282432","UNIQUE","IN TREE","free-living","Nostoc sp.","","195-A22"," ","Vishnivetskaya","(in) Margesin,R. (Ed.); PERMAFROST SOILS: 73-84; Springer-Verlag Berlin Heidelberg (2009)"," ","16S"
+"EU818947","UNIQUE","IN TREE","Acantholichen pannarioides","Scytonema sp.","","Sipman_48329"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818948","UNIQUE","IN TREE","Coccocarpia filiformis","Scytonema sp.","","R16"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818949","UNIQUE","IN TREE","Coccocarpia palmicola","Scytonema sp.","","R03"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818950","UNIQUE","IN TREE","Coccocarpia palmicola","Scytonema sp.","","R13"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818951","UNIQUE","IN TREE","Coccocarpia stellata","Scytonema sp.","","R17"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818952","UNIQUE","IN TREE","Dictyonema aeruginosulum ","Scytonema sp.","","Nelsen_3754"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818953","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","17538"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818954","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","R06"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818955","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","R11"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818956","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","R18"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818957","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","R19"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818958","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","R20"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818959","UNIQUE","IN TREE","Dictyonema glabratum","Scytonema sp.","","Leucking_16563"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818960","UNIQUE","IN TREE","Dictyonema hernandezii ","Scytonema sp.","","R14"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818961","UNIQUE","IN TREE","Dictyonema interruptum","Scytonema sp.","","Ertz_10475"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818962","UNIQUE","IN TREE","Dictyonema phyllogenum","Scytonema sp.","","Leucking_15207a"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818963","UNIQUE","IN TREE","Dictyonema schenckianum","Scytonema sp.","","R01"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818964","UNIQUE","IN TREE","Dictyonema schenckianum","Scytonema sp.","","R02"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818965","UNIQUE","IN TREE","Dictyonema schenckianum","Scytonema sp.","","R07"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818966","UNIQUE","IN TREE","Dictyonema sericeum","Scytonema sp.","","Leucking_16561"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"EU818967","UNIQUE","IN TREE","free-living","Scytonema sp.","","R09"," ","Lucking","Am. J. Bot. 96 (8), 1409-1418 (2009)","21628288","16S"
+"Z82776","Group 404","REDUNDANT","free-living","Nostoc sp.","","NIVA-CYA 124"," ","Rudi","Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)","9212409","16S"
+"Z82784","UNIQUE","IN TREE","free-living","Microcystis aeruginosa ","","NIVA-CYA 43, ATCC 22663"," ","Rudi","Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)","9212409","16S"
+"Z82803","UNIQUE","IN TREE","free-living","Nostoc sp.","","strainCYA 246/PCC 7120"," ","Rudi","Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)","9212409","16S"
+"Z82804","Group 031","REDUNDANT","free-living","Nostoc sp.","","NIVA-CYA 308"," ","Rudi","Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)","9212409","16S"
+"Z82805","UNIQUE","IN TREE","free-living","Nostoc sp.","","NIVA-CYA 194"," ","Rudi","Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)","9212409","16S"
+"AF092504","UNIQUE","IN TREE","free-living","Cylindrospermopsis raciborskii ","","AWT205"," ","Beltran","Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)","11010900","16S"
+"AF247591","UNIQUE","IN TREE","free-living","Anabaena affinis ","","NIES-40"," ","Beltran","Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)","11010900","16S"
+"AF247594","UNIQUE","IN TREE","free-living","Anabaena solitaria ","","NIES-80"," ","Beltran","Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)","11010900","16S"
+"AY566855","UNIQUE","IN TREE","Pannaria pezizoides","Nostoc sp.","","IO-102-I"," ","Oksanen","Appl. Environ. Microbiol. 70 (10), 5756-5763 (2004)","15466511","16S"
+"AY422695","UNIQUE","IN TREE","free-living","Gloeothece sp.",""," "," ","Boison","Appl. Environ. Microbiol. 70 (12), 7070-7077 (2004)","15574902","16S"
+"AY742447","UNIQUE","IN TREE","Gunnera monoika","Nostoc sp.","","8916"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742448","UNIQUE","IN TREE","Gunnera dentata","Nostoc sp.","","8941"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742449","UNIQUE","IN TREE","Gunnera prorepens","Nostoc sp.","","8963"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742450","UNIQUE","IN TREE","Azolla filiculoides","Nostoc sp.",""," "," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742451","UNIQUE","IN TREE","Gunnera monoika","Nostoc sp.","","PCC 9229"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742452","UNIQUE","IN TREE","Gunnera dentata","Nostoc sp.","","PCC 9231"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742453","UNIQUE","IN TREE","Anthoceros sp.","Nostoc sp.","","PCC 9305"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"AY742454","UNIQUE","IN TREE","Gunnera dentata","Nostoc sp.","","8938"," ","Svenning","Arch. Microbiol. 183 (1), 19-26 (2005)","15549268","16S"
+"DQ265920","UNIQUE","IN TREE","Lobaria amplissima","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265921","Group 008","REDUNDANT","Lobaria amplissima","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265922","Group 002","REDUNDANT","Lobaria scrobiculata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265923","Group 002","REDUNDANT","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265924","UNIQUE","IN TREE","Pseudocyphellaria clathrata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265925","Group 002","REDUNDANT","Pseudocyphellaria mallota","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265926","Group 009","IN TREE","Pseudocyphellaria coriifolia","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265927","UNIQUE","IN TREE","Pseudocyphellaria intricata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265928","Group 008","REDUNDANT","Pseudocyphellaria hirsuta","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265929","Group 002","IN TREE","Pseudocyphellaria scabrosa","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265930","UNIQUE","IN TREE","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265931","Group 350","REDUNDANT","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265932","UNIQUE","IN TREE","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265933","Group 002","REDUNDANT","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265934","Group 163","REDUNDANT","Pseudocyphellaria intricata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265935","Group 009","REDUNDANT","Pseudocyphellaria hirsuta","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265936","Group 008","REDUNDANT","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265937","Group 002","REDUNDANT","Pseudocyphellaria coriifolia","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265938","Group 009","REDUNDANT","Pseudocyphellaria pilosella","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265939","Group 002","REDUNDANT","Pseudocyphellaria mallota","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265940","UNIQUE","IN TREE","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265941","UNIQUE","IN TREE","Pseudocyphellaria intricata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265942","UNIQUE","IN TREE","Pseudocyphellaria crocata","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265943","UNIQUE","IN TREE","Pseudocyphellaria coriifolia","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265944","UNIQUE","IN TREE","Sticta hypochra","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265945","UNIQUE","IN TREE","Sticta hypochra","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265946","Group 376","REDUNDANT","Sticta hypochra","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265947","UNIQUE","IN TREE","Sticta hypochra","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265948","UNIQUE","IN TREE","Sticta hypochra","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265949","UNIQUE","IN TREE","Stereocaulon ramulosum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265950","UNIQUE","IN TREE","Stereocaulon exutum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265951","UNIQUE","IN TREE","Stereocaulon fronduliferum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265952","UNIQUE","IN TREE","Stereocaulon tomentosum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265953","UNIQUE","IN TREE","Protopannaria pezizoides","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265954","UNIQUE","IN TREE","Fuscopannaria leucophaea","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265955","UNIQUE","IN TREE","Peltigera degenii","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265956","UNIQUE","IN TREE","Peltigera neopolydactyla","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265957","UNIQUE","IN TREE","Leptogium saturninum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265958","UNIQUE","IN TREE","Leptogium saturninum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265959","UNIQUE","IN TREE","Collema flaccidum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265960","UNIQUE","IN TREE","Collema flaccidum","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"DQ265961","Group 002","REDUNDANT","Pseudocyphellaria scabrosa","Nostoc sp.",""," "," ","Stenroos","Cladistics 22 (3), 230-238 (2006)"," ","16S"
+"JN847338","Group 346","IN TREE","Lobaria oregana","Nostoc ",""," "," ","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847356","UNIQUE","IN TREE","Sticta fuliginosa","Nostoc ",""," "," ","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847360","Group 018","IN TREE","Nephroma parile","Nostoc ",""," "," ","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"DQ914863","UNIQUE","IN TREE","free-living","Chroococcidiopsis sp.","","CC1"," ","Pointing","Environ. Microbiol. 9 (2), 414-424 (2007)","17222139","16S"
+"DQ185203","UNIQUE","IN TREE","Peltigera membranacea","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185204","UNIQUE","IN TREE","Peltigera canina","Nostoc sp.","","Mollenhauer 1:1-064"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185205","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.","","Mollenhauer 1:1-065"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185206","UNIQUE","IN TREE","Peltigera didactyla","Nostoc sp.","","Mollenhauer 1:1-066"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185207","UNIQUE","IN TREE","Peltigera didactyla","Nostoc sp.","","Mollenhauer 1:1-067"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185208","UNIQUE","IN TREE","Geosiphon pyriforme ","Nostoc sp.","","Mollenhauer 1:1-088"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185209","UNIQUE","IN TREE","Anthoceros sp. ","Nostoc sp.","","Mollenhauer 1:1-106b2"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185210","UNIQUE","IN TREE","Encephalartos natalensis ","Nostoc sp.","","Mollenhauer 1:1-108"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185211","UNIQUE","IN TREE","Blasia pusilla","Nostoc sp.","","Mollenhauer 1:1-115"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185212","UNIQUE","IN TREE","Blasia pusilla","Nostoc sp.","","Mollenhauer 1:1-125"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185213","UNIQUE","IN TREE","Anthoceros sp. ","Nostoc sp.","","Mollenhauer 1:1-150b"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185214","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.","","Mollenhauer 94.1"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185215","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185216","UNIQUE","IN TREE","Collema crispum","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185217","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185218","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185219","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185220","UNIQUE","IN TREE","Peltigera didactyla","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185221","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185222","UNIQUE","IN TREE","Peltigera canina","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185223","UNIQUE","IN TREE","free-living","Nostoc commune ",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185224","UNIQUE","IN TREE","Peltigera neopolydactyla","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185225","UNIQUE","IN TREE","Peltigera canina","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185226","UNIQUE","IN TREE","Peltigera membranacea","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185227","Group 282","IN TREE","Peltigera membranacea","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185228","Group 282","REDUNDANT","Peltigera horizontalis","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185229","UNIQUE","IN TREE","Sticta beauvoisii","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185230","UNIQUE","IN TREE","Peltigera canina","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185231","UNIQUE","IN TREE","free-living","Nodularia harveyana ","","Huebel 1983/300"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185232","UNIQUE","IN TREE","Leptogium gelatinosum","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185233","Group 234","IN TREE","Lobaria amplissima","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185234","UNIQUE","IN TREE","Lobaria hallii","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185235","UNIQUE","IN TREE","Massalongia carnosa","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185236","Group 259","IN TREE","Nephroma bellum","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185237","Group 235","IN TREE","Nephroma helveticum","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185238","UNIQUE","IN TREE","Pannaria conoplea","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185239","UNIQUE","IN TREE","Peltigera canina","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185240","UNIQUE","IN TREE","free-living","Nostoc sp.","","PCC 6720"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185241","UNIQUE","IN TREE","free-living","Nodularia spumigena ","","PCC 73104"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185242","UNIQUE","IN TREE","free-living","Nostoc sp.","","PCC 7423"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185243","UNIQUE","IN TREE","free-living","Nodularia sphaerocarpa ","","PCC 7804"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185244","UNIQUE","IN TREE","Peltigera degenii","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185245","UNIQUE","IN TREE","Peltigera didactyla","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185246","UNIQUE","IN TREE","Peltigera lepidophora","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185247","UNIQUE","IN TREE","Peltigera membranacea","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185248","UNIQUE","IN TREE","Peltigera membranacea","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185249","UNIQUE","IN TREE","Peltigera rufescens","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185250","UNIQUE","IN TREE","Cycas circinalis ","Nostoc sp.","","SAG 29.90"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185251","UNIQUE","IN TREE","Stangeria paradoxa ","Nostoc sp.","","SAG 36.92"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185252","Group 349","IN TREE","Peltigera aphthosa","Nostoc sp.","","SAG 39.87"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185253","UNIQUE","IN TREE","Peltigera aphthosa","Nostoc sp.","","SAG 41.87"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185254","UNIQUE","IN TREE","free-living","Nostoc muscorum ","","SAG 57.79"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185255","UNIQUE","IN TREE","Blasia pusilla","Nostoc punctiforme ","","SAG 65.79"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185256","UNIQUE","IN TREE","Gunnera manicata ","Nostoc punctiforme ","","SAG 68.79"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185257","UNIQUE","IN TREE","Geosiphon pyriforme ","Nostoc punctiforme ","","SAG 69.79"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185258","UNIQUE","IN TREE","free-living","Nostoc punctiforme ","","SAG 71.79"," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"DQ185259","UNIQUE","IN TREE","Sticta fuliginosa","Nostoc sp.",""," "," ","O'Brien","Eur. J. Phycol. 40 (4), 363-378 (2005)"," ","16S"
+"AB098071","UNIQUE","IN TREE","free-living","Nostoc commune","","SO-42"," ","Arima","FEMS Microbiol. Ecol. (2011) In press","22066798","16S"
+"AY790835","Group 164","REDUNDANT","free-living","Scytonema sp.","","CCMEE 5099"," ","Norris","FEMS Microbiol. Ecol. 57 (3), 470-483 (2006)","16907760","16S"
+"DQ531698","Group 164","IN TREE","free-living","Scytonema sp.","","FGP-7A"," ","Yeager","FEMS Microbiol. Ecol. 60 (1), 85-97 (2007)","17381526","16S"
+"AM230703","UNIQUE","IN TREE","free-living","Gloeotrichia echinulata ","","PYH6"," ","Sihvonen","FEMS Microbiol. Ecol. 61 (1), 74-84 (2007)","17466025","16S"
+"AM230705","UNIQUE","IN TREE","free-living","Gloeotrichia echinulata ","","URA3"," ","Sihvonen","FEMS Microbiol. Ecol. 61 (1), 74-84 (2007)","17466025","16S"
+"EU087570","UNIQUE","IN TREE","free-living","Nostoc sp.","","CCMEE 6160"," ","Knowles","FEMS Microbiol. Ecol. 66 (2), 261-270 (2008)","18710394","16S"
+"AB039000","Group 033","IN TREE","free-living","Gloeocapsa sp.","","PCC 73106"," ","Ishida","FEMS Microbiol. Lett. 201 (1), 79-82 (2001)","11445171","16S"
+"AB039003","UNIQUE","IN TREE","free-living","Fischerella muscicola ","","PCC 7414"," ","Ishida","FEMS Microbiol. Lett. 201 (1), 79-82 (2001)","11445171","16S"
+"AB039005","UNIQUE","IN TREE","free-living","Chroococcidiopsis thermalis ","","PCC 7203"," ","Ishida","FEMS Microbiol. Lett. 201 (1), 79-82 (2001)","11445171","16S"
+"U40338","NA","REDUNDANT","free-living","Microcystis aeruginosa ","","PCC7005"," ","Neilan","Int. J. Syst. Bacteriol. 47 (3), 693-697 (1997)","9226902","16S"
+"AJ133155","UNIQUE","IN TREE","free-living","Aphanizomenon flos-aquae","","TR183"," ","Lehtimaki","Int. J. Syst. Evol. Microbiol. 50 (PT 3), 1043-1053 (2000)","10843044","16S"
+"Y18792","UNIQUE","IN TREE","free-living","Spirulina sp.","","MPI S4"," ","Nubel","Int. J. Syst. Evol. Microbiol. 50 (PT 3), 1265-1277 (2000)","10843072","16S"
+"AF268009","UNIQUE","IN TREE","free-living","Nodularia spumigena","","NSLA01"," ","Moffitt","Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)","11321097","16S"
+"AF268018","UNIQUE","IN TREE","free-living","Nodularia sphaerocarpa","","CDAC1966/93-1"," ","Moffitt","Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)","11321097","16S"
+"AF268020","UNIQUE","IN TREE","free-living","Nodularia harveyana","","CDAC1983/300"," ","Moffitt","Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)","11321097","16S"
+"AF268021","UNIQUE","IN TREE","free-living","Nodularia harveyana ","","UTEX-B2093"," ","Moffitt","Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)","11321097","16S"
+"AJ133153","UNIQUE","IN TREE","free-living","Aphanizomenon sp.","","202"," ","Lyra","Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)","11321098","16S"
+"AJ133154","UNIQUE","IN TREE","free-living","Aphanizomenon flos-aquae","","PCC 7905"," ","Lyra","Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)","11321098","16S"
+"AJ133161","UNIQUE","IN TREE","free-living","Nostoc sp.","","152"," ","Lyra","Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)","11321098","16S"
+"AJ133163","UNIQUE","IN TREE","free-living","Cylindrospermum stagnale ","","PCC 7417"," ","Lyra","Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)","11321098","16S"
+"AJ293110","UNIQUE","IN TREE","free-living","Anabaena cf. cylindrica","","133"," ","Gugger","Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)","12361299","16S"
+"AJ293115","UNIQUE","IN TREE","free-living","Dolichospermum macrosporum","","PMC9301"," ","Gugger","Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)","12361299","16S"
+"AJ293119","UNIQUE","IN TREE","free-living","Anabaena cf. cylindrica","","PMC9705"," ","Gugger","Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)","12361299","16S"
+"AJ293129","UNIQUE","IN TREE","free-living","Aphanizomenon flos-aquae","","PMC9706"," ","Gugger","Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)","12361299","16S"
+"AJ293130","UNIQUE","IN TREE","free-living","Aphanizomenon flos-aquae","","PMC9707"," ","Gugger","Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)","12361299","16S"
+"AJ544080","UNIQUE","IN TREE","free-living","Nostochopsis lobatus ","","92.1"," ","Gugger","Int. J. Syst. Evol. Microbiol. 54 (PT 2), 349-357 (2004)","15023942","16S"
+"AJ544222","UNIQUE","IN TREE","free-living","Westiellopsis sp.","","89-785/4"," ","Gugger","Int. J. Syst. Evol. Microbiol. 54 (PT 2), 349-357 (2004)","15023942","16S"
+"AY112695","UNIQUE","IN TREE","Nephroma resupinatum","Nostoc sp.","","VI.5"," ","Oksanen","Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)","15143022","16S"
+"AY328896","UNIQUE","IN TREE","Nephroma expallidum","Nostoc sp.","","9.4.22"," ","Oksanen","Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)","15143022","16S"
+"AY328897","UNIQUE","IN TREE","Nephroma arcticum","Nostoc sp.","","113.5"," ","Oksanen","Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)","15143022","16S"
+"AY328898","Group 242","REDUNDANT","epixylic bryophyte","Nostoc sp.","","117.8.2"," ","Oksanen","Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)","15143022","16S"
+"AY328899","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.","","119.7.1"," ","Oksanen","Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)","15143022","16S"
+"AJ630414","UNIQUE","IN TREE","free-living","Anabaena cf. cylindrica XP6B","","XP6B"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630427","UNIQUE","IN TREE","free-living","Anabaena oscillarioides ","","BECID32"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630428","UNIQUE","IN TREE","free-living","Anabaena oscillarioides ","","BO HINDAK 1984/43"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630433","UNIQUE","IN TREE","free-living","Anabaena planctonica ","","1tu36s8"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630447","UNIQUE","IN TREE","free-living","Nostoc calcicola ","","III"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630449","UNIQUE","IN TREE","free-living","Nostoc edaphicum ","","X"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630450","UNIQUE","IN TREE","free-living","Nostoc ellipsosporum ","","V"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630451","Group 020","REDUNDANT","free-living","Nostoc muscorum ","","I"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630453","UNIQUE","IN TREE","free-living","Nostoc sp.","","1tu14s8"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630454","UNIQUE","IN TREE","free-living","Trichormus azollae ","","Kom BAI/1983"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630456","UNIQUE","IN TREE","free-living","Trichormus variabilis str. 'HINDAK 2001/4'","","HINDAK 2001/4"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"AJ630458","UNIQUE","IN TREE","free-living","Anabaena augstumalis ","","SCMIDKE JAHNKE/4a"," ","Rajaniemi","Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)","15653847","16S"
+"DQ460700","UNIQUE","IN TREE","free-living","Coleofasciculus chthonoplastes ",""," "," ","Palinska","Int. J. Syst. Evol. Microbiol. 56 (PT 10), 2253-2263 (2006)","17012544","16S"
+"DQ460705","UNIQUE","IN TREE","free-living","Nodularia spumigena ",""," "," ","Palinska","Int. J. Syst. Evol. Microbiol. 56 (PT 10), 2253-2263 (2006)","17012544","16S"
+"AM711522","UNIQUE","IN TREE","Anthoceros laevis ","Nostoc sp.","","Al1"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711523","UNIQUE","IN TREE","free-living","Nostoc muscorum","","Lukesova 1/87"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711524","Group 020","IN TREE","free-living","Nostoc muscorum","","Lukesova 2/91"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711525","UNIQUE","IN TREE","free-living","Nostoc sp.","","PCC 8976"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711526","UNIQUE","IN TREE","Gunnera tinctoria ","Nostoc sp.","","0GU36S01"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711527","Group 014","IN TREE","Gunnera tinctoria ","Nostoc sp.","","0GU36S02"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711528","UNIQUE","IN TREE","free-living","Nostoc sp.","","Lukesova 40/93"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711529","UNIQUE","IN TREE","free-living","Nostoc calcicola","","TH2S22"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711530","UNIQUE","IN TREE","free-living","Nostoc sp.","","996"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711531","UNIQUE","IN TREE","Anthoceros laevis ","Nostoc sp.","","Al3"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711532","UNIQUE","IN TREE","Cycas circinalis ","Nostoc sp.","","Cc2"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711533","UNIQUE","IN TREE","Cycas revoluta ","Nostoc sp.","","Cr4"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711534","UNIQUE","IN TREE","Dioon edule","Nostoc sp.","","De1"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711535","UNIQUE","IN TREE","Encephalartos villosus ","Nostoc sp.","","Ev1"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711536","Group 014","REDUNDANT","Gunnera manicata ","Nostoc sp.","","Gm"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711537","UNIQUE","IN TREE","free-living","Nostoc sp.","","PCC 8112"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711538","UNIQUE","IN TREE","free-living","Nostoc sp.","","PCC 9426"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711539","UNIQUE","IN TREE","Gunnera macrophylla ","Nostoc sp.","","8901:01:00"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711540","UNIQUE","IN TREE","Gunnera hamiltonii ","Nostoc sp.","","8926"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711541","UNIQUE","IN TREE","Gunnera prorepens","Nostoc sp.","","8964:03:00"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711542","UNIQUE","IN TREE","Gunnera tinctoria ","Nostoc sp.","","9104"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711543","UNIQUE","IN TREE","free-living","Nostoc sp.","","Cam2S01"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711544","UNIQUE","IN TREE","free-living","Nostoc sp.","","Mau15"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711545","UNIQUE","IN TREE","free-living","Nostoc sp.","","Lukesova 1/86"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711546","UNIQUE","IN TREE","free-living","Nostoc sp.","","Lukesova 5/96"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711547","UNIQUE","IN TREE","free-living","Nostoc sp.","","TH1S01"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711548","UNIQUE","IN TREE","free-living","Nostoc elgonense ","","TH3S05"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711549","UNIQUE","IN TREE","free-living","Nostoc sp.","","TO1S01"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711550","UNIQUE","IN TREE","Azolla rubra","cyanobacterium",""," "," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711551","UNIQUE","IN TREE","Azolla pinnata subsp. pinnata","cyanobacterium",""," "," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711552","UNIQUE","IN TREE","Azolla caroliniana","cyanobacterium",""," "," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711553","UNIQUE","IN TREE","free-living","Nodularia sp.","","Lukesova 1/91"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"AM711554","UNIQUE","IN TREE","free-living","Nodularia harveyana","","Lukesova 18/94"," ","Papaefthimiou","Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)","18319454","16S"
+"Y12687","Group 031","IN TREE","free-living","Nostoc commune",""," "," ","Rudi","J. Bacteriol. 180 (13), 3453-3461 (1998)","9642201","16S"
+"Y12688","UNIQUE","IN TREE","free-living","Nostoc commune var. flagelliforme",""," "," ","Rudi","J. Bacteriol. 180 (13), 3453-3461 (1998)","9642201","16S"
+"AF132779","UNIQUE","IN TREE","free-living","Calothrix desertica ","","PCC 7102"," ","Turner","J. Eukaryot. Microbiol. 46 (4), 327-338 (1999)","10461381","16S"
+"AF132788","UNIQUE","IN TREE","free-living","Fischerella muscicola ","","PCC 7414"," ","Turner","J. Eukaryot. Microbiol. 46 (4), 327-338 (1999)","10461381","16S"
+"AF067819","UNIQUE","IN TREE","free-living","Cylindrospermopsis raciborskii",""," "," ","Saker","J. Phycol. (1998) In press"," ","16S"
+"DQ264163","UNIQUE","IN TREE","free-living","Anabaena sigmoidea ","","9BU29S1"," ","Willame","J. Phycol. 42 (6), 1312-1332 (2006)"," ","16S"
+"DQ072918","UNIQUE","IN TREE","free-living","Gloeothece ",""," "," ","Uku","J. Phycol. 43 (4), 768-779 (2007)"," ","16S"
+"EF174200","UNIQUE","IN TREE","Pannaria lobulifera ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174201","Group 029","REDUNDANT","Pannaria lobulifera ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174202","Group 029","IN TREE","Pannaria arthroophylla","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174203","Group 034","REDUNDANT","Pannaria inctrina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174204","Group 034","IN TREE","Pannaria patagonia","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174205","Group 035","IN TREE","Pannaria inctrina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174206","Group 035","REDUNDANT","Pannaria cf. allorhiza","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174207","UNIQUE","IN TREE","Pannaria inctrina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174208","Group 010","REDUNDANT","Pannaria aff. athroophylla ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174209","Group 010","REDUNDANT","Pannaria pallida","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174210","Group 010","REDUNDANT","Pannaria farinosa ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174211","UNIQUE","IN TREE","Pannaria farinosa ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174212","UNIQUE","IN TREE","Pannaria farinosa ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174213","UNIQUE","IN TREE","Pannaria farinosa ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174214","UNIQUE","IN TREE","Pannaria mosenii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174215","Group 002","REDUNDANT","Pannaria farinosa ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174216","Group 002","REDUNDANT","Pannaria elixii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174217","UNIQUE","IN TREE","Pannaria euphylla","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174218","UNIQUE","IN TREE","Pannaria pallida","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174219","UNIQUE","IN TREE","Pannaria tavaresii ","Nostoc sp. ",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174220","Group 021","IN TREE","Pannaria rubiginosa","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174221","Group 021","REDUNDANT","Pannaria conoplea","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174222","UNIQUE","IN TREE","Pannaria araneosa","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174223","Group 012","REDUNDANT","Pannaria isabellina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174224","Group 012","REDUNDANT","Pannaria durietzii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174225","Group 012","IN TREE","Pannaria durietzii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174226","UNIQUE","IN TREE","Pannaria isabellina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174227","UNIQUE","IN TREE","Pannaria durietzii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174228","Group 376","IN TREE","Pannaria farinosa ","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174229","Group 032","REDUNDANT","Pannaria elixii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174230","UNIQUE","IN TREE","Pannaria elixii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174231","Group 032","IN TREE","Pannaria fulvescens","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174232","UNIQUE","IN TREE","Pannaria obscura","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF174233","UNIQUE","IN TREE","Pannaria andina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF536020","Group 002","REDUNDANT","Psudocyphellaria imshaugii","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF536021","UNIQUE","IN TREE","Pannaria andina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF536022","Group 002","REDUNDANT","Pannaria andina","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF536023","Group 017","IN TREE","Pseudocyphellaria gilva","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"EF536024","Group 017","REDUNDANT","Pannaria rubiginella","Nostoc sp.",""," "," ","Elvebakk","J. Phycol. 44 (4), 1049-1059 (2008)"," ","16S"
+"AF027653","Group 000","REDUNDANT","Peltigera membranacea","Nostoc sp.","","TDI#AR94"," ","Miao","Lichenologist (Lond.) 29, 571-586 (1997)"," ","16S"
+"AF027654","UNIQUE","IN TREE","Peltigera membranacea","Nostoc sp.","","PCC9709"," ","Miao","Lichenologist (Lond.) 29, 571-586 (1997)"," ","16S"
+"AF027655","UNIQUE","IN TREE","Macrozamia sp. ","Nostoc punctiforme ","","PCC73102"," ","Miao","Lichenologist (Lond.) 29, 571-586 (1997)"," ","16S"
+"AY333615","UNIQUE","IN TREE","Nephroma parile","Nostoc sp.","","23_Nash_III_30009A"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333616","UNIQUE","IN TREE","Nephroma resupinatum","Nostoc sp.","","25_Nash_III_30009"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333617","Group 260","REDUNDANT","Nephroma bellum","Nostoc sp.","","26_Nash_III 30009"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333618","Group 007","REDUNDANT","Nephroma parile","Nostoc sp.","","27_Rikkinen_et_al._003005"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333619","Group 007","REDUNDANT","Nephroma parile","Nostoc sp.","","28_Vitikainen_13242"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333620","Group 007","REDUNDANT","Nephroma parile","Nostoc sp.","","29_Hansen_22_June_1998"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333621","UNIQUE","IN TREE","Nephroma bellum","Nostoc sp.","","34_Vitikainen_13239"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333622","Group 002","REDUNDANT","Nephroma bellum","Nostoc sp.","","35_Ahti_&_Djan-Chekar_60277"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333623","Group 002","REDUNDANT","Dendriscocaulon ","Nostoc sp.","","36_Rikkinen_000313"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333624","Group 002","REDUNDANT","Nephroma helveticum","Nostoc sp.","","37_Rikkinen_A33A"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333625","Group 002","REDUNDANT","Nephroma tangeriense","Nostoc sp.","","39_Burgaz_22_July_1995"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333626","UNIQUE","IN TREE","Nephroma resupinatum","Nostoc sp.","","40_Rikkinen_98A34B"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333627","Group 002","REDUNDANT","Nephroma laevigatum","Nostoc sp.","","41_Skyten_6243"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333628","Group 002","REDUNDANT","Nephroma cellulosum","Nostoc sp.","","42_Stenroos_3680"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333629","Group 002","REDUNDANT","Nephroma helveticum","Nostoc sp.","","44_Nash_III_37165"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333630","Group 008","REDUNDANT","Nephroma laevigatum","Nostoc sp.","","51_Mayrhofer_&_Prugger_11583"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333631","Group 008","REDUNDANT","Nephroma laevigatum","Nostoc sp.","","52_Feuerer_&_Marth_19_July_1997"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333632","Group 235","REDUNDANT","Sticta fuliginosa","Nostoc sp.","","53_Rikkinen_980W1A"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333633","Group 008","REDUNDANT","Nephroma laevigatum","Nostoc sp.","","54_Kaantonen_284/94"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333634","UNIQUE","IN TREE","Nephroma arcticum","Nostoc sp.","","57_Rikkinen_et_al._003002"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333635","Group 025","IN TREE","Leptogium corniculatum","Nostoc sp.","","60_Rikkinen_V2b"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333636","Group 025","REDUNDANT","Pannaria pezizoides","Nostoc sp.","","61_Rikkinen_E10"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333637","UNIQUE","IN TREE","Nephroma expallidum","Nostoc sp.","","64_Ulvinen_22_July_1998"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333638","UNIQUE","IN TREE","Nephroma arcticum","Nostoc sp.","","68_Hansen_700B"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333639","UNIQUE","IN TREE","Peltigera praetextata","Nostoc sp.","","69_Rikkinen_V2A"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333640","UNIQUE","IN TREE","Nephroma arcticum","Nostoc sp.","","70_Hansen_6_Aug._1998"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333641","UNIQUE","IN TREE","Nephroma arcticum","Nostoc sp.","","74_Rikkinen_et_al._003016"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"AY333642","UNIQUE","IN TREE","Nephroma expallidum","Nostoc sp.","","75_Hansen_31_July_1998"," ","Lohtander","Lichenologist (Lond.) 35 (4), 325-339 (2003)"," ","16S"
+"KF142667","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap1"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142668","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap2"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142669","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap3"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142670","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap4"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142671","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap5"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142672","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap6"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142673","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap7"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142674","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap8"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142675","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap9"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142676","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap10"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142677","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap11"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"KF142678","UNIQUE","IN TREE","Gunnera magellanica","Nostoc sp.","","Hap12"," ","Fernandez-Martinez","Microb. Ecol. (2013) In press","23609130","16S"
+"AJ871987","UNIQUE","IN TREE","biological soil","Microcoleus steenstrupii",""," "," ","Gundlapally","Microb. Ecol. 52 (2), 345-357 (2006)","16691327","16S"
+"AY038033","UNIQUE","IN TREE","free-living","Anabaenopsis sp.","","PCC 9215"," ","Iteman","Microbiology 148 (Pt 2), 481-496 (2002)","11832512","16S"
+"AY038036","UNIQUE","IN TREE","free-living","Cyanospira rippkae","","PCC 9501"," ","Iteman","Microbiology 148 (Pt 2), 481-496 (2002)","11832512","16S"
+"X78680","UNIQUE","IN TREE","free-living","Gloeothece membranacea ","","PCC6501"," ","Nelissen","Mol. Biol. Evol. 12 (6), 1166-1173 (1995)","8524048","16S"
+"AJ344563","UNIQUE","IN TREE","free-living","Nostoc sp.","","SAG 2028"," ","Fewer","Mol. Phylogenet. Evol. 23 (1), 82-90 (2002)","12182405","16S"
+"FJ815291","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc sp.","","UK18"," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815293","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815294","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815295","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815297","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815298","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815299","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815301","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815302","Group 404","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815303","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815304","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815305","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815306","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"FJ815314","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc ",""," "," ","Kaasalainen","Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)","19445594","16S"
+"EF102241","Group 008","REDUNDANT","Degelia plumbea","Nostoc sp.","","Dplu"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102242","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.","","Lpul376"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102243","Group 004","REDUNDANT","Lobaria pulmonaria","Nostoc sp.","","Lpul376b"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102244","Group 259","REDUNDANT","Lobaria pulmonaria","Nostoc sp.","","Lpul385"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102245","Group 004","REDUNDANT","Lobaria pulmonaria","Nostoc sp.","","Lpul391"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102246","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.","","Lpul400"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102247","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.","","Lpul413"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102248","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.","","Lpul424"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102249","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.","","Lpul431"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102250","Group 008","REDUNDANT","Lobaria pulmonaria","Nostoc sp.","","Lpul23259"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102251","Group 008","REDUNDANT","Lobaria pulmonaria","Nostoc sp.","","Lpul23259b"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102252","Group 234","REDUNDANT","Lobaria scrobiculata","Nostoc sp.","","Lscrsn"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102253","Group 007","REDUNDANT","Nephroma bellum","Nostoc sp.","","Nbel383"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102254","Group 015","REDUNDANT","Nephroma bellum","Nostoc sp.","","Nbel388"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102255","UNIQUE","IN TREE","Nephroma bellum","Nostoc sp.","","Nbel393"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102256","Group 007","REDUNDANT","Nephroma bellum","Nostoc sp.","","Nbel415"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102257","Group 165","IN TREE","Nephroma bellum","Nostoc sp.","","Nbel21173"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102258","Group 015","REDUNDANT","Nephroma bellum","Nostoc sp.","","Nbel19679"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102259","UNIQUE","IN TREE","Nephroma laevigatum","Nostoc sp.","","Nlae381"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102260","Group 008","REDUNDANT","Nephroma laevigatum","Nostoc sp.","","Nlae403"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102261","Group 007","REDUNDANT","Nephroma parile","Nostoc sp.","","Npar382"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102262","Group 007","REDUNDANT","Nephroma parile","Nostoc sp.","","Npar386"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102263","Group 007","REDUNDANT","Nephroma parile","Nostoc sp.","","Npar402"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102264","Group 004","REDUNDANT","Nephroma parile","Nostoc sp.","","Npar416"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102265","UNIQUE","IN TREE","Nephroma resupinatum","Nostoc sp.","","Nres379"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102266","Group 165","REDUNDANT","Nephroma resupinatum","Nostoc sp.","","Nres19573"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102267","UNIQUE","IN TREE","Nephroma tangeriense","Nostoc sp.","","Ntan434"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102268","UNIQUE","IN TREE","Protopannaria pezizoides","Nostoc sp.","","Ppez426"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102269","Group 007","REDUNDANT","Parmeliella triptophylla","Nostoc sp.","","Ptri387"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102270","Group 015","IN TREE","Parmeliella triptophylla","Nostoc sp.","","Ptri392"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102271","Group 007","REDUNDANT","Parmeliella triptophylla","Nostoc sp.","","Ptri401"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102272","Group 004","REDUNDANT","Parmeliella triptophylla","Nostoc sp.","","Ptri412"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102273","Group 349","REDUNDANT","Peltigera leucophlebia","Nostoc sp.","","Pleu377"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102274","Group 003","REDUNDANT","Peltigera leucophlebia","Nostoc sp.","","Pleu390"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102275","Group 003","REDUNDANT","Peltigera leucophlebia","Nostoc sp.","","Pleu399"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102276","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc sp.","","Pleu463"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102277","UNIQUE","IN TREE","Peltigera leucophlebia","Nostoc sp.","","Pleu21759"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102278","Group 016","REDUNDANT","Peltigera leucophlebia","Nostoc sp.","","Pleu21834"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102279","Group 016","IN TREE","Peltigera leucophlebia","Nostoc sp.","","Pleu21860"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102280","UNIQUE","IN TREE","Peltigera malacea","Nostoc sp.","","Pmal429"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102281","UNIQUE","IN TREE","Peltigera membranacea","Nostoc sp.","","Pmem425"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102282","Group 026","REDUNDANT","Peltigera membranacea","Nostoc sp.","","Pmemb432"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102283","UNIQUE","IN TREE","Peltigera neopolydactyla","Nostoc sp.","","Pneo395"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102284","UNIQUE","IN TREE","Peltigera neopolydactyla","Nostoc sp.","","Pneo410"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102285","Group 190","REDUNDANT","Peltigera praetextata","Nostoc sp.","","Ppra378"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102286","Group 349","REDUNDANT","Peltigera praetextata","Nostoc sp.","","Ppra384"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102287","Group 003","REDUNDANT","Peltigera praetextata","Nostoc sp.","","Ppra389"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102288","Group 003","REDUNDANT","Peltigera praetextata","Nostoc sp.","","Ppra398"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102289","Group 024","REDUNDANT","Peltigera praetextata","Nostoc sp.","","Ppra414"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102290","UNIQUE","IN TREE","Peltigera praetextata","Nostoc sp.","","Ppra418"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102291","Group 003","IN TREE","Peltigera praetextata","Nostoc sp.","","Ppra428"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102292","Group 024","IN TREE","Peltigera praetextata","Nostoc sp.","","Ppra430"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102293","UNIQUE","IN TREE","Peltigera sp.","Nostoc sp.","","Psp437"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"EF102294","Group 350","IN TREE","Pseudocyphellaria crocata","Nostoc sp.","","Pcro436"," ","Myllys","New Phytol. 173 (3), 621-629 (2007)","17244057","16S"
+"AY577535","UNIQUE","IN TREE","Collema tenax","Nostoc lichenoides ","","CNP-AK1"," ","Rehakova","Phycologia 46, 481-502 (2007)"," ","16S"
+"AY577537","UNIQUE","IN TREE","free-living","Nostoc desertorum ","","CM1-VF14"," ","Rehakova","Phycologia 46, 481-502 (2007)"," ","16S"
+"AB075987","UNIQUE","IN TREE","free-living","Fischerella thermalis ","","PCC 7521"," ","Tomitani","Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)","16569695","16S"
+"AB075991","UNIQUE","IN TREE","free-living","Nodularia sp.","","KAC 17"," ","Tomitani","Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)","16569695","16S"
+"AB075996","UNIQUE","IN TREE","free-living","Scytonema hofmanni ","","PCC 7110"," ","Tomitani","Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)","16569695","16S"
+"JQ007729","Group 005","REDUNDANT","Nephroma laevigatum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007730","UNIQUE","IN TREE","Sticta fuliginosa","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007731","Group 005","REDUNDANT","Nephroma laevigatum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007732","Group 005","IN TREE","Sticta sylvatica","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007733","Group 010","IN TREE","Nephroma cellulosum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007734","Group 010","REDUNDANT","Nephroma cellulosum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007735","Group 010","REDUNDANT","Nephroma cellulosum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007736","UNIQUE","IN TREE","Pseudocyphellaria cf. hirsuta","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007737","UNIQUE","IN TREE","Sticta sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007738","UNIQUE","IN TREE","Pseudocyphellaria sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007739","UNIQUE","IN TREE","Sticta sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007740","UNIQUE","IN TREE","Leptogium sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007741","Group 163","IN TREE","Pseudocyphellaria sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007744","Group 013","IN TREE","Lobaria scrobiculata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007745","Group 013","REDUNDANT","Lobaria scrobiculata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007746","Group 013","REDUNDANT","Lobaria scrobiculata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007747","UNIQUE","IN TREE","Parmeliella sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007748","UNIQUE","IN TREE","Pseudocyphellaria cf. hirsuta","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007749","UNIQUE","IN TREE","Pseudocyphellaria cf. crocata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007750","Group 022","REDUNDANT","Nephroma helveticum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007751","UNIQUE","IN TREE","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007752","Group 018","REDUNDANT","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007753","Group 004","IN TREE","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007754","Group 004","REDUNDANT","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007755","Group 004","REDUNDANT","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007756","Group 004","REDUNDANT","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007757","Group 027","REDUNDANT","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007758","Group 027","IN TREE","Nephroma parile","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007759","UNIQUE","IN TREE","Nephroma bellum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007760","UNIQUE","IN TREE","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007761","UNIQUE","IN TREE","Leptogium furfuraceum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007762","UNIQUE","IN TREE","Peltigera rufescens","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007763","UNIQUE","IN TREE","Nephroma arcticum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007764","UNIQUE","IN TREE","Nephroma arcticum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007765","UNIQUE","IN TREE","Leptogium lichenoides","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007766","UNIQUE","IN TREE","Leptogium lichenoides","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007767","UNIQUE","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007768","Group 242","IN TREE","Protopannaria pezizoides","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007769","UNIQUE","IN TREE","Peltigera dolichorrhiza","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007770","UNIQUE","IN TREE","Peltigera membranacea","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007771","Group 026","REDUNDANT","Peltigera membranacea","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007772","Group 026","IN TREE","Peltigera hymenina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007773","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007774","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007775","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007776","UNIQUE","IN TREE","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007777","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007778","Group 001","IN TREE","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007779","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007780","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007781","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007782","Group 001","REDUNDANT","Peltigera collina","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007784","UNIQUE","IN TREE","Peltigera evansiana","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007785","UNIQUE","IN TREE","Peltigera sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007787","UNIQUE","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007788","UNIQUE","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007789","Group 011","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007790","UNIQUE","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007791","Group 006","REDUNDANT","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007792","Group 011","REDUNDANT","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007793","Group 011","REDUNDANT","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007794","Group 006","REDUNDANT","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007795","Group 006","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007796","Group 190","IN TREE","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007797","Group 006","REDUNDANT","Peltigera praetextata","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007798","UNIQUE","IN TREE","Peltigera polydactylon","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007799","UNIQUE","IN TREE","Nephroma arcticum","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007800","UNIQUE","IN TREE","Peltigera sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007801","UNIQUE","IN TREE","Peltigera sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007802","Group 000","REDUNDANT","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007803","Group 000","REDUNDANT","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007804","Group 000","REDUNDANT","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007805","Group 000","REDUNDANT","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007806","Group 000","REDUNDANT","Peltigera neopolydactyla","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007807","Group 000","REDUNDANT","Peltigera neopolydactyla","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007808","Group 000","REDUNDANT","Peltigera neopolydactyla","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007809","UNIQUE","IN TREE","Peltigera membranacea","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007810","UNIQUE","IN TREE","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007811","Group 000","IN TREE","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007812","Group 000","REDUNDANT","Peltigera sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007813","Group 000","REDUNDANT","Peltigera sp.","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007814","UNIQUE","IN TREE","Peltigera degenii","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007816","UNIQUE","IN TREE","Peltigera membranacea","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007817","Group 030","REDUNDANT","Peltigera membranacea","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007818","Group 030","IN TREE","Peltigera membranacea","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007819","UNIQUE","IN TREE","Peltigera neopolydactyla","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"JQ007836","Group 070","REDUNDANT","Degelia atlantica","Nostoc ",""," "," ","Kaasalainen","Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)","22451908","16S"
+"AB271212","UNIQUE","IN TREE","free-living","Dolichospermum spiroides",""," "," ","Ishikawa","Published Only in Database (2006)"," ","16S"
+"AF506237","UNIQUE","IN TREE","Blasia pusilla","cf. Calothrix sp. 'muscicolous cyanobiont 5'",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506238","UNIQUE","IN TREE","free-living","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506239","UNIQUE","IN TREE","Peltigera pruinosa","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506240","UNIQUE","IN TREE","Peltigera venosa","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506241","UNIQUE","IN TREE"," Nephroma arcticum ","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506242","UNIQUE","IN TREE","free-living","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506243","UNIQUE","IN TREE","Peltigera pruinosa","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506244","UNIQUE","IN TREE","Lobaria hallii","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506245","UNIQUE","IN TREE","Peltigera collina","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506246","UNIQUE","IN TREE","free-living","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506247","UNIQUE","IN TREE","Peltigera praetextata","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506248","UNIQUE","IN TREE","Nephroma expallidum ","Nostoc sp.","","9.4.19"," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506249","UNIQUE","IN TREE","Peltigera malacea","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506250","Group 346","REDUNDANT","free-living","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506251","Group 019","IN TREE","Nephroma parile","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506252","Group 019","REDUNDANT","Nephroma parile","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506253","UNIQUE","IN TREE","Nephroma parile","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506254","UNIQUE","IN TREE","Parmeliella triptophylla","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506255","UNIQUE","IN TREE","Parmeliella triptophylla","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506256","UNIQUE","IN TREE","Nephroma bellum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506257","Group 007","IN TREE","Nephroma parile","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506258","UNIQUE","IN TREE","Nephroma helveticum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506259","UNIQUE","IN TREE","Lobaria retigera ","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506260","UNIQUE","IN TREE","Nephroma helveticum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506261","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506262","UNIQUE","IN TREE","Nephroma helveticum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506263","UNIQUE","IN TREE","Nephroma resupinatum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506264","UNIQUE","IN TREE","Nephroma laevigatum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF506265","Group 008","IN TREE","Nephroma resupinatum","Nostoc sp.",""," "," ","Rikkinen","Science 297 (5580), 357 (2002)","12130774","16S"
+"AF062637","UNIQUE","IN TREE","free-living","Nostoc sp.","","GSV224"," ","Hoffmann","Submitted (01-MAY-1998) Chemistry, University of Hawaii at Manoa, 2545 The Mall, Honolulu, HI 96822, USA"," ","16S"
+"AF062638","UNIQUE","IN TREE","free-living","Nostoc sp.","","ATCC 53789"," ","Hoffmann","Submitted (01-MAY-1998) Chemistry, University of Hawaii at Manoa, 2545 The Mall, Honolulu, HI 96822, USA"," ","16S"
+"AY069954","UNIQUE","IN TREE","free-living","Scytonema sp.","","U-3-3"," ","Hoffmann","Submitted (12-DEC-2001) Chemistry, University of Hawaii at Manoa, 2545 McCarthy Mall, Honolulu, HI 96822, USA"," ","16S"
+"AY034793","UNIQUE","IN TREE","free-living","Hapalosiphon welwitschii",""," "," ","Hoffmann","Submitted (14-MAY-2001) Chemistry, University of Hawaii at Manoa, 2545 McCarthy Mall, Honolulu, HI 96822, USA"," ","16S"
+"AB093483","UNIQUE","IN TREE","free-living","Scytonema sp.","","IAM M-262"," ","Seo","Unpublished"," ","16S"
+"AB093484","UNIQUE","IN TREE","free-living","Hapalosiphon delicatulus ","","IAM M-266"," ","Seo","Unpublished"," ","16S"
+"AB093491","UNIQUE","IN TREE","free-living","Fischerella sp.","","IAM M-263"," ","Seo","Unpublished"," ","16S"
+"AF091150","UNIQUE","IN TREE","free-living","Anabaena cylindrica ","","NIES19 (PCC7122)"," ","Neilan","Unpublished"," ","16S"
+"AF160256","UNIQUE","IN TREE","free-living","Anabaena bergii","","283A"," ","Schembri","Unpublished"," ","16S"
+"AF247596","UNIQUE","IN TREE","free-living","Dolichospermum flos-aquae","","NRC44-1"," ","Beltran","Unpublished"," ","16S"
+"AF317630","UNIQUE","IN TREE","free-living","Nostoc sp.","","AWT 203"," ","Beltran","Unpublished"," ","16S"
+"AF317631","UNIQUE","IN TREE","free-living","Nostoc sp.","","PCC 7120"," ","Beltran","Unpublished"," ","16S"
+"AF334698","UNIQUE","IN TREE","free-living","Scytonema hyalinum","","FI-8A"," ","Flechtner","Unpublished"," ","16S"
+"AF334700","UNIQUE","IN TREE","free-living","Scytonema hyalinum","","FI-8A"," ","Flechtner","Unpublished"," ","16S"
+"AJ621832","UNIQUE","IN TREE","free-living","Chroococcus submarinus ","","kopara-BM"," ","Richert","Unpublished"," ","16S"
+"AY224195","UNIQUE","IN TREE","free-living","Synechocystis sp.","","PCC 6803"," ","Minda","Unpublished"," ","16S"
+"DQ235801","UNIQUE","IN TREE","free-living","Scytonema sp.","","CCG1"," ","Gaylarde","Unpublished"," ","16S"
+"EF545603","UNIQUE","IN TREE","free-living","Mastigocladus sp.",""," "," ","Morales","Unpublished"," ","16S"
+"EU022740","UNIQUE","IN TREE","free-living","Nostoc sp.",""," "," ","Liaimer","Unpublished"," ","16S"
+"EU022742","UNIQUE","IN TREE","Blasia pusilla","Nostoc sp.",""," "," ","Liaimer","Unpublished"," ","16S"
+"EU178142","UNIQUE","IN TREE","free-living","Nostoc commune ","","AHNG0605"," ","Liu","Unpublished"," ","16S"
+"EU178143","UNIQUE","IN TREE","free-living","Nostoc flagelliforme ","","IMGA0408"," ","Liu","Unpublished"," ","16S"
+"EU178144","UNIQUE","IN TREE","free-living","Nostoc sphaeroides ","","HBHF0604"," ","Liu","Unpublished"," ","16S"
+"AY218827","UNIQUE","IN TREE","free-living","Nostoc muscorum ","","CENA18"," ","Fiore Mde","Water Res. 39 (20), 5017-5026 (2005)","16289234","16S"
+"JN847333","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847334","UNIQUE","IN TREE","Nephroma bellum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847335","UNIQUE","IN TREE","Nephroma resupinatum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847336","Group 260","IN TREE","Nephroma resupinatum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847337","UNIQUE","IN TREE","Leptogium gelatinosum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847339","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847340","Group 022","IN TREE","Nephroma washingtoniense","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847341","Group 028","REDUNDANT","Nephroma washingtoniense","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847342","UNIQUE","IN TREE","Pseudocyphellaria sp.","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847343","Group 005","REDUNDANT","Sticta weigelii","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847344","UNIQUE","IN TREE","Leptogium palmatum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847345","Group 028","IN TREE","Lobaria pulmonaria","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847346","UNIQUE","IN TREE","Pseudocyphellaria sp.","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847347","UNIQUE","IN TREE","Leptogium pseudofurfuraceum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847348","UNIQUE","IN TREE","Collema nigrescens","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847349","Group 023","IN TREE","Nephroma helveticum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847350","UNIQUE","IN TREE","Fuscopannaria leucostictoides","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847351","UNIQUE","IN TREE","Sticta limbata","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847352","UNIQUE","IN TREE","Collema nigrescens","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847353","UNIQUE","IN TREE","Leptogium furfuraceum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847354","UNIQUE","IN TREE","Pseudocyphellaria sp.","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847355","Group 023","REDUNDANT","Pseudocyphellaria sp.","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847357","UNIQUE","IN TREE","Lobaria pulmonaria","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847358","UNIQUE","IN TREE","Lobaria virens","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847359","UNIQUE","IN TREE","Nephroma laevigatum","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
+"JN847361","UNIQUE","IN TREE","Parmeliella triptophylla","Nostoc ","","","","Olsson","Curr. Genet. 58 (1), 49-58 (2012)","22210193","16S"
