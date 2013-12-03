@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aboutme-widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-08 17:32+0530\n"
+"PO-Revision-Date: 2013-01-08 17:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: About.me\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: aboutme-widget.php:35
+msgid "Display your about.me profile with thumbnail"
+msgstr ""
+
+#: aboutme-widget.php:36
+msgid "About.me Widget"
+msgstr ""
+
+#: aboutme-widget.php:399
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">About.me</a> is a free service that lets "
+"you create a beautiful one-page website all about you."
+msgstr ""
+
+#: aboutme-widget.php:402
+#, php-format
+msgid ""
+"Current users simply copy and paste your full about.me URL in the box"
+"( http://about.me/username ) below. Or <a href=\"%s\" target=\"_blank\">sign "
+"up</a>, create a page then add your full about.me URL here."
+msgstr ""
+
+#: aboutme-widget.php:406
+msgid "Widget title"
+msgstr ""
+
+#: aboutme-widget.php:410
+msgid "Your about.me URL"
+msgstr ""
+
+#: aboutme-widget.php:418
+#, php-format
+msgid ""
+"We're sorry, that's not a valid username. If you haven't, please <a href=\"%s"
+"\" target='_blank'>sign up and make your page</a>. If you have, please copy "
+"and paste your full about.me URL in the box( http://about.me/username )."
+msgstr ""
+
+#: aboutme-widget.php:423
+#, php-format
+msgid ""
+"Don't have an about.me page? <a href=\"%s\" target=\"_blank\">Sign up now!"
+msgstr ""
+
+#: aboutme-widget.php:428
+msgid "There was an authorization error in the profile api request."
+msgstr ""
+
+#: aboutme-widget.php:432 aboutme-widget.php:437 aboutme-widget.php:444
+msgid " Please contact help@about.me for support"
+msgstr ""
+
+#: aboutme-widget.php:434 aboutme-widget.php:457
+msgid "Email has been sent to help@about.me for support"
+msgstr ""
+
+#: aboutme-widget.php:440 aboutme-widget.php:463
+msgid " mentiontioning following url:"
+msgstr ""
+
+#: aboutme-widget.php:451
+msgid "There was an authorization error in the registration process."
+msgstr ""
+
+#: aboutme-widget.php:455 aboutme-widget.php:460 aboutme-widget.php:467
+msgid " Please email help@about.me for support"
+msgstr ""
+
+#: aboutme-widget.php:473
+msgid ""
+"We encountered an error while communicating with the about.me server.  "
+"Please try again later."
+msgstr ""
+
+#: aboutme-widget.php:476
+msgid ""
+"about.me server returns empty data. Please email help@about.me for support."
+msgstr ""
+
+#: aboutme-widget.php:479
+msgid ""
+"An unknown error occurs while communicating with the about.me server. Please "
+"email help@about.me for support."
+msgstr ""
+
+#: aboutme-widget.php:485
+msgid "Photo"
+msgstr ""
+
+#: aboutme-widget.php:487
+msgid "Background Image"
+msgstr ""
+
+#: aboutme-widget.php:488
+msgid "Bio Photo"
+msgstr ""
+
+#: aboutme-widget.php:489
+msgid "None"
+msgstr ""
+
+#: aboutme-widget.php:493
+msgid "Name"
+msgstr ""
+
+#: aboutme-widget.php:495
+msgid "Display X-Large"
+msgstr ""
+
+#: aboutme-widget.php:496
+msgid "Display Large"
+msgstr ""
+
+#: aboutme-widget.php:497
+msgid "Display Medium"
+msgstr ""
+
+#: aboutme-widget.php:498
+msgid "Display Small"
+msgstr ""
+
+#: aboutme-widget.php:499
+msgid "Don't Display Name"
+msgstr ""
+
+#: aboutme-widget.php:503
+msgid "Headline"
+msgstr ""
+
+#: aboutme-widget.php:508
+msgid "Biography"
+msgstr ""
+
+#: aboutme-widget.php:513
+msgid "Apps"
+msgstr ""
+
+#: aboutme-widget.php:519
+msgid "Links"
+msgstr ""
