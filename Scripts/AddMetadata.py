@@ -4,18 +4,26 @@
 
 #Usage: cat treefile | AddMetadata.pl metadatafile species|host > outfile
 
-"""This is also going to require a major rewrite to make it compatible with the new version
-of GetGroups.py. Basically, the problem is that I'm not going to bother keeping track of
-which sequences are actually in the tree. This means I need to loop through the taxa in
-the tree rather than the "IN TREE" entries in the database. This should be straightforward
-with ETE
+"""This is now working to produce nice print-ready PDFs or (almost) web-ready SVGs
 
-This is working great now, but I'd like to add the tree drawing into this script
-because I can use text faces rather than taxon names, which will greatly increase flexibility
+The following header needs to be added to the start of the SVG in order to permit
+scrolling:
 
-That's now working reasonably well, though I don't like how the root is drawn
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<script xlink:href="SVGPan.js"/>
+<title>Generated with ETE http://ete.cgenomics.org</title>
+<desc>Generated with ETE http://ete.cgenomics.org</desc>
+<defs>
+</defs>
+<g id="viewport" transform="translate(200,50)">
 
-Next I need to add colours based on taxonomy
+(this replaces all of the lines up to and including </defs> in the original file)
+
+I also have close the <g at the end of the file ( <\g> )
+
+At some point I need to write a script to make these modifications
 
 I also have to fix the issue where, eg; Pannaria and Pseudocyphellaria are both abbreviated P.
 I should also sort the host names to make things clearer
@@ -58,12 +66,12 @@ def main(argv):
     with con:
       cur = con.cursor()
       groups = {}
-      cur.execute("SELECT `Group`, Host, Species FROM Metadata WHERE Accession= %s AND Gene= %s", (leaf.name, locus,))
+      cur.execute("SELECT `Group`, Host, Species FROM Metadata WHERE Accession LIKE %s AND Gene= %s", (leaf.name + '%', locus,))
       try:
         (group, host, species) = cur.fetchone()
-      except TypeError:
+      except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
-        
+        (group, host, species) = ('','','')
       if group and group.find('Group') != -1:  #Group rep
         if group in groups.keys():
           warnings.warn("%s and %s are both in the tree and both in %s" % (leaf.name, groups[group], group))
@@ -89,7 +97,7 @@ def main(argv):
       leaf.add_face(label, column = 0, position="branch-right")
     else:                                                                 #This will include the group names / accession numbers in the tree. This may or may not be useful
       leaf.add_face(TextFace(leaf.name.replace("New ", "")), column = 0)  #This replace statement will soon be a relic and will need to be removed
-    add_faces(leaf, label_info)
+    add_faces(leaf, label_info, outfilename)
    
   draw_tree(tree, outfilename)   
 
@@ -99,19 +107,30 @@ def draw_tree(tree, file):
     add_sig(tree)
     ts = TreeStyle()
     ts.branch_vertical_margin = 1
-    ts.scale = 1500
     ts.show_leaf_name = False
-    tree.render(file, tree_style=ts, w=3000, units='mm')
+    if '.svg' in file:
+      ts.scale = 3000
+      tree.render(file, tree_style=ts, h=300, units='mm')
+    else:
+      ts.scale = 1500 
+      tree.render(file, tree_style=ts, w=3000, units='mm')
+    
     #tree.show()
     
-def add_faces(leaf, label_info):
+def add_faces(leaf, label_info, outfile):
       colours = get_colours(label_info)
       y = 0
       for x in range(len(label_info)):
         if x < len(label_info) - 1:
           label_info[x] += ','
+          if '.svg' in outfile:
+            padding = 1 + len(label_info[x]) /5  #this isn't 
+            label_info[x] += ' ' * padding
         label = TextFace(label_info[x])
-        label.margin_left = 5
+        if '.svg' in outfile:
+          label.margin_left = 20
+        else:
+          label.margin_left = 5        
         label.fgcolor = colours[x]
         if x > 1 and x % 3 == 0:
           y += 3
