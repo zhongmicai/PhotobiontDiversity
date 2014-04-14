@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<script xlink:href="SVGPan.js"/>
+<title>Generated with ETE http://ete.cgenomics.org</title>
+<desc>Generated with ETE http://ete.cgenomics.org</desc>
+<defs>
+</defs>
+<g id="viewport" transform="translate(200,50)">
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.302674,0,0,0.302674,3,5)"
+font-family=".Lucida Grande UI" font-size="13pt" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="10" font-family=".Lucida Grande UI" font-size="13pt" font-weight="400" font-style="normal" 
+ >0.02</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.302674,0,0,0.302674,0,0)"
+font-family=".Lucida Grande UI" font-size="13pt" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,5 50,5 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.302674,0,0,0.302674,0,0)"
+font-family=".Lucida Grande UI" font-size="13pt" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,0 0,10 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.302674,0,0,0.302674,0,0)"
+font-family=".Lucida Grande UI" font-size="13pt" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="50,0 50,10 " />
+</g>
+</g>
+</g>
+</svg>
