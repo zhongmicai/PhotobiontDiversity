@@ -9,11 +9,11 @@ tree = ET.parse(filename)
 root = tree.getroot()
 
 #remove the thrice-damned "{http://www.w3.org/2000/svg}" gobbledygook from all the top-level tags
-root.find('{http://www.w3.org/2000/svg}svg').tag = 'svg'
+root.tag = 'svg'
 root.find('{http://www.w3.org/2000/svg}title').tag = 'title'
 root.find('{http://www.w3.org/2000/svg}desc').tag = 'desc'
 root.find('{http://www.w3.org/2000/svg}defs').tag = 'defs'
-root.find('{http://www.w3.org/2000/svg}defs').g = 'g'
+root.find('{http://www.w3.org/2000/svg}g').tag = 'g'
 
 #remove gobbledygook from children
 for child in root.iter(tag='{http://www.w3.org/2000/svg}polyline'):
