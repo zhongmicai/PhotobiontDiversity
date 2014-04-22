@@ -1,59 +1,48 @@
-######### UNTESTED ##########
-
 import sys
-import xml.etree.ElementTree as ET
+try:
+    import xml.etree.cElementTree as ET
+except ImportError:
+    import xml.etree.ElementTree as ET
+input_tree = ET.ElementTree(file="/Users/heo3/Documents/PhotobiontDiversity/Test/test.svg")
+for elem in input_tree.iter():
+  elem.tag = elem.tag.replace("{http://www.w3.org/2000/svg}", "")
+input_root = input_tree.getroot()
 
-#Read in tree and set root
-filename = sys.argv[1]
-tree = ET.parse(filename)
-root = tree.getroot()
+input_main = input_root.find('g')
 
-#remove the thrice-damned "{http://www.w3.org/2000/svg}" gobbledygook from all the top-level tags
-root.tag = 'svg'
-root.find('{http://www.w3.org/2000/svg}title').tag = 'title'
-root.find('{http://www.w3.org/2000/svg}desc').tag = 'desc'
-root.find('{http://www.w3.org/2000/svg}defs').tag = 'defs'
-root.find('{http://www.w3.org/2000/svg}g').tag = 'g'
+root = ET.Element('svg')
+for key in input_root.keys():
+  root.set(key, input_root.get(key))
+root.set("xmlns", "http://www.w3.org/2000/svg")
+root.set("xmlns:xlink", "http://www.w3.org/1999/xlink")
 
-#remove gobbledygook from children
-for child in root.iter(tag='{http://www.w3.org/2000/svg}polyline'):
-  child.tag = 'polyline'
-for child in root.iter(tag='{http://www.w3.org/2000/svg}path'):
-  child.tag = 'path'
-for child in root.iter(tag='{http://www.w3.org/2000/svg}text'):
-  child.tag = 'text'
-for child in root.iter(tag='{http://www.w3.org/2000/svg}g'):
-  child.tag = 'g'
+script = ET.Element('script')
+script.set("xlink:href", "SVGPan.js")
 
-#remove empty children and extra formatting from remaining ones (only need the transform matrix)
-g = root.find('g')
-for child in g:
-  if len(child) < 1:
-    g.remove(child)   #for some mysterious reason, I had to iterate multiple times through this step
-  else:   
-    matrix = child.get('transform')
-    sub = child[0]
-    child.clear()
-    child.set('transform', matrix)
-    child.append(sub)
-    child.tag = 'g'
+title = ET.Element('title')
+title.text = "rbcX phylogeny" #this will need to be set dynamically
 
-"""Things left to do:
+description = ET.Element('description')
+description.text = "Modified from output of ETE http://ete.cgenomics.org"
 
--remove formatting from lowest-level items so that it can be specified in css file
-(need to provide separate classes for each lichen family to add color-coding with css)
+defs = ET.Element('defs')
 
--add empty boxes for each taxon, with class names matching accession number (can apply
-fill colour to specific accession numbers in the css this way)
+viewport = ET.Element('g')
+viewport.set("id", "viewport")
+viewport.set("transform", "translate(200, 50)")
 
-Print out result and make sure it will be read correctly as svg (probably need to
-print custom header and discard high-level info here.
+main = ET.Element('g')
+for key in input_main.keys():
+  main.set(key, input_main.get(key))
 
-Then all I have to do is figure out how to modify the css dynamically when a search
-term is entered, which will activate built in highlighting
-
-Once that's done, I will need to figure out how to add links to my database interface and
-read them into the tree viewing page
-
-"""
-
+for child in input_main:
+  if len(child.findall('polyline')) > 0 or \
+     len(child.findall('path')) > 0 or \
+     len(child.findall('text')) > 0:
+    #print child.attrib
+    main.append(child)
+viewport.append(main)
+root.extend((script, title, description, defs, viewport))
+tree = ET.ElementTree(root)
+tree.write(sys.stdout, encoding="utf-8", xml_declaration=True)
+print ""
