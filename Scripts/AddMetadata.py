@@ -61,7 +61,11 @@ def main(argv):
 
   tree = Tree(treefilename)
 
-  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
+  try:
+     con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
+  except mdb.Error, e:
+    print "Error %d: %s" % (e.args[0],e.args[1])
+    sys.exit(1)   
   for leaf in tree:
     with con:
       cur = con.cursor()
@@ -143,7 +147,11 @@ def get_colours(label_info):
     if genus.find('.') != -1:
       colours.append(colours[-1])
     else:
-      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
+      try:
+         con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
+      except mdb.Error, e:
+        print "Error %d: %s" % (e.args[0],e.args[1])
+        sys.exit(1)
       with con:
         cur = con.cursor()
         try:
