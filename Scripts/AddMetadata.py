@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/Users/HeathOBrien/anaconda/bin/python
 
 #Add algal taxonomy info (species) or host info from metadata file to phylogeny.
 
@@ -174,6 +174,8 @@ def add_sig(tree):
   sig["size"] = 5
   sig["fgcolor"] = "black"
   for node in tree.traverse():
+    if node.support > 1: #support values as percentages
+      node.support = node.support / 100
     if node.support < 0.9 or node.is_leaf():
       node.set_style(non_sig)
     else:
