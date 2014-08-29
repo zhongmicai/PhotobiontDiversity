@@ -31,14 +31,18 @@ def main(argv):
        gene = arg
 
   groups = GetGroups(groupfile)
+
   con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
   with con:
     cur = con.cursor()
     #remove saved group info from db
     cur.execute("UPDATE Metadata SET `Group` = NULL WHERE Gene= %s", (gene,))     
     for group in groups.keys():
-      for accession in groups[group]:
-        cur.execute("UPDATE Metadata SET `Group` = %s WHERE Accession= %s AND Gene= %s", (group, accession, gene,))
+      if len(groups[group]) == 1:
+        cur.execute("UPDATE Metadata SET `Group` = 'UNIQUE' WHERE Accession LIKE %s AND Gene= %s", (groups[group][0]+'%', gene,))
+      else:        
+        for accession in groups[group]:
+          cur.execute("UPDATE Metadata SET `Group` = %s WHERE Accession LIKE %s AND Gene= %s", (group, accession+'%', gene,))
 
          
 def update_saved(group_list, gene):
