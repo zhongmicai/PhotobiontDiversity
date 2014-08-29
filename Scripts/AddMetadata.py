@@ -103,7 +103,9 @@ def main(argv):
       leaf.add_face(TextFace(leaf.name.replace("New ", "")), column = 0)  #This replace statement will soon be a relic and will need to be removed
     add_faces(leaf, label_info, outfilename)
    
-  draw_tree(tree, outfilename)   
+  draw_tree(tree, outfilename) 
+  if 'svg' in outfilename:
+    add_header(outfilename)  
 
 def draw_tree(tree, file):
     root = tree.get_tree_root()
@@ -217,6 +219,34 @@ def combine_info(entries):
         out_list.append(name)
 
   return out_list
+  
+def add_header(outfilename):
+  tempfile = open('tempfile, 'w')
+  header = """<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<script xlink:href="SVGPan.js"/>
+<title>Generated with ETE http://ete.cgenomics.org</title>
+<desc>Generated with ETE http://ete.cgenomics.org</desc>
+<defs>
+</defs>
+<g id="viewport" transform="translate(200,50)">
+"""
+  tempfile.write(header)
+svgfile = open(outfilename, 'r')
+
+line_num = 0
+for line in svgfile.readlines():
+  line = line.strip()
+  line_num += 1
+  if line_num > 8:
+    if line == '</svg>':
+      tempfile.write('</g>\n')
+    tempfile.write(line, '\n')
+  svgfile.close()
+  tempfile.close()
+  system('mv tempfile %s' % outfilename)
+
   
 if __name__ == "__main__":
    main(sys.argv[1:])
