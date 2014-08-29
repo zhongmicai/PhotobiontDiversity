@@ -1,0 +1,57 @@
+JX126711	Degelia plumbea	Nostoc sp.	 	Spain: Navas de Estena, Toledo	Otalora	Microb. Ecol. (2012) In press	23184157	rbcX	140829
+KC139773	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139774	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139775	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139776	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139777	 	Nostoc sp.	SSM165-N2a	 	Basil	Unpublished	 	rbcX	140829
+KC139778	 	Nostoc sp.	SSM165-N2b	 	Basil	Unpublished	 	rbcX	140829
+KJ413198	Peltigera sp.	Nostoc sp.	SSM355	 	Basil	Unpublished	 	rbcX	140829
+KJ413199	Peltigera sp.	Nostoc sp.	SSM348a	 	Basil	Unpublished	 	rbcX	140829
+KJ413200	Peltigera sp.	Nostoc sp.	SSM348b	 	Basil	Unpublished	 	rbcX	140829
+KJ413201	Peltigera monticola	Nostoc sp.	SSM338	 	Basil	Unpublished	 	rbcX	140829
+KJ413202	Peltigera monticola	Nostoc sp.	SSM339	 	Basil	Unpublished	 	rbcX	140829
+KJ413203	Peltigera monticola	Nostoc sp.	SSM353	 	Basil	Unpublished	 	rbcX	140829
+KJ413204	Peltigera monticola	Nostoc sp.	SSM334	 	Basil	Unpublished	 	rbcX	140829
+KJ413205	Peltigera sp.	Nostoc sp.	SSM341	 	Basil	Unpublished	 	rbcX	140829
+KJ413206	Peltigera sp.	Nostoc sp.	SSM336	 	Basil	Unpublished	 	rbcX	140829
+KJ413207	Peltigera sp.	Nostoc sp.	SSM347	 	Basil	Unpublished	 	rbcX	140829
+KJ413208	Peltigera sp.	Nostoc sp.	SSM344	 	Basil	Unpublished	 	rbcX	140829
+KJ413209	Peltigera neckeri	Nostoc sp.	SSM352	 	Basil	Unpublished	 	rbcX	140829
+KJ413210	Peltigera neckeri	Nostoc sp.	SSM351	 	Basil	Unpublished	 	rbcX	140829
+KJ413211	Peltigera rufescens	Nostoc sp.	SSM337	 	Basil	Unpublished	 	rbcX	140829
+KJ413212	Peltigera canina	Nostoc sp.	SSM340	 	Basil	Unpublished	 	rbcX	140829
+KJ413213	Peltigera membranacea	Nostoc sp.	SSM335	 	Basil	Unpublished	 	rbcX	140829
+KJ413214	Peltigera praetextata	Nostoc sp.	SSM342	 	Basil	Unpublished	 	rbcX	140829
+KJ413215	Peltigera praetextata	Nostoc sp.	SSM343	 	Basil	Unpublished	 	rbcX	140829
+KJ413216	Peltigera sp.	Nostoc sp.	SW329	 	Basil	Unpublished	 	rbcX	140829
+KJ413217	Peltigera sp.	Nostoc sp.	SW330	 	Basil	Unpublished	 	rbcX	140829
+KJ413218	Peltigera sp.	Nostoc sp.	SW331	 	Basil	Unpublished	 	rbcX	140829
+KJ413219	Peltigera sp.	Nostoc sp.	OSA332	 	Basil	Unpublished	 	rbcX	140829
+KJ616374	Peltigera sp.	Nostoc sp.	SSM360a	 	Basil	Unpublished	 	rbcX	140829
+KJ616375	Peltigera sp.	Nostoc sp.	SSM358a	 	Basil	Unpublished	 	rbcX	140829
+KJ616376	Peltigera sp.	Nostoc sp.	SSM356a	 	Basil	Unpublished	 	rbcX	140829
+KJ616377	Peltigera sp.	Nostoc sp.	SSM356b	 	Basil	Unpublished	 	rbcX	140829
+KJ616378	Peltigera sp.	Nostoc sp.	SSM359	 	Basil	Unpublished	 	rbcX	140829
+KM005996	Peltigera gowardii	Nostoc sp.	HV13	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM005997	Peltigera gowardii	Nostoc sp.	HV22	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM005998	Peltigera gowardii	Nostoc sp.	P1417	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM005999	Peltigera gowardii	Nostoc sp.	P1418	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006000	Peltigera gowardii	Nostoc sp.	P1419	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006001	Peltigera gowardii	Nostoc sp.	P1420	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006002	Peltigera gowardii	Nostoc sp.	P1421	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006003	Peltigera gowardii	Nostoc sp.	P1422	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006004	Peltigera gowardii	Nostoc sp.	P1423	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006005	Peltigera gowardii	Nostoc sp.	P1429	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006006	Peltigera hydrothyria	Nostoc sp.	HV02	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006011	Peltigera hydrothyria	Nostoc sp.	HV20	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006012	Peltigera hydrothyria	Nostoc sp.	HV21	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006014	Peltigera hydrothyria	Nostoc sp.	P1492	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006017	Peltigera hydrothyria	Nostoc sp.	P1495	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006019	Peltigera hydrothyria	Nostoc sp.	P1497	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006022	Peltigera aquatica	Nostoc sp.	HV12	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006023	Peltigera aquatica	Nostoc sp.	HV16	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006024	Peltigera aquatica	Nostoc sp.	HV17	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006025	Peltigera aquatica	Nostoc sp.	HV18	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006026	Peltigera aquatica	Nostoc sp.	HV19	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006027	Peltigera aquatica	Nostoc sp.	P1430	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006028	Peltigera aquatica	Nostoc sp.	P1434	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829

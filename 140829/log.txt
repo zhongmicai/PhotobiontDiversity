@@ -1,0 +1,31 @@
+Fri 29 Aug 2014 12:48:53 BST: cd ~/Database/nt
+Fri 29 Aug 2014 12:48:53 BST: update_blastdb.pl nt
+Fri 29 Aug 2014 12:48:57 BST: for file in ; do tar -xvzf ; rm ; done;
+Fri 29 Aug 2014 12:48:57 BST: cd ~/Documents/PhotobiontDiversity/rbcX
+Fri 29 Aug 2014 12:48:57 BST: blastn -query /Users/HeathOBrien/Documents/PhotobiontDiversity/ReferenceSeqs/Ncommune_rbcX.fa -db nt -evalue 1e-180 -max_target_seqs 3000 -out rbcX.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+Fri 29 Aug 2014 12:49:20 BST: awk '{if(rbcX2<rbcX3) print Scripts/Update.sh}' rbcX.bl | awk '{if ( < 3000) print Scripts/Update.sh}' |cut -f3 | sort | uniq > rbcX_acc.txt
+Fri 29 Aug 2014 12:49:20 BST: blastdbcmd -db nt -entry_batch rbcX_acc.txt |../Scripts/GetRedundant.pl >rbcX_all.fa
+Fri 29 Aug 2014 12:49:20 BST: awk '{if(rbcX2>rbcX3) print Scripts/Update.sh}' rbcX.bl | awk '{if ( < 3000) print Scripts/Update.sh}' |cut -f3 | sort | uniq > rbcX_acc_rc.txt
+Fri 29 Aug 2014 12:49:20 BST: rm rbcX_acc_rc.txt
+Fri 29 Aug 2014 12:49:21 BST: awk '{if ( > 3000) print Scripts/Update.sh}' rbcX.bl > rbcX_long.bl
+Fri 29 Aug 2014 12:49:21 BST: cut -f3 rbcX_long.bl | sort | uniq > rbcX_acc_long.txt
+Fri 29 Aug 2014 12:49:21 BST: blastdbcmd -db nt -entry_batch rbcX_acc_long.txt > rbcX_all_long.fa
+Fri 29 Aug 2014 12:49:21 BST: ../Scripts/ExtractHitRegion.py rbcX_all_long.fa rbcX_long.bl >>rbcX_all.fa
+Fri 29 Aug 2014 12:49:21 BST: wc -l rbcX_acc.txt
+Fri 29 Aug 2014 12:49:21 BST: ../Scripts/GetNew.py rbcX_all.fa >rbcX_new.fa
+Fri 29 Aug 2014 12:49:21 BST: grep '>' rbcX_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >rbcX_new.gb
+Fri 29 Aug 2014 12:49:41 BST: ../Scripts/ParseHost.pl rbcX_new.gb rbcX 140829 >rbcX_metadata_new.txt
+Fri 29 Aug 2014 12:49:41 BST: ../UpdateDB.py rbcX_metadata_new.txt
+Fri 29 Aug 2014 12:49:41 BST: cat rbcX_new.fa >> rbcX.fa
+Fri 29 Aug 2014 12:49:41 BST: > ../140829/log.txt
+Fri 29 Aug 2014 12:49:41 BST: cat rbcX_new.gb >> rbcX.gb
+Fri 29 Aug 2014 12:49:41 BST: usearch -cluster_fast rbcX.fa -id 1 -centroids rbcX_nr.fa -uc rbcX_groups.txt
+Fri 29 Aug 2014 12:49:41 BST: ../Scripts/GetGroups.py -g rbcX_groups.txt -l rbcX
+Fri 29 Aug 2014 12:49:41 BST: mafft rbcX_nr.fa  >rbcX_aln.fa
+Fri 29 Aug 2014 12:49:45 BST: exset={ 0-1176,1238,1434,1436-1437,1461-1473,1475-1511,1514-1753,1757-1763,1765-1779,1787-1791,1803-1816,1821,1825-1826,1834,1841-1848,1850,1858,1865-1872,1926,1945,1969,2013,2074,2222-2224,2240-2278,2280-2317,2354-2392,2413-2429,2440-2602,2610,2641,2675-2986 }
+Fri 29 Aug 2014 12:49:45 BST: trimal -in rbcX_aln.fa  -phylip -select { 0-1176,1238,1434,1436-1437,1461-1473,1475-1511,1514-1753,1757-1763,1765-1779,1787-1791,1803-1816,1821,1825-1826,1834,1841-1848,1850,1858,1865-1872,1926,1945,1969,2013,2074,2222-2224,2240-2278,2280-2317,2354-2392,2413-2429,2440-2602,2610,2641,2675-2986 } >rbcX.phy
+Fri 29 Aug 2014 12:49:45 BST: phyml --quiet --no_memory_check -i rbcX.phy
+Fri 29 Aug 2014 12:55:01 BST: mv rbcX.phy_phyml_tree.txt rbcX.nwk
+Fri 29 Aug 2014 12:55:01 BST: ../Scripts/FormatTree.py -t rbcX.nwk -l rbcX -d 140829} -o rbcX.svg
+Fri 29 Aug 2014 12:55:07 BST: ../Scripts/FormatTree.py -t rbcX.nwk -l rbcX -d 140829} -o rbcX.pdf
+Fri 29 Aug 2014 12:55:11 BST: cp rbcX.pdf rbcX.svg rbcX.nwk rbcX.phy rbcX_aln.fa rbcX_nr.fa rbcX_new.fa rbcX_metadata_new.txt rbcX_new.gb ../140829

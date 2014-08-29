@@ -1,0 +1,789 @@
+Accession	Host	Species	Location	Author	Reference	Pubmed	Gene	Date
+AJ632030	free-living	Nostoc sp.		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847	rbcX	130819
+AJ632063	free-living	Nostoc calcicola		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847	rbcX	130819
+AJ632064	free-living	Nostoc calcicola		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847	rbcX	130819
+AJ632065	free-living	Nostoc edaphicum		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847	rbcX	130819
+AJ632066	free-living	Nostoc ellipsosporum		Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)	15653847	rbcX	130819
+DQ185260	Peltigera membranacea	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185261	Peltigera canina	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185262	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185263	Peltigera didactyla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185264	Peltigera didactyla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185265	Geosiphon pyriforme	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185266	Anthoceros sp.	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185267	Encephalartos natalensis	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185268	Blasia pusilla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185269	Blasia pusilla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185270	Anthoceros sp.	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185271	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185272	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185273	Collema crispum	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185274	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185275	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185276	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185277	Peltigera didactyla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185278	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185279	Peltigera canina	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185280	free-living	Nostoc commune		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185281	Peltigera neopolydactyla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185282	Peltigera canina	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185283	Peltigera membranacea	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185284	Peltigera membranacea	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185285	Peltigera horizontalis	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185286	Sticta beauvoisii	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185287	Peltigera canina	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185289	Leptogium gelatinosum	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185290	Lobaria amplissima	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185291	Lobaria hallii	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185292	Massalongia carnosa	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185293	Nephroma bellum	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185294	Nephroma helveticum	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185295	Pannaria conoplea	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185296	Peltigera canina	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185303	Peltigera degenii	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185304	Peltigera didactyla	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185305	Peltigera lepidophora	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185306	Peltigera membranacea	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185307	Peltigera membranacea	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185308	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185309	Cycas circinalis	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185310	Peltigera rufescens	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185311	Peltigera aphthosa	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185312	Peltigera aphthosa	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185313	free-living	Nostoc muscorum		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185314	Blasia pusilla	Nostoc punctiforme		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185315	Gunnera manicata	Nostoc punctiforme		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185316	Geosiphon pyriforme	Nostoc punctiforme		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185317	free-living	Nostoc punctiforme		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ185318	Sticta fuliginosa	Nostoc sp.		O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)		rbcX	130819
+DQ266000	Lobaria amplissima	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266001	Lobaria amplissima	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266002	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266003	Pseudocyphellaria clathrata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266004	Pseudocyphellaria mallota	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266005	Pseudocyphellaria coriifolia	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266006	Pseudocyphellaria intricata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266007	Pseudocyphellaria hirsuta	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266008	Pseudocyphellaria scabrosa	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266009	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266010	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266011	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266012	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266013	Pseudocyphellaria intricata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266014	Pseudocyphellaria hirsuta	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266015	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266016	Pseudocyphellaria coriifolia	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266017	Pseudocyphellaria pilosella	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266018	Pseudocyphellaria mallota	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266019	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266020	Pseudocyphellaria intricata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266021	Pseudocyphellaria crocata	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266022	Pseudocyphellaria coriifolia	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266023	Sticta hypochra	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266024	Sticta hypochra	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266025	Sticta hypochra	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266026	Sticta hypochra	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266027	Sticta gaudichaldia	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266028	Sticta hypochra	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266029	Stereocaulon exutum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266030	Stereocaulon fronduliferum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266031	Stereocaulon tomentosum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266032	Protopannaria pezizoides	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266033	Fuscopannaria leucophaea	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266034	Peltigera degenii	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266035	Peltigera neopolydactyla	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266036	Massalongia carnosa	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266037	Leptogium saturninum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266038	Leptogium saturninum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266039	Collema flaccidum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266040	Collema flaccidum	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266041	Pseudocyphellaria scabrosa	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+DQ266042	Pseudocyphellaria lechleri	Nostoc sp.		Stenroos	Cladistics 22 (3), 230-238 (2006)		rbcX	130819
+EF102295	Degelia plumbea	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102296	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102297	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102298	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102299	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102300	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102301	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102302	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102303	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102304	Lobaria pulmonaria	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102305	Lobaria scrobiculata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102306	Nephroma bellum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102307	Nephroma bellum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102308	Nephroma bellum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102309	Nephroma bellum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102310	Nephroma bellum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102311	Nephroma bellum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102312	Nephroma laevigatum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102313	Nephroma laevigatum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102314	Nephroma parile	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102315	Nephroma parile	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102316	Nephroma parile	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102317	Nephroma parile	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102318	Nephroma resupinatum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102319	Nephroma resupinatum	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102320	Nephroma tangeriense	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102321	Protopannaria pezizoides	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102322	Parmeliella triptophylla	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102323	Parmeliella triptophylla	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102324	Parmeliella triptophylla	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102325	Parmeliella triptophylla	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102326	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102327	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102328	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102329	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102330	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102331	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102332	Peltigera leucophlebia	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102333	Peltigera malacea	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102334	Peltigera membranacea	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102335	Peltigera membranacea	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102336	Peltigera neopolydactyla	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102337	Peltigera neopolydactyla	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102338	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102339	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102340	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102341	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102342	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102343	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102344	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102345	Peltigera praetextata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102346	Peltigera sp.	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EF102347	Pseudocyphellaria crocata	Nostoc sp.		Myllys	New Phytol. 173 (3), 621-629 (2007)	17244057	rbcX	130819
+EU672828	Peltigera didactyla	Nostoc sp.		Lei	Unpublished		rbcX	130819
+EU672829	Peltigera didactyla	Nostoc sp.		Lei	Unpublished		rbcX	130819
+EU672830	Peltigera didactyla	Nostoc sp.		Lei	Unpublished		rbcX	130819
+EU877460	Collema crim	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877461	Collema auriforme	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877462	Collema auriforme	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877463	Collema fasciculare	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877464	Collema fasciculare	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877465	Collema flaccidum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877466	Collema flaccidum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877467	Collema fragile	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877468	Collema fragile	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877469	Collema furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877470	Collema furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877471	Collema furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877472	Collema furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877473	Collema nigrescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877474	Collema nigrescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877475	Collema nigrescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877476	Collema polycarpon	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877477	Collema polycarpon	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877478	Collema subnigrescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877479	Collema subnigrescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877480	Collema subnigrescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877481	Collema tenax	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877482	Collema tenax	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877483	Collema tenax	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877484	Leptogium austroamericanum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877485	Leptogium austroamericanum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877486	Leptogium azureum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877487	Leptogium azureum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877488	Leptogium azureum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877489	Leptogium brebissonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877490	Leptogium brebissonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877491	Leptogium corniculatum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877492	Leptogium corniculatum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877493	Leptogium corticola	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877494	Leptogium corticola	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877495	Leptogium cyanescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877496	Leptogium cyanescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877497	Leptogium cyanescens	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877498	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877499	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877500	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877501	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877502	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877503	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877504	Leptogium furfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877505	Leptogium gelatinosum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877506	Leptogium gelatinosum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877507	Leptogium liehenoides	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877508	Leptogium liehenoides	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877509	Leptogium liehenoides	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877510	Leptogium liehenoides	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877511	Leptogium liehenoides	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877512	Leptogium magnussonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877513	Leptogium magnussonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877514	Leptogium magnussonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877515	Leptogium magnussonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877516	Leptogium magnussonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877517	Leptogium magnussonii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877518	Leptogium pseudofurfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877519	Leptogium pseudofurfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877520	Leptogium pseudofurfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877521	Leptogium pseudofurfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877522	Leptogium pseudofurfuraceum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877523	Leptogium pulvinatum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877524	Leptogium pulvinatum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877525	Leptogium saturninum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877526	Leptogium saturninum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877527	Leptogium saturninum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877528	Leptogium saturninum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877529	Leptogium scharderii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+EU877530	Leptogium scharderii	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+GQ184605	Leptogium lichenoides	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+GQ184606	Collema flaccidum	Nostoc sp.		Otalora	Mol. Phylogenet. Evol. 56 (3), 1089-1095 (2010)	20493269	rbcX	130819
+HQ335213	unknown	Nostoc sp.		Zhang	Unpublished		rbcX	130819
+HQ335214	unknown	Nostoc sp.		Zhang	Unpublished		rbcX	130819
+JX126710.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.002	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.003	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.004	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.005	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.006	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.007	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.008	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.009	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.010	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.011	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.012	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.013	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.014	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.015	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.016	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.017	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.018	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.019	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.020	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.021	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.022	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.023	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.024	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.025	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.026	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.027	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.028	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.029	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.030	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.031	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.032	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.033	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.034	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.035	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.036	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.037	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.038	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.039	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.040	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.041	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.042	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.043	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.044	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.045	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.046	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.047	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.048	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.049	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.050	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.051	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.052	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.053	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.054	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.055	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.056	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.057	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.058	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.059	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.060	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.061	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.062	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.063	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.064	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.065	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.066	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.067	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.068	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.069	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.070	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.071	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.072	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.073	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.074	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.075	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.076	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.077	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.078	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.079	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.080	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.081	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.082	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.083	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.084	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.085	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.086	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.087	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.088	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.089	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.090	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.091	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.092	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.093	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.094	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.095	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.096	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.097	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.098	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.099	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.100	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.101	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.102	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.103	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.104	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.105	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.106	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.107	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.108	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.109	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.110	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.111	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126710.112	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.002	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.003	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.004	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.005	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126711.006	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126712.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126712.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126712.002	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.002	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.003	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.004	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.005	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.006	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.007	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.008	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.009	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.010	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.011	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.012	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.013	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.014	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.015	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126713.016	Degelia atlantica	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.002	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.003	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.004	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.005	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.006	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.007	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.008	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.009	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.010	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.011	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.012	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.013	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126714.014	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126715.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126715.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.000	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.001	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.002	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.003	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.004	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.005	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.006	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.007	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.008	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.009	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.010	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.011	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.012	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126716.013	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126717	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX126718	Degelia plumbea	Nostoc sp.		Otalora	Microb. Ecol. 65 (2), 517-530 (2012)	23184157	rbcX	130819
+JX876583	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876584	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876585	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876586	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876587	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876588	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876589	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876590	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876591	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876592	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876593	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876594	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876595	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876596	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876597	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876598	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876599	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876600	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876601	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876602	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+JX876603	Peltigera membranacea	Nostoc sp.		Manoharan	Symbiosis. 58, 91-98 (2012)		rbcX	130819
+KC291407	Peltigera membranacea	Nostoc sp.		Gagunashvili	Unpublished		rbcX	130819
+KC437651	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437652	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437653	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437654	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437655	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437656	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437657	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437658	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437659	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437660	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437661	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437662	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437663	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437664	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437665	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437666	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437667	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437668	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437669	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437670	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437671	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437672	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437673	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437674	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437675	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437676	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437677	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437678	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437679	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437680	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437681	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437682	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437683	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437684	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437685	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437686	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437687	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437688	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437689	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437690	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437691	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437692	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437693	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437694	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437695	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437696	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437697	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437698	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437699	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437700	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437701	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437702	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437703	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437704	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437705	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437706	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437707	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437708	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437709	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437710	Peltigera canina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437711	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437712	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437713	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437714	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437715	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437716	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437717	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437718	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437719	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437720	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437721	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437722	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437723	Peltigera praetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437724	Peltigera praetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437725	Peltigera praetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437726	Peltigera sp.	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437727	Peltigera sp.	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437728	Peltigera sp.	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437729	Peltigera sp.	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437730	Peltigera cinnamomea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437731	Peltigera cinnamomea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437732	Peltigera cinnamomea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437733	Peltigera cinnamomea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437734	Peltigera cinnamomea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437735	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437736	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437737	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437738	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437739	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437740	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437741	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437742	Peltigera neckeri	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437743	Peltigera neckeri	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437744	Peltigera horizontalis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437745	Peltigera horizontalis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437746	Peltigera horizontalis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437747	Peltigera horizontalis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437748	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437749	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437750	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437751	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437752	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437753	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437754	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437755	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437756	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437757	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437758	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437759	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437760	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437761	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437762	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437763	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437764	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437765	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437766	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437767	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437768	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437769	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437770	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437771	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437772	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437773	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437774	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437775	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437776	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437777	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437778	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437779	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437780	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437781	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437782	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437783	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437784	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437785	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437786	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437787	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437788	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437789	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437790	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437791	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437792	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437793	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437794	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437795	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437796	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437797	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437798	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437799	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437800	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437801	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437802	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437803	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437804	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437805	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437806	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437807	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437808	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437809	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437810	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437811	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437812	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437813	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437814	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437815	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437816	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437817	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437818	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437819	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437820	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437821	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437822	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437823	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437824	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437825	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437826	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437827	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437828	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437829	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437830	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437831	Peltigera degenii	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437832	Peltigera membranacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437833	Peltigera membranacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437834	Peltigera membranacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437835	Peltigera membranacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437836	Peltigera neopolydactyla	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437837	Peltigera polydactylon	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437838	Peltigera ponojensis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437839	Peltigera ponojensis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437840	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437841	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437842	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437843	Nephroma bellum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437844	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437845	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437846	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437847	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437848	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437849	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437850	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437851	Peltigera venosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437852	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437853	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437854	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437855	Peltigera fuscopraetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437856	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437857	Nephroma resupinatum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437858	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437859	Nephroma bellum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437860	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437861	Peltigera kristinssoni	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437862	Peltigera venosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437863	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437864	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437865	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437866	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437867	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437868	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437869	Peltigera polydactylon	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437870	Peltigera polydactylon	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437871	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437872	Peltigera praetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437873	Peltigera praetextata	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437874	Peltigera membranacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437875	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437876	Peltigera neopolydactyla	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437877	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437878	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437879	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437880	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437881	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437882	Peltigera collina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437883	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437884	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437885	Nephroma arcticum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437886	Nephroma arcticum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437887	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437888	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437889	Peltigera collina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437890	Peltigera collina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437891	Nephroma parile	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437892	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437893	Peltigera collina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437894	Peltigera britannica	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437895	Peltigera collina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437896	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437897	Peltigera horizontalis	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437898	Peltigera aphthosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437899	Peltigera venosa	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437900	Peltigera neocanina	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437901	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437902	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437903	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437904	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437905	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437906	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437907	Nephroma arcticum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437908	Peltigera neopolydactyla	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437909	Nephroma resupinatum	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437910	Peltigera neopolydactyla	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437911	Peltigera leucophlebia	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437912	Peltigera neopolydactyla	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437913	Lobaria kurkawe	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437914	Peltigera neopolydactyla	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437915	Lobaria kurkawe	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437916	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KC437917	Peltigera malacea	Nostoc sp.		O'Brien	New Phytol. 198 (2), 557-566 (2013)	23406441	rbcX	130819
+KF142679	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142680	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142681	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142682	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142683	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142684	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142685	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142686	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142687	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142688	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142689	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142690	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142691	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142692	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142693	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142694	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142695	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142696	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142697	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142698	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142699	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142700	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142701	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142702	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142703	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142704	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142705	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142706	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142707	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142708	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142709	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+KF142710	Gunnera magellanica	Nostoc sp.		Fernandez-Martinez	Microb. Ecol. (2013) In press	23609130	rbcX	130819
+Z94889	free-living	Nostoc sp.		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201	rbcX	130819
+Z94890	free-living	Nostoc sp.		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201	rbcX	130819
+Z94891	free-living	Nostoc sp.		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201	rbcX	130819
+Z94892	free-living	Nostoc commune		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201	rbcX	130819
+Z94893	free-living	Nostoc commune var. flagelliforme		Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)	9642201	rbcX	130819
+CP001037	Macrozamia sp.	Nostoc punctiforme		Meeks	Photosynth. Res. 70(10):85-106	16228364	rbcX	130819
+JX126711	Degelia plumbea	Nostoc sp.	 	Spain: Navas de Estena, Toledo	Otalora	Microb. Ecol. (2012) In press	23184157	rbcX	140829
+KC139773	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139774	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139775	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139776	Peltigera sp.	Nostoc sp.	 	 	Basil	Unpublished	 	rbcX	140829
+KC139777	 	Nostoc sp.	SSM165-N2a	 	Basil	Unpublished	 	rbcX	140829
+KC139778	 	Nostoc sp.	SSM165-N2b	 	Basil	Unpublished	 	rbcX	140829
+KJ413198	Peltigera sp.	Nostoc sp.	SSM355	 	Basil	Unpublished	 	rbcX	140829
+KJ413199	Peltigera sp.	Nostoc sp.	SSM348a	 	Basil	Unpublished	 	rbcX	140829
+KJ413200	Peltigera sp.	Nostoc sp.	SSM348b	 	Basil	Unpublished	 	rbcX	140829
+KJ413201	Peltigera monticola	Nostoc sp.	SSM338	 	Basil	Unpublished	 	rbcX	140829
+KJ413202	Peltigera monticola	Nostoc sp.	SSM339	 	Basil	Unpublished	 	rbcX	140829
+KJ413203	Peltigera monticola	Nostoc sp.	SSM353	 	Basil	Unpublished	 	rbcX	140829
+KJ413204	Peltigera monticola	Nostoc sp.	SSM334	 	Basil	Unpublished	 	rbcX	140829
+KJ413205	Peltigera sp.	Nostoc sp.	SSM341	 	Basil	Unpublished	 	rbcX	140829
+KJ413206	Peltigera sp.	Nostoc sp.	SSM336	 	Basil	Unpublished	 	rbcX	140829
+KJ413207	Peltigera sp.	Nostoc sp.	SSM347	 	Basil	Unpublished	 	rbcX	140829
+KJ413208	Peltigera sp.	Nostoc sp.	SSM344	 	Basil	Unpublished	 	rbcX	140829
+KJ413209	Peltigera neckeri	Nostoc sp.	SSM352	 	Basil	Unpublished	 	rbcX	140829
+KJ413210	Peltigera neckeri	Nostoc sp.	SSM351	 	Basil	Unpublished	 	rbcX	140829
+KJ413211	Peltigera rufescens	Nostoc sp.	SSM337	 	Basil	Unpublished	 	rbcX	140829
+KJ413212	Peltigera canina	Nostoc sp.	SSM340	 	Basil	Unpublished	 	rbcX	140829
+KJ413213	Peltigera membranacea	Nostoc sp.	SSM335	 	Basil	Unpublished	 	rbcX	140829
+KJ413214	Peltigera praetextata	Nostoc sp.	SSM342	 	Basil	Unpublished	 	rbcX	140829
+KJ413215	Peltigera praetextata	Nostoc sp.	SSM343	 	Basil	Unpublished	 	rbcX	140829
+KJ413216	Peltigera sp.	Nostoc sp.	SW329	 	Basil	Unpublished	 	rbcX	140829
+KJ413217	Peltigera sp.	Nostoc sp.	SW330	 	Basil	Unpublished	 	rbcX	140829
+KJ413218	Peltigera sp.	Nostoc sp.	SW331	 	Basil	Unpublished	 	rbcX	140829
+KJ413219	Peltigera sp.	Nostoc sp.	OSA332	 	Basil	Unpublished	 	rbcX	140829
+KJ616374	Peltigera sp.	Nostoc sp.	SSM360a	 	Basil	Unpublished	 	rbcX	140829
+KJ616375	Peltigera sp.	Nostoc sp.	SSM358a	 	Basil	Unpublished	 	rbcX	140829
+KJ616376	Peltigera sp.	Nostoc sp.	SSM356a	 	Basil	Unpublished	 	rbcX	140829
+KJ616377	Peltigera sp.	Nostoc sp.	SSM356b	 	Basil	Unpublished	 	rbcX	140829
+KJ616378	Peltigera sp.	Nostoc sp.	SSM359	 	Basil	Unpublished	 	rbcX	140829
+KM005996	Peltigera gowardii	Nostoc sp.	HV13	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM005997	Peltigera gowardii	Nostoc sp.	HV22	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM005998	Peltigera gowardii	Nostoc sp.	P1417	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM005999	Peltigera gowardii	Nostoc sp.	P1418	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006000	Peltigera gowardii	Nostoc sp.	P1419	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006001	Peltigera gowardii	Nostoc sp.	P1420	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006002	Peltigera gowardii	Nostoc sp.	P1421	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006003	Peltigera gowardii	Nostoc sp.	P1422	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006004	Peltigera gowardii	Nostoc sp.	P1423	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006005	Peltigera gowardii	Nostoc sp.	P1429	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006006	Peltigera hydrothyria	Nostoc sp.	HV02	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006011	Peltigera hydrothyria	Nostoc sp.	HV20	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006012	Peltigera hydrothyria	Nostoc sp.	HV21	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006014	Peltigera hydrothyria	Nostoc sp.	P1492	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006017	Peltigera hydrothyria	Nostoc sp.	P1495	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006019	Peltigera hydrothyria	Nostoc sp.	P1497	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006022	Peltigera aquatica	Nostoc sp.	HV12	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006023	Peltigera aquatica	Nostoc sp.	HV16	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006024	Peltigera aquatica	Nostoc sp.	HV17	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006025	Peltigera aquatica	Nostoc sp.	HV18	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006026	Peltigera aquatica	Nostoc sp.	HV19	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006027	Peltigera aquatica	Nostoc sp.	P1430	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+KM006028	Peltigera aquatica	Nostoc sp.	P1434	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
