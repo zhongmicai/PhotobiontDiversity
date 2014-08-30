@@ -4,31 +4,6 @@
 
 #Usage: cat treefile | AddMetadata.pl metadatafile species|host > outfile
 
-"""This is now working to produce nice print-ready PDFs or (almost) web-ready SVGs
-
-The following header needs to be added to the start of the SVG in order to permit
-scrolling:
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
-<script xlink:href="SVGPan.js"/>
-<title>Generated with ETE http://ete.cgenomics.org</title>
-<desc>Generated with ETE http://ete.cgenomics.org</desc>
-<defs>
-</defs>
-<g id="viewport" transform="translate(200,50)">
-
-(this replaces all of the lines up to and including </defs> in the original file)
-
-I also have close the <g at the end of the file ( <\g> )
-
-At some point I need to write a script to make these modifications
-
-I also have to fix the issue where, eg; Pannaria and Pseudocyphellaria are both abbreviated P.
-I should also sort the host names to make things clearer
-"""
-
 import sys, getopt, string, warnings
 import MySQLdb as mdb
 from ete2 import Tree, TreeStyle, TextFace, NodeStyle  
@@ -116,7 +91,7 @@ def main(argv):
    
   draw_tree(tree, outfilename) 
   if 'svg' in outfilename:
-    add_header(outfilename)  
+    add_header(outfilename, locus)  
 
 
 
@@ -237,18 +212,18 @@ def combine_info(entries):
 
   return out_list
   
-def add_header(outfilename):
+def add_header(outfilename, locus):
   tempfile = open('tempfile', 'w')
   header = """<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
-<script xlink:href="SVGPan.js"/>
-<title>Generated with ETE http://ete.cgenomics.org</title>
+<script xlink:href="../SVGPan.js"/>
+<title>%s Phylogeny</title>
 <desc>Generated with ETE http://ete.cgenomics.org</desc>
 <defs>
 </defs>
 <g id="viewport" transform="translate(200,50)">
-"""
+""" % locus
   tempfile.write(header)
   svgfile = open(outfilename, 'r')
 
