@@ -8,7 +8,7 @@ try:
     cur = con.cursor()
     for line in fileinput.input():
         accession = line.strip()
-        cur.execute("SELECT * FROM Metadata WHERE Accession= %s", (accession,))
+        cur.execute("SELECT * FROM Metadata WHERE SeqID= %s", (accession,))
         if not cur.fetchone():
             print accession
 except mdb.Error, e:

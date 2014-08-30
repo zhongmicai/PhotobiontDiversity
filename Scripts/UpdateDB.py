@@ -20,9 +20,9 @@ with con:
       except ValueError:
         warnings.warn("row length %s does not match the expected number of columns (10). Double-check delimiter" % len(row))
         continue
-      cur.execute("SELECT * FROM Metadata WHERE Accession = %s", (Accession))
+      cur.execute("SELECT * FROM Metadata WHERE SeqID = %s", (Accession))
       db_entries = cur.fetchall()
       if len(db_entries) == 0:
-        cur.execute("INSERT INTO Metadata(Accession,Host,Species,Strain,Location,Author,Reference,Pubmed,Gene,Date) VALUES(%s, %s, %s, %s, %s,%s, %s, %s, %s, %s)", (Accession,Host,Species,Strain,Location,Author,Reference,Pubmed,Gene,Date))
+        cur.execute("INSERT INTO Metadata(SeqID,Host,Species,Strain,Location,Author,Reference,Pubmed,Gene,Date) VALUES(%s, %s, %s, %s, %s,%s, %s, %s, %s, %s)", (Accession,Host,Species,Strain,Location,Author,Reference,Pubmed,Gene,Date))
       else:
         warnings.warn("Metadata already present in DB for %s" % Accession)

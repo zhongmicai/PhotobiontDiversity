@@ -27,7 +27,7 @@ def main(seq_file):
     name = get_fasta_accession(seq_record)
     seq_record.id = name
     seq_record.description = ''
-    cur.execute("SELECT Gene FROM Metadata WHERE Accession = %s", (name))
+    cur.execute("SELECT Gene FROM Metadata WHERE SeqID = %s", (name))
     db_info = cur.fetchall()
     if len(db_info) > 1:
       warnings.warn("multiple entries in DB for %s" % name)

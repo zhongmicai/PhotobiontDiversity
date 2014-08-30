@@ -39,10 +39,10 @@ def main(argv):
     cur.execute("UPDATE Metadata SET `Group` = NULL WHERE Gene= %s", (gene,))     
     for group in groups.keys():
       if len(groups[group]) == 1:
-        cur.execute("UPDATE Metadata SET `Group` = 'UNIQUE' WHERE Accession LIKE %s AND Gene= %s", (groups[group][0]+'%', gene,))
+        cur.execute("UPDATE Metadata SET `Group` = 'UNIQUE' WHERE SeqID LIKE %s AND Gene= %s", (groups[group][0]+'%', gene,))
       else:        
         for accession in groups[group]:
-          cur.execute("UPDATE Metadata SET `Group` = %s WHERE Accession LIKE %s AND Gene= %s", (group, accession+'%', gene,))
+          cur.execute("UPDATE Metadata SET `Group` = %s WHERE SeqID LIKE %s AND Gene= %s", (group, accession+'%', gene,))
 
          
 def update_saved(group_list, gene):
@@ -51,9 +51,9 @@ def update_saved(group_list, gene):
     cur = con.cursor()
     for group in group_list[1:]:
       print "setting %s to %s:" % (group, group_list[0])
-      cur.execute("SELECT Accession FROM Metadata WHERE `Group`= %s AND Gene= %s", (group,gene,))
+      cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s", (group,gene,))
       for row in cur.fetchall():
-        cur.execute("UPDATE Metadata SET `Group` = %s WHERE Accession= %s AND Gene= %s", (group_list[0], row[0], gene,))
+        cur.execute("UPDATE Metadata SET `Group` = %s WHERE SeqID= %s AND Gene= %s", (group_list[0], row[0], gene,))
 
   
 def unique_group(gene):
@@ -98,7 +98,7 @@ def retrieve_groups(group, gene):
   with con:
     cur = con.cursor()
     for accession in group:   #Assigned saved group numbers from db to groups with representatives in db
-      cur.execute("SELECT `Group` FROM Metadata WHERE Accession= %s AND Gene= %s", (accession, gene,))
+      cur.execute("SELECT `Group` FROM Metadata WHERE SeqID= %s AND Gene= %s", (accession, gene,))
       db_group = cur.fetchone()[0]
       if db_group and db_group != 'UNIQUE':            #accession is already assigned to a group in the database
         if db_group not in saved_groups:

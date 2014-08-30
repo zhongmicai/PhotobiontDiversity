@@ -50,7 +50,7 @@ def main(argv):
       cur = con.cursor()
       groups = {}
       accession = leaf.name
-      cur.execute("SELECT `Group`, Host, Species FROM Metadata WHERE Accession LIKE %s AND Gene= %s", (accession + '%', locus,))
+      cur.execute("SELECT `Group`, Host, Species FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
       try:
         (group, host, species) = cur.fetchone()
       except TypeError:    
@@ -79,9 +79,9 @@ def main(argv):
       #bg_colour = "Yellow"
     elif date:
       if group == 'UNIQUE':
-        cur.execute("SELECT Accession FROM Metadata WHERE Accession LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
+        cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
       else:
-        cur.execute("SELECT Accession FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
+        cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
       if len(cur.fetchall()) > 0:
           print "adding highlighting to node %s" % leaf.name
           label.background.color = "Yellow"
