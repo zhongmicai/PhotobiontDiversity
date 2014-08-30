@@ -82,7 +82,7 @@ grep '>' ${locus}_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >${locus}_ne
 echo "`date`: ../Scripts/ParseHost.pl ${locus}_new.gb ${locus} ${cur_date} >${locus}_metadata_new.txt" >> $log_file
 ../Scripts/ParseHost.pl ${locus}_new.gb ${locus} ${cur_date} >${locus}_metadata_new.txt
 
-echo "`date`: ../UpdateDB.py ${locus}_metadata_new.txt" >> ../$cur_date/log.txt
+echo "`date`: ../Scripts/UpdateDB.py ${locus}_metadata_new.txt" >> ../$cur_date/log.txt
 ../Scripts/UpdateDB.py ${locus}_metadata_new.txt
 
 #Add new data to master datasets
