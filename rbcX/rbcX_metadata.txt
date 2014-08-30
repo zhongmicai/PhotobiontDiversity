@@ -787,3 +787,38 @@ KM006025	Peltigera aquatica	Nostoc sp.	HV18	 	Miadlikowska	Am. J. Bot. (2014) In
 KM006026	Peltigera aquatica	Nostoc sp.	HV19	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
 KM006027	Peltigera aquatica	Nostoc sp.	P1430	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
 KM006028	Peltigera aquatica	Nostoc sp.	P1434	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140829
+AJ783675	 	Nodularia spumigena 	AV1	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783676	 	Nodularia spumigena 	Huebel 1987/310	Germany:Baltic Sea, Vitter Bodden	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783677	 	Nodularia spumigena 	Huebel 1987/311	Germany:Baltic Sea, Vitter Bodden	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783678	 	Nodularia spumigena 	PCC 9350	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783679	 	Nodularia spumigena 	AV63	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783680	 	Nodularia spumigena 	Huebel 1988/306	Germany:Baltic Sea, Kleiner Jasmunder Bodden	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783681	 	Nodularia spumigena 	BY1	Sweden:Baltic Sea, Arkona sea	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783682	Baltic sea	Nodularia spumigena 	F81	 	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783683	 	Nodularia spumigena 	GR8b	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783684	 	Nodularia spumigena 	NSOR-12	Australia:Oregon lagoon	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783685	 	Nodularia spumigena 	NSPI-05	Australia:Peel Inlet	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783686	 	Nodularia spumigena 	HEM	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783691	 	Nodularia sphaerocarpa 	BECID36	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783694	 	Nodularia sphaerocarpa 	BECID35	Finland:Baltic Sea, Gulf of Botnia, the Quark)	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783695	 	Nodularia sphaerocarpa 	PCC 7804	France:Dax	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783696	 	Nodularia spumigena 	UTEX 'B 2092'	Canada:British Colombia, Osoyoos	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783697	 	Nodularia harveyana 	UTEX 'B 2093'	USA:Washington, Whidbey Island, San de Fuca	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783698	 	Nodularia spumigena 	Fae19	Germany:Faehrdorf, Isle of Poel	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783699	 	Nodularia harveyana 	Bo53	Germany:Boiensdorf	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783700	 	Nodularia harveyana 	BECID27	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783701	 	Nodularia harveyana 	BECID29	Finland:Baltic Sea, Gulf of Finland	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+AJ783702	Baltic sea	Nodularia harveyana 	Huebel 1983/300	 	Lyra	Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)	15774625	rbcX	140830
+DQ185288	 	Nodularia harveyana 	Huebel 1983/300	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 	rbcX	140830
+DQ185302	 	Nodularia sphaerocarpa 	PCC 7804	 	O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)	 	rbcX	140830
+HM241947	water sample	Nodularia spumigena 	KNUA005	Norway: Ny Alesund, Svalbard	Hong	Algae 25 (2), 99-104 (2010)	 	rbcX	140830
+KM006007	Peltigera hydrothyria	Nostoc sp.	HV03	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006008	Peltigera hydrothyria	Nostoc sp.	HV04	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006009	Peltigera hydrothyria	Nostoc sp.	HV06	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006010	Peltigera hydrothyria	Nostoc sp.	HV07	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006013	Peltigera hydrothyria	Nostoc sp.	HV25	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006015	Peltigera hydrothyria	Nostoc sp.	P1493	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006016	Peltigera hydrothyria	Nostoc sp.	P1494	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006018	Peltigera hydrothyria	Nostoc sp.	P1496	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006020	Peltigera hydrothyria	Nostoc sp.	P1498	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830
+KM006021	Peltigera hydrothyria	Nostoc sp.	P1845	 	Miadlikowska	Am. J. Bot. (2014) In press	25016011	rbcX	140830

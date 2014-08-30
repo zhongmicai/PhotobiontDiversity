@@ -45781,3 +45781,3115 @@ ORIGIN
 //
 
 
+LOCUS       AJ783675                 883 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena AV1 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain AV1.
+ACCESSION   AJ783675
+VERSION     AJ783675.1  GI:57335186
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena AV1
+  ORGANISM  Nodularia spumigena AV1
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 883)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..883
+                     /organism="Nodularia spumigena AV1"
+                     /mol_type="genomic DNA"
+                     /strain="AV1"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284707"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..246
+                     /gene="rbcL"
+     CDS             <1..246
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04020.1"
+                     /db_xref="GI:57335187"
+                     /db_xref="GOA:Q5K321"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K321"
+                     /translation="GDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLA
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            348..746
+                     /gene="rbcX"
+     CDS             348..746
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04021.1"
+                     /db_xref="GI:57335188"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K320"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            831..>883
+                     /gene="rbcS"
+     CDS             831..>883
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04022.1"
+                     /db_xref="GI:57335189"
+                     /db_xref="GOA:Q5K319"
+                     /db_xref="UniProtKB/TrEMBL:Q5K319"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtgatgact ccgtactaca atttggtggt ggtactcttg gacacccctg gggtaacgca
+       61 cctggtgcaa ccgctaaccg tgtagcttta gaagcttgta tccaagctcg taacgaaggc
+      121 cgcaacttgg ctcgtgaagg taacgacgtg atccgcgaag ctgctaagtg gagtcctgaa
+      181 ttggctgttg cttgcgaact gtggaaagaa atcaagttcg agttcgaggc catggatact
+      241 gtctgatcct caagtaacta gtaaaaagtt aaagagtaaa agaaaataat attctttctt
+      301 tttacttttt actttttact ttagcttttt atgggctggg gacaaacatg aatcttaagc
+      361 aaattgccaa ggatacagcc aagacattgc aaagctacct gacttatcag gcgctgaaaa
+      421 cagtattggc acagttaggc gaaacgaatc caccgttgga actttggcta cataactttt
+      481 ctgctggcaa aatccaggac ggagaagcgt atattcagca actgtttctc gaaaagccag
+      541 atttggcatt acggattatg actgtcagag aacacatcgc cgaggaagtc gccgactttc
+      601 ttcccgaaat ggttcgcact ggctttcagc aagccaacat ggaacaacgt cgccagcatc
+      661 tagaacgcat cacacgaata gatacatctc accccagtcc acacccggaa cagcagacaa
+      721 gttcagatcc caatagtgaa cagtaaacag tcgtcattgt taactgataa ctgataactg
+      781 ttaactgata actgaaattt catatcaatc gcaacccatt atcaaaaact atgcaaactt
+      841 taccaaaaga gcgtcgttac gaaacccttt cttacctgcc cca
+//
+
+
+LOCUS       AJ783676                 883 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena 'Huebel 1987/310' rbcL gene (partial), rbcX
+            gene and rbcS gene (partial), strain Huebel 1987/310.
+ACCESSION   AJ783676
+VERSION     AJ783676.1  GI:57335190
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena 'Huebel 1987/310'
+  ORGANISM  Nodularia spumigena 'Huebel 1987/310'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 883)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..883
+                     /organism="Nodularia spumigena 'Huebel 1987/310'"
+                     /mol_type="genomic DNA"
+                     /strain="Huebel 1987/310"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284712"
+                     /country="Germany:Baltic Sea, Vitter Bodden"
+     gene            <1..246
+                     /gene="rbcL"
+     CDS             <1..246
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04023.1"
+                     /db_xref="GI:57335191"
+                     /db_xref="GOA:Q5K318"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K318"
+                     /translation="GDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLA
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            348..746
+                     /gene="rbcX"
+     CDS             348..746
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04024.1"
+                     /db_xref="GI:57335192"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K317"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            831..>883
+                     /gene="rbcS"
+     CDS             831..>883
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04025.1"
+                     /db_xref="GI:57335193"
+                     /db_xref="GOA:Q5K316"
+                     /db_xref="UniProtKB/TrEMBL:Q5K316"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtgatgact ccgtactaca atttggtggt ggtactcttg gacacccctg gggtaacgca
+       61 cctggtgcaa ccgctaaccg tgtagcttta gaagcttgta tccaagctcg taacgaaggc
+      121 cgcaacttgg ctcgtgaagg taacgacgtg atccgcgaag ctgctaagtg gagtcctgaa
+      181 ttggctgttg cttgcgaact gtggaaagaa atcaagttcg agttcgaggc catggatact
+      241 gtctgatcct caagtaacta gtaaaaagtt aaagagtaaa agaaaataat attctttctt
+      301 tttacttttt actttttact ttagcttttt atgggctggg gacaaacatg aatcttaagc
+      361 aaattgccaa ggatacagcc aagacattgc aaagctacct gacttatcag gcgctgaaaa
+      421 cagtattggc acagttaggc gaaacgaacc caccgttgga actttggcta cataactttt
+      481 ctgctggcaa aatccaggac ggagaagcgt atattcagca actgtttctc gaaaagccag
+      541 atttggcatt acggattatg actgtcagag aacacatcgc cgaggaagtc gccgactttc
+      601 ttcccgaaat ggttcgcact ggctttcagc aagccaacat ggaacaacgt cgccagcatc
+      661 tagaacgcat cacacgaata gatacatctc accccagtcc acacccggaa cagcagacaa
+      721 gttcagatcc caatagtgaa cagtaaacag tcgtcattgt taactgataa ctgataactg
+      781 ttaactgata actgaaattt catatcaatc gcaacccatt atcaaaaact atgcaaactt
+      841 taccaaaaga gcgtcgttac gaaacccttt cttacctgcc cca
+//
+
+
+LOCUS       AJ783677                 883 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena 'Huebel 1987/311' rbcL gene (partial), rbcX
+            gene and rbcS gene (partial), strain Huebel 1987/311.
+ACCESSION   AJ783677
+VERSION     AJ783677.1  GI:57335194
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena 'Huebel 1987/311'
+  ORGANISM  Nodularia spumigena 'Huebel 1987/311'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 883)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..883
+                     /organism="Nodularia spumigena 'Huebel 1987/311'"
+                     /mol_type="genomic DNA"
+                     /strain="Huebel 1987/311"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284709"
+                     /country="Germany:Baltic Sea, Vitter Bodden"
+     gene            <1..246
+                     /gene="rbcL"
+     CDS             <1..246
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04026.1"
+                     /db_xref="GI:57335195"
+                     /db_xref="GOA:Q5K315"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K315"
+                     /translation="GDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLA
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            348..746
+                     /gene="rbcX"
+     CDS             348..746
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04027.1"
+                     /db_xref="GI:57335196"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K314"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            831..>883
+                     /gene="rbcS"
+     CDS             831..>883
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04028.1"
+                     /db_xref="GI:57335197"
+                     /db_xref="GOA:Q5K313"
+                     /db_xref="UniProtKB/TrEMBL:Q5K313"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtgatgact ccgtactaca atttggtggt ggtactcttg gacacccctg gggtaacgca
+       61 cctggtgcaa ccgctaaccg tgtagcttta gaagcttgta tccaagctcg taacgaaggc
+      121 cgcaacttgg ctcgtgaagg taacgacgtg atccgcgaag ctgctaagtg gagtcctgaa
+      181 ttggctgttg cttgcgaact gtggaaagaa atcaagttcg agttcgaggc catggatact
+      241 gtctgatcct caagtaacta gtaaaaagtt aaagagtaaa agaaaataat attctttctt
+      301 tttacttttt actttttact ttagcttttt atgggctggg gacaaacatg aatcttaagc
+      361 aaattgccaa ggatacagcc aagacattgc aaagctacct gacttatcag gcgctgaaaa
+      421 cagtattggc acagttaggc gaaacgaatc caccgttgga actttggcta cataactttt
+      481 ctgctggcaa aatccaggac ggagaagcgt atattcagca actgtttctc gaaaagccag
+      541 atttggcatt acggattatg actgtcagag aacacatcgc cgaggaagtc gccgactttc
+      601 ttcccgaaat ggttcgcact ggctttcagc aagccaacat ggaacaacgt cgccagcatc
+      661 tagaacgcat cacacgaata gatacatctc accccagtcc acacccggaa cagcagacaa
+      721 gttcagatcc caatagtgaa cagtaaacag tcgtcattgt taactgataa ctgataactg
+      781 ttaactgata actgaaattt catatcaatc gcaacccatt atcaaaaact atgcaaactt
+      841 taccaaaaga gcgtcgttac gaaacccttt cttacctgcc cca
+//
+
+
+LOCUS       AJ783678                 934 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena PCC 9350 rbcL gene (partial), rbcX gene and
+            rbcS gene (partial), strain PCC 9350.
+ACCESSION   AJ783678
+VERSION     AJ783678.1  GI:57335198
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena PCC 9350
+  ORGANISM  Nodularia spumigena PCC 9350
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 934)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..934
+                     /organism="Nodularia spumigena PCC 9350"
+                     /mol_type="genomic DNA"
+                     /strain="PCC 9350"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:165801"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..297
+                     /gene="rbcL"
+     CDS             <1..297
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04029.1"
+                     /db_xref="GI:57335199"
+                     /db_xref="GOA:Q5K312"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K312"
+                     /translation="LPGGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANR
+                     VALEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            399..797
+                     /gene="rbcX"
+     CDS             399..797
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04030.1"
+                     /db_xref="GI:57335200"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K311"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            882..>934
+                     /gene="rbcS"
+     CDS             882..>934
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04031.1"
+                     /db_xref="GI:57335201"
+                     /db_xref="GOA:Q5K310"
+                     /db_xref="UniProtKB/TrEMBL:Q5K310"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 cttccgggtg gtatccacgt atggcatatg cccgcacttg tagagatctt cggtgatgac
+       61 tccgtactac aatttggtgg tggtactctt ggacacccct ggggtaacgc acctggtgca
+      121 accgctaacc gtgtagcttt agaagcttgt atccaagctc gtaacgaagg ccgcaacttg
+      181 gctcgtgaag gtaacgacgt gatccgcgaa gctgctaagt ggagtcctga attggctgtt
+      241 gcttgcgaac tgtggaaaga aatcaagttc gagttcgagg ccatggatac tgtctgatcc
+      301 tcaagtaact agtaaaaagt taaagagtaa aagaaaataa tattctttct ttttactttt
+      361 tactttttac tttagctttt tatgggctgg ggacaaacat gaatcttaag caaattgcca
+      421 aggatacagc caagacattg caaagctacc tgacttatca ggcgctgaaa acagtattgg
+      481 cacagttagg cgaaacgaat ccaccgttgg aactttggct acataacttt tctgctggca
+      541 aaatccagga cggagaagcg tatattcagc aactgtttct cgaaaagcca gatttggcat
+      601 tacggattat gactgtcaga gaacacatcg ccgaggaagt cgccgacttt cttcccgaaa
+      661 tggttcgcac tggctttcag caagccaaca tggaacaacg tcgccagcat ctagaacgca
+      721 tcacacgaat agatacatct caccccagtc cacacccgga acagcagaca agttcagatc
+      781 ccaatagtga acagtaaaca gtcgtcattg ttaactgata actgataact gttaactgat
+      841 aactgaaatt tcatatcaat cgcaacccat tatcaaaaac tatgcaaact ttaccaaaag
+      901 agcgtcgtta cgaaaccctt tcttacctgc ccca
+//
+
+
+LOCUS       AJ783679                 889 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena AV63 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain AV63.
+ACCESSION   AJ783679
+VERSION     AJ783679.1  GI:57335202
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena AV63
+  ORGANISM  Nodularia spumigena AV63
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 889)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..889
+                     /organism="Nodularia spumigena AV63"
+                     /mol_type="genomic DNA"
+                     /strain="AV63"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284711"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..252
+                     /gene="rbcL"
+     CDS             <1..252
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04032.1"
+                     /db_xref="GI:57335203"
+                     /db_xref="GOA:Q5K309"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K309"
+                     /translation="IFGDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRN
+                     LAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            354..752
+                     /gene="rbcX"
+     CDS             354..752
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04033.1"
+                     /db_xref="GI:57335204"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K308"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            837..>889
+                     /gene="rbcS"
+     CDS             837..>889
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04034.1"
+                     /db_xref="GI:57335205"
+                     /db_xref="GOA:Q5K307"
+                     /db_xref="UniProtKB/TrEMBL:Q5K307"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 atcttcggtg atgactccgt actacaattt ggtggtggta ctcttggaca cccctggggt
+       61 aacgcacctg gtgcaaccgc taaccgtgta gctttagaag cttgtatcca agctcgtaac
+      121 gaaggccgca acttggctcg tgaaggtaac gacgtgatcc gcgaagctgc taagtggagt
+      181 cctgaattgg ctgttgcttg cgaactgtgg aaagaaatca agttcgagtt cgaggccatg
+      241 gatactgtct gatcctcaag taactagtaa aaagttaaag agtaaaagaa aataatattc
+      301 tttcttttta ctttttactt tttactttag ctttttatgg gctggggaca aacatgaatc
+      361 ttaagcaaat tgccaaggat acagccaaga cattgcaaag ctacctgact tatcaggcgc
+      421 tgaaaacagt attggcacag ttaggcgaaa cgaatccacc gttggaactt tggctacata
+      481 acttttctgc tggcaaaatc caggacggag aagcgtatat tcagcaactg tttctcgaaa
+      541 agccagattt ggcattacgg attatgactg tcagagaaca catcgccgag gaagtcgccg
+      601 actttcttcc cgaaatggtt cgcactggct ttcagcaagc caacatggaa caacgtcgcc
+      661 agcatctaga acgcatcaca cgaatagata catctcaccc cagtccacac ccggaacagc
+      721 agacaagttc agatcccaat agtgaacagt aaacagtcgt cattgttaac tgataactga
+      781 taactgttaa ctgataactg aaatttcata tcaatcgcaa cccattatca aaaactatgc
+      841 aaactttacc aaaagagcgt cgttacgaaa ccctttctta cctgcccca
+//
+
+
+LOCUS       AJ783680                 884 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena 'Huebel 1988/306' rbcL gene (partial), rbcX
+            gene and rbcS gene (partial), strain Huebel 1988/306.
+ACCESSION   AJ783680
+VERSION     AJ783680.1  GI:57335206
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena 'Huebel 1988/306'
+  ORGANISM  Nodularia spumigena 'Huebel 1988/306'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 884)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..884
+                     /organism="Nodularia spumigena 'Huebel 1988/306'"
+                     /mol_type="genomic DNA"
+                     /strain="Huebel 1988/306"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284708"
+                     /country="Germany:Baltic Sea, Kleiner Jasmunder Bodden"
+     gene            <1..247
+                     /gene="rbcL"
+     CDS             <1..247
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04035.1"
+                     /db_xref="GI:57335207"
+                     /db_xref="GOA:Q5K306"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K306"
+                     /translation="GDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLA
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            349..747
+                     /gene="rbcX"
+     CDS             349..747
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04036.1"
+                     /db_xref="GI:57335208"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K305"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            832..>884
+                     /gene="rbcS"
+     CDS             832..>884
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04037.1"
+                     /db_xref="GI:57335209"
+                     /db_xref="GOA:Q5K304"
+                     /db_xref="UniProtKB/TrEMBL:Q5K304"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 cggtgatgac tccgtactac aatttggtgg tggtactctt ggacacccct ggggtaacgc
+       61 acctggtgca accgctaacc gtgtagcttt agaagcttgt atccaagctc gtaacgaagg
+      121 ccgcaacttg gctcgtgaag gtaacgacgt gatccgcgaa gctgctaagt ggagtcctga
+      181 attggctgtt gcttgcgaac tgtggaaaga aatcaagttc gagttcgagg ccatggatac
+      241 tgtctgatcc tcaagtaact agtaaaaagt taaagagtaa aagaaaataa tattctttct
+      301 ttttactttt tactttttac tttagctttt tatgggctgg ggacaaacat gaatcttaag
+      361 caaattgcca aggatacagc caagacattg caaagctacc tgacttatca ggcgctgaaa
+      421 acagtattgg cacagttagg cgaaacgaac ccaccgttgg aactttggct acataacttt
+      481 tctgctggca aaatccagga cggagaagcg tatattcagc aactgtttct cgaaaagcca
+      541 gatttggcat tacggattat gactgtcaga gaacacatcg ccgaggaagt cgccgacttt
+      601 cttcccgaaa tggttcgcac tggctttcag caagccaaca tggaacaacg tcgccagcat
+      661 ctagaacgca tcacacgaat agatacatct caccccagtc cacacccgga acagcagaca
+      721 agttcagatc ccaatagtga acagtaaaca gtcgtcattg ttaactgata actgataact
+      781 gttaactgat aactgaaatt tcatatcaat cgcaacccat tatcaaaaac tatgcaaact
+      841 ttaccaaaag agcgtcgtta cgaaaccctt tcttacctgc ccca
+//
+
+
+LOCUS       AJ783681                 890 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena BY1 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain BY1.
+ACCESSION   AJ783681
+VERSION     AJ783681.1  GI:57335210
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena BY1
+  ORGANISM  Nodularia spumigena BY1
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 890)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..890
+                     /organism="Nodularia spumigena BY1"
+                     /mol_type="genomic DNA"
+                     /strain="BY1"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:258823"
+                     /country="Sweden:Baltic Sea, Arkona sea"
+     gene            <1..253
+                     /gene="rbcL"
+     CDS             <1..253
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04038.1"
+                     /db_xref="GI:57335211"
+                     /db_xref="GOA:Q5K303"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K303"
+                     /translation="IFGDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRN
+                     LAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            355..753
+                     /gene="rbcX"
+     CDS             355..753
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04039.1"
+                     /db_xref="GI:57335212"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K302"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            838..>890
+                     /gene="rbcS"
+     CDS             838..>890
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04040.1"
+                     /db_xref="GI:57335213"
+                     /db_xref="GOA:Q5K301"
+                     /db_xref="UniProtKB/TrEMBL:Q5K301"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 gatcttcggt gatgactccg tactacaatt tggtggtggt actcttggac acccctgggg
+       61 taacgcacct ggtgcaaccg ctaaccgtgt agctttagaa gcttgtatcc aagctcgtaa
+      121 cgaaggccgc aacttggctc gtgaaggtaa cgacgtgatc cgcgaagctg ctaagtggag
+      181 tcctgaattg gctgttgctt gcgaactgtg gaaagaaatc aagttcgagt tcgaggccat
+      241 ggatactgtc tgatcctcaa gtaactagta aaaagttaaa gagtaaaaga aaataatatt
+      301 ctttcttttt actttttact ttttacttta gctttttatg ggctggggac aaacatgaat
+      361 cttaagcaaa ttgccaagga tacagccaag acattgcaaa gctacctgac ttatcaggcg
+      421 ctgaaaacag tattggcaca gttaggcgaa acgaacccac cgttggaact ttggctacat
+      481 aacttttctg ctggcaaaat ccaggacgga gaagcgtata ttcagcaact gtttctcgaa
+      541 aagccagatt tggcattacg gattatgact gtcagagaac acatcgccga ggaagtcgcc
+      601 gactttcttc ccgaaatggt tcgcactggc tttcagcaag ccaacatgga acaacgtcgc
+      661 cagcatctag aacgcatcac acgaatagat acatctcacc ccagtccaca cccggaacag
+      721 cagacaagtt cagatcccaa tagtgaacag taaacagtcg tcattgttaa ctgataactg
+      781 ataactgtta actgataact gaaatttcat atcaatcgca acccattatc aaaaactatg
+      841 caaactttac caaaagagcg tcgttacgaa accctttctt acctgcccca
+//
+
+
+LOCUS       AJ783682                 928 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena F81 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain F81.
+ACCESSION   AJ783682
+VERSION     AJ783682.1  GI:57335214
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena F81
+  ORGANISM  Nodularia spumigena F81
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Nodularia spumigena F81"
+                     /mol_type="genomic DNA"
+                     /strain="F81"
+                     /isolation_source="Baltic sea water from the Baltic
+                     proper"
+                     /db_xref="taxon:284710"
+     gene            <1..291
+                     /gene="rbcL"
+     CDS             <1..291
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04041.1"
+                     /db_xref="GI:57335215"
+                     /db_xref="GOA:Q5K300"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K300"
+                     /translation="GGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVA
+                     LEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            393..791
+                     /gene="rbcX"
+     CDS             393..791
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04042.1"
+                     /db_xref="GI:57335216"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z9"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            876..>928
+                     /gene="rbcS"
+     CDS             876..>928
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04043.1"
+                     /db_xref="GI:57335217"
+                     /db_xref="GOA:Q5K2Z8"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z8"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtggtatcc acgtatggca tatgcccgca cttgtagaga tcttcggtga tgactccgta
+       61 ctacaatttg gtggtggtac tcttggacac ccctggggta acgcacctgg tgcaaccgct
+      121 aaccgtgtag ctttagaagc ttgtatccaa gctcgtaacg aaggccgcaa cttggctcgt
+      181 gaaggtaacg acgtgatccg cgaagctgct aagtggagtc ctgaattggc tgttgcttgc
+      241 gaactgtgga aagaaatcaa gttcgagttc gaggccatgg atactgtctg atcctcaagt
+      301 aactagtaaa aagttaaaga gtaaaagaaa ataatattct ttctttttac tttttacttt
+      361 ttactttagc tttttatggg ctggggacaa acatgaatct taagcaaatt gccaaggata
+      421 cagccaagac attgcaaagc tacctgactt atcaggcgct gaaaacagta ttggcacagt
+      481 taggcgaaac gaatccaccg ttggaacttt ggctacataa cttttctgct ggcaaaatcc
+      541 aggacggaga agcgtatatt cagcaactgt ttctcgaaaa gccagatttg gcattacgga
+      601 ttatgactgt cagagaacac atcgccgagg aagtcgccga ctttcttccc gaaatggttc
+      661 gcactggctt tcagcaagcc aacatggaac aacgtcgcca gcatctagaa cgcatcacac
+      721 gaatagatac atctcacccc agtccacacc cggaacagca gacaagttca gatcccaata
+      781 gtgaacagta aacagtcgtc attgttaact gataactgat aactgttaac tgataactga
+      841 aatttcatat caatcgcaac ccattatcaa aaactatgca aactttacca aaagagcgtc
+      901 gttacgaaac cctttcttac ctgcccca
+//
+
+
+LOCUS       AJ783683                 928 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena GR8b rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain GR8b.
+ACCESSION   AJ783683
+VERSION     AJ783683.1  GI:57335218
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena GR8b
+  ORGANISM  Nodularia spumigena GR8b
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Nodularia spumigena GR8b"
+                     /mol_type="genomic DNA"
+                     /strain="GR8b"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284715"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..291
+                     /gene="rbcL"
+     CDS             <1..291
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04044.1"
+                     /db_xref="GI:57335219"
+                     /db_xref="GOA:Q5K2Z7"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z7"
+                     /translation="GGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVA
+                     LEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            393..791
+                     /gene="rbcX"
+     CDS             393..791
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04045.1"
+                     /db_xref="GI:57335220"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z6"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            876..>928
+                     /gene="rbcS"
+     CDS             876..>928
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04046.1"
+                     /db_xref="GI:57335221"
+                     /db_xref="GOA:Q5K2Z5"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z5"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtggtatcc acgtatggca tatgcccgca cttgtagaga tcttcggtga tgactccgta
+       61 ctacaatttg gtggtggtac tcttggacac ccctggggta acgcacctgg tgcaaccgct
+      121 aaccgtgtag ctttagaagc ttgtatccaa gctcgtaacg aaggccgcaa cttggctcgt
+      181 gaaggtaacg acgtgatccg cgaagctgct aagtggagtc ctgaattggc tgttgcttgc
+      241 gaactgtgga aagaaatcaa gttcgagttc gaggccatgg atactgtctg atcctcaagt
+      301 aactagtaaa aagttaaaga gtaaaagaaa ataatattct ttctttttac tttttacttt
+      361 ttactttagc tttttatggg ctggggacaa acatgaatct taagcaaatt gccaaggata
+      421 cagccaagac attgcaaagc tacctgactt atcaggcgct gaaaacagta ttggcacagt
+      481 taggcgaaac gaacccaccg ttggaacttt ggctacataa cttttctgct ggcaaaatcc
+      541 aggacggaga agcgtatatt cagcaactgt ttctcgaaaa gccagatttg gcattacgga
+      601 ttatgactgt cagagaacac atcgccgagg aagtcgccga ctttcttccc gaaatggttc
+      661 gcactggctt tcagcaagcc aacatggaac aacgtcgcca gcatctagaa cgcatcacac
+      721 gaatagatac atctcacccc agtccacacc cggaacagca gacaagttca gatcccaata
+      781 gtgaacagta aacagtcgtc attgttaact gataactgat aactgttaac tgataactga
+      841 aatttcatat caatcgcaac ccattatcaa aaactatgca aactttacca aaagagcgtc
+      901 gttacgaaac cctttcttac ctgcccca
+//
+
+
+LOCUS       AJ783684                 928 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena NSOR-12 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain NSOR-12.
+ACCESSION   AJ783684
+VERSION     AJ783684.1  GI:57335222
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena NSOR-12
+  ORGANISM  Nodularia spumigena NSOR-12
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Nodularia spumigena NSOR-12"
+                     /mol_type="genomic DNA"
+                     /strain="NSOR-12"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284713"
+                     /country="Australia:Oregon lagoon"
+     gene            <1..291
+                     /gene="rbcL"
+     CDS             <1..291
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04047.1"
+                     /db_xref="GI:57335223"
+                     /db_xref="GOA:Q5K2Z4"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z4"
+                     /translation="GGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVA
+                     LEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            393..791
+                     /gene="rbcX"
+     CDS             393..791
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04048.1"
+                     /db_xref="GI:57335224"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z3"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            876..>928
+                     /gene="rbcS"
+     CDS             876..>928
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04049.1"
+                     /db_xref="GI:57335225"
+                     /db_xref="GOA:Q5K2Z2"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z2"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtggtatcc acgtatggca tatgcccgca cttgtagaga tcttcggtga tgactccgta
+       61 ctacaatttg gtggtggtac tcttggacac ccctggggta acgcacctgg tgcaaccgct
+      121 aaccgtgtag ctttagaagc ttgtatccaa gctcgtaacg aaggccgcaa cttggctcgt
+      181 gaaggtaacg acgtgatccg cgaagctgct aagtggagtc ctgaattggc tgttgcttgc
+      241 gaactgtgga aagaaatcaa gttcgagttc gaggccatgg atactgtctg atcctcaagt
+      301 aactagtaaa aagttaaaga gtaaaagaaa ataatattct ttctttttac tttttacttt
+      361 ttactttagc tttttatggg ctggggacaa acatgaatct taagcaaatt gccaaggata
+      421 cagccaagac attgcaaagc tacctgactt atcaggcgct gaaaacagta ttggcacagt
+      481 taggcgaaac gaatccaccg ttggaacttt ggctacataa cttttctgct ggcaaaatcc
+      541 aggacggaga agcgtatatt cagcaactgt ttctcgaaaa gccagatttg gcattacgga
+      601 ttatgactgt cagagaacac atcgccgagg aagtcgccga ctttcttccc gaaatggttc
+      661 gcactggctt tcagcaagcc aacatggaac aacgtcgcca gcatctagaa cgcatcacac
+      721 gaatagatac atctcacccc agtccacacc cggaacagca gacaagttca gatcccaata
+      781 gtgaacagta aacagtagtc attgttaact gataactgat aactgttaac tgataactga
+      841 aatttcatat caatcgcaac ccattatcaa aaactatgca aactttacca aaagagcgtc
+      901 gttacgaaac cctttcttac ctgcccca
+//
+
+
+LOCUS       AJ783685                 928 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena NSPI-05 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain NSPI-05.
+ACCESSION   AJ783685
+VERSION     AJ783685.1  GI:57335226
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena NSPI-05
+  ORGANISM  Nodularia spumigena NSPI-05
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Nodularia spumigena NSPI-05"
+                     /mol_type="genomic DNA"
+                     /strain="NSPI-05"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284714"
+                     /country="Australia:Peel Inlet"
+     gene            <1..291
+                     /gene="rbcL"
+     CDS             <1..291
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04050.1"
+                     /db_xref="GI:57335227"
+                     /db_xref="GOA:Q5K2Z1"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z1"
+                     /translation="GGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVA
+                     LEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            393..791
+                     /gene="rbcX"
+     CDS             393..791
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04051.1"
+                     /db_xref="GI:57335228"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Z0"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            876..>928
+                     /gene="rbcS"
+     CDS             876..>928
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04052.1"
+                     /db_xref="GI:57335229"
+                     /db_xref="GOA:Q5K2Y9"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Y9"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtggtatcc acgtatggca tatgcccgca cttgtagaga tcttcggtga tgactccgta
+       61 ctacaatttg gtggtggtac tcttggacac ccctggggta acgcacctgg tgcaaccgct
+      121 aaccgtgtag ctttggaagc ttgtatccaa gctcgtaacg aaggccgcaa cttggctcgt
+      181 gaaggtaacg acgtgatccg tgaagctgct aagtggagtc ctgaattggc tgttgcttgc
+      241 gaactgtgga aagaaatcaa gttcgagttc gaggccatgg atactgtctg atcctcaagt
+      301 aactagtaaa aagttaaaga gtaaaagaaa ataatattct ttctttttac tttttacttt
+      361 agctttttac tttttatggg ctggggacaa acatgaatct taagcaaatt gccaaggata
+      421 cagccaagac attgcaaagc tacctgactt atcaggcgct gaaaacagta ttggcacagt
+      481 taggcgaaac caatccaccg ttggaacttt ggctacataa cttttccgcc ggcaaaatcc
+      541 aggacggaga agcgtatatt cagcaactgt ttctcgaaaa gccagatttg gcattacgga
+      601 ttatgactgt cagagaacac atcgccgagg aagtcgccga ctttcttccc gaaatggttc
+      661 gcactggctt tcagcaagcc aacatggaac aacgtcgcca gcatctagaa cgcatcacac
+      721 gaatagatac atctcacccc agtccacacc cggaacagca gacaagttca gatcccaata
+      781 gtgaacagta aacagtagtc attgttaact gataactgat aactgttaac tgataactga
+      841 aatttcatat caatcgcaac ccattatcaa aaactatgca aactttacca aaagagcgtc
+      901 gttacgaaac cctttcttac ctgcccca
+//
+
+
+LOCUS       AJ783686                 884 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena HEM rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain HEM.
+ACCESSION   AJ783686
+VERSION     AJ783686.1  GI:57335230
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena HEM
+  ORGANISM  Nodularia spumigena HEM
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 884)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..884
+                     /organism="Nodularia spumigena HEM"
+                     /mol_type="genomic DNA"
+                     /strain="HEM"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:159350"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..247
+                     /gene="rbcL"
+     CDS             <1..247
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04053.1"
+                     /db_xref="GI:57335231"
+                     /db_xref="GOA:Q5K2Y8"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Y8"
+                     /translation="GDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLA
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            349..747
+                     /gene="rbcX"
+     CDS             349..747
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04054.1"
+                     /db_xref="GI:57335232"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Y7"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITRIDTSHPSPHPEQQTSSDPNSEQ"
+     gene            832..>884
+                     /gene="rbcS"
+     CDS             832..>884
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04055.1"
+                     /db_xref="GI:57335233"
+                     /db_xref="GOA:Q5K2Y6"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2Y6"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 cggtgatgac tccgtactac aatttggtgg tggtactctt ggacacccct ggggtaacgc
+       61 acctggtgca accgctaacc gtgtagcttt agaagcttgt atccaagctc gtaacgaagg
+      121 ccgcaacttg gctcgtgaag gtaacgacgt gatccgcgaa gctgctaagt ggagtcctga
+      181 attggctgtt gcttgcgaac tgtggaaaga aatcaagttc gagttcgagg ccatggatac
+      241 tgtctgatcc tcaagtaact agtaaaaagt taaagagtaa aagaaaataa tattctttct
+      301 ttttactttt tactttttac tttagctttt tatgggctgg ggacaaacat gaatcttaag
+      361 caaattgcca aggatacagc caagacattg caaagctacc tgacttatca ggcgctgaaa
+      421 acagtattgg cacagttagg cgaaacgaat ccaccgttgg aactttggct acataacttt
+      481 tctgctggca aaatccagga cggagaagcg tatattcagc aactgtttct cgaaaagcca
+      541 gatttggcat tacggattat gactgtcaga gaacacatcg ccgaggaagt cgccgacttt
+      601 cttcccgaaa tggttcgcac tggctttcag caagccaaca tggaacaacg tcgccagcat
+      661 ctagaacgca tcacacgaat agatacatct caccccagtc cacacccgga acagcagaca
+      721 agttcagatc ccaatagtga acagtaaaca gtcgtcattg ttaactgata actgataact
+      781 gttaactgat aactgaaatt tcatatcaat cgcaacccat tatcaaaaac tatgcaaact
+      841 ttaccaaaag agcgtcgtta cgaaaccctt tcttacctgc ccca
+//
+
+
+LOCUS       AJ783691                 863 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia sphaerocarpa BECID36 rbcL gene (partial), rbcX gene and
+            rbcS gene (partial), strain BECID36.
+ACCESSION   AJ783691
+VERSION     AJ783691.1  GI:57335249
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia sphaerocarpa BECID36
+  ORGANISM  Nodularia sphaerocarpa BECID36
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 863)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..863
+                     /organism="Nodularia sphaerocarpa BECID36"
+                     /mol_type="genomic DNA"
+                     /strain="BECID36"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284722"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..248
+                     /gene="rbcL"
+     CDS             <1..248
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04067.1"
+                     /db_xref="GI:57335250"
+                     /db_xref="GOA:Q5K2X4"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2X4"
+                     /translation="GDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLA
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            350..757
+                     /gene="rbcX"
+     CDS             350..757
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04068.1"
+                     /db_xref="GI:57335251"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2X3"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERMTRIDTFNPSPQPEQQTSSDFNSDSDHF"
+     gene            811..>863
+                     /gene="rbcS"
+     CDS             811..>863
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04069.1"
+                     /db_xref="GI:57335252"
+                     /db_xref="GOA:Q5K2X2"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2X2"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 tcggtgatga ctccgtacta caattcggtg gtggtactct tggacacccc tggggtaacg
+       61 cacctggtgc aaccgctaac cgtgtagctt tggaagcttg tatccaagct cgtaacgaag
+      121 gccgcaactt ggctcgtgaa ggtaacgacg ttatccgcga agctgctaag tggagtcctg
+      181 aactagctgt ggcttgcgaa ctgtggaaag aaatcaagtt cgagttcgag gccatggata
+      241 ctgtctgatc ctcaagtaac tagtaaaaag ttaaagagta aaagaaaata atattctttc
+      301 tttttacttt ttactttagc tttttacttt ttatgggctg gggacaaaca tgaatcttaa
+      361 gcaaattgcc aaggatacag ccaagacttt gcaaagctac ctgacttatc aggcgctgaa
+      421 aacagtattg gcacagttag gcgaaacgaa cccaccgttg gaactttggc tacataactt
+      481 ttctgctggc aaaatccagg acggagaagc atatattcag caactgtttc tcgaaaagcc
+      541 agatttggct ttacggatta tgactgtcag agaacacatc gccgaggaag tcgccgactt
+      601 tctgcccgaa atggttcgca ctggctttca gcaagccaat atggaacaac gtcgccagca
+      661 tctagaacgc atgacacgaa tagatacatt taaccccagt ccccagccgg aacagcagac
+      721 aagttcagat ttcaatagtg acagtgatca tttttaactg ataactgttt actgaaaact
+      781 aatatcaatc gcaaccaatt atcaaaacct atgcaaactt taccaaaaga acgtcgttac
+      841 gaaacccttt cttacctgcc cca
+//
+
+
+LOCUS       AJ783694                 928 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia sphaerocarpa BECID35 rbcL gene (partial), rbcX gene and
+            rbcS gene (partial), strain BECID35.
+ACCESSION   AJ783694
+VERSION     AJ783694.1  GI:57335261
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia sphaerocarpa BECID35
+  ORGANISM  Nodularia sphaerocarpa BECID35
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Nodularia sphaerocarpa BECID35"
+                     /mol_type="genomic DNA"
+                     /strain="BECID35"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284724"
+                     /country="Finland:Baltic Sea, Gulf of Botnia, the Quark)"
+     gene            <1..297
+                     /gene="rbcL"
+     CDS             <1..297
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04076.1"
+                     /db_xref="GI:57335262"
+                     /db_xref="GOA:Q5K2W5"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2W5"
+                     /translation="LPGGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANR
+                     VALEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            400..798
+                     /gene="rbcX"
+     CDS             400..798
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04077.1"
+                     /db_xref="GI:57335263"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2W4"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERMTRIDTFNPSPQPEQQTSSDPYSEQ"
+     gene            876..>928
+                     /gene="rbcS"
+     CDS             876..>928
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04078.1"
+                     /db_xref="GI:57335264"
+                     /db_xref="GOA:Q5K2W3"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2W3"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 cttccgggtg gtatccacgt atggcatatg cccgcacttg tagaaatctt cggtgatgac
+       61 tccgtactac aatttggtgg tggtacactt ggtcacccct ggggtaacgc acctggtgca
+      121 accgctaacc gtgtagcatt ggaagcttgt atccaagctc gtaacgaagg ccgcaacttg
+      181 gctcgtgaag gtaacgacgt tatccgtgaa gctgctaagt ggagtcctga actagctgtg
+      241 gcttgcgaac tgtggaaaga aatcaagttc gagttcgagg ccatggatac tgtctgatcc
+      301 tcaagtaacc agtaaaaagt taaagagtaa aagaaaataa tcattctttc tttttacttt
+      361 ttacttttgc tttttacttt ttatgggctg gggacaaaca tgaatcttaa gcaaattgcc
+      421 aaggatacag ccaagacttt gcaaagctac ctgacttatc aggcgctgaa aacagtattg
+      481 gcgcagttag gcgaaacgaa tccaccgttg gaactttggc tacataactt ttctgctggc
+      541 aaaatccagg acggagaagc gtatattcag caactgtttc tcgaaaagcc agatttggca
+      601 ttacggatta tgactgtcag agaacacatc gccgaggaag tcgccgactt tcttcccgaa
+      661 atggttcgca ctggctttca gcaagccaac atggaacaac gtcgccagca tctagaacgc
+      721 atgacacgaa tagatacatt taaccccagt ccccagccgg aacagcagac aagttcagat
+      781 ccttacagtg aacagtaaac agtagtcatt gttaactgat aactgttaac tgataactga
+      841 aatctaatat caatcgcaac ccattatcaa aacctatgca aactttacca aaagagcgtc
+      901 gttacgaaac cctttcttac ctgcccca
+//
+
+
+LOCUS       AJ783695                 913 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia sphaerocarpa PCC 7804 rbcL gene (partial), rbcX gene and
+            rbcS gene (partial), strain PCC 7804.
+ACCESSION   AJ783695
+VERSION     AJ783695.1  GI:57335265
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia sphaerocarpa PCC 7804
+  ORGANISM  Nodularia sphaerocarpa PCC 7804
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 913)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..913
+                     /organism="Nodularia sphaerocarpa PCC 7804"
+                     /mol_type="genomic DNA"
+                     /strain="PCC 7804"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:88830"
+                     /country="France:Dax"
+     gene            <1..297
+                     /gene="rbcL"
+     CDS             <1..297
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04079.1"
+                     /db_xref="GI:57335266"
+                     /db_xref="GOA:Q5K2W2"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2W2"
+                     /translation="LPGGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANR
+                     VALEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            400..807
+                     /gene="rbcX"
+     CDS             400..807
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04080.1"
+                     /db_xref="GI:57335267"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2W1"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERMTRIDTSHPSPHPEQQTSSDFNSDSDHF"
+     gene            861..>913
+                     /gene="rbcS"
+     CDS             861..>913
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04081.1"
+                     /db_xref="GI:57335268"
+                     /db_xref="GOA:Q5K2W0"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2W0"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 cttccgggtg gtatccacgt atggcatatg cccgcacttg tagaaatctt cggtgatgac
+       61 tccgtactac aatttggtgg tggtacactt ggtcacccct ggggtaacgc acctggtgca
+      121 accgctaacc gtgtagcttt ggaagcttgt atccaagctc gtaacgaagg ccgcaacttg
+      181 gctcgtgaag gtaacgacgt tatccgcgaa gctgctaagt ggagtcctga actagctgtt
+      241 gcttgcgaac tgtggaaaga aatcaagttc gagttcgagg ccatggatac tgtctgatcc
+      301 tcaagtaacc agtaaaaagt taaagagtaa aagaaaataa tcattctttc tttttacttt
+      361 ttacttttgc tttttacttt ttatgggctg gggacaaaca tgaatcttaa gcaaattgcc
+      421 aaggatacag ccaagacttt gcaaagctac ctgacttatc aggcactgaa aacagtattg
+      481 gcacagttag gcgaaacgaa tccaccgttg gaactttggc tacataactt ttctgctggc
+      541 aaaatccagg acggagaagc ctatattcag caactgtttc tcgaaaagcc agatttggca
+      601 ttacggatta tgactgtcag agaacacatc gcggaggaag tcgccgactt tcttcccgaa
+      661 atggttcgca ctggctttca gcaagccaac atggaacaac gtcgccagca tctagaacgc
+      721 atgacacgaa tagatacatc tcaccccagt ccacacccgg aacagcagac aagttcagat
+      781 ttcaatagtg acagtgatca tttttaactg ataactgttt actgaaaact aatatcaatc
+      841 gcaaccaatt atcaaaacct atgcaaactt taccaaaaga gcgtcgttac gaaacccttt
+      901 cttacctgcc cca
+//
+
+
+LOCUS       AJ783696                 865 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena UTEX 'B 2092' rbcL gene (partial), rbcX gene
+            and rbcS gene (partial), strain UTEX 'B 2092'.
+ACCESSION   AJ783696
+VERSION     AJ783696.1  GI:57335269
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena UTEX 'B 2092'
+  ORGANISM  Nodularia spumigena UTEX 'B 2092'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 865)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..865
+                     /organism="Nodularia spumigena UTEX 'B 2092'"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 'B 2092'"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284717"
+                     /country="Canada:British Colombia, Osoyoos"
+     gene            <1..275
+                     /gene="rbcL"
+     CDS             <1..275
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04082.1"
+                     /db_xref="GI:57335270"
+                     /db_xref="GOA:Q5K2V9"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V9"
+                     /translation="HMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQ
+                     ARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            378..785
+                     /gene="rbcX"
+     CDS             378..785
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04083.1"
+                     /db_xref="GI:57335271"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V8"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERMTRIDTFNPSPQPEQQTSSDFNSDSDHF"
+     gene            839..>865
+                     /gene="rbcS"
+     CDS             839..>865
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04084.1"
+                     /db_xref="GI:57335272"
+                     /db_xref="GOA:Q5K2V7"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V7"
+                     /translation="MQTLPKERR"
+ORIGIN      
+        1 ggcatatgcc cgcacttgta gaaatcttcg gtgatgactc cgtactacaa tttggtggtg
+       61 gtactcttgg acacccctgg ggtaacgcac ctggtgcaac cgctaaccgt gtagctttgg
+      121 aagcttgtat ccaagctcgt aacgaaggcc gcaacttggc tcgtgaaggt aacgacgtta
+      181 tccgtgaagc tgctaagtgg agtcctgaac tagctgtggc ttgcgaactg tggaaagaaa
+      241 tcaagttcga gttcgaggcc atggatactg tctgatcctc aagtaaccag taaaaagtta
+      301 aagagtaaaa gaaaataatc attctttctt tttacttttt acttttgctt tttacttttt
+      361 atgggctggg gacaaacatg aatcttaagc aaattgccaa agatacagcc aagactttgc
+      421 aaagctacct gacttatcag gcgctgaaaa cagtattggc acagttaggc gaaacgaatc
+      481 caccgttgga actttggcta cataactttt ctgctggcaa aatccaggac ggagaagcgt
+      541 atattcagca actgtttctc gaaaagccag atttggcatt acggattatg actgtcagag
+      601 aacacatcgc cgaggaagtc gccgactttc ttcccgaaat ggttcgcact ggctttcagc
+      661 aagccaacat ggaacaacgt cgccagcatc tagaacgcat gacacgaata gatacattta
+      721 accccagtcc acaaccggaa cagcagacaa gttcagattt caatagtgac agtgatcatt
+      781 tttaactgat aactgtttac tgaaaactaa tatcaatcgc aaccaattat caaaacctat
+      841 gcaaacttta ccaaaagagc gtcgt
+//
+
+
+LOCUS       AJ783697                 866 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia harveyana UTEX 'B 2093' rbcL gene (partial), rbcX gene
+            and rbcS gene (partial), strain UTEX 'B 2093'.
+ACCESSION   AJ783697
+VERSION     AJ783697.1  GI:57335273
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia harveyana UTEX 'B 2093'
+  ORGANISM  Nodularia harveyana UTEX 'B 2093'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 866)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..866
+                     /organism="Nodularia harveyana UTEX 'B 2093'"
+                     /mol_type="genomic DNA"
+                     /strain="UTEX 'B 2093'"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284739"
+                     /country="USA:Washington, Whidbey Island, San de Fuca"
+     gene            <1..275
+                     /gene="rbcL"
+     CDS             <1..275
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04085.1"
+                     /db_xref="GI:57335274"
+                     /db_xref="GOA:Q5K2V6"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V6"
+                     /translation="HMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQ
+                     ARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            378..776
+                     /gene="rbcX"
+     CDS             378..776
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04086.1"
+                     /db_xref="GI:57335275"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V5"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIKQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITLIDTSHPSPHSEQQTSSDFNSEQ"
+     gene            840..>866
+                     /gene="rbcS"
+     CDS             840..>866
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04087.1"
+                     /db_xref="GI:57335276"
+                     /db_xref="GOA:Q5K2V4"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V4"
+                     /translation="MQTLPKERR"
+ORIGIN      
+        1 ggcatatgcc cgcacttgta gaaatcttcg gtgatgactc cgtactacaa tttggtggtg
+       61 gtactcttgg tcacccctgg ggtaacgcac ctggtgcaac cgctaaccgt gtagctttgg
+      121 aagcttgtat ccaagctcgt aacgaaggcc gcaacttggc tcgtgaaggt aacgatgtta
+      181 tccgcgaagc tgctaagtgg agtcctgaac tagctgttgc ttgcgaactt tggaaagaaa
+      241 tcaaattcga gttcgaggcc atggatactg tctgatcctc aagtaaccag taaaaagtta
+      301 aagagtaaaa gaaaataatc attctttctt tttacttttt acttttgctt tttacttttt
+      361 atgggctggg gtcaaacatg aatcttaagc aaattgccaa ggatacagct aagactttgc
+      421 aaagctacct gacttatcag gcgctgaaaa cagtattggc acagctaggc gaaacgaatc
+      481 ctccattgga actttggcta cataactttt ctgctggcaa aatccaggac ggagaagcgt
+      541 atattaagca actgtttctc gaaaagccag acttggcatt acggattatg actgtcagag
+      601 aacacatcgc ggaggaagtc gccgactttc tccctgaaat ggttcgcact ggctttcagc
+      661 aagccaatat ggaacaacgt cgccagcatc tagaacgcat cacactcata gatacatctc
+      721 accccagtcc acattcggaa cagcagacaa gttcagattt caatagtgaa cagtgatcat
+      781 ttttaactga taactgttta ctaataacta atatcaatcg caacccatta tcaaaagcta
+      841 tgcaaacttt accaaaagag cgtcgt
+//
+
+
+LOCUS       AJ783698                 907 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia spumigena Fae19 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain Fae19.
+ACCESSION   AJ783698
+VERSION     AJ783698.1  GI:57335277
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia spumigena Fae19
+  ORGANISM  Nodularia spumigena Fae19
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 907)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..907
+                     /organism="Nodularia spumigena Fae19"
+                     /mol_type="genomic DNA"
+                     /strain="Fae19"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284716"
+                     /country="Germany:Faehrdorf, Isle of Poel"
+     gene            <1..291
+                     /gene="rbcL"
+     CDS             <1..291
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04088.1"
+                     /db_xref="GI:57335278"
+                     /db_xref="GOA:Q5K2V3"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V3"
+                     /translation="GGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVA
+                     LEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            393..791
+                     /gene="rbcX"
+     CDS             393..791
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04089.1"
+                     /db_xref="GI:57335279"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V2"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIEQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERITLIDTSHPSPHSEQQTSSDFNSEQ"
+     gene            855..>907
+                     /gene="rbcS"
+     CDS             855..>907
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04090.1"
+                     /db_xref="GI:57335280"
+                     /db_xref="GOA:Q5K2V1"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V1"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtggtatcc acgtatggca tatgcccgca ctagtagaaa tcttcggtga tgactccgta
+       61 ctacaatttg gtggtggtac acttggtcac ccctggggta acgcacctgg tgcaaccgct
+      121 aaccgtgtag ctttggaagc ttgtatccaa gctcgtaacg aaggccgtaa cttggctcgt
+      181 gaaggtaacg acgttatccg cgaagctgct aagtggagtc ctgaactagc tgttgcttgc
+      241 gaactttgga aagaaatcaa gttcgagttc gaggcaatgg atactgtctg atcctcaagt
+      301 aactagtaaa aagttaagga gtaaaagaaa ataatattct ttctttttac tttttacttt
+      361 agctttttac tttttatggg ctggggacaa acatgaatct taagcaaatt gccaaggata
+      421 cagccaagac tttgcaaagc tacctgactt atcaggcgct gaaaacagta ttggcacagc
+      481 taggtgaaac gaatcctcca ttggaacttt ggctacataa cttttctgct ggcaaaatcc
+      541 aggacggaga agcgtatatt gagcaactgt ttctcgaaaa gccagatttg gcattacgca
+      601 ttatgactgt cagagaacac atcgcggagg aagtcgccga ctttctccct gaaatggttc
+      661 gcactggctt tcagcaagcc aatatggaac aacgtcgcca gcatctagaa cgcatcacac
+      721 tcatagatac atctcacccc agtccacatt cggaacagca gacaagttca gatttcaata
+      781 gtgaacagtg atcattttta actgataact gtttactaat aactaatatc aatcgcaacc
+      841 cattatcaaa agctatgcaa actttaccaa aagagcgtcg ttacgaaacc ctttcttacc
+      901 tgcccca
+//
+
+
+LOCUS       AJ783699                 904 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia harveyana Bo53 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain Bo53.
+ACCESSION   AJ783699
+VERSION     AJ783699.1  GI:57335281
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia harveyana Bo53
+  ORGANISM  Nodularia harveyana Bo53
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 904)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..904
+                     /organism="Nodularia harveyana Bo53"
+                     /mol_type="genomic DNA"
+                     /strain="Bo53"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284736"
+                     /country="Germany:Boiensdorf"
+     gene            <1..252
+                     /gene="rbcL"
+     CDS             <1..252
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04091.1"
+                     /db_xref="GI:57335282"
+                     /db_xref="GOA:Q5K2V0"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2V0"
+                     /translation="IFGDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRN
+                     LSREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            355..753
+                     /gene="rbcX"
+     CDS             355..753
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04092.1"
+                     /db_xref="GI:57335283"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U9"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLNNF
+                     SAGKVQNGEAYLEQLFQAKPDLALRIMTVREHIAAEVAEFLPEMLLTGIQQGNMEQRR
+                     QHLERMTFIDTSDPSPQSEQQTSSDFNSEQ"
+     gene            818..>904
+                     /gene="rbcS"
+     CDS             818..>904
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04093.1"
+                     /db_xref="GI:57335284"
+                     /db_xref="GOA:Q5K2U8"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U8"
+                     /translation="MQTLPKPIIRSYANFTKRASLRNPFLPAP"
+ORIGIN      
+        1 atattcggtg atgactccgt actacaattc ggtggtggta cattgggtca cccctggggt
+       61 aacgcacctg gtgcaactgc taaccgtgta gctttggaag cttgtatcca agctcgtaac
+      121 gaaggacgca acttgtctcg tgaaggtaac gatgttatcc gcgaagctgc taagtggagt
+      181 cctgaactag ctgttgcttg cgaactgtgg aaagaaatca aattcgagtt cgaggccatg
+      241 gatactgtct gatcctgaag taaccagtaa aaagttaaag agtaaaagaa aatagtcatt
+      301 ctttcttttt actttttaat tttgcttttt actttttatg ggctggggtc aaacatgaat
+      361 cttaagcaaa ttgccaagga tacagctaaa actctgcaaa gctacctgac ttatcaggcg
+      421 ctgaaaacag tgttggcgca gctaggcgaa acgaatcctc ctttggaact ctggctaaat
+      481 aacttttctg ctggtaaagt ccagaacgga gaagcttatc ttgagcaatt gtttcaagcc
+      541 aagccagatt tagcattaag gattatgact gtcagagaac atatagcggc ggaagtcgcg
+      601 gaatttctcc cggaaatgct tcttactggc attcagcaag gaaatatgga gcaacgtcgc
+      661 cagcatctag aacgcatgac atttatagat acatctgacc ccagtccaca gtcagaacag
+      721 cagacaagtt cagatttcaa tagtgaacag tgatcatttt taactgaata actgtttact
+      781 aataattcat atcaatcgct acccattatc aaaagctatg caaactttac caaaacccat
+      841 tatcagaagc tatgcaaact ttaccaaaag agcgtcgtta cgaaaccctt tcttacctgc
+      901 ccca
+//
+
+
+LOCUS       AJ783700                 864 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia harveyana BECID27 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain BECID27.
+ACCESSION   AJ783700
+VERSION     AJ783700.1  GI:57335285
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia harveyana BECID27
+  ORGANISM  Nodularia harveyana BECID27
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 864)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..864
+                     /organism="Nodularia harveyana BECID27"
+                     /mol_type="genomic DNA"
+                     /strain="BECID27"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284735"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..246
+                     /gene="rbcL"
+     CDS             <1..246
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04094.1"
+                     /db_xref="GI:57335286"
+                     /db_xref="GOA:Q5K2U7"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U7"
+                     /translation="SDDSVLQFGGGTLGHPWGNAPGATANRVALEACIQARNEGRNLS
+                     REGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            349..747
+                     /gene="rbcX"
+     CDS             349..747
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04095.1"
+                     /db_xref="GI:57335287"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U6"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLNNF
+                     SAGKVQNGEAYLEQLFQAKPDLALRIMTVREHIAAEVAEFLPEMLLTGIQQGNMEQRR
+                     QHLERMTFIDTSDPSPQSEQQTSSDFNSEQ"
+     gene            812..>864
+                     /gene="rbcS"
+     CDS             812..>864
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04096.1"
+                     /db_xref="GI:57335288"
+                     /db_xref="GOA:Q5K2U5"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U5"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 agtgatgact ccgtactaca attcggtggt ggtacattgg gtcacccctg gggtaacgca
+       61 cctggtgcaa ctgctaaccg tgtagctttg gaagcttgta tccaagctcg taacgaagga
+      121 cgcaacttgt ctcgtgaagg taacgatgtt atccgcgaag ctgctaagtg gagtcctgaa
+      181 ctagctgttg cttgcgaact gtggaaagaa atcaagttcg agttcgaggc catggatact
+      241 gtctgatcct gaagtaacca gtaaaaagtt aaagagtaaa agaaaatagt cattctttct
+      301 ttttactttt taattttgct ttttactttt tatgggctgg ggtcaaacat gaatcttaag
+      361 caaattgcca aggatacagc taaaactctg caaagctacc tgacttatca ggcgctgaaa
+      421 acagtgttgg cacagctagg cgaaacgaat cctcctttgg aactctggct aaataacttt
+      481 tctgctggta aagtccagaa cggagaagct tatcttgagc aattgtttca agccaagcca
+      541 gatttggcat taaggattat gactgtcaga gaacatatag cggcggaagt cgcggaattt
+      601 ctcccggaaa tgcttcttac tggcattcag caaggaaata tggagcaacg tcgccagcat
+      661 ctagaacgca tgacatttat agatacatct gaccccagtc cacagtcaga acagcagaca
+      721 agttcagatt tcaatagtga acagtgatca tttttaactg aataactgtt tactaataat
+      781 tcatatcaat cgctacccat tatcaaaagc tatgcaaact ttaccaaaag agcgtcgtta
+      841 cgaaaccctt tcttacctgc ccca
+//
+
+
+LOCUS       AJ783701                 909 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia harveyana BECID29 rbcL gene (partial), rbcX gene and rbcS
+            gene (partial), strain BECID29.
+ACCESSION   AJ783701
+VERSION     AJ783701.1  GI:57335289
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia harveyana BECID29
+  ORGANISM  Nodularia harveyana BECID29
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 909)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..909
+                     /organism="Nodularia harveyana BECID29"
+                     /mol_type="genomic DNA"
+                     /strain="BECID29"
+                     /isolation_source="plankton"
+                     /db_xref="taxon:284737"
+                     /country="Finland:Baltic Sea, Gulf of Finland"
+     gene            <1..291
+                     /gene="rbcL"
+     CDS             <1..291
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04097.1"
+                     /db_xref="GI:57335290"
+                     /db_xref="GOA:Q5K2U4"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U4"
+                     /translation="GGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVA
+                     LEACIQARNEGRNLSREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            394..792
+                     /gene="rbcX"
+     CDS             394..792
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04098.1"
+                     /db_xref="GI:57335291"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U3"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKVQDGEAYLEQLFQAKPDLALRIMTVREHIAAEVAEFLPEMVLTGIQQGNMEQRR
+                     QHLERMTFIDTSDSSPQSEQQTSSDFNSEQ"
+     gene            857..>909
+                     /gene="rbcS"
+     CDS             857..>909
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04099.1"
+                     /db_xref="GI:57335292"
+                     /db_xref="GOA:Q5K2U2"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U2"
+                     /translation="MQTLPKERRYETLSYLP"
+ORIGIN      
+        1 ggtggtatcc acgtatggca tatgcccgca ctngtagaaa tcttcggtga tgactccgta
+       61 ctacaattcg gtggtggtac attgggtcac ccctggggta acgcacctgg tgcaactgct
+      121 aaccgtgtag ctttggaagc ttgtatccaa gctcgtaacg aaggacgcaa cttgtctcgt
+      181 gaaggtaacg atgttatccg cgaagctgct aagtggagtc ctgaactagc tgttgcttgc
+      241 gaactgtgga aagaaatcaa gttcgagttc gaggccatgg atactgtctg atcctgaagt
+      301 aaccagtaaa aagttaaaga gtaaaagaaa atagtcattc tttcttttta ctttttactt
+      361 ttgcttttta ctttttatgg gctggggtca aacatgaatc ttaagcaaat tgccaaggat
+      421 acagctaaaa ctctgcaaag ctacctgact tatcaggcgc tgaaaacagt gttagcacag
+      481 ctaggcgaaa cgaatcctcc cttggaactc tggctacata acttttctgc tggtaaagtc
+      541 caggacggag aagcttatct ggagcaattg tttcaagcca agccagattt ggcattaaga
+      601 attatgactg tcagagaaca tatagcggcg gaagtcgcgg aatttctccc ggaaatggtt
+      661 cttactggca ttcagcaagg caatatggag caacgtcgcc agcatctaga acgcatgaca
+      721 ttcatagata catctgactc cagtccacag tcagaacagc agacaagttc agatttcaat
+      781 agtgaacagt gatcattttt aactgaataa ctgtttacta ataattcata tcaatcgcta
+      841 cccattatca aaagctatgc aaactttacc aaaagagcgt cgttacgaaa ccctttctta
+      901 cctgcccca
+//
+
+
+LOCUS       AJ783702                 925 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Nodularia harveyana 'Huebel 1983/300' rbcL gene (partial), rbcX
+            gene and rbcS gene (partial), strain 'Huebel 1983/300'.
+ACCESSION   AJ783702
+VERSION     AJ783702.1  GI:57335293
+KEYWORDS    chaperonin-like protein; rbcL gene; rbcS gene; rbcX gene; ribulose
+            1,5-biphosphate carboxylase large subunit; ribulose
+            1,5-bisphosphate carboxylase small subunit.
+SOURCE      Nodularia harveyana 'Huebel 1983/300'
+  ORGANISM  Nodularia harveyana 'Huebel 1983/300'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1
+  AUTHORS   Lyra,C., Laamanen,M., Lehtimaki,J.M., Surakka,A. and Sivonen,K.
+  TITLE     Benthic cyanobacteria of the genus Nodularia are non-toxic, without
+            gas vacuoles, able to glide and genetically more diverse than
+            planktonic Nodularia
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 55 (PT 2), 555-568 (2005)
+   PUBMED   15774625
+REFERENCE   2  (bases 1 to 925)
+  AUTHORS   Lyra,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2004) Lyra C., Applied Chemistry and
+            Microbiology, University of Helsinki, P.O. Box 56 (Viikinkaari 9),
+            FIN-00014, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..925
+                     /organism="Nodularia harveyana 'Huebel 1983/300'"
+                     /mol_type="genomic DNA"
+                     /strain="Huebel 1983/300"
+                     /isolation_source="Baltic sea water from the hidden sea"
+                     /db_xref="taxon:284738"
+     gene            <1..290
+                     /gene="rbcL"
+     CDS             <1..290
+                     /gene="rbcL"
+                     /EC_number="4.1.1.39"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="ribulose 1,5-biphosphate carboxylase large
+                     subunit"
+                     /protein_id="CAH04100.1"
+                     /db_xref="GI:57335294"
+                     /db_xref="GOA:Q5K2U1"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U1"
+                     /translation="VFHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATANRVAL
+                     EAVVQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            393..791
+                     /gene="rbcX"
+     CDS             393..791
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="CAH04101.1"
+                     /db_xref="GI:57335295"
+                     /db_xref="InterPro:IPR003435"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2U0"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKVQDGECYLEQLFQEQADLALRIMTVREHIAAEVAEFLPEMVLTGIQQANMEQRR
+                     QHLERMTLIDTSVPSPQSEQQTSSDSHSEQ"
+     gene            883..>925
+                     /gene="rbcS"
+     CDS             883..>925
+                     /gene="rbcS"
+                     /EC_number="4.1.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose 1,5-bisphosphate carboxylase small
+                     subunit"
+                     /protein_id="CAH04102.1"
+                     /db_xref="GI:57335296"
+                     /db_xref="GOA:Q5K2T9"
+                     /db_xref="UniProtKB/TrEMBL:Q5K2T9"
+                     /translation="MQTLPKERRYETLS"
+ORIGIN      
+        1 tggtattcca cgtatggcat atgcccgcac tagtagaaat ttttggtgac gactccgtac
+       61 tgcaattcgg tggtggtaca ctgggacacc cctggggtaa cgctcctggt gctacagcta
+      121 accgtgtggc cttggaagca gttgtccaag ctcgtaacga aggtcgtaac ttggctcgtg
+      181 aaggtaacga cgtaatccgc gaagctgcta agtggagtcc tgaactagct gttgcttgcg
+      241 aactgtggaa agaaatcaag ttcgagttcg aggcaatgga tactgtctga tcctcaagta
+      301 accagtaaaa agttaaagag taaaagaaaa taatcattct ttccttttac tttttacttt
+      361 tgctttttac tttttatggg ctggggtcaa acatgaatct taagcaaatt gccaaggata
+      421 cagctaaaac cttacaaagt tacctaactt atcaggcgct aaaaacggtt ttagcacagc
+      481 taggcgaaac caatccacct ttagaacttt ggctacataa cttttccgca ggcaaagtcc
+      541 aggatggaga gtgttatctt gagcaattgt ttcaagaaca ggcggatttg gcattacgga
+      601 ttatgactgt cagagaacat atagcggcag aagtcgctga atttctacca gaaatggttc
+      661 tcactggcat tcagcaagcc aatatggaac aacgtcgcca gcatctagaa cgcatgacac
+      721 tcatagatac atctgtcccc agtccgcagt cggaacagca gacaagctca gattcccata
+      781 gtgaacagta aacaggagtc attgttaact gttaactgtt aactgataac tgttaactga
+      841 taactgaaat ctcatatcaa tctccaccca ttatcaaaag ctatgcaaac tttaccaaaa
+      901 gagcgtcgtt acgaaaccct ttctt
+//
+
+
+LOCUS       DQ185288                 822 bp    DNA     linear   BCT 19-JAN-2006
+DEFINITION  Nodularia harveyana 'Huebel 1983/300' ribulose-1,5-bisphosphate
+            carboxylase/oxygenase large subunit (rbcL) gene, partial cds; and
+            chaperonin-like protein (rbcX) gene, complete cds.
+ACCESSION   DQ185288
+VERSION     DQ185288.1  GI:82471012
+KEYWORDS    .
+SOURCE      Nodularia harveyana 'Huebel 1983/300'
+  ORGANISM  Nodularia harveyana 'Huebel 1983/300'
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1  (bases 1 to 822)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing host specialization in symbiotic cyanobacteria associated
+            with four closely related species of the lichen fungus Peltigera
+  JOURNAL   Eur. J. Phycol. 40 (4), 363-378 (2005)
+REFERENCE   2  (bases 1 to 822)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2005) Biology, Duke University, Durham, NC 27708,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="Nodularia harveyana 'Huebel 1983/300'"
+                     /mol_type="genomic DNA"
+                     /strain="Huebel 1983/300"
+                     /db_xref="taxon:284738"
+     gene            <1..238
+                     /gene="rbcL"
+     CDS             <1..238
+                     /gene="rbcL"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="ABB77496.1"
+                     /db_xref="GI:82471013"
+                     /translation="SVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLAREG
+                     NDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            341..739
+                     /gene="rbcX"
+     CDS             341..739
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="ABB77497.1"
+                     /db_xref="GI:82471014"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKVQDGECYLEQLFQEQADLALRIMTVREHIAAEVAEFLPEMVLTGIQQANMEQRR
+                     QHLERMTLIDTSVPSPQSEQQTSSDSHSEQ"
+ORIGIN      
+        1 ctccgtactg caattcggtg gtggtacact gggacacccc tggggtaacg ctcctggtgc
+       61 tacagctaac cgtgtggcct tggaagcagt tgtccaagct cgtaacgaag gtcgtaactt
+      121 ggctcgtgaa ggtaacgacg taatccgcga agctgctaag tggagtcctg aactagctgt
+      181 tgcttgcgaa ctgtggaaag aaatcaagtt cgagttcgag gcaatggata ctgtctgatc
+      241 ctcaagtaac cagtaaaaag ttaaagagta aaagaaaata atcattcttt ccttttactt
+      301 tttacttttg ctttttactt tttatgggct ggggtcaaac atgaatctta agcaaattgc
+      361 caaggataca gctaaaacct tacaaagtta cctaacttat caggcgctaa aaacggtttt
+      421 agcacagcta ggcgaaacca atccaccttt agaactttgg ctacataact tttccgcagg
+      481 caaagtccag gatggagagt gttatcttga gcaattgttt caagaacagg cggatttggc
+      541 attacggatt atgactgtca gagaacatat agcggcagaa gtcgctgaat ttctaccaga
+      601 aatggttctc actggcattc agcaagccaa tatggaacaa cgtcgccagc atctagaacg
+      661 catgacactc atagatacat ctgtccccag tccgcagtcg gaacagcaga caagctcaga
+      721 ttcccatagt gaacagtaaa caggagtcat tgttaactgt taactgttaa ctgataactg
+      781 ttaactgata actgaaatgc tcatatcaat gctccaccca tt
+//
+
+
+LOCUS       DQ185302                 732 bp    DNA     linear   BCT 19-JAN-2006
+DEFINITION  Nodularia sphaerocarpa PCC 7804 ribulose-1,5-bisphosphate
+            carboxylase/oxygenase large subunit (rbcL) gene, partial cds; and
+            chaperonin-like protein (rbcX) gene, complete cds.
+ACCESSION   DQ185302
+VERSION     DQ185302.1  GI:82471054
+KEYWORDS    .
+SOURCE      Nodularia sphaerocarpa PCC 7804
+  ORGANISM  Nodularia sphaerocarpa PCC 7804
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1  (bases 1 to 732)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Assessing host specialization in symbiotic cyanobacteria associated
+            with four closely related species of the lichen fungus Peltigera
+  JOURNAL   Eur. J. Phycol. 40 (4), 363-378 (2005)
+REFERENCE   2  (bases 1 to 732)
+  AUTHORS   O'Brien,H.E., Miadlikowska,J. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2005) Biology, Duke University, Durham, NC 27708,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..732
+                     /organism="Nodularia sphaerocarpa PCC 7804"
+                     /mol_type="genomic DNA"
+                     /strain="PCC 7804"
+                     /db_xref="taxon:88830"
+     gene            <1..213
+                     /gene="rbcL"
+     CDS             <1..213
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="ABB77524.1"
+                     /db_xref="GI:82471055"
+                     /translation="TLGHPWGNAPGATANRVALEACIQARNEGRNLAREGNDVIREAA
+                     KWSPELAVACELWKEIKFEFEAMDTV"
+     gene            316..723
+                     /gene="rbcX"
+     CDS             316..723
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="ABB77525.1"
+                     /db_xref="GI:82471056"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVREHIAEEVADFLPEMVRTGFQQANMEQRR
+                     QHLERMTRIDTSHPSPHPEQQTSSDFNSDSDHF"
+ORIGIN      
+        1 acacttggtc acccctgggg taacgcacct ggtgcaaccg ctaaccgtgt agctttggaa
+       61 gcttgtatcc aagctcgtaa cgaaggccgc aacttggctc gtgaaggtaa cgacgttatc
+      121 cgcgaagctg ctaagtggag tcctgaacta gctgttgctt gcgaactgtg gaaagaaatc
+      181 aagttcgagt tcgaggccat ggatactgtc tgatcctcaa gtaaccagta aaaagttaaa
+      241 gagtaaaaga aaataatcat tctttctttt tactttttac ttttgctttt tactttttat
+      301 gggctgggga caaacatgaa tcttaagcaa attgccaagg atacagccaa gactttgcaa
+      361 agctacctga cttatcaggc actgaaaaca gtattggcac agttaggcga aacgaatcca
+      421 ccgttggaac tttggctaca taacttttct gctggcaaaa tccaggacgg agaagcctat
+      481 attcagcaac tgtttctcga aaagccagat ttggcattac ggattatgac tgtcagagaa
+      541 cacatcgcgg aggaagtcgc cgactttctt cccgaaatgg ttcgcactgg ctttcagcaa
+      601 gccaacatgg aacaacgtcg ccagcatcta gaacgcatga cacgaataga tacatctcac
+      661 cccagtccac acccggaaca gcagacaagt tcagatttca atagtgacag tgatcatttt
+      721 taactgataa ct
+//
+
+
+LOCUS       HM241947                 915 bp    DNA     linear   BCT 28-JUN-2010
+DEFINITION  Nodularia spumigena KNUA005 ribulose-1,5-bisphosphate
+            carboxylase/oxygenase large subunit (rbcL) gene, partial cds;
+            chaperonin-like protein (rbcX) gene, complete cds; and
+            ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit
+            (rbcS) gene, partial cds.
+ACCESSION   HM241947
+VERSION     HM241947.1  GI:299150796
+KEYWORDS    .
+SOURCE      Nodularia spumigena KNUA005
+  ORGANISM  Nodularia spumigena KNUA005
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nodularia.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Hong,J.W., Choi,H.-G., Kang,S.-H. and Yoon,H.-S.
+  TITLE     Axenic purification and cultivation of an Arctic cyanobacterium,
+            Nodularia spumigena KNUA005, with cold tolerance potential for
+            sustainable production of algae-based biofuel
+  JOURNAL   Algae 25 (2), 99-104 (2010)
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Hong,J.W. and Yoon,H.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2010) Department of Biology, Kyungpook National
+            University, 1370 Sankyuk-dong, Buk-gu, Daegu 702-701, South Korea
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="Nodularia spumigena KNUA005"
+                     /mol_type="genomic DNA"
+                     /strain="KNUA005"
+                     /isolation_source="water sample"
+                     /db_xref="taxon:857314"
+                     /country="Norway: Ny Alesund, Svalbard"
+                     /PCR_primers="fwd_name: CW, fwd_seq:
+                     cgtagcttccggtggtatccacgt, rev_name: CX, rev_seq:
+                     ggcgcaggtaagaaagggtttcgta"
+     gene            <1..301
+                     /gene="rbcL"
+     CDS             <1..301
+                     /gene="rbcL"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="ADJ17733.1"
+                     /db_xref="GI:299150797"
+                     /translation="VASGGIHVWHMPALVEIFGDDSVLQFGGGTLGHPWGNAPGATAD
+                     RVALEACIQARNEGRNLAREGNDVIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            403..810
+                     /gene="rbcX"
+     CDS             403..810
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="ADJ17734.1"
+                     /db_xref="GI:299150798"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SAGKIQDGEAYIQQLFLEKPDLALRIMTVRENIAEEVADFLPEMVRTGFQQSNMEQRR
+                     QHLERMTRIDTFNPSPQQEQQTSSDFNSDSDHF"
+     gene            864..>915
+                     /gene="rbcS"
+     CDS             864..>915
+                     /gene="rbcS"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     small subunit"
+                     /protein_id="ADJ17735.1"
+                     /db_xref="GI:299150799"
+                     /translation="MQTLPKERRYETLSYLR"
+ORIGIN      
+        1 cgtagcttcc ggtggtatcc acgtatggca tatgcccgca cttgtagaaa tcttcggtga
+       61 tgactccgta ctacaatttg gtggtggtac tcttggacac ccctggggta acgcacctgg
+      121 tgcaaccgct gaccgtgtag ctttggaagc ttgtatccaa gctcgtaacg aaggccgcaa
+      181 cttggctcgt gaaggtaacg atgtgatccg tgaagctgct aagtggagtc ctgaattggc
+      241 tgtcgcttgc gaactgtgga aagaaatcaa gttcgagttc gaggccatgg atactgtctg
+      301 atcctcaagt aactagtaaa aagttaaaga gtaaaagaaa ataatattct ttctttttac
+      361 tttttactct tgctttttac tttttatggg ctggggacaa acatgaatct taagcaaatt
+      421 gccaaggata cagccaagac tttgcaaagc tacctgactt atcaggcgct gaaaacagta
+      481 ttggcacagt taggcgaaac gaatccaccg ttggaacttt ggctacataa cttttctgct
+      541 ggcaaaatcc aggacggaga agcctatatt cagcaactgt ttctcgaaaa gccagatttg
+      601 gctttacgga ttatgactgt cagagaaaac atcgcggagg aagtcgccga ttttcttccc
+      661 gaaatggttc gcactggctt tcagcaatcc aacatggaac aacgtcgcca gcatctagaa
+      721 cgcatgacac gaatagatac atttaacccc agtccccagc aggaacagca gacgagttca
+      781 gatttcaata gtgacagtga tcatttttaa ctgataactg tttactgaaa actaatatca
+      841 atcgcaacca attatcaaaa cctatgcaaa ctttaccaaa agaacgtcgt tacgaaaccc
+      901 tttcttacct gcgcc
+//
+
+
+LOCUS       KM006007                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. HV03 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006007
+VERSION     KM006007.1  GI:666667356
+KEYWORDS    .
+SOURCE      Nostoc sp. HV03
+  ORGANISM  Nostoc sp. HV03
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. HV03"
+                     /mol_type="genomic DNA"
+                     /strain="HV03"
+                     /isolation_source="Munch s. n. (NY-01117836)"
+                     /db_xref="taxon:1521970"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19925.1"
+                     /db_xref="GI:666667357"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19926.1"
+                     /db_xref="GI:666667358"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006008                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. HV04 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006008
+VERSION     KM006008.1  GI:666667359
+KEYWORDS    .
+SOURCE      Nostoc sp. HV04
+  ORGANISM  Nostoc sp. HV04
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. HV04"
+                     /mol_type="genomic DNA"
+                     /strain="HV04"
+                     /isolation_source="Munch s. n. (NY-01117837)"
+                     /db_xref="taxon:1521971"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19927.1"
+                     /db_xref="GI:666667360"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19928.1"
+                     /db_xref="GI:666667361"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006009                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. HV06 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006009
+VERSION     KM006009.1  GI:666667362
+KEYWORDS    .
+SOURCE      Nostoc sp. HV06
+  ORGANISM  Nostoc sp. HV06
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. HV06"
+                     /mol_type="genomic DNA"
+                     /strain="HV06"
+                     /isolation_source="Munch s. n. (NY-01117839)"
+                     /db_xref="taxon:1521972"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19929.1"
+                     /db_xref="GI:666667363"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19930.1"
+                     /db_xref="GI:666667364"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gnatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006010                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. HV07 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006010
+VERSION     KM006010.1  GI:666667365
+KEYWORDS    .
+SOURCE      Nostoc sp. HV07
+  ORGANISM  Nostoc sp. HV07
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. HV07"
+                     /mol_type="genomic DNA"
+                     /strain="HV07"
+                     /isolation_source="Munch s. n. (NY-01117835)"
+                     /db_xref="taxon:1521973"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19931.1"
+                     /db_xref="GI:666667366"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19932.1"
+                     /db_xref="GI:666667367"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006013                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. HV25 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006013
+VERSION     KM006013.1  GI:666667374
+KEYWORDS    .
+SOURCE      Nostoc sp. HV25
+  ORGANISM  Nostoc sp. HV25
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. HV25"
+                     /mol_type="genomic DNA"
+                     /strain="HV25"
+                     /isolation_source="Huber s. n. (NY-01117830)"
+                     /db_xref="taxon:1521983"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19937.1"
+                     /db_xref="GI:666667375"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19938.1"
+                     /db_xref="GI:666667376"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006015                 709 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. P1493 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006015
+VERSION     KM006015.1  GI:666667380
+KEYWORDS    .
+SOURCE      Nostoc sp. P1493
+  ORGANISM  Nostoc sp. P1493
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 709)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 709)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..709
+                     /organism="Nostoc sp. P1493"
+                     /mol_type="genomic DNA"
+                     /strain="P1493"
+                     /isolation_source="Richardson s. n. (CANL-125688)"
+                     /db_xref="taxon:1521995"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..189
+                     /gene="rbcL"
+     CDS             <1..189
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19941.1"
+                     /db_xref="GI:666667381"
+                     /translation="APGATANRVALEAVVQARNEGRNLAREGNDIIREAAKWSPELAV
+                     ACELWKEIKFEFEAMDTV"
+     gene            292..699
+                     /gene="rbcX"
+     CDS             292..699
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19942.1"
+                     /db_xref="GI:666667382"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gctcctggtg caaccgctaa ccgcgtcgct ttggaagccg ttgttcaagc tcgtaacgaa
+       61 ggccgtaact tggctcgtga aggtaacgac atcatccgtg aagctgctaa gtggtctcct
+      121 gaactagctg ttgcttgcga actgtggaaa gaaatcaagt tcgagtttga agcaatggat
+      181 accgtctgat cctcaagtta aaagttaaaa ggtaaaaggt aaaagaaaat agttgtttcc
+      241 tctttttact ttttactttt tactttttac ttttttaggc tggggtcaag catgaatctt
+      301 aagcaaattg cgaaagacac agccaagact ctccaaagtt acctgactta tcaggcgcta
+      361 aagacagtat tggcacagct aggcgaaacg aatcctccat tagaactttg gttgcataac
+      421 ttttcgtctg ggaaaattca gaatggtgag tcatacatcg agcaactgtt gcaagaaaaa
+      481 ccagatttgg cattgcgaat catgactgtc agagaacaca ttgccgaaga aatcacagaa
+      541 tttttaccgg aaatggtttg cactggcatt cagcaagcca acatggaaca gcgccgccag
+      601 catctagaac gcataacacg aatagacaca tctaacccca gtctgcaacc agaacagcaa
+      661 gcaactttag atcagaattt ggataactta tccagttagt ttgctcaac
+//
+
+
+LOCUS       KM006016                 709 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. P1494 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006016
+VERSION     KM006016.1  GI:666667383
+KEYWORDS    .
+SOURCE      Nostoc sp. P1494
+  ORGANISM  Nostoc sp. P1494
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 709)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 709)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..709
+                     /organism="Nostoc sp. P1494"
+                     /mol_type="genomic DNA"
+                     /strain="P1494"
+                     /isolation_source="Anderson 151060 (NSPM)"
+                     /db_xref="taxon:1521996"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by E. Rivas Plata; Lutzoni Lab"
+     gene            <1..189
+                     /gene="rbcL"
+     CDS             <1..189
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19943.1"
+                     /db_xref="GI:666667384"
+                     /translation="APGATANRVXLEAVVQARNEGRNLAREGNDIIREAAKWSPELAV
+                     ACELWKEIKFEFEAMDTV"
+     gene            292..699
+                     /gene="rbcX"
+     CDS             292..699
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19944.1"
+                     /db_xref="GI:666667385"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gctcctggtg caaccgctaa ccgcgtngnn ttggaagccg ttgttcaagc tcgtaatgaa
+       61 ggccgtaact tggctcgtga aggtaacgac atcatccgtg aagctgctaa gtggtctcct
+      121 gaactagctg ttgcttgcga actgtggaaa gaaatcaagt tcgagtttga agcaatggat
+      181 accgtctgat cctcaagtta aaagttaaaa ggtaaaaggt aaaagaaaat agttgtttcc
+      241 tctttttact ttttactttt tactttttac ttttttaggc tggggtcaag catgaatctt
+      301 aagcaaattg cgaaagacac agccaagact ctccaaagtt acctgactta tcaggcgcta
+      361 aagacagtat tggcacagct aggcgaaacg aatcctccat tagaactttg gttgcataac
+      421 ttttcgtctg ggaaaattca gaatggtgag tcatacatcg agcaactgtt gcaagaaaaa
+      481 ccagatttgg cattgcgaat catgactgtc agagaacaca ttgccgaaga aatcacagaa
+      541 tttttaccgg aaatggtttg cactggcatt cagcaagcca acatggaaca gcgccgccag
+      601 catctagaac gcataacacg aatagacaca tctaacccca gtctgcaacc agaacagcaa
+      661 gcaactttag atcagaattt ggataactta tccagttagt ttgctcaac
+//
+
+
+LOCUS       KM006018                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. P1496 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006018
+VERSION     KM006018.1  GI:666667389
+KEYWORDS    .
+SOURCE      Nostoc sp. P1496
+  ORGANISM  Nostoc sp. P1496
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. P1496"
+                     /mol_type="genomic DNA"
+                     /strain="P1496"
+                     /isolation_source="Anderson 1510479 (NSPM)"
+                     /db_xref="taxon:1521998"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by N. Magain; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19947.1"
+                     /db_xref="GI:666667390"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19948.1"
+                     /db_xref="GI:666667391"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006020                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. P1498 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006020
+VERSION     KM006020.1  GI:666667395
+KEYWORDS    .
+SOURCE      Nostoc sp. P1498
+  ORGANISM  Nostoc sp. P1498
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. P1498"
+                     /mol_type="genomic DNA"
+                     /strain="P1498"
+                     /isolation_source="Anderson 151055 (NSPM)"
+                     /db_xref="taxon:1522000"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by N. Magain; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19951.1"
+                     /db_xref="GI:666667396"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19952.1"
+                     /db_xref="GI:666667397"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
+LOCUS       KM006021                 760 bp    DNA     linear   BCT 26-JUL-2014
+DEFINITION  Nostoc sp. P1845 ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, partial cds; and chaperonin-like protein
+            (rbcX) gene, complete cds.
+ACCESSION   KM006021
+VERSION     KM006021.1  GI:666667398
+KEYWORDS    .
+SOURCE      Nostoc sp. P1845
+  ORGANISM  Nostoc sp. P1845
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Phylogenetic placement, species delimitation, and cyanobiont
+            identity of endangered aquatic Peltigera species (lichen-forming
+            Ascomycota, Lecanoromycetes)
+  JOURNAL   Am. J. Bot. (2014) In press
+   PUBMED   25016011
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Miadlikowska,J., Richardson,D., Magain,N., Ball,B., Anderson,F.,
+            Cameron,R., Lendemer,J., Truong,C. and Lutzoni,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2014) Biology, Duke University, Box 90338,
+            Durham, NC 27708, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Nostoc sp. P1845"
+                     /mol_type="genomic DNA"
+                     /strain="P1845"
+                     /isolation_source="Anderson 159031 (NSPM)"
+                     /db_xref="taxon:1522001"
+                     /note="Nostoc sp. 'Peltigera hydrothyria';
+                     sequenced by N. Magain; Lutzoni Lab"
+     gene            <1..240
+                     /gene="rbcL"
+     CDS             <1..240
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AIG19953.1"
+                     /db_xref="GI:666667399"
+                     /translation="DSVLQFGGGTLGHPWGNAPGATANRVALEAVVQARNEGRNLARE
+                     GNDIIREAAKWSPELAVACELWKEIKFEFEAMDTV"
+     gene            343..750
+                     /gene="rbcX"
+     CDS             343..750
+                     /gene="rbcX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperonin-like protein"
+                     /protein_id="AIG19954.1"
+                     /db_xref="GI:666667400"
+                     /translation="MNLKQIAKDTAKTLQSYLTYQALKTVLAQLGETNPPLELWLHNF
+                     SSGKIQNGESYIEQLLQEKPDLALRIMTVREHIAEEITEFLPEMVCTGIQQANMEQRR
+                     QHLERITRIDTSNPSLQPEQQATLDQNLDNLSS"
+ORIGIN      
+        1 gactccgtac tgcaattcgg tggtggtact ctgggacacc cttggggtaa cgctcctggt
+       61 gcaaccgcta accgcgtcgc cttggaagcc gttgttcaag ctcgtaatga aggccgtaac
+      121 ttggctcgtg aaggtaacga catcatccgt gaagctgcta agtggtctcc tgaactagct
+      181 gttgcttgcg aactgtggaa agaaatcaag ttcgagtttg aagcaatgga taccgtctga
+      241 tcctcaagtt aaaagttaaa aggtaaaagg taaaagaaaa tagttgtttc ctctttttac
+      301 tttttacttt ttacttttta cttttttagg ctggggtcaa gcatgaatct taagcaaatt
+      361 gcgaaagaca cagccaagac tctccaaagt tacctgactt atcaggcgct aaagacagta
+      421 ttggcacagc taggcgaaac gaatcctcca ttagaacttt ggttgcataa cttttcgtct
+      481 gggaaaattc agaatggtga gtcatacatc gagcaactgt tgcaagaaaa accagatttg
+      541 gcattgcgaa tcatgactgt cagagaacac attgccgaag aaatcacaga atttttaccg
+      601 gaaatggttt gcactggcat tcagcaagcc aacatggaac agcgccgcca gcatctagaa
+      661 cgcataacac gaatagacac atctaacccc agtctgcaac cagaacagca agcaacttta
+      721 gatcagaatt tggataactt atccagttag tttgctcaac
+//
+
+
