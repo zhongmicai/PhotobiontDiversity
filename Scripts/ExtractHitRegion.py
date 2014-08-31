@@ -41,8 +41,8 @@ with open(sys.argv[2], 'rU') as f:
       send = int(send)
       for seq_record in seq_records[sacc]:
         if sstart < send:
-          seq = seq_record.seq[sstart: send]
+          seq = seq_record.seq[sstart-1:send]
         else:
-          seq = seq_record.seq[send - 1, sstart].reverse_complement()
+          seq = seq_record.seq[send-1:sstart].reverse_complement()
         print '>', seq_record.description
         print seq
