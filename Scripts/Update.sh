@@ -1,7 +1,7 @@
 dataset=$1
 ref_seq=$2 # Ncommune_rbcX.fa
-clade=$(cut -d_ -f 1)
-locus=$(cut -d_ -f 2)
+clade=$(echo $dataset | cut -d_ -f 1)
+locus=$(echo $dataset | cut -d_ -f 2)
 cur_date=$(date +%y%m%d)
 ref_seq=$(pwd)/$ref_seq
 log_file=~/Documents/PhotobiontDiversity/$cur_date/log.txt
@@ -27,8 +27,8 @@ then
   mkdir ~/Documents/PhotobiontDiversity/$dataset
 fi
 
-echo "`date`: cd ~/Documents/PhotobiontDiversity/$locus" >> $log_file
-cd ~/Documents/PhotobiontDiversity/$locus
+echo "`date`: cd ~/Documents/PhotobiontDiversity/$dataset" >> $log_file
+cd ~/Documents/PhotobiontDiversity/$dataset
 
 #run blast (need all sequences even if updating because there may be new redundant sequences)
 echo "`date`: blastn -query $ref_seq -db nt -evalue 1e-180 -max_target_seqs 3000 -out ${locus}.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'" >> $log_file
