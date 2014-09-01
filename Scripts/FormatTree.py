@@ -66,7 +66,7 @@ def main(argv):
           label_info = combine_info(cur.fetchall())
       else:  #Singleton
         leaf.name =" " + accession + ':'
-        if host and host != 'free-living' and host != 'Free-living':
+        if host and host != 'free-living':
           label_info = [host]
         else:    
           label_info = [species]
@@ -96,11 +96,6 @@ def main(argv):
 
 
 def draw_tree(tree, file):
-    root = tree.get_midpoint_outgroup()
-    try:
-      tree.set_outgroup(root)
-    except:
-      pass
     root = tree.get_tree_root()
     root.dist = 0
     add_sig(tree)
@@ -188,7 +183,7 @@ def add_sig(tree):
 def combine_info(entries):
   host_counts = {}                   #Can include species names of free-living strains
   for (host, species) in entries:
-    if host == "free-living" or host == 'Free-living':
+    if host == "free-living":
       info = species
     elif host == ' ':
       info = 'Unknown'

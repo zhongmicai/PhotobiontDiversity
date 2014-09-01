@@ -32,7 +32,7 @@ def main(argv):
 
   groups = GetGroups(groupfile)
 
-  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
+  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock");
   with con:
     cur = con.cursor()
     #remove saved group info from db

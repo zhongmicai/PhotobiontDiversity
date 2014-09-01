@@ -8,7 +8,7 @@ from Bio import SeqIO
 from os import path
 
   
-con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
+con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock");
 with con:
   cur = con.cursor()
 
