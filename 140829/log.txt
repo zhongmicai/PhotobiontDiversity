@@ -15,7 +15,7 @@ Fri 29 Aug 2014 12:49:21 BST: wc -l rbcX_acc.txt
 Fri 29 Aug 2014 12:49:21 BST: ../Scripts/GetNew.py rbcX_all.fa >rbcX_new.fa
 Fri 29 Aug 2014 12:49:21 BST: grep '>' rbcX_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >rbcX_new.gb
 Fri 29 Aug 2014 12:49:41 BST: ../Scripts/ParseHost.pl rbcX_new.gb rbcX 140829 >rbcX_metadata_new.txt
-Fri 29 Aug 2014 12:49:41 BST: ../UpdateDB.py rbcX_metadata_new.txt
+Fri 29 Aug 2014 12:49:41 BST: ../Scripts/UpdateDB.py rbcX_metadata_new.txt
 Fri 29 Aug 2014 12:49:41 BST: cat rbcX_new.fa >> rbcX.fa
 Fri 29 Aug 2014 12:49:41 BST: > ../140829/log.txt
 Fri 29 Aug 2014 12:49:41 BST: cat rbcX_new.gb >> rbcX.gb
