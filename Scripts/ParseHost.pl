@@ -4,6 +4,7 @@ use strict;
 use Bio::SeqIO;
 
 my $filename = shift;
+my $clade = shift;
 my $locus = shift;
 my $cur_date = shift;
 if ( $filename =~ /\.fa/ ) {
@@ -115,6 +116,6 @@ elsif ( $filename =~ /\.gb/ ) {
     $species =~ s/uncultured\s+//;
     $species =~ s/((Trebouxia)|(Asterochloris)) photobiont/$1 sp./;
     $species =~ s/((Trebouxia)|(Asterochloris)) sp\..*/$1 sp./;
-    print join("\t", ($accession, $host, $species, $strain, $location, $authors[0], $journal, $pubmed, $locus, $cur_date)), "\n";
+    print join("\t", ($accession, $host, $species, $strain, $location, $authors[0], $journal, $pubmed, $clade, $locus, $cur_date)), "\n";
   }
 }

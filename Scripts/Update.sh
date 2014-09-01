@@ -81,8 +81,8 @@ echo "`date`: ../Scripts/GetNew.py ${locus}_all.fa >${locus}_new.fa" >> $log_fil
 echo "`date`: grep '>' ${locus}_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >${locus}_new.gb" >> $log_file
 grep '>' ${locus}_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >${locus}_new.gb
 
-echo "`date`: ../Scripts/ParseHost.pl ${locus}_new.gb ${locus} ${cur_date} >${locus}_metadata_new.txt" >> $log_file
-../Scripts/ParseHost.pl ${locus}_new.gb ${locus} ${cur_date} >${locus}_metadata_new.txt
+echo "`date`: ../Scripts/ParseHost.pl ${locus}_new.gb $clade ${locus} ${cur_date} >${locus}_metadata_new.txt" >> $log_file
+../Scripts/ParseHost.pl ${locus}_new.gb $clade ${locus} ${cur_date} >${locus}_metadata_new.txt
 
 echo "`date`: ../Scripts/UpdateDB.py ${locus}_metadata_new.txt" >> ../$cur_date/log.txt
 ../Scripts/UpdateDB.py ${locus}_metadata_new.txt
