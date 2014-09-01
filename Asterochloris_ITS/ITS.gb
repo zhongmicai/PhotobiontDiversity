@@ -1,0 +1,648 @@
+LOCUS       KF907654                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa16 voucher Herbarium Tuerk51469 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907654
+VERSION     KF907654.1  GI:594019524
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa16
+  ORGANISM  Asterochloris sp. URa16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris sp. URa16"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51469"
+                     /db_xref="taxon:1472618"
+                     /country="Sweden: Gynge Alvar"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggtcc actttggcgg tcacctgcag cccggctggc
+       61 ttgccagccc gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatacttga aggcaattgc ttgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcccg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccctctcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aattcagtga tactgcaggg
+      421 accattaatc ggactccagc ttggtaggct tttcccttgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907657                 511 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa14 voucher Herbarium Tuerk51474 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907657
+VERSION     KF907657.1  GI:594019527
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa14
+  ORGANISM  Asterochloris sp. URa14
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 511)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 511)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Asterochloris sp. URa14"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51474"
+                     /db_xref="taxon:1472616"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..172
+                     /product="internal transcribed spacer 1"
+     rRNA            173..326
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        327..>511
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccagaggttc accctttgac ggtcacctgc agtccggctg
+       61 gcttgccagc ccgactgtgg gggccgggtt cacacctggc cggctgtttc tcccattcaa
+      121 accaatatct gaaggcaatt gcttgctcac acgagcggcg actaacaaag acaactctca
+      181 acaacggata tcttggctcc cgcaacgatg aagaacgcag cgaaatgcga tacgtagtgt
+      241 gaattgcaga attccgtgaa ccatcgaatc tttgaacgca tattgcgccc cacggcctcg
+      301 gcccagggca tgtctgcctc agcgtctgtt taccccctct cccccctttc acatactgtg
+      361 aaatcgggaa ggttgtggtt ttgtgctgcg gcacttggcc gaaattcagt gatactgcag
+      421 ggaccgttaa tcggactcca gcttggtagg cttttccctt gtggaattat gcatgccgct
+      481 gttggccgtg gaccactgca gctgtcaagc a
+//
+
+
+LOCUS       KF907658                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa15 voucher Herbarium Tuerk51477 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907658
+VERSION     KF907658.1  GI:594019528
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa15
+  ORGANISM  Asterochloris sp. URa15
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris sp. URa15"
+                     /mol_type="genomic DNA"
+                     /host="Fulgensia bracteata ssp. deformis"
+                     /specimen_voucher="Herbarium Tuerk51477"
+                     /db_xref="taxon:1472617"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggtcc cctttggcgg tcacctgcag cccggctggc
+       61 ttgccagcac gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatacttga aggcaattgc ttgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcccg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccttttcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aagtcagtga tactgcaggg
+      421 accgttaatc ggactccagc ttggtaggct tttccctcgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907659                 511 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa14 voucher Herbarium Tuerk51478 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907659
+VERSION     KF907659.1  GI:594019529
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa14
+  ORGANISM  Asterochloris sp. URa14
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 511)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 511)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Asterochloris sp. URa14"
+                     /mol_type="genomic DNA"
+                     /host="Peltigera rufescens"
+                     /specimen_voucher="Herbarium Tuerk51478"
+                     /db_xref="taxon:1472616"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..172
+                     /product="internal transcribed spacer 1"
+     rRNA            173..326
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        327..>511
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccagaggttc accctttgac ggtcacctgc agtccggctg
+       61 gcttgccagc ccgactgtgg gggccgggtt cacacctggc cggctgtttc tcccattcaa
+      121 accaatatct gaaggcaatt gcttgctcac acgagcggcg actaacaaag acaactctca
+      181 acaacggata tcttggctcc cgcaacgatg aagaacgcag cgaaatgcga tacgtagtgt
+      241 gaattgcaga attccgtgaa ccatcgaatc tttgaacgca tattgcgccc cacggcctcg
+      301 gcccagggca tgtctgcctc agcgtctgtt taccccctct cccccctttc acatactgtg
+      361 aaatcgggaa ggttgtggtt ttgtgctgcg gcacttggcc gaaattcagt gatactgcag
+      421 ggaccgttaa tcggactcca gcttggtagg cttttccctt gtggaattat gcatgccgct
+      481 gttggccgtg gaccactgca gctgtcaagc a
+//
+
+
+LOCUS       KF907660                 511 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa14 voucher Herbarium Tuerk51483 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907660
+VERSION     KF907660.1  GI:594019530
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa14
+  ORGANISM  Asterochloris sp. URa14
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 511)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 511)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Asterochloris sp. URa14"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51483"
+                     /db_xref="taxon:1472616"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..172
+                     /product="internal transcribed spacer 1"
+     rRNA            173..326
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        327..>511
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccagaggttc accctttgac ggtcacctgc agtccggctg
+       61 gcttgccagc ccgactgtgg gggccgggtt cacacctggc cggctgtttc tcccattcaa
+      121 accaatatct gaaggcaatt gcttgctcac acgagcggcg actaacaaag acaactctca
+      181 acaacggata tcttggctcc cgcaacgatg aagaacgcag cgaaatgcga tacgtagtgt
+      241 gaattgcaga attccgtgaa ccatcgaatc tttgaacgca tattgcgccc cacggcctcg
+      301 gcccagggca tgtctgcctc agcgtctgtt taccccctct cccccctttc acatactgtg
+      361 aaatcgggaa ggttgtggtt ttgtgctgcg gcacttggcc gaaattcagt gatactgcag
+      421 ggaccgttaa tcggactcca gcttggtagg cttttccctt gtggaattat gcatgccgct
+      481 gttggccgtg gaccactgca gctgtcaagc a
+//
+
+
+LOCUS       KF907661                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa15 voucher Herbarium Tuerk51487 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907661
+VERSION     KF907661.1  GI:594019531
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa15
+  ORGANISM  Asterochloris sp. URa15
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris sp. URa15"
+                     /mol_type="genomic DNA"
+                     /host="Fulgensia bracteata ssp. deformis"
+                     /specimen_voucher="Herbarium Tuerk51487"
+                     /db_xref="taxon:1472617"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggtcc cctttggcgg tcacctgcag cccggctggc
+       61 ttgccagcac gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatacttga aggcaattgc ttgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcctg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccttttcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aagtcagtga tactgcaggg
+      421 accgttaatc ggactccagc ttggtaggct tttccctcgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907662                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa16 voucher Herbarium Tuerk5193 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907662
+VERSION     KF907662.1  GI:594019532
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa16
+  ORGANISM  Asterochloris sp. URa16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris sp. URa16"
+                     /mol_type="genomic DNA"
+                     /host="Gyalolechia fulgens"
+                     /specimen_voucher="Herbarium Tuerk5193"
+                     /db_xref="taxon:1472618"
+                     /country="Germany: Ruine Homburg"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggtcc actttggcgg tcacctgcag cccggctggc
+       61 ttgccagccc gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatacttga aggcaattgc ttgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcccg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccctctcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aattcagtga tactgcaggg
+      421 accgttaatc ggactccagc ttggtaggct tttcccttgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907663                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa16 voucher Herbarium Tuerk51494 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907663
+VERSION     KF907663.1  GI:594019533
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa16
+  ORGANISM  Asterochloris sp. URa16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris sp. URa16"
+                     /mol_type="genomic DNA"
+                     /host="Peltigera rufescens"
+                     /specimen_voucher="Herbarium Tuerk51494"
+                     /db_xref="taxon:1472618"
+                     /country="Germany: Ruine Homburg"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggtcc actttggcgg tcacctgcag cccggctggc
+       61 ttgccagccc gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatacttga aggcaattgc ttgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcccg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccctctcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aattcagtga tactgcaggg
+      421 accgttaatc ggactccagc ttggtaggct tttcccttgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907664                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa16 voucher Herbarium Tuerk51495 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907664
+VERSION     KF907664.1  GI:594019534
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa16
+  ORGANISM  Asterochloris sp. URa16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris sp. URa16"
+                     /mol_type="genomic DNA"
+                     /host="Peltigera rufescens"
+                     /specimen_voucher="Herbarium Tuerk51495"
+                     /db_xref="taxon:1472618"
+                     /country="Germany: Ruine Homburg"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggtcc actttggcgg tcacctgcag cccggctggc
+       61 ttgccagccc gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatacttga aggcaattgc ttgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcccg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccctctcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aattcagtga tactgcaggg
+      421 accgttaatc ggactccagc ttggtaggct tttcccttgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907665                 513 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris sp. URa16 voucher Herbarium Tuerk51496 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907665
+VERSION     KF907665.1  GI:594019535
+KEYWORDS    .
+SOURCE      Asterochloris sp. URa16
+  ORGANISM  Asterochloris sp. URa16
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 513)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 513)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..513
+                     /organism="Asterochloris sp. URa16"
+                     /mol_type="genomic DNA"
+                     /host="Peltigera rufescens"
+                     /specimen_voucher="Herbarium Tuerk51496"
+                     /db_xref="taxon:1472618"
+                     /country="Germany: Ruine Homburg"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..172
+                     /product="internal transcribed spacer 1"
+     rRNA            173..326
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        327..>513
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggctg ccaaaggttc accctttggc ggtcacctgc actccgactg
+       61 gcttgccagc ccgactgtgg gggccgggtt cacacctggc cggctgtttc tcccattcaa
+      121 accaatattt gaaggcaatt gcttgctcac acgagcggcg actaacaaaa acaactctca
+      181 acaacggata tcttggctcc cgcaacgatg aagaacgcag cgaaatgcga tacgtagtgt
+      241 gaattgcaga attccgtgaa ccatcgaatc tttgaacgca tattgcgccc cacggccttg
+      301 gcccagggca tgtctgcctc agcgtctgtt taccccctct cccccctttc acatactctg
+      361 tgaaatcggg taggttgtgg tcttgtgctg cggcacttgg ccgaaattca gtgatactgc
+      421 agggaccgtt aatcggactc cagcttggta ggcttttccc tcgtggaatt atgcatgccg
+      481 ctgttggcct tggaccactg cagctgtcaa gca
+//
+
+
+LOCUS       KF907669                 509 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Asterochloris magna voucher Herbarium Tuerk51501 gene, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and gene,
+            partial sequence.
+ACCESSION   KF907669
+VERSION     KF907669.1  GI:594019539
+KEYWORDS    .
+SOURCE      Asterochloris magna
+  ORGANISM  Asterochloris magna
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Asterochloris.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Asterochloris magna"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51501"
+                     /db_xref="taxon:13789"
+                     /country="Germany: Ruine Homburg"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..324
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        325..>509
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 accccatgtt ggcctggccg ccaaaggtcc cctttggtgg tcacctgcag cccggctggc
+       61 ttgccagccc gactgtgggg gccgggttca cacctggccg gctgtttctc ccattcaaac
+      121 caatatctga aggcaattgc ctgctcacac gagcggcgac taacaaagac aactctcaac
+      181 aacggatatc ttggctcccg caacgatgaa gaacgcagcg aaatgcgata cgtagtgtga
+      241 attgcagaat tccgtgaacc atcgaatctt tgaacgcata ttgcgcccca cggcctcggc
+      301 ccagggcatg tctgcctcag cgtctgttta ccccctctcc cccctctcac atactgtgag
+      361 atcgggaagg ttgtggtctt gtgctgcggc acttggccga aattcagtga tactgcaggg
+      421 accattaatc ggactccagc ttggtaggct tttccctcgt ggaattatgc atgccgctgt
+      481 tggccgtgga ccactgcagc tgtcaagca
+//
+
+
+LOCUS       KF907696                 536 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Chlorophyta sp. URa24 voucher Herbarium Tuerk51483 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907696
+VERSION     KF907696.1  GI:594019576
+KEYWORDS    .
+SOURCE      Chlorophyta sp. URa24
+  ORGANISM  Chlorophyta sp. URa24
+            Eukaryota; Viridiplantae; Chlorophyta.
+REFERENCE   1  (bases 1 to 536)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 536)
+  AUTHORS   Ruprecht,U. and Brunauer,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..536
+                     /organism="Chlorophyta sp. URa24"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51483"
+                     /db_xref="taxon:1472626"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..186
+                     /product="internal transcribed spacer 1"
+     rRNA            187..341
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        342..>536
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 tccacacgga gaacaccccc atgttggcct ggctgccaga ggttcaccct ttgacggtca
+       61 cctgcagtcc ggctggcttg ccagcccgac tgtgggggcc gggttcacac ctggccggct
+      121 gtttctccca ttcaaaccaa tatctgaagg caattgcttg ctcacacgag cggcgactaa
+      181 caaagacaac tctcaacaac ggatatcttg gctcccgcaa cgatgaagaa cgcagcgaaa
+      241 tgcgatacgt agtgtgaatt gcagaattcc gtgaaccatc gaatctttga acgcatattg
+      301 cgccccacgg cctcggccca gggcatgtct gcctcagcgt ctgtttaccc cctctccccc
+      361 ctttcacata ctgtgaaatc gggaaggttg tggttttgtg ctgcggcact tggccgaaat
+      421 tcagtgatac tgcagggacc gttaatcgga ctccagcttg gtaggctttt cccttgtgga
+      481 attatgcatg ccgctgttgg ccgtggacca ctgcagctgt caagcaggga aacctt
+//
+
+

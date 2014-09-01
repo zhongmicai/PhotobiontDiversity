@@ -1,0 +1,12 @@
+KF907654	Psora decipiens	Asterochloris sp.	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907657	Psora decipiens	Asterochloris sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907658	Fulgensia bracteata	Asterochloris sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907659	Peltigera rufescens	Asterochloris sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907660	Psora decipiens	Asterochloris sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907661	Fulgensia bracteata	Asterochloris sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907662	Gyalolechia fulgens	Asterochloris sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907663	Peltigera rufescens	Asterochloris sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907664	Peltigera rufescens	Asterochloris sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907665	Peltigera rufescens	Asterochloris sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907669	Psora decipiens	Asterochloris magna	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901
+KF907696	Psora decipiens	Chlorophyta sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	ITS	140901

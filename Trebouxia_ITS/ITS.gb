@@ -1,0 +1,1949 @@
+LOCUS       KF907541                 633 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia impressa voucher Herbarium Tuerk51485 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907541
+VERSION     KF907541.1  GI:594019341
+KEYWORDS    .
+SOURCE      Trebouxia impressa
+  ORGANISM  Trebouxia impressa
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Trebouxia impressa"
+                     /mol_type="genomic DNA"
+                     /host="Buellia elegans"
+                     /specimen_voucher="Herbarium Tuerk51485"
+                     /db_xref="taxon:13788"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..263
+                     /product="internal transcribed spacer 1"
+     rRNA            264..416
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        417..>633
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ctatcgtgcc cacaccgtga accatttatg ccctttctga aaggcaactc ttgaaaggga
+       61 gtttgccggt tgaaagcgca ggtcaggggc tgcagctctt tggctgtcag ttgacttggc
+      121 tgggcgggtc caataccagt tgggttcctc ttgctttggc ttgaggttcc tggctgtgag
+      181 gggtggcttg aaaaactcta aagcaatttc ctgaagacag actgctagct ggcttgctgg
+      241 ctgcagactg atttaataat gacaactctc aacaacggat atcttggctc ccgtaacgat
+      301 gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag aattccgtga accatcgaat
+      361 ctttgaacgc aaattgcgct tgaggcttcg gccaagagca tgtctggctc agcgtcggct
+      421 tactaccctc aatcgattcc cttgtggaaa ttggttggag ctggctttcc ggttttccga
+      481 ctaggttgcc ggtcagctga aaaatattcg cgctgtggga gctgctttcc cttcaaaaag
+      541 gaaagccgag ttccgatttg gtaggtgacc tttgccggtt gcatgccttc gttgctcgca
+      601 atggcttcca tgaaagcgtg tgcaggacgc ctt
+//
+
+
+LOCUS       JX444960                 666 bp    DNA     linear   PLN 20-APR-2013
+DEFINITION  Trebouxia decolorans voucher M-0102896 internal transcribed spacer
+            1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   JX444960
+VERSION     JX444960.1  GI:478833688
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 666)
+  AUTHORS   Dal Grande,F., Beck,A., Singh,G. and Schmitt,I.
+  TITLE     Microsatellite primers in the lichen symbiotic alga Trebouxia
+            decolorans (Trebouxiophyceae)
+  JOURNAL   Appl Plant Sci 1 (3), 1200400 (2013)
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 666)
+  AUTHORS   Beck,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2012) Lichenology Dept., Botanische
+            Staatssammlung Muenchen, Menzinger Strasse 67, Muenchen, Bavaria
+            D-80638, Germany
+FEATURES             Location/Qualifiers
+     source          1..666
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /host="Anaptychia ciliaris"
+                     /specimen_voucher="M-0102896"
+                     /db_xref="taxon:300845"
+     misc_RNA        1..271
+                     /product="internal transcribed spacer 1"
+     rRNA            272..425
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        426..666
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 aatctatcgt gcccacaccg cgaaaatact tatgcccttc tggagacggc agactttatt
+       61 gtttgccctt tagttgcgca ggtcaggggc tggctccttt tggtgtcagt tgacttgact
+      121 gggcgggtcc aacaccagcc ggattcacct cgcctttggc aaggggttct gccggctgtg
+      181 aggggtggct gtttaactca cattaagcaa tcaattctga agacagacct attggctagc
+      241 attgctggct acaggctgaa aaactaaaga caactctcaa caacggatat cttggctccc
+      301 gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa ttccgtgaac
+      361 catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg tctgcctcag
+      421 cgtcggctac taccctcaac taagtttcct atcaatgata ggggatgcca gttggatttg
+      481 gccgtccggt ttgcctttca ggttgccggt cagctgaaat atattcacgc tctgggggct
+      541 gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag gtgacctttg
+      601 ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca ggacgccttt
+      661 tggctt
+//
+
+
+LOCUS       KF026243                 569 bp    DNA     linear   PLN 19-AUG-2013
+DEFINITION  Trebouxia aff. impressa SD-2013 voucher BRY-C55174 internal
+            transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene
+            and internal transcribed spacer 2, complete sequence.
+ACCESSION   KF026243
+VERSION     KF026243.1  GI:530539762
+KEYWORDS    .
+SOURCE      Trebouxia aff. impressa SD-2013
+  ORGANISM  Trebouxia aff. impressa SD-2013
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Leavitt,S.D., Nelsen,M.P., Lumbsch,H.T., Johnson,L.A. and St.
+            Clair,L.L.
+  TITLE     Symbiont flexibility in subalpine rock shield lichen communities in
+            the Southwestern USA
+  JOURNAL   Bryologist 116 (2), 149-161 (2013)
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Leavitt,S.D., Nelsen,M.P., Lumbsch,H.T., Johnson,L.A. and St.
+            Clair,L.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2013) Biology, Brigham Young University, 193
+            MLBM, Provo, UT 84602, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Trebouxia aff. impressa SD-2013"
+                     /mol_type="genomic DNA"
+                     /host="Xanthoparmelia aff. coloradoensis"
+                     /specimen_voucher="BRY-C55174"
+                     /db_xref="taxon:1353855"
+                     /country="USA: Utah, Aquarius Plateau"
+     misc_RNA        <1..569
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 gcgcaggtca ggggctgcag ctctttggct gtcagttgac ttggctgggc gggtccaata
+       61 ccagttgggt tcctcttgct ttggcttgag gttcctggct gtgaggggtg gcttgaaaaa
+      121 ctcttaagca attttctgaa gacagactgc tagctggctt gctggctgca gactgattta
+      181 ataatgacaa ctctcaacaa cggatatctt ggctcccgta acgatgaaga acgcagcgaa
+      241 atgcgatacg tagtgtgaat tgcagaattc cgtgaaccat cgaatctttg aacgcaaatt
+      301 gcgcttgagg cttcggccaa gagcatgtct ggctcagcgt cggcttacta ccctcaacca
+      361 aattccttta tggaaattga ttggagctgg ctttccggtt ttccgactag gttgccggtc
+      421 agctgaaaaa tattcgcgct gtaggagctg ctttcccttc aaaaaggaaa gccgagttcc
+      481 gatttggtag gtgacctttg ccggttgcat gccttcgttg ctcgcaatgg cttccatgaa
+      541 agcgtgtgca ggacgccttt tggctttcg
+//
+
+
+LOCUS       KF026262                 568 bp    DNA     linear   PLN 19-AUG-2013
+DEFINITION  Trebouxia aff. impressa SD-2013 voucher BRY-C55193 internal
+            transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene
+            and internal transcribed spacer 2, complete sequence.
+ACCESSION   KF026262
+VERSION     KF026262.1  GI:530539781
+KEYWORDS    .
+SOURCE      Trebouxia aff. impressa SD-2013
+  ORGANISM  Trebouxia aff. impressa SD-2013
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 568)
+  AUTHORS   Leavitt,S.D., Nelsen,M.P., Lumbsch,H.T., Johnson,L.A. and St.
+            Clair,L.L.
+  TITLE     Symbiont flexibility in subalpine rock shield lichen communities in
+            the Southwestern USA
+  JOURNAL   Bryologist 116 (2), 149-161 (2013)
+REFERENCE   2  (bases 1 to 568)
+  AUTHORS   Leavitt,S.D., Nelsen,M.P., Lumbsch,H.T., Johnson,L.A. and St.
+            Clair,L.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2013) Biology, Brigham Young University, 193
+            MLBM, Provo, UT 84602, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..568
+                     /organism="Trebouxia aff. impressa SD-2013"
+                     /mol_type="genomic DNA"
+                     /host="Xanthoparmelia aff. cumberlandia"
+                     /specimen_voucher="BRY-C55193"
+                     /db_xref="taxon:1353855"
+                     /country="USA: Utah, Aquarius Plateau"
+     misc_RNA        <1..568
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 gcgcaggtca ggggctgcag ctctttggct gtcagttgac ttggctgggc gggtccaata
+       61 ccagttgggt tcctcttgct ttggcttgag gttcctggct gtgaggggtg gcttgaaaaa
+      121 ctcttaagca attttctgaa gacagactgc tagctggctt gctggctgca gactgattta
+      181 ataatgacaa ctctcaacaa cggatatctt ggctcccgta acgatgaaga acgcagcgaa
+      241 atgcgatacg tagtgtgaat tgcagaattc cgtgaaccat cgaatctttg aacgcaaatt
+      301 gcgcttgagg cttcggccaa gagcatgtct ggctcagcgt cggcttacta ccctcaatca
+      361 attcccttgt ggaaattggt tggagctggc tttccggttt tccgactagg ttgccggtca
+      421 gctgaaaaac attcgcgctg tgggagctgc tttcccttca aaaaggaaag ccgagttccg
+      481 atttggtagg tgacctttgc cggttgcatg ccttcgttgc tcgcaatggc ttccatgaaa
+      541 gcgtgtgcag gacgcctttt ggctttcg
+//
+
+
+LOCUS       KF556650                 573 bp    DNA     linear   PLN 29-JUL-2014
+DEFINITION  Trebouxia impressa isolate OR2-Rroe internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF556650
+VERSION     KF556650.1  GI:667695283
+KEYWORDS    .
+SOURCE      Trebouxia impressa
+  ORGANISM  Trebouxia impressa
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 573)
+  AUTHORS   Werth,S. and Sork,V.L.
+  TITLE     Ecological specialization in Trebouxia (Trebouxiophyceae)
+            photobionts of Ramalina menziesii (Ramalinaceae) across six
+            range-covering ecoregions of western North America
+  JOURNAL   Am. J. Bot. 101 (7), 1127-1140 (2014)
+   PUBMED   25016008
+REFERENCE   2  (bases 1 to 573)
+  AUTHORS   Werth,S. and Sork,V.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2013) Ecology and Evolutionary Biology,
+            University of California, 610 Charles E. Young Drive East, Los
+            Angeles, CA 90095-7239, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..573
+                     /organism="Trebouxia impressa"
+                     /mol_type="genomic DNA"
+                     /isolate="OR2-Rroe"
+                     /host="Ramalina roesleri"
+                     /db_xref="taxon:13788"
+     misc_RNA        <1..>573
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 attgagtgcg caggtcaggg gctgcagctc tttggctgtc agttgacttg gctgggcggg
+       61 tccaatacca attgggttcc tcttgcttcg gctgggggtt tccggttgtg aggggtggct
+      121 tgaaaaactt ttaagcaata aatctgaaga cagactacta gctggcatgc tggctgtaga
+      181 ctgaaataat aaagacaact ctcaacaacg gatatcttgg ctcccgtaac gatgaagaac
+      241 gcagcgaaat gcgatacgta gtgtgaattg cagaattccg tgaaccatcg aatctttgaa
+      301 cgcaaattgc gctcgaggct tcggccaaga gcatgtctgc ctcagcgtcg gcttactacc
+      361 ctcaaccaat tcccttatgg gtaattgatt ggagctggct ttccggtgtt ccgactaggt
+      421 tgccggttag ctgaaaaaca ttcacgctgt ggaagctgct ttcccctaaa aaggaaagcc
+      481 gagttccgat ttggtaggtg acctttgccg gttgcatgcc ttcgttgctc gcagaagctt
+      541 tcatgaaagc gtgtgcagga cgccttttgg ctt
+//
+
+
+LOCUS       KF556651                 596 bp    DNA     linear   PLN 29-JUL-2014
+DEFINITION  Trebouxia decolorans isolate Rsp-BA11 internal transcribed spacer
+            1, partial sequence; 5.8S ribosomal RNA gene, complete sequence;
+            and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF556651
+VERSION     KF556651.1  GI:667695284
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 596)
+  AUTHORS   Werth,S. and Sork,V.L.
+  TITLE     Ecological specialization in Trebouxia (Trebouxiophyceae)
+            photobionts of Ramalina menziesii (Ramalinaceae) across six
+            range-covering ecoregions of western North America
+  JOURNAL   Am. J. Bot. 101 (7), 1127-1140 (2014)
+   PUBMED   25016008
+REFERENCE   2  (bases 1 to 596)
+  AUTHORS   Werth,S. and Sork,V.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2013) Ecology and Evolutionary Biology,
+            University of California, 610 Charles E. Young Drive East, Los
+            Angeles, CA 90095-7239, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..596
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="Rsp-BA11"
+                     /host="Ramalina sp."
+                     /db_xref="taxon:300845"
+     misc_RNA        <1..>596
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cttcagttgc gcaggtcagg ggctggctcc ttttggtgtc agttgacttg actgggcggg
+       61 tccaacacca gccggattca ctttgcctag gcaaggggtt ctgccggctg tgaggggtgg
+      121 cggttaactc acattaagca atcaagtctg aagacagatc tactggctgg cactgctggc
+      181 tgtaggctga aaaccaaaga caactctcaa caacggatat cttggctccc gtaacgatga
+      241 agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa ttccgtgaac catcgaatct
+      301 ttgaacgcaa attgcgctcg aggcttcggc caagagcatg tctgcctcag cgtcggctac
+      361 taccctcaac taagtttcct atcgttgata ggggatgccc gttggatctg gccgtccggt
+      421 ttgcctttca ggctgccggt cagctgaaat acattcacgc tgtgggggct gctttcctcg
+      481 aaaggcaact ttcgagggga ggcgagttcc gatttggtag gtgacctttg ccggttgcat
+      541 gccttcgttg cccgctaagt ttcccagtag tcgttgtgca ggacgccttt tggctt
+//
+
+
+LOCUS       KF556652                 596 bp    DNA     linear   PLN 29-JUL-2014
+DEFINITION  Trebouxia decolorans isolate Rsp_SH4-01 internal transcribed spacer
+            1, partial sequence; 5.8S ribosomal RNA gene, complete sequence;
+            and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF556652
+VERSION     KF556652.1  GI:667695285
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 596)
+  AUTHORS   Werth,S. and Sork,V.L.
+  TITLE     Ecological specialization in Trebouxia (Trebouxiophyceae)
+            photobionts of Ramalina menziesii (Ramalinaceae) across six
+            range-covering ecoregions of western North America
+  JOURNAL   Am. J. Bot. 101 (7), 1127-1140 (2014)
+   PUBMED   25016008
+REFERENCE   2  (bases 1 to 596)
+  AUTHORS   Werth,S. and Sork,V.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2013) Ecology and Evolutionary Biology,
+            University of California, 610 Charles E. Young Drive East, Los
+            Angeles, CA 90095-7239, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..596
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="Rsp_SH4-01"
+                     /host="Ramalina sp."
+                     /db_xref="taxon:300845"
+     misc_RNA        <1..>596
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cttcagttgc gcaggtcagg ggctggctcc ttttggtgtc agttgacttg actgggcggg
+       61 tccaacacca gtcggattca ccttgcttta tagcaagggg ttctgccggc tgtgaggggt
+      121 ggcggttaac acacttaagc aataaattct taagacagat ctattggttg gcatctgctg
+      181 gctataggtt gaaaaactaa agacaactct caacaacgga tatcttggct cccgtaacga
+      241 tgaagaacgc agcgaaatgc gatacgtagt gtgaattgca gaattccgtg aaccatcgaa
+      301 tctttgaacg caaattgcgc tcgaggcttc ggccaagagc atgtctgcct cagcgtcggc
+      361 tactaccctc aactacgttt cctagtgata ggggataccg gttggatctg gccgtccggt
+      421 ttgcttttca agctgccggt cagctgaaat acattcacgc tctggaggct gctttcctcg
+      481 aaaggctact ttcgagggga ggtgagttcc gatttggtag gtgacctttg ccggttgcat
+      541 gccttcgttg cccgctaagc ttcccagtag tcgttgtgca ggacgccttt tggctt
+//
+
+
+LOCUS       KF907540                 633 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia impressa voucher Herbarium Tuerk51478 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907540
+VERSION     KF907540.1  GI:594019340
+KEYWORDS    .
+SOURCE      Trebouxia impressa
+  ORGANISM  Trebouxia impressa
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Trebouxia impressa"
+                     /mol_type="genomic DNA"
+                     /host="Peltigera rufescens"
+                     /specimen_voucher="Herbarium Tuerk51478"
+                     /db_xref="taxon:13788"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..263
+                     /product="internal transcribed spacer 1"
+     rRNA            264..416
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        417..>633
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ctatcgtgcc cacaccgtga accatttatg ccctttctga aaggcaactc ttgaaaggga
+       61 gtttgccggt tgaaagcgca ggtcaggggc tgcagctctt tggctgtcag ttgacttggc
+      121 tgggcgggtc caataccagt tgggttcctc ttgctttggc ttgaggttcc tggctgtgag
+      181 gggtggcttg aaaaactcta aagcaatttc ctgaagacag actgctagct ggcttgctgg
+      241 ctgcagactg atttaataat gacaactctc aacaacggat atcttggctc ccgtaacgat
+      301 gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag aattccgtga accatcgaat
+      361 ctttgaacgc aaattgcgct tgaggcttcg gccaagagca tgtctggctc agcgtcggct
+      421 tactaccctc aatcgattcc cttgtggaaa ttggttggag ctggctttcc ggttttccga
+      481 ctaggttgcc ggtcagctga aaaatattcg cgctgtggga actgctttcc cttcaaaaag
+      541 gaaagccgag ttccgatttg gtaggtgacc tttgccggtt gcatgccttc gttgctcgca
+      601 atggcttcca tgaaagcgtg tgcaggacgc ctt
+//
+
+
+LOCUS       KF907542                 633 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia impressa voucher Herbarium Tuerk51475 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907542
+VERSION     KF907542.1  GI:594019342
+KEYWORDS    .
+SOURCE      Trebouxia impressa
+  ORGANISM  Trebouxia impressa
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Trebouxia impressa"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51475"
+                     /db_xref="taxon:13788"
+                     /country="Austria: Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..263
+                     /product="internal transcribed spacer 1"
+     rRNA            264..416
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        417..>633
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ctatcgtgcc cacaccgtga accatttatg ccctttctga aaagcaactc ttgaaaggga
+       61 gtttgtcgat tgaaagcgta ggtcaggggc cgcagctctt tggctgtcgg ttgacttggc
+      121 tgggcgggtc caataccagt tgggttcctc ttgccttggc ttgaggttcc tagctgtgag
+      181 gggtggcttg aaaaactctt aagcaatttt ctgaagacag actgctagct ggcttgctgg
+      241 ctgcagactg atttaataat gacaactctc aacaacggat atcttggctc ccgtaacgat
+      301 gaagaacgca gcgaaatgcg atacgtagtg tgaattgcag aattccgtga accatcgaat
+      361 ctttgaacgc aaattgcgct tgaggcttcg gccaagagca tgtctggctc agcgtcggct
+      421 tactaccctc aaccaattcc catgtggaaa ttgattggag ctggctttcc ggttttccga
+      481 ctaggttgcc ggtcagctga aaaacattcg cgctgtggga gctgctttcc cttcaaaaag
+      541 gaaagccgag ttccgatttg gtaggtgacc tttgccggtt gcatgccttc gttgctcgca
+      601 atggcttcca tgaaagcgtg tgcaggacgc ctt
+//
+
+
+LOCUS       KF907543                 634 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia impressa voucher Herbarium Tuerk51502 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907543
+VERSION     KF907543.1  GI:594019343
+KEYWORDS    .
+SOURCE      Trebouxia impressa
+  ORGANISM  Trebouxia impressa
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Trebouxia impressa"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51502"
+                     /db_xref="taxon:13788"
+                     /country="Germany: Ruine Homburg"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..417
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        418..>634
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 ctatcgtgcc cacaccgtga accatttatg ccctttctga aaggcagctc ttgaaaggga
+       61 gtttgccgat tgaaagcgca ggtcaggggc cgcagctctt tggctgtcgg ttgacttggc
+      121 tgggcgggtc caataccagt tgggttcctc ttgccttggc ttgaggttcc tggctgtgag
+      181 gggtggcttg aaaaactctt aagcaatttt tctgaaggca gactgctagc tggcttgctg
+      241 gctgcagact gaattaataa tgacaactct caacaacgga tatcttggct cccgtaacga
+      301 tgaagaacgc agcgaaatgc gatacgtagt gtgaattgca gaattccgtg aaccatcgaa
+      361 tctttgaacg caaattgcgc ttgaggcttc ggccaagagc atgtctggct cagcgtcggc
+      421 ttactaccct caaccaattc cctcatggaa attgattgga gctggctttc cggttttccg
+      481 accaggttgc cggtcagctg aaaaatattc gcgctgtggg agctgctttc ccttcaaaaa
+      541 ggaaagccga gttccgattt ggtaggtgac ctttgccggt tgcatgcctt cgttgctcgc
+      601 aatggttccc atgaaagcgt gtgcaggacg cctt
+//
+
+
+LOCUS       KF907556                 603 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia sp. URa13 voucher Herbarium Tuerk40700 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907556
+VERSION     KF907556.1  GI:594019356
+KEYWORDS    .
+SOURCE      Trebouxia sp. URa13
+  ORGANISM  Trebouxia sp. URa13
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Trebouxia sp. URa13"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk40700"
+                     /db_xref="taxon:1472634"
+                     /country="Austria: Grossglockner, Hochtor"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..247
+                     /product="internal transcribed spacer 1"
+     rRNA            248..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..>603
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gaaccattta tgccctttct gaaaggcagc tcctgaaagg gagtttgccg attgaaagcg
+       61 caggtcaggg gctgcagctc tttggctgtc agttgacttg gctgggcggg tccaatacca
+      121 gttgggttcc tcttgccttg gcttgaggtt cctggctgtg aggggtggct tgaaacactc
+      181 ttaagcaatt ttttctgaag gcagactgtt ggctggcttg ctggctgcag actgaattaa
+      241 caacgacaac tctcaacaac ggatatcttg gctcccgtaa cgatgaagaa cgcagcgaaa
+      301 tgcgatacgt aatgtgaatt gcagaattcc gtgaaccatc gaatctttga acgcaaattg
+      361 cgctcgaggc ctcggccaag agcatgtctg gctcagcgtc ggcttactac cctcaaccaa
+      421 ttccagtatg gcaattgatt ggagctggct ttccggtgtt ccgattaggt tgccggtcag
+      481 ctgaaaaata ttcgcgctgt gggagctgct ttcccttcaa aaaggaaagc cgagttccga
+      541 tttggtaggt gacctttgcc ggttgcatgc cttcgttgct cgcaatggct tccatgaaag
+      601 cgt
+//
+
+
+LOCUS       KF907558                 603 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia sp. URa13 voucher Herbarium Tuerk50556Pe internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907558
+VERSION     KF907558.1  GI:594019358
+KEYWORDS    .
+SOURCE      Trebouxia sp. URa13
+  ORGANISM  Trebouxia sp. URa13
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Trebouxia sp. URa13"
+                     /mol_type="genomic DNA"
+                     /host="Peltigera rufescens"
+                     /specimen_voucher="Herbarium Tuerk50556Pe"
+                     /db_xref="taxon:1472634"
+                     /country="Austria: Hinteres Modereck"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..247
+                     /product="internal transcribed spacer 1"
+     rRNA            248..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..>603
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gaaccattta tgccctttct gaaaggcagc tcctgaaagg gagtttgccg attgaaagcg
+       61 caggtcaggg gctgcagctc tttggctgtc agttgacttg gctgggcggg tccaatacca
+      121 gttgggttcc tcttgccttg gcttgaggtt cctggctgtg aggggtggct tgaaacactc
+      181 ttaagcaatt ttttctgaag gcagactgtt ggctggcttg ctggctgcag actgaattaa
+      241 caacgacaac tctcaacaac ggatatcttg gctcccgtaa cgatgaagaa cgcagcgaaa
+      301 tgcgatacgt aatgtgaatt gcagaattcc gtgaaccatc gaatctttga acgcaaattg
+      361 cgctcgaggc ctcggccaag agcatgtctg gctcagcgtc ggcttactac cctcaaccaa
+      421 ttccagtatg gcaattgatt ggagctggct ttccggtgtt ccgattaggt tgccggtcag
+      481 ctgaaaaata ttcgcgctgt gggagctgct ttcccttcaa aaaggaaagc cgagttccga
+      541 tttggtaggt gacctttgcc ggttgcatgc cttcgttgct cgcaatggct tccatgaaag
+      601 cgt
+//
+
+
+LOCUS       KF907563                 602 bp    DNA     linear   PLN 12-MAR-2014
+DEFINITION  Trebouxia impressa voucher Herbarium Tuerk51468 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF907563
+VERSION     KF907563.1  GI:594019363
+KEYWORDS    .
+SOURCE      Trebouxia impressa
+  ORGANISM  Trebouxia impressa
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 602)
+  AUTHORS   Ruprecht,U., Brunauer,G. and Tuerk,R.
+  TITLE     High photobiont diversity in the common European soil crust lichen
+            Psora decipiens
+  JOURNAL   Biodivers. Conserv. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 602)
+  AUTHORS   Ruprecht,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) Organsimic Biology, University of Salzburg,
+            Hellbrunnerstr. 34, Salzburg, Salzburg 5020, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..602
+                     /organism="Trebouxia impressa"
+                     /mol_type="genomic DNA"
+                     /host="Psora decipiens"
+                     /specimen_voucher="Herbarium Tuerk51468"
+                     /db_xref="taxon:13788"
+                     /country="Sweden: Gynge Alvar"
+                     /collected_by="Roman Tuerk"
+     misc_RNA        <1..245
+                     /product="internal transcribed spacer 1"
+     rRNA            246..398
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        399..>602
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 gaaccattta tgccctttct gaaaggcaac tcttgaaaag gagtttgccg gttgaaagcg
+       61 caggtcaggg gctgcagctc tttggctgtc agttgacttg gctgggcggg tccaatacca
+      121 gttgggttcc tcttgctttg gcttgaggtt cctggttgtg aggggtggct tgaaaaactc
+      181 taaagcaatt tcctgaagac agactgctag ctggcttgct ggctgcagac tgatttaata
+      241 atgacaactc tcaacaacgg atatcttggc tcccgtaacg atgaagaacg cagcgaaatg
+      301 cgatacgtag tgtgaattgc agaattccgt gaaccatcga atctttgaac gcaaattgcg
+      361 cttgaggctt cggccaagag catgtctggc tcagcgtcgg cttactaccc tcaatcaatt
+      421 cccttgtgga aattggttgg agctggcttt ccggttttcc gactaggttg ccggtcagct
+      481 gaaaaatatt cgcgctgtgg gagctgcttt cccttcaaaa aggaaagccg agttccaatt
+      541 tggtaggtga cctttgccgg ttgcatgcct tcgttgctcg caatggcttc catgaaagcg
+      601 tg
+//
+
+
+LOCUS       KJ027682                 677 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate I3 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027682
+VERSION     KJ027682.1  GI:584595305
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 677)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 677)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..677
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="I3"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Italy: Lonigo"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>677
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 gtcaggggct ggctcctttt ggtgtcagtt gacttgactg ggcgggtcca acaccagccg
+       61 gattcacctt gtctctggca aggggttctg ccggctgtga ggggtggctg tttaactcac
+      121 tttaagcaat taattctgaa gacagaccta ctggctggca ttgctggctg taggctgaaa
+      181 aactatagac aactctcaac aacggatatc ttggctcccg taacgatgaa gaacgcagcg
+      241 aaatgcgata cgtagtgtga attgcagaat tccgtgaacc atcgaatctt tgaacgcaaa
+      301 ttgcgctcga ggcttcggcc aagagcatgt ctgcctcagc gtcggctact accctcaact
+      361 aagtttccta tcattgatag gggatgccag ttggatctgg ccgtccggtt tgcctttcag
+      421 gttgccgatc agctgaaata cattcacgct ctgggggttg ctttcctcga aaggctactt
+      481 tcgaggggag gtgagttccg atttggtagg tgacctttgc cggttgcatg ccttcgttgc
+      541 ccgctaagct tcccagtagt cgttgtgcag gacgcctttt ggctttcgac ctgaggtcag
+      601 gcaagaacac ccgctgaact taagcatatc aataagcgga ggaaaagaaa ctaactagga
+      661 ttcccttagt agcggcg
+//
+
+
+LOCUS       KJ027683                 673 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate I2 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027683
+VERSION     KJ027683.1  GI:584595306
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 673)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 673)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..673
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="I2"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Italy: Lonigo"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>673
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 gggctggctc cttttggtgt cagttgactt gactgggcgg gtccaacacc agccggattc
+       61 accttgtctc tggcaagggg ttctgccggc tgtgaggggt ggctgtttaa ctcactttaa
+      121 gcaattaatt ctgaagacag acctactggc tggcattgct ggctgtaggc tgaaaaacta
+      181 tagacaactc tcaacaacgg atatcttggc tcccgtaacg atgaagaacg cagcgaaatg
+      241 cgatacgtag tgtgaattgc agaattccgt gaaccatcga atctttgaac gcaaattgcg
+      301 ctcgaggctt cggccaagag catgtctgcc tcagcgtcgg ctactaccct caactaagtt
+      361 tcctatcatt gataggggat gccagttgga tctggccgtc cggtttgcct ttcaggttgc
+      421 cgatcagctg aaatacattc acgctctggg ggttgctttc ctcgaaaggc tactttcgag
+      481 gggaggtgag ttccgatttg gtaggtgacc tttgccggtt gcatgccttc gttgcccgct
+      541 aagcttccca gtagtcgttg tgcaggacgc cttttggctt tcgacctgag gtcaggcaag
+      601 aacacccgct gaacttaagc atatcaataa gcggaggaaa agaaactaac taggattccc
+      661 ttagtagcgg cga
+//
+
+
+LOCUS       KJ027684                 677 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate I1 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027684
+VERSION     KJ027684.1  GI:584595307
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 677)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 677)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..677
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="I1"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Italy: Lonigo"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>677
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tcaggggctg gctccttttg gtgtcagttg acttgactgg gcgggtccaa caccagccgg
+       61 attcaccttg tctctggcaa ggggttctgc cggctgtgag gggtggctgt ttaactcact
+      121 ttaagcaatt aattctgaag acagacctac tggctggcat tgctggctgt aggctgaaaa
+      181 actatagaca actctcaaca acggatatct tggctcccgt aacgatgaag aacgcagcga
+      241 aatgcgatac gtagtgtgaa ttgcagaatt ccgtgaacca tcgaatcttt gaacgcaaat
+      301 tgcgctcgag gcttcggcca agagcatgtc tgcctcagcg tcggctacta ccctcaacta
+      361 agtttcctat cattgatagg ggatgccagt tggatctggc cgtccggttt gcctttcagg
+      421 ttgccggtca gctgaaatac attcacgctc tgggggctgc tttcctcgaa aggctacttt
+      481 cgaggggagg tgagttccga tttggtaggt gacctttgcc ggttgcatgc cttcgttgcc
+      541 cgctaagctt cccagtagtc gttgtgcagg acgccttttg gctttcgacc tgaggtcagg
+      601 caagaacacc cgctgaactt aagcatatca ataagcggag gaaaagaaac taactaggat
+      661 tcccttagta gcggcga
+//
+
+
+LOCUS       KJ027685                 706 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D1 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027685
+VERSION     KJ027685.1  GI:584595308
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 706)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 706)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..706
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D1"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>706
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 ctttactgtt tgctcttcag ttgcgcaggt caggggctgg ctccttttgg tgtcagttga
+       61 cttgactggg cgggtccaac accagccgga ttcaccttgt ctctggcaag gggttctgcc
+      121 ggctgtgagg ggtggctgtt taactcactt taagcaatta attctgaaga cagacctact
+      181 ggctggcatt gctggctgta ggctgaaaaa ctatagacaa ctctcaacaa cggatatctt
+      241 ggctcccgta acgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagaattc
+      301 cgtgaaccat cgaatctttg aacgcaaatt gcgctcgagg cttcggccaa gagcatgtct
+      361 gcctcagcgt cggctactac cctcaactaa gtttcctatc attgataggg gatgccagtt
+      421 ggatctggcc gtccggtttg cctttcaggt tgccggtcag ctgaaataca ttcacgctct
+      481 gggggctgct ttcctcgaaa ggctactttc gaggggaggt gagttccgat ttggtaggtg
+      541 acctttgccg gttgcatgcc ttcgttgccc gctaagcttc ccagtagtcg ttgtgcagga
+      601 cgccttttgg ctttcgacct gaggtcaggc aagaacaccc gctgaactta agcatatcaa
+      661 taagcggagg aaaagaaact aactaggatt cccttagtag cggcga
+//
+
+
+LOCUS       KJ027686                 706 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D3 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027686
+VERSION     KJ027686.1  GI:584595309
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 706)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 706)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..706
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D3"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>706
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 ctttactgtt tgctcttcag ttgcgcaggt caggggctgg ctccttttgg tgtcagttga
+       61 cttgactggg cgggtccaac accagccgga ttcaccttgt ctctggcaag gggttctgcc
+      121 ggctgtgagg ggtggctgtt taactcactt taagcaatta attctgaaga cagacctact
+      181 ggctggcatt gctggctgta ggctgaaaaa ctatagacaa ctctcaacaa cggatatctt
+      241 ggctcccgta acgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagaattc
+      301 cgtgaaccat cgaatctttg aacgcaaatt gcgctcgagg cttcggccaa gagcatgtct
+      361 gcctcagcgt cggctactac cctcaactaa gtttcctatc attgataggg gatgccagtt
+      421 ggatctggcc gtccggtttg cctttcaggt tgccggtcag ctgaaataca ttcacgctct
+      481 gggggctgct ttcctcgaaa ggctactttc gaggggaggt gagttccgat ttggtaggtg
+      541 acctttgccg gttgcatgcc ttcgttgccc gctaagcttc ccagtagtcg ttgtgcagga
+      601 cgccttttgg ctttcgacct gaggtcaggc aagaacaccc gctgaactta agcatatcaa
+      661 taagcggagg aaaagaaact aactaggatt cccttagtag cggcga
+//
+
+
+LOCUS       KJ027687                 681 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D2 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027687
+VERSION     KJ027687.1  GI:584595310
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 681)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D2"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>681
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tcaggggctg gctccttttg gtgtcagttg acttgactgg gcgggtccaa caccagccgg
+       61 attcaccttg tctctggcaa ggggttctgc cgactgtgag gggtggctgt ttaactcact
+      121 ttaagcaatt aattctgaag acagacctac tggctggtat tgctggctgt aggctgaaaa
+      181 actatagaca actctcaaca acggatatct tggctcccgt aacgatgaag aacgcagcga
+      241 aatgcgatac gtagtgtgaa ttgcagaatt ccgtgaacca tcgaatcttt gaacgcaaat
+      301 tgcgctcgag gcttcggcca agagcatgtc tgcctcagcg tcggctacta ccctcaacta
+      361 agtttcctat cattgatagg ggatgccagt tggatctggc cgtccggttt gcctttcagg
+      421 ttgccggtca gctgaaatac attcacgctc tgggggctgc tttcctcgaa aggctacttt
+      481 cgaggggagg tgagttccga tttggtaggt gacctttgcc ggttgcatgc cttcgttgcc
+      541 cgctaagctt cccagtagtc gttgtgcagg acgccttttg gctttcgacc tgaggtcagg
+      601 caagaacacc cgctgaactt aagcatatca ataagcggag gaaaagaaac taactaggat
+      661 tcccttagta gcggcgagcg a
+//
+
+
+LOCUS       KJ027688                 681 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D6 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027688
+VERSION     KJ027688.1  GI:584595311
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 681)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D6"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>681
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tcaggggctg gctccttttg gtgtcagttg acttgactgg gcgggtccaa caccagccgg
+       61 attcaccttg tctctggcaa ggggttctgc cgactgtgag gggtggctgt ttaactcact
+      121 ttaagcaatt aattctgaag acagacctac tggctggtat tgctggctgt aggctgaaaa
+      181 actatagaca actctcaaca acggatatct tggctcccgt aacgatgaag aacgcagcga
+      241 aatgcgatac gtagtgtgaa ttgcagaatt ccgtgaacca tcgaatcttt gaacgcaaat
+      301 tgcgctcgag gcttcggcca agagcatgtc tgcctcagcg tcggctacta ccctcaacta
+      361 agtttcctat cattgatagg ggatgccagt tggatctggc cgtccggttt gcctttcagg
+      421 ttgccggtca gctgaaatac attcacgctc tgggggctgc tttcctcgaa aggctacttt
+      481 cgaggggagg tgagttccga tttggtaggt gacctttgcc ggttgcatgc cttcgttgcc
+      541 cgctaagctt cccagtagtc gttgtgcagg acgccttttg gctttcgacc tgaggtcagg
+      601 caagaacacc cgctgaactt aagcatatca ataagcggag gaaaagaaac taactaggat
+      661 tcccttagta gcggcgagcg a
+//
+
+
+LOCUS       KJ027689                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate E2 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027689
+VERSION     KJ027689.1  GI:584595312
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="E2"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Spain: Campillo de Ranas"
+                     /collected_by="F Dal Grande, D Alors, PK Divakar"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttgcctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027690                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate N3 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027690
+VERSION     KJ027690.1  GI:584595313
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="N3"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Norway: Rakkestad"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttgcctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027691                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate E1 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027691
+VERSION     KJ027691.1  GI:584595314
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="E1"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Spain: Campillo de Ranas"
+                     /collected_by="F Dal Grande, D Alors, PK Divakar"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttgcctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027692                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate E5 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027692
+VERSION     KJ027692.1  GI:584595315
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="E5"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Spain: Campillo de Ranas"
+                     /collected_by="F Dal Grande, D Alors, PK Divakar"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttgcctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027693                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate N1 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027693
+VERSION     KJ027693.1  GI:584595316
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="N1"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Norway: Rakkestad"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttacctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027694                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate N2 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027694
+VERSION     KJ027694.1  GI:584595317
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="N2"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Norway: Rakkestad"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttacctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027695                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate N5 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027695
+VERSION     KJ027695.1  GI:584595318
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="N5"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Norway: Rakkestad"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttacctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027696                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate E3 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027696
+VERSION     KJ027696.1  GI:584595319
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="E3"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Spain: Campillo de Ranas"
+                     /collected_by="F Dal Grande, D Alors, PK Divakar"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct atcattgata ggggatgcca
+      361 gttggatctg gccgtccggt ttacctttca ggttgccggt cagctgaaat acattcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ027697                 617 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate N4 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027697
+VERSION     KJ027697.1  GI:584595320
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 617)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="N4"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Norway: Rakkestad"
+                     /collected_by="F Dal Grande, G Singh"
+     misc_RNA        <1..>617
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtcc aacaccagcc ggattcacct tgtctctggc aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca ctttaagcaa ttaattctga agacagacct
+      121 actggctggc attgctggct gtaggctgaa aaactataga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct tatcattgat aggggatgcc
+      361 agttggatct ggccgtccgg tttgcctttc aggttgccgg tcagctgaaa tacattcacg
+      421 ctctgggggc tgctttcctc gaaaggctac tttcgagggg aggtgagttc cgatttggta
+      481 ggtgaccttt gccggttgca tgccttcgtt gcccgctaag cttcccagta gtcgttgtgc
+      541 aggacgcctt ttggctttcg acctgaggtc aggcaagaac acccgctgaa cttaagcata
+      601 tcaataagcg gaggaaa
+//
+
+
+LOCUS       KJ027698                 711 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D4 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027698
+VERSION     KJ027698.1  GI:584595321
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 711)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 711)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..711
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D4"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>711
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 ctttactgtt tgctcttcag ttgcgcaggt caggggctgg ctccttttgg tgtcagttga
+       61 cttgactggg cgggtccaac accagccgga ttcaccttgt ctctggcaag gggttctgcc
+      121 ggctgtgagg ggtggctgtt taactcactt taagcaatta attctgaaga cagacctact
+      181 ggctggcatt gctggctgta ggctgaaaaa ctatagacaa ctctcaacaa cggatatctt
+      241 ggctcccgta acgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagaattc
+      301 cgtgaaccat cgaatctttg aacgcaaatt gcgctcgagg cttcggccaa gagcatgtct
+      361 gcctcagcgt cggctactac cctcaactaa gtttcctatc attgataggg gatgccagtt
+      421 ggatctggcc gtccggttta cctttcaggt tgccggtcag ctgaaataca ttcacgctct
+      481 gggggctgct ttcctcgaaa ggctactttc gaggggaggt gagttccgat ttggtaggtg
+      541 acctttgccg gttgcatgcc ttcgttgccc gctaagcttc ccagtagtcg ttgtgcagga
+      601 cgccttttgg ctttcgacct gaggtcaggc aagaacaccc gctgaactta agcatatcaa
+      661 taagcggagg aaaagaaact aactaggatt cccttagtag cggcgaagcg a
+//
+
+
+LOCUS       KJ027699                 622 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D5 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ027699
+VERSION     KJ027699.1  GI:584595322
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D5"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>622
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 tttactgttt gctcttcagt tgcgcaggtc aggggctgtg ctccttttgg tgtcagttga
+       61 cttgactggg cgggtccaac accagccgga ttcaccttgt ctctggcaag gggttctgcc
+      121 ggctgtgagg ggtggctgtt taactcactt taagcaatta attctgaaga cagacctact
+      181 ggctggcatt gctggctgta ggctgaaaaa ctatagacaa ctctcaacaa cggatatctt
+      241 ggctcccgta acgatgaaga acgcagcgaa atgcgatacg tagtgtgaat tgcagaattc
+      301 cgtgaaccat cgaatctttg aacgcaaatt gcgctcgagg cttcggccaa gagcatgtct
+      361 gcctcagcgt cggctactac cctcaactaa gtttcctatc attgataggg gatgccagtt
+      421 ggatctggcc gtccggtttg cctttcaggt tgccggtcag ctgaaataca ttcacgctct
+      481 gggggctgct ttcctcgaaa ggctactttc gaggggaggt gagttccgat ttggtaggtg
+      541 acctttgccg gttgcatgcc ttcgttgccc gctaagcttc ccagtagtcg ttgtgcagga
+      601 cgccttttgg ctttcgacct ga
+//
+
+
+LOCUS       KJ027700                 683 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate D7 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027700
+VERSION     KJ027700.1  GI:584595323
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 683)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 683)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..683
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="D7"
+                     /host="Xanthoria parietina"
+                     /db_xref="taxon:300845"
+                     /country="Germany: Frankfurt"
+                     /collected_by="F Dal Grande, G Singh, I Schmitt"
+     misc_RNA        <1..>683
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 ttgctcttca gttgcgcagg tcaggggctg gctccttttg gtgtcagttg acttgactgg
+       61 gcgggtccaa caccagccgg attcaccttg tctctggcaa ggggttctgc cggctgtgag
+      121 gggtggctgt ttaactcact ttaagcaatt aattctgaag acagacctac tggctggcat
+      181 tgctggctgt aggctgaaaa actatagaca actctcaaca acggatatct tggctcccgt
+      241 aacgatgaag aacgcagcga aatgcgatac gtagtgtgaa ttgcagaatt ccgtgaacca
+      301 tcgaatcttt gaacgcaaat tgcgctcgag gcttcggcca agagcatgtc tgcctcagcg
+      361 tcggctacta ccctcaacta agtttcctat cattgatagg ggatgccagt tggatctggc
+      421 cgtccggttt rcctttcagg ttgccggtca gctgaaatac attcacgctc tgggggctgc
+      481 tttcctcgaa aggctacttt cgaggggagg tgagttccga tttggtaggt gacctttgcc
+      541 ggttgcatgc cttcgttgcc cgctaagctt cccagtagtc gttgtgcagg acgccttttg
+      601 gctttcgacc tgaggtcagg caagaaacac ccgctgaact taagcatatc aataagcgga
+      661 ggaaaagaaa ctaactagga ttc
+//
+
+
+LOCUS       KJ027701                 616 bp    DNA     linear   PLN 18-FEB-2014
+DEFINITION  Trebouxia decolorans isolate E4 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ027701
+VERSION     KJ027701.1  GI:584595324
+KEYWORDS    .
+SOURCE      Trebouxia decolorans
+  ORGANISM  Trebouxia decolorans
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Microthamniales; Trebouxia.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Insights into intrathalline genetic diversity of the cosmopolitan
+            lichen symbiotic green alga Trebouxia decolorans Ahmadjian using
+            microsatellite markers
+  JOURNAL   Mol. Phylogenet. Evol. 72, 54-60 (2014)
+   PUBMED   24412431
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Dal Grande,F., Alors,D., Divakar,P.K., Balint,M., Crespo,A. and
+            Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2014) Biodiversity and Climate Research Centre
+            (BiK-F), Biodiversity and Climate Research Centre (BiK-F),
+            Senckenberg Gesellschaft fur Naturforschung, Senckenberganlage 25,
+            Frankfurt am Main, HE 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Trebouxia decolorans"
+                     /mol_type="genomic DNA"
+                     /isolate="E4"
+                     /host="Anaptychia ciliaris"
+                     /db_xref="taxon:300845"
+                     /country="Spain: Campillo de Ranas"
+                     /collected_by="F Dal Grande, D Alors, PK Divakar"
+     misc_RNA        <1..>616
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN      
+        1 tgacttgact gggcgggtct aacaccagcc ggattcacct tgcctttggt aaggggttct
+       61 gccggctgtg aggggtggct gtttaactca cattaagcaa ttaattctga agacagacct
+      121 attggctagc attgctggct acaggctgaa aaactaaaga caactctcaa caacggatat
+      181 cttggctccc gtaacgatga agaacgcagc gaaatgcgat acgtagtgtg aattgcagaa
+      241 ttccgtgaac catcgaatct ttgaacgcaa attgcgctcg aggcttcggc caagagcatg
+      301 tctgcctcag cgtcggctac taccctcaac taagtttcct ataaataata ggggatgcca
+      361 gttggatctg gccgtccggt ttccctttca ggttgccggt cagctgaaat acatgcacgc
+      421 tctgggggct gctttcctcg aaaggctact ttcgagggga ggtgagttcc gatttggtag
+      481 gtgacctttg ccggttgcat gccttcgttg cccgctaagc ttcccagtag tcgttgtgca
+      541 ggacgccttt tggctttcga cctgaggtca ggcaagaaca cccgctgaac ttaagcatat
+      601 caataagcgg aggaaa
+//
+
+
+LOCUS       KJ489093                 678 bp    DNA     linear   ENV 07-MAY-2014
+DEFINITION  Uncultured Trebouxia clone CM-D-A15 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ489093
+VERSION     KJ489093.1  GI:628823762
+KEYWORDS    ENV.
+SOURCE      uncultured Trebouxia
+  ORGANISM  uncultured Trebouxia
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            environmental samples.
+REFERENCE   1  (bases 1 to 678)
+  AUTHORS   Krakova,L., Puskarova,A., Buckova,M., Sakova,N., Grivalsky,T. and
+            Pangallo,D.
+  TITLE     Microbial diversity on epoxy resin statue and air surrounding
+            environment
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 678)
+  AUTHORS   Krakova,L., Puskarova,A., Buckova,M., Sakova,N., Grivalsky,T. and
+            Pangallo,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-FEB-2014) Laboratory of Environmental and Food
+            Microbiology, Institute of Molecular Biology, Slovak Academy of
+            Sciences, Dubravska cesta 21, Bratislava 84551, Slovakia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..678
+                     /organism="uncultured Trebouxia"
+                     /mol_type="genomic DNA"
+                     /isolation_source="epoxy resin statue environment"
+                     /db_xref="taxon:1229085"
+                     /clone="CM-D-A15"
+                     /environmental_sample
+     misc_RNA        <1..>678
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 tatcgtgccc acaccgcgaa aatacttatg cccttctggg gtcagcaagc tttactgttt
+       61 gctcttcagt tgcgcaggtc aggggctggc tccttttggt gtcagttgac ttgactgggc
+      121 gggtccaaca ccagccggat tcaccttgtc tctggcaagg ggttctgccg gctgtgaggg
+      181 gtggctgttt aactcacttt aagcaattaa ttctgaagac agacctactg gctggcattg
+      241 cgggctgtag gctgaaaaac tatagacaac tctcaacaac ggatatcttg gctcccgtaa
+      301 cgatgaagaa cgcagcgaaa tgcgatacgt agtgtgaatt gcagaattcc gtgaaccatc
+      361 gaatctttga acgcaaattg cgctcgaggc ttcggccaag agcatgtctg cctcagcgtc
+      421 ggctactacc ctcaactaag tttcctatca ttgatagggg atgccagttg gatctggccg
+      481 accggtttac ctttcaggtt gccggtcagc tgaaatacat tcacgctctg ggggctgctt
+      541 tcctcgaaag gctactttcg aggggaggtg agttccgatt tggtaggtga cctttgccgg
+      601 ttgcatgcct tcgttgcccg ctaagcttcc cagtagtcgt tgtgcaggac gccttttggc
+      661 tttcgacctg aggtcagg
+//
+
+

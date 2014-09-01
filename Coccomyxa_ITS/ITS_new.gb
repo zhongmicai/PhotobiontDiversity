@@ -1,0 +1,89 @@
+LOCUS       FN597599                3103 bp    DNA     linear   PLN 01-NOV-2013
+DEFINITION  Coccomyxa peltigerae genomic DNA containing 18S rRNA gene, ITS1,
+            5.8S rRNA gene, ITS2 and 26S rRNA gene, culture collection
+            SAG:216-5.
+ACCESSION   FN597599
+VERSION     FN597599.1  GI:556502585
+KEYWORDS    .
+SOURCE      Coccomyxa peltigerae
+  ORGANISM  Coccomyxa peltigerae
+            Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae;
+            Coccomyxaceae; Coccomyxa.
+REFERENCE   1
+  AUTHORS   Atteia,A., Coute,A., Farhi,E. and Rivasseau,C.
+  TITLE     Phylogenetic and morphological characterisation of the green algae
+            Coccomyxae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3103)
+  AUTHORS   Atteia,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2009) Atteia A., Bioenergetique et Ingenierie des
+            Proteines (BIP2), CNRS/IMM, 31 Chemin Joseph Aiguier, 13 402
+            Marseille Cedex 20, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..3103
+                     /organism="Coccomyxa peltigerae"
+                     /mol_type="genomic DNA"
+                     /culture_collection="SAG:216-5"
+                     /db_xref="taxon:243125"
+                     /PCR_primers="fwd_seq: tcgacaatctggttgatcctgccag, rev_seq:
+                     ctccttggtccgtgtttcaagacggg"
+     misc_RNA        1..3103
+                     /note="contains 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2
+                     and 26S rRNA gene"
+ORIGIN      
+        1 tcgacaatct ggttgatcct gccagtagtc atatgcttgt ctcaaagatt aagccatgca
+       61 tgtctaagta taaactgctt tatactgtga aactgcgagt ggctcgttaa atcagttata
+      121 gtttatttga tggtacctta ctactcggat aaccgtagta attctagagc taatacgtgc
+      181 ggaaatcccg acttccggaa gggacgtatt tattagataa aaggccgacc gggcttgccc
+      241 gaaacgcggt gaatcatgat aactccacga atcgcatggc ctcagtgccg gcgatgtttc
+      301 attcaaattt ctgccctatc aactttcgac ggtaaggtat tggcttaccg tggtggtaac
+      361 gggtgacgga ggattggggt tcgattccgg agagggagcc tgagaaacgg caaccacatc
+      421 caaggaaggc agcaggcgcg caaattaccc aatcttgaca caaggaggta gtgacaatga
+      481 ataacaatac cggggttttt caactctggt aattggaatg agtacaatct aaacccctta
+      541 acgaggatca attggagggc aagtctggtg ccagcagccg cggtaattcc agctccaata
+      601 gcgtatattt aagttgttgc agttaaaaag ctcgtagttg gatttcgggc gggcccggcc
+      661 ggtccgcctt cgggtgtgca ctgaccgggc ccgtcatgtt gccggggacg ggctcctggg
+      721 cttcactgtc cgggactcgg agtcggcgag gttactttga gtaaattaga gtgttcaaag
+      781 caggcctacg ctctgaatac attagcatgg aataacacga taggactctg gcctatcttg
+      841 ttggtctgtg ggaccggagt aatgattaag agggacagtc gggggcattc gtatttcatt
+      901 gtcagaggtg aaattcttgg atttatgaaa gacgaactac tgcgaaagca tttgccaagg
+      961 atgttttcat taatcaagaa cgaaagttgg gggctcgaag acgattagat accgtcctag
+     1021 tctcaaccat aaacgatgcc gactagggat tggcgggcgt tcttttgatg accccgccag
+     1081 caccttatga gaaatcaaag tttttgggtt ccggggggag tatggtcgca aggctgaaac
+     1141 ttaaaggaat tgacggaagg gcaccaccag gcgtggagcc tgcggcttaa tttgactcaa
+     1201 cacgggaaaa cttaccaggt ccagacatag tgaggattga cagattgaga gctctttctt
+     1261 gattctatgg gtggtggtgc atggccgttc ttagttggtg ggttgccttg tcaggttgat
+     1321 tccggtaacg aacgagacct cagcctgcta actagtcacg attggttctt ccagtcggcc
+     1381 ggcttcttag agggactatt ggcgactagc caatggaagt gtgaggcaat aacaggtctg
+     1441 tgatgccctt agatgttctg ggccgcacgc gcgctacact gatgcagtca acgagcctag
+     1501 ccttggccga caggtccggg taatctttga aactgcatcg tgatggggat agatgattgc
+     1561 aattattcat cttcaacgag gaatgcctag taagcgcgag tcatcagctc gcgttgatta
+     1621 cgtccctgcc ctttgtacac accgcccgtc gctcctaccg attgggtgtg ctggtgaagc
+     1681 gttcggattg gcggcagtgc gcggttcgcc gctcgctgca gccgagaagt tcgttaaacc
+     1741 ctcccaccta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga
+     1801 tcattgcatc gatcaaacac aaaccgcgaa cccacgtatc cccgcggcct tctgtctttc
+     1861 tcttcgggga aagagagccg gccgtgcgct tgtccctgtc cggttccgct tcggcggaaa
+     1921 gggcaggtct agcgggctgg ggaggccgct ctcccttaac cgggggaggg ccgaaacccg
+     1981 gctggcaaaa accccattcg atccaaaacc agaaaataac tgaagatccg gacagctgtt
+     2041 caagaacagc cgtctccaac caaagacaac tctcaacaac ggatatcttg gctcccgtat
+     2101 cgatgaagaa cgcagcgaaa tgcgatacgt agtgtgaatt gcagataatg tgaatcatcg
+     2161 aatctttgaa cgcaaattgc actcgaggct ccggccgaga gtatgtctgc ctcagcgtcg
+     2221 gcttcaccct cacccctctc caccgagagg cgtggacctg gccgtcccgg ttaatgcaac
+     2281 cgggtctgcc gaagaacaga ggctcgaacg aggacccaat cgggacaaca gtctggtagg
+     2341 tgacccgtca gggatcgcat gccgctgtcg gcccgggacc tcgttgtaag ccggcaggaa
+     2401 tcggcggtcg ctttttttta gaaaaaggag cggccgcacg acacaccctt ttcgacctga
+     2461 gttcaggcaa gaacacccgc tgaacttaag catatcaata agcggaggaa aagaaactaa
+     2521 ccaggattcc cctagtagcg gtgagcgaac cgggataagc ccaacttgaa aatctccgtc
+     2581 cttcgggcgg cgaattgtag tctagagagg tgttctctgc ggcgggccgt gcccaagtcc
+     2641 cttggaaggg ggcgtccgag agggtgataa ccccgtcggc cacggtctca gccgctccac
+     2701 gaggcgcttt cgcagagccg ggttgtttgg gaatgcagcc caaagcaggt ggtaagtccc
+     2761 atctaaggct aaatactgac gggagaccga tagcgaacaa gtaccgcgag ggaaagatga
+     2821 aaagaacttt gaaaagaggg ttaaaaagtg cttgaaattg ttgggaggga agggattgga
+     2881 ggtcgtgggt gcgcccaggc tcacgccggc ctcacggccg gctgtatgtg ctgggcgctg
+     2941 gtcagcatcg gttagtcggg cgggacaaca gcgatcttga tcggccgccc ctgtcgcccg
+     3001 gctgtccgag gaatgaaggg cgctctcggc cttcgggacc tgcgctctca ggatgctggc
+     3061 ggaaggcctc caatctgccc gtcttgaaac acggaccaag gag
+//
+
+
