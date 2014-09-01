@@ -1,5 +1,7 @@
-locus=$1
+dataset=$1
 ref_seq=$2 # Ncommune_rbcX.fa
+clade=$(cut -d_ -f 1)
+locus=$(cut -d_ -f 2)
 cur_date=$(date +%y%m%d)
 ref_seq=$(pwd)/$ref_seq
 log_file=~/Documents/PhotobiontDiversity/$cur_date/log.txt
@@ -19,10 +21,10 @@ echo "`date`: for file in `ls | grep "tar$"`; do tar -xvzf $file; rm $file; done
 for file in `ls | grep "tar$"`; do tar -xvzf $file; rm $file; done;
 
 #create folder if not present
-if ! test -d ~/Documents/PhotobiontDiversity/$locus
+if ! test -d ~/Documents/PhotobiontDiversity/$dataset
 then
-  echo "`date`: mkdir ~/Documents/PhotobiontDiversity/$locus" >> .$log_file
-  mkdir ~/Documents/PhotobiontDiversity/$locus
+  echo "`date`: mkdir ~/Documents/PhotobiontDiversity/$dataset" >> .$log_file
+  mkdir ~/Documents/PhotobiontDiversity/$dataset
 fi
 
 echo "`date`: cd ~/Documents/PhotobiontDiversity/$locus" >> $log_file
