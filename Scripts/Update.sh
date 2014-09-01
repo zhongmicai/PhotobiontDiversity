@@ -62,8 +62,8 @@ then
   cut -f3 ${locus}_long.bl | sort | uniq > ${locus}_acc_long.txt
   echo "`date`: blastdbcmd -db nt -entry_batch ${locus}_acc_long.txt > ${locus}_all_long.fa" >> $log_file
   blastdbcmd -db nt -entry_batch ${locus}_acc_long.txt > ${locus}_all_long.fa
-  echo "`date`: ../Scripts/ExtractHitRegion.py ${locus}_all_long.fa ${locus}_long.bl >>${locus}_all.fa" >> $log_file
-  ../Scripts/ExtractHitRegion.py ${locus}_all_long.fa ${locus}_long.bl >>${locus}_all.fa
+  echo "`date`: python ../Scripts/ExtractHitRegion.py ${locus}_all_long.fa ${locus}_long.bl >>${locus}_all.fa" >> $log_file
+  python ../Scripts/ExtractHitRegion.py ${locus}_all_long.fa ${locus}_long.bl >>${locus}_all.fa
 else
   echo "`date`: rm ${locus}_long.bl" >> $log_file
   rm ${locus}_long.bl
@@ -74,18 +74,18 @@ echo "`date`: wc -l ${locus}_acc.txt" >> $log_file
 wc -l ${locus}_acc.txt
 
 #filter out sequences that are already in the DB
-echo "`date`: ../Scripts/GetNew.py ${locus}_all.fa >${locus}_new.fa" >> $log_file
-../Scripts/GetNew.py ${locus}_all.fa | perl -p -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' >${locus}_new.fa
+echo "`date`: python ../Scripts/GetNew.py ${locus}_all.fa >${locus}_new.fa" >> $log_file
+python ../Scripts/GetNew.py ${locus}_all.fa | perl -p -e 's/^>\s*gi\|\d+\|\w+\|(\w+)\.\d\|.*/>$1/' >${locus}_new.fa
 
 #Download genbank sequences and parse metadata and update DB
-echo "`date`: grep '>' ${locus}_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >${locus}_new.gb" >> $log_file
-grep '>' ${locus}_new.fa | perl -p -e 's/>//' | ../Scripts/GetGB.py >${locus}_new.gb
+echo "`date`: grep '>' ${locus}_new.fa | perl -p -e 's/>//' | python ../Scripts/GetGB.py >${locus}_new.gb" >> $log_file
+grep '>' ${locus}_new.fa | perl -p -e 's/>//' | python ../Scripts/GetGB.py >${locus}_new.gb
 
 echo "`date`: ../Scripts/ParseHost.pl ${locus}_new.gb $clade ${locus} ${cur_date} >${locus}_metadata_new.txt" >> $log_file
 ../Scripts/ParseHost.pl ${locus}_new.gb $clade ${locus} ${cur_date} >${locus}_metadata_new.txt
 
-echo "`date`: ../Scripts/UpdateDB.py ${locus}_metadata_new.txt" >> ../$cur_date/log.txt
-../Scripts/UpdateDB.py ${locus}_metadata_new.txt
+echo "`date`: python ../Scripts/UpdateDB.py ${locus}_metadata_new.txt" >> ../$cur_date/log.txt
+python ../Scripts/UpdateDB.py ${locus}_metadata_new.txt
 
 #Add new data to master datasets
 echo "`date`: cat ${locus}_new.fa >> ${locus}.fa" >> ../$cur_date/log.txt
@@ -102,8 +102,8 @@ cat ${locus}_new.gb >> ${locus}.gb
 echo "`date`: usearch -cluster_fast ${locus}.fa -id 1 -centroids ${locus}_nr.fa -uc ${locus}_groups.txt" >> ../$cur_date/log.txt
 usearch -cluster_fast ${locus}.fa -id 1 -centroids ${locus}_nr.fa -uc ${locus}_groups.txt
 
-echo "`date`: ../Scripts/GetGroups.py -g ${locus}_groups.txt -l ${locus}" >> ../$cur_date/log.txt
-../Scripts/GetGroups.py -g ${locus}_groups.txt -l ${locus}
+echo "`date`: python ../Scripts/GetGroups.py -g ${locus}_groups.txt -l ${locus}" >> ../$cur_date/log.txt
+python ../Scripts/GetGroups.py -g ${locus}_groups.txt -l ${locus}
 
 
 #create alignment and make tree, mapping on metadata
@@ -122,11 +122,11 @@ phyml  --quiet --no_memory_check -i ${locus}.phy
 echo "`date`: mv ${locus}.phy_phyml_tree.txt ${locus}.nwk" >> ../$cur_date/log.txt
 mv ${locus}.phy_phyml_tree.txt ${locus}.nwk
 
-echo "`date`: ../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.svg" >> ../$cur_date/log.txt
-../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.svg
+echo "`date`: python ../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.svg" >> ../$cur_date/log.txt
+python ../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.svg
 
-echo "`date`: ../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.pdf" >> ../$cur_date/log.txt
-../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.pdf
+echo "`date`: python ../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.pdf" >> ../$cur_date/log.txt
+python ../Scripts/FormatTree.py -t ${locus}.nwk -l $locus -d $cur_date} -o ${locus}.pdf
 
 #copy new files to current post folder
 echo "`date`: cp ${locus}.pdf ${locus}.svg ${locus}.nwk ${locus}.phy ${locus}_aln.fa ${locus}_nr.fa ${locus}_new.fa ${locus}_metadata_new.txt ${locus}_new.gb ../$cur_date" >> ../$cur_date/log.txt
