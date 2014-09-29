@@ -12,14 +12,6 @@ then
   mkdir ~/Documents/PhotobiontDiversity/$cur_date
 fi
 
-#update blast database (this may take a while)
-echo "`date`: cd ~/Database/nt" > $log_file
-cd ~/Database/nt
-echo "`date`: update_blastdb.pl nt" >> $log_file
-update_blastdb.pl nt
-echo "`date`: for file in `ls | grep "tar$"`; do tar -xvzf $file; rm $file; done;" >> $log_file
-for file in `ls | grep "tar$"`; do tar -xvzf $file; rm $file; done;
-
 #create folder if not present
 if ! test -d ~/Documents/PhotobiontDiversity/$dataset
 then
