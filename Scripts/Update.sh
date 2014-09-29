@@ -91,7 +91,7 @@ python ../Scripts/UpdateDB.py ${dataset}_metadata_new.txt
 echo "`date`: cat ${dataset}_new.fa >> ${dataset}.fa" >> ../$cur_date/log.txt
 cat ${dataset}_new.fa >> ${dataset}.fa
 
-echo "`date`: > ../$cur_date/log.txt" >> ../$cur_date/log.txt
+echo "`date`:${dataset}_metadata_new.txt >> ${dataset}_metadata.txt" >> ../$cur_date/log.txt
 cat ${dataset}_metadata_new.txt >> ${dataset}_metadata.txt
 
 echo "`date`: cat ${dataset}_new.gb >> ${dataset}.gb" >> ../$cur_date/log.txt
@@ -110,7 +110,7 @@ python ../Scripts/GetGroups.py -g ${dataset}_groups.txt -l ${locus}
 echo "`date`: mafft ${dataset}_nr.fa  >${dataset}_aln.fa" >> ../$cur_date/log.txt
 mafft ${dataset}_nr.fa  >${dataset}_aln.fa 
 
-echo "`date`: exset=$(../Scripts/GetExcluded.pl ${dataset}_aln.fa)" >> ../$cur_date/log.txt
+echo "`date`: exset = ../Scripts/GetExcluded.pl ${dataset}_aln.fa" >> ../$cur_date/log.txt
 exset=$(../Scripts/GetExcluded.pl ${dataset}_aln.fa)
 
 echo "`date`: trimal -in ${dataset}_aln.fa  -phylip -select $exset >${dataset}.phy" >> ../$cur_date/log.txt
