@@ -24,7 +24,7 @@ cd ~/Documents/PhotobiontDiversity/$dataset
 
 #run blast (need all sequences even if updating because there may be new redundant sequences)
 echo "`date`: blastn -query $ref_seq -db nt -evalue 1e-180 -max_target_seqs 3000 -out ${dataset}.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'" >> $log_file
-blastn -query $ref_seq -db nt -evalue 1e-180 -max_target_seqs 3000 -out ${dataset}.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+blastn -query $ref_seq -db nt -evalue 1e-100 -max_target_seqs 3000 -out ${dataset}.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
 
 #get all sequences that are on the correct strand and not part of a larger sequence
 echo "`date`: awk '{if($12<$13) print $0}' ${dataset}.bl | awk '{if ($4 < 3000) print $0}' |cut -f3 | sort | uniq > ${dataset}_acc.txt" >> $log_file
@@ -114,10 +114,10 @@ phyml  --quiet --no_memory_check -i ${dataset}.phy
 echo "`date`: mv ${dataset}.phy_phyml_tree.txt ${dataset}.nwk" >> ../$cur_date/log.txt
 mv ${dataset}.phy_phyml_tree.txt ${dataset}.nwk
 
-echo "`date`: python ../Scripts/FormatTree.py -t ${dataset}.nwk -l $locus -d $cur_date} -o ${dataset}.svg" >> ../$cur_date/log.txt
+echo "`date`: python ../Scripts/FormatTree.py -t ${dataset}.nwk -l $locus -d $cur_date -o ${dataset}.svg" >> ../$cur_date/log.txt
 python ../Scripts/FormatTree.py -t ${dataset}.nwk -l $locus -d $cur_date} -o ${dataset}.svg
 
-echo "`date`: python ../Scripts/FormatTree.py -t ${dataset}.nwk -l $locus -d $cur_date} -o ${dataset}.pdf" >> ../$cur_date/log.txt
+echo "`date`: python ../Scripts/FormatTree.py -t ${dataset}.nwk -l $locus -d $cur_date -o ${dataset}.pdf" >> ../$cur_date/log.txt
 python ../Scripts/FormatTree.py -t ${dataset}.nwk -l $locus -d $cur_date} -o ${dataset}.pdf
 
 #copy new files to current post folder
