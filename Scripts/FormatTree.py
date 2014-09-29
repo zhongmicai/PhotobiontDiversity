@@ -15,9 +15,10 @@ def main(argv):
   outfilename = ''
   searchterm = ''
   date = ''
-  usage = 'AddMetadata.py -t <treefile> -l <locus> -o <outfile> -s <search>'
+  field = 'Host'
+  usage = 'AddMetadata.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field>'
   try:
-    opts, args = getopt.getopt(argv,"ht:l:o:s:d:",["tree=","locus=","out=", "search=", "date="])
+    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:",["tree=","locus=","out=", "search=", "date=", "field="])
     if not opts:
       raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
@@ -37,6 +38,8 @@ def main(argv):
        searchterm = arg
     elif opt in ("-d", "--date"):
        date = arg
+    elif opt in ("-f", "--field"):
+       field = arg
 
   tree = Tree(treefilename)
 
@@ -63,10 +66,10 @@ def main(argv):
           groups[group] = leaf.name
           cur.execute("SELECT Host, Species FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
           leaf.name = " " + group + ':'
-          label_info = combine_info(cur.fetchall())
+          label_info = combine_info(field, cur.fetchall())
       else:  #Singleton
         leaf.name =" " + accession + ':'
-        if host and host != 'free-living':
+        if field == 'Host' and host and host != 'free-living':
           label_info = [host]
         else:    
           label_info = [species]
@@ -180,10 +183,10 @@ def add_sig(tree):
     else:
       node.set_style(sig)
 
-def combine_info(entries):
+def combine_info(field, entries):
   host_counts = {}                   #Can include species names of free-living strains
   for (host, species) in entries:
-    if host == "free-living":
+    if host == "free-living" or field != 'Host':
       info = species
     elif host == ' ':
       info = 'Unknown'
