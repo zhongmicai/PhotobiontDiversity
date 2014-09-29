@@ -1,8 +1,10 @@
-#!/usr/local/bin/python
+#!/Users/HeathOBrien/anaconda/bin/python
+
 #count the number of host genus / photobiont clade associations and print matrix
 
 import sys, getopt
 import csv
+import MySQLdb as mdb
 
 def main(argv):
   metadatafile = ''
@@ -17,35 +19,33 @@ def main(argv):
        sys.exit()
     elif opt in ("-m", "--metadata"):
        metadatafile = arg
-
-
-  associations = {}
-  with open(metadatafile, 'rU') as f:
-    reader=csv.reader(f,delimiter='\t')
-    for accession, group, tree_status, host, name, strain, clade, location, reference, pmid in reader:
-      if host:
-        genus = host.split()[0]
-        if genus in associations:
-          if clade in associations[genus]:
-            associations[genus][clade] += 1
-          else:
-            associations[genus][clade] = 1
-        else:
-          associations[genus] = {}
-          associations[genus][clade] = 1
-    for genus in associations:
-      print genus, "\t",
-      #print associations[genus]
-      for clade in ["T. arboricola", "T. asymmetrica", "T. corticola", "T. decolorans", "T. gelatinosa",
+  clade_list =  ["T. arboricola", "T. asymmetrica", "T. corticola", "T. decolorans", "T. gelatinosa",
            "T. gigantea", "T. impressa", "T. incrustata", "T. jamesii", "T. showmanii",
-           "T. sp. 1", "T. sp. 2", "T. sp. 3", "T. sp. 4", "T. sp. 5" ]:
-        #print clade, 
-        if clade in associations[genus]:
-          print associations[genus][clade],
-        if clade == "T. sp. 5":
-          print
-        else:
-          print "\t",
+           "T. sp. 1", "T. sp. 2", "T. sp. 3", "T. sp. 4", "T. sp. 5" ]
+  print ', '.join(['Genus', 'Family'] + clade_list)
+  try:
+     con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
+  except mdb.Error, e:
+    print "Error %d: %s" % (e.args[0],e.args[1])
+    sys.exit(1)   
+  with con:
+    cur = con.cursor()
+    cur.execute("SELECT Genus, family FROM Taxonomy ORDER BY Genus")
+    for (genus, family) in cur.fetchall():
+      #print "SELECT Clade, COUNT(Clade) FROM Metadata Where Host LIKE '%s' AND Species LIKE '%s' GROUP BY Clade" % (genus + '%', 'Trebouxia%')
+      cur.execute("SELECT Clade, COUNT(Clade) FROM Metadata Where Host LIKE %s AND Species LIKE %s GROUP BY Clade", (genus + '%', 'Trebouxia%'))
+      associations = {}
+      for (clade, count) in cur.fetchall():
+        if clade:
+          associations[clade] = count
+      if len(associations) > 0:
+        output = [genus, family]
+        for column in clade_list:
+          if column in associations:
+            output.append(associations[column])
+          else:
+            output.append(0)
+        print ", ".join(map(str, output))         
 
 if __name__ == "__main__":
    main(sys.argv[1:])
