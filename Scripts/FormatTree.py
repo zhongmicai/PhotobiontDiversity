@@ -90,7 +90,7 @@ def main(argv):
           label.background.color = "Yellow"
           #bg_colour = "Yellow"
     leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
-    add_faces(cur, leaf, label_info, bg_colour, outfilename)
+    add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
    
   draw_tree(tree, outfilename) 
   if 'svg' in outfilename:
@@ -114,8 +114,8 @@ def draw_tree(tree, file):
     
     #tree.show()
     
-def add_faces(cur, leaf, label_info, bg_colour, outfile):
-      colours = get_colours(cur, label_info)
+def add_faces(cur, field, leaf, label_info, bg_colour, outfile):
+      colours = get_colours(cur, field, label_info)
       y = 0
       for x in range(len(label_info)):
         if x < len(label_info) - 1:
@@ -134,31 +134,35 @@ def add_faces(cur, leaf, label_info, bg_colour, outfile):
           y += 3
         leaf.add_face(label, column=x-y+1, position="branch-right")
       
-def get_colours(cur, label_info):
+def get_colours(cur, field, label_info):
   colours = []
   for label in label_info:
     genus = label.split(' ')[0]
+    taxon = ''
     if genus.find('.') != -1:
       colours.append(colours[-1])
     else:
+      if field == 'Host':
         try:
           cur.execute("SELECT phylum FROM Taxonomy WHERE genus= %s", (genus))
-          taxon = cur.fetchone()
+          taxon = cur.fetchone()[0]
         except TypeError:
           warnings.warn("No phylum entry for %s" % genus)
-        if taxon and taxon[0] == 'Ascomycota':
-          try:
-            cur.execute("SELECT family FROM Taxonomy WHERE genus= %s", (genus))
-            taxon = cur.fetchone()
-          except TypeError:
-            warnings.warn("No family entry for %s" % genus)
-        try:
-          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (taxon[0]))
-          colour = cur.fetchone()      
-          colours.append(colour[0])
-        except TypeError:
-          warnings.warn("No colour available for %s (%s)" % (genus, taxon))
-          colours.append('LightGray')
+        if taxon and taxon == 'Ascomycota':
+            try:
+              cur.execute("SELECT family FROM Taxonomy WHERE genus= %s", (genus))
+              taxon = cur.fetchone()[0]
+            except TypeError:
+              warnings.warn("No family entry for %s" % genus)
+      else:
+        taxon = ' '.join(label.split(' ')[:2])
+      try:
+        cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (taxon))
+        colour = cur.fetchone()      
+        colours.append(colour[0])
+      except TypeError:
+        warnings.warn("No colour available for %s (%s)" % (genus, taxon))
+        colours.append('LightGray')
           
   return colours
     
