@@ -15,10 +15,11 @@ def main(argv):
   outfilename = ''
   searchterm = ''
   date = ''
+  debug = 0
   field = 'Host'
-  usage = 'AddMetadata.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field>'
+  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -c (debug clades)'
   try:
-    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:",["tree=","locus=","out=", "search=", "date=", "field="])
+    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:c:",["tree=","locus=","out=", "search=", "date=", "field=", "clades="])
     if not opts:
       raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
@@ -40,22 +41,28 @@ def main(argv):
        date = arg
     elif opt in ("-f", "--field"):
        field = arg
+    elif opt in ("-c", "--clades"):
+       debug = 1
 
   tree = Tree(treefilename)
-
+  add_sig(tree)
+  #tree = root_tree(tree)
+  root_tree(tree)
   try:
      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
   except mdb.Error, e:
     print "Error %d: %s" % (e.args[0],e.args[1])
     sys.exit(1)   
-  for leaf in tree:
-    with con:
-      cur = con.cursor()
+  with con:
+    cur = con.cursor()
+    #tree = colour_clades(cur, tree, locus)
+    colour_clades(cur, tree, locus, debug)
+    for leaf in tree:
       groups = {}
       accession = leaf.name
-      cur.execute("SELECT `Group`, Host, Species FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
+      cur.execute("SELECT `Group`, Host, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
       try:
-        (group, host, species) = cur.fetchone()
+        (group, host, species, clade) = cur.fetchone()
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, species) = ('','','')
@@ -64,7 +71,7 @@ def main(argv):
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
         else:
           groups[group] = leaf.name
-          cur.execute("SELECT Host, Species FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
+          cur.execute("SELECT Host, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
           leaf.name = " " + group + ':'
           label_info = combine_info(field, cur.fetchall())
       else:  #Singleton
@@ -73,35 +80,112 @@ def main(argv):
           label_info = [host]
         else:    
           label_info = [species]
-          
-    bg_colour = None
-    label = TextFace(leaf.name)
-    if searchterm and leaf.name.find(searchterm) > -1:
-      print "adding highlighting to node %s" % leaf.name
-      label.background.color = "Yellow"
-      #bg_colour = "Yellow"
-    elif date:
-      if group == 'UNIQUE':
-        cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
-      else:
-        cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
-      if len(cur.fetchall()) > 0:
+      bg_colour = None
+      label = TextFace(leaf.name)
+      if searchterm and leaf.name.find(searchterm) > -1:
+        print "adding highlighting to node %s" % leaf.name
+        label.background.color = "Yellow"
+        #bg_colour = "Yellow"
+      elif date:
+        if group == 'UNIQUE':
+          cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
+        else:
+          cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
+        if len(cur.fetchall()) > 0:
           print "adding highlighting to node %s" % leaf.name
           label.background.color = "Yellow"
           #bg_colour = "Yellow"
-    leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
-    add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
-   
+      leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
+      add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
+  
   draw_tree(tree, outfilename) 
   if 'svg' in outfilename:
     add_header(outfilename, locus)  
 
+def colour_clades(cur, tree, locus, debug):
+  clades = {}
+  colours = {}
+  cur.execute("SELECT Colour, Taxon FROM Colours")
+  for (colour, taxon) in cur.fetchall():
+    colours[taxon] = colour
+  
+  for leaf in tree:
+    accession = leaf.name
+    cur.execute("SELECT Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
+    try:
+        clade = cur.fetchone()[0]
+    except TypeError:    
+        warnings.warn("No database entry for %s" % accession)
+        continue
+    if debug:
+     try:
+      label = TextFace(leaf.name)
+      label.background.color = colours[clade.replace('T.', 'Trebouxia')]
+      leaf.add_face(label, column = 0)                        
+     except KeyError:
+      pass
+       
+    if clade and 'sp.' not in clade:
+      if clade in clades:
+        clades[clade].append(leaf) 
+      else:
+        clades[clade] = [leaf]
+        
+  for clade in clades:
+    cur.execute("SELECT Colour from Colours WHERE Taxon = %s", clade.replace('T.', 'Trebouxia'))
+    try:
+        colour = cur.fetchone()[0]
+    except TypeError:    
+        warnings.warn("No database entry for %s" % clade.replace('T.', 'Trebouxia'))
+        continue
+    print "setting clade %s to %s" % (clade, colour)
+
+    #tree = colour_clade(tree, clades[clade], colour) 
+    colour_clade(tree, clades[clade], colour) 
+
+  #return tree
+
+def colour_clade(tree, leaves, colour):
+  ancestor = tree.get_common_ancestor(leaves)
+  sig = NodeStyle()
+  sig["vt_line_color"] = colour
+  sig["hz_line_color"] = colour
+  sig["vt_line_width"] = 2
+  sig["hz_line_width"] = 2
+  sig["fgcolor"] = colour
+  sig["size"] = 5
+  nonsig = NodeStyle()
+  nonsig["vt_line_color"] = colour
+  nonsig["hz_line_color"] = colour
+  nonsig["vt_line_width"] = 2
+  nonsig["hz_line_width"] = 2
+  nonsig["fgcolor"] = colour
+  nonsig["size"] = 0
+  
+  if ancestor.img_style['size'] == 0:
+    ancestor.set_style(nonsig)
+  else:
+    ancestor.set_style(sig)
+  for node in ancestor.iter_descendants("postorder"):
+    if node.img_style['size'] == 0:
+      node.set_style(nonsig)
+    else:
+      node.set_style(sig)
+    
+  #return tree
 
 
-def draw_tree(tree, file):
+def root_tree(tree):
+    root = tree.get_midpoint_outgroup()
+    try:
+      tree.set_outgroup(root)
+    except:
+      pass
     root = tree.get_tree_root()
     root.dist = 0
-    add_sig(tree)
+    #return tree
+    
+def draw_tree(tree, file):
     ts = TreeStyle()
     ts.branch_vertical_margin = 1
     ts.show_leaf_name = False
@@ -173,16 +257,14 @@ def add_sig(tree):
   sig["size"] = 5
   sig["fgcolor"] = "black"
   for node in tree.traverse():
-    if node.support > 1: #support values as percentages
-      node.support = node.support / 100
-    if node.support < 0.9 or node.is_leaf():
+    if node.support < 0.9 or node.is_leaf() or node.is_root():
       node.set_style(non_sig)
     else:
       node.set_style(sig)
-
+  
 def combine_info(field, entries):
   host_counts = {}                   #Can include species names of free-living strains
-  for (host, species) in entries:
+  for (host, species, clade) in entries:
     if host == "free-living" or field != 'Host':
       info = species
     elif host == ' ':
