@@ -11,9 +11,9 @@ def get_fasta_accession(record):
     """
     parts = record.id.split("|")
     try:
-      assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" )
+      assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" or parts[2] == "dbj")
     except AssertionError:
-      sys.exit(parts)
+      sys.exit("SeqID %s not parsed correctly" % record.id)
     return parts[3].split('.')[0]
 
 def main(seq_file):
