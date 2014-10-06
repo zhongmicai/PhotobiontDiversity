@@ -50,6 +50,7 @@ elsif ( $filename =~ /\.gb/ ) {
           my @values = $feat_object->get_tag_values('note');
           $voucher = $values[0];
           if ( $voucher =~ /^lichen specimen voucher/ ) { $voucher = ''; }  #host species not in value
+          if ( $voucher =~ /^PCR_primers=/ ) { $voucher = ''; }  #host species not in value
         }
       }
       unless ( $voucher ) {
@@ -92,7 +93,7 @@ elsif ( $filename =~ /\.gb/ ) {
     }
     if ($voucher) {
       $voucher =~ s/(genotype:.*)|(authority:)//i;
-      $voucher =~ s/(\bthall[ui]s?\b)|\b(lichen(ized)?)\b|\b(from)\b|\b(with)\b|\b(photobiont)\b|\b(phycobiont)\b|\b(cyanobiont)\b|\b(of)\b|\b(primary thallus)\b|\b(isolated)\b|\b(cultured)\b|\b(the)\b|\b(sandstone)\b|\b(microbial)\b|\b(biofilm)\b|\b(glacier)\b|\b(forefield)\b|\b(authority)\b|\b(\b(jan)\b|\b(febr)\buary)\b|\b(march)\b|\b(april)\b|\b(may)\b|\b(june)\b|\b(july)\b|\b(august)\b|\b((sept)|(octo)|(novem)|(decem)ber)\b|\d+\b//gi;
+      $voucher =~ s/(\bthall[ui]s?\b)|\b(lichen(ized)?)\b|\b(from)\b|\b(with)\b|\b(photobiont)\b|\b(fungus)\b|\b(phycobiont)\b|\b(cyanobiont)\b|\b(of)\b|\b(primary thallus)\b|\b(isolated)\b|\b(cultured)\b|\b(the)\b|\b(sandstone)\b|\b(microbial)\b|\b(biofilm)\b|\b(glacier)\b|\b(forefield)\b|\b(authority)\b|\b(\b(jan)\b|\b(febr)\buary)\b|\b(march)\b|\b(april)\b|\b(may)\b|\b(june)\b|\b(july)\b|\b(august)\b|\b((sept)|(octo)|(novem)|(decem)ber)\b|\d+\b//gi;
       $voucher =~ s/[,']//g;
       $voucher =~ s/ +/ /g;
       #print STDERR "Voucher: $voucher\n";
