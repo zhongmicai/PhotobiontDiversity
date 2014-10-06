@@ -66,6 +66,8 @@ with con:
               cur.execute("UPDATE Taxonomy SET subfamily = %s WHERE genus= %s", (lineage[rank], genus,))
             elif rank == 'superfamily':
               cur.execute("UPDATE Taxonomy SET superfamily = %s WHERE genus= %s", (lineage[rank], genus,))
+            elif rank == 'superorder':
+              cur.execute("UPDATE Taxonomy SET `superorder` = %s WHERE genus= %s", (lineage[rank], genus,))
             elif rank == 'order':
               cur.execute("UPDATE Taxonomy SET `order` = %s WHERE genus= %s", (lineage[rank], genus,))
             elif rank == 'suborder':
