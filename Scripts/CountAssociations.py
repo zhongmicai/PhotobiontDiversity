@@ -30,8 +30,7 @@ def main(argv):
            "T. gigantea", "T. higginsiae", "T. impressa", "T. incrustata", "T. jamesii", 
            "T. jamesii 2", "T. letharii", "T. muralis I", "T. showmanii", "T. usneae",
            "T. sp. clade I", "T. sp. clade II", "T. sp. clade III", "T. sp. clade IV", 
-           "T. sp. clade V", "T. sp. TR1", "T. sp. TR9", "T. sp. URa1", "T. sp. URa3", 
-           "T. sp. 4", "T. sp. 5" ]
+           "T. sp. clade V", "T. sp. TR1", "T. sp. TR9", "T. sp. URa1", "T. sp. URa3"]
   try:
      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
   except mdb.Error, e:
@@ -41,16 +40,16 @@ def main(argv):
     cur = con.cursor()
     colours = []
     for clade in clade_list:
-      cur.execute("SELECT RGB.Hex FROM RGB, Colours WHERE RGB.Colour = Colours.Colour AND Colours.Taxon = %s", clade)
+      cur.execute("SELECT RGB.Hex FROM RGB, Colours WHERE RGB.Colour = Colours.Colour AND Colours.Taxon = %s", clade.replace('T.', 'Trebouxia'))
       try:
         colours.append(cur.fetchone()[0])
       except TypeError:
         sys.exit("No colour for %s" % clade)  
     table_fh = open(table_file, 'w')  
-    table_fh.write(', '.join(['Genus', 'Family'] + clade_list), '\n')
+    table_fh.write(', '.join(['Genus', 'Family', 'Total'] + clade_list) + '\n')
     css_fh = open(css_file, 'w')  
     cur.execute("SELECT Genus, family FROM Taxonomy ORDER BY Genus")
-    counter = 0
+    counter = 1
     for (genus, family) in cur.fetchall():
       #print "SELECT Clade, COUNT(Clade) FROM Metadata Where Host LIKE '%s' AND Species LIKE '%s' GROUP BY Clade" % (genus + '%', 'Trebouxia%')
       cur.execute("SELECT Clade, COUNT(Clade) FROM Metadata Where Host LIKE %s AND Species LIKE %s GROUP BY Clade", (genus + '%', 'Trebouxia%'))
@@ -64,12 +63,17 @@ def main(argv):
         for (column_number, column) in enumerate(clade_list):
           if column in associations:
             output.append(associations[column])
-            css_fh.write(".tablepress-id-%i .row-%i .column-%i {\n" % (table_id, counter, index))
-            css_fh.write("	background-color: #%s;\n" % colours[index])
+            css_fh.write(".tablepress-id-%i .row-%i .column-%i {\n" % (table_id, counter, column_number+4))
+            css_fh.write("	background-color: #%s;\n" % colours[column_number])
             css_fh.write( "}\n")
           else:
             output.append(0)
-        table_fh.write(", ".join(map(str, output)), '\n')         
+        total = str(sum(output[2:]))
+        output = map(str, output)
+        try:
+          table_fh.write(", ".join(output[:2] + [total] + output[2:]) + '\n')
+        except TypeError:
+          sys.exit(output)     
     table_fh.close()
     css_fh.close()
     
