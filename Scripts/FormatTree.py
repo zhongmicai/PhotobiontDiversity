@@ -47,7 +47,7 @@ def main(argv):
   tree = Tree(treefilename)
   add_sig(tree)
   #tree = root_tree(tree)
-  root_tree(tree)
+  root_tree(tree, treefilename)
   try:
      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
   except mdb.Error, e:
@@ -125,7 +125,7 @@ def colour_clades(cur, tree, locus, debug):
      except KeyError:
       pass
        
-    if clade and 'sp.' not in clade:
+    if clade: # and 'sp.' not in clade:
       if clade in clades:
         clades[clade].append(leaf) 
       else:
@@ -146,43 +146,53 @@ def colour_clades(cur, tree, locus, debug):
   #return tree
 
 def colour_clade(tree, leaves, colour):
-  ancestor = tree.get_common_ancestor(leaves)
   sig = NodeStyle()
   sig["vt_line_color"] = colour
   sig["hz_line_color"] = colour
-  sig["vt_line_width"] = 2
-  sig["hz_line_width"] = 2
+  sig["vt_line_width"] = 6
+  sig["hz_line_width"] = 6
   sig["fgcolor"] = colour
-  sig["size"] = 5
+  sig["size"] = 10
   nonsig = NodeStyle()
   nonsig["vt_line_color"] = colour
   nonsig["hz_line_color"] = colour
-  nonsig["vt_line_width"] = 2
-  nonsig["hz_line_width"] = 2
+  nonsig["vt_line_width"] = 6
+  nonsig["hz_line_width"] = 6
   nonsig["fgcolor"] = colour
   nonsig["size"] = 0
-  
-  if ancestor.img_style['size'] == 0:
-    ancestor.set_style(nonsig)
+  if len(leaves) == 1:
+    leaves[0].set_style(nonsig)    
   else:
-    ancestor.set_style(sig)
-  for node in ancestor.iter_descendants("postorder"):
-    if node.img_style['size'] == 0:
-      node.set_style(nonsig)
+    ancestor = tree.get_common_ancestor(leaves)  
+    if ancestor.img_style['size'] == 0:
+      ancestor.set_style(nonsig)
     else:
-      node.set_style(sig)
+      ancestor.set_style(sig)
+    for node in ancestor.iter_descendants("postorder"):
+      if node.img_style['size'] == 0:
+        node.set_style(nonsig)
+      else:
+        node.set_style(sig)
     
   #return tree
 
 
-def root_tree(tree):
+def root_tree(tree, treefilename):
+  if 'Trebouxia_ITS' in treefilename:
+    leaves = []
+    for taxon in ('AY842266','AJ249567'):
+      for leaf in  tree.get_leaves_by_name(taxon):
+        leaves.append(leaf)
+    outgroup = tree.get_common_ancestor(leaves)
+    tree.set_outgroup(outgroup)
+  else:
     root = tree.get_midpoint_outgroup()
     try:
       tree.set_outgroup(root)
     except:
       pass
-    root = tree.get_tree_root()
-    root.dist = 0
+  root = tree.get_tree_root()
+  root.dist = 0
     #return tree
     
 def draw_tree(tree, file):
@@ -241,7 +251,10 @@ def get_colours(cur, field, label_info):
       else:
         taxon = ' '.join(label.split(' ')[:2])
       try:
-        cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (taxon))
+        if 'letharii' in label:
+          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", ('Trebouxia letharii'))
+        else:
+          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (taxon))
         colour = cur.fetchone()      
         colours.append(colour[0])
       except TypeError:
@@ -253,9 +266,13 @@ def get_colours(cur, field, label_info):
 def add_sig(tree):
   non_sig = NodeStyle()
   non_sig["size"] = 0
+  non_sig["vt_line_width"] = 6
+  non_sig["hz_line_width"] = 6
   sig = NodeStyle()
-  sig["size"] = 5
+  sig["size"] = 10
   sig["fgcolor"] = "black"
+  sig["vt_line_width"] = 6
+  sig["hz_line_width"] = 6
   for node in tree.traverse():
     if node.support < 0.9 or node.is_leaf() or node.is_root():
       node.set_style(non_sig)
@@ -271,7 +288,6 @@ def combine_info(field, entries):
       info = 'Unknown'
     else:
       info = host
-      
     if info in host_counts.keys():
       host_counts[info] += 1
     else:
