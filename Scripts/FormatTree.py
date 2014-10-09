@@ -142,8 +142,18 @@ def colour_clades(cur, tree, locus, debug):
 
     #tree = colour_clade(tree, clades[clade], colour) 
     colour_clade(tree, clades[clade], colour) 
+    label_clade(tree, clades[clade], colour, clade) 
 
   #return tree
+
+def label_clade(tree, leaves, colour, clade):
+  if len(leaves) == 1:
+    ancestor = leaves[0]   
+  else:
+    ancestor = tree.get_common_ancestor(leaves)  
+  label = TextFace(clade, fsize=100, fgcolor = colour)
+  ancestor.add_face(label, column=1, position = "float")
+
 
 def colour_clade(tree, leaves, colour):
   sig = NodeStyle()
@@ -198,7 +208,7 @@ def root_tree(tree, treefilename):
 def draw_tree(tree, file):
     ts = TreeStyle()
     ts.branch_vertical_margin = 1
-    ts.show_leaf_name = False
+    ts.show_leaf_name = True
     if '.svg' in file:
       ts.scale = 3000
       tree.render(file, tree_style=ts, h=300, units='mm')
@@ -325,10 +335,20 @@ def add_header(outfilename, locus):
   tempfile.write(header)
   svgfile = open(outfilename, 'r')
 
+  node_text = 0 #set when one of the following lines has a internode label (need to change position)
   line_num = 0
   for line in svgfile.readlines():
     line = line.strip()
     line_num += 1
+    if 'font-size="100pt"' in line:
+      node_text = 1
+      print "setting node_text to 1"
+    elif line == '</g>':
+      node_text = 0
+      #print "setting node_text back to zero"
+    if node_text:
+      print "replacing text"  
+      line = line.replace('x="0"', 'x="1000"')
     if line_num > 8:
       if line == '</svg>':
         tempfile.write('</g>\n')
