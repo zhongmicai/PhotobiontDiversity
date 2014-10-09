@@ -1,0 +1,496 @@
+AB177817	Parmotrema tinctorum	Trebouxia corticola	 	Japan: Shizuoka, Shimizu-muramatsu, 15m alt.	Ohmura	Bryologist 109, 43-59 (2006)	 	Trebouxia	ITS	141006
+AB177826	Parmotrema tinctorum	Trebouxia corticola	 	Japan: Shizuoka, Shimizu-nishikubo-cho, 5m alt.	Ohmura	Bryologist 109, 43-59 (2006)	 	Trebouxia	ITS	141006
+AB177830	Parmotrema tinctorum	Trebouxia sp.	 	Japan: Shizuoka, Shimizu-umegaya, 20m alt.	Ohmura	Bryologist 109, 43-59 (2006)	 	Trebouxia	ITS	141006
+AB177831	Parmotrema tinctorum	Trebouxia corticola	 	Japan: Shizuoka, Shimizu-umegaya, 20m alt.	Ohmura	Bryologist 109, 43-59 (2006)	 	Trebouxia	ITS	141006
+AB177836	Parmotrema tinctorum	Trebouxia higginsiae	 	Japan: Shizuoka, Mt. Kuno-zan, c.100m alt.	Ohmura	Bryologist 109, 43-59 (2006)	 	Trebouxia	ITS	141006
+AB573862	Parmotrema tinctorum	Trebouxia higginsiae	 	Japan: Chiba, Kujukurihama coast	Mansournia	Unpublished	 	Trebouxia	ITS	141006
+AB177837	Parmotrema reticulatum	Trebouxia corticola	 	Japan: Shizuoka, Mt. Kuno-zan, c.100m alt.	Ohmura	Unpublished	 	Trebouxia	ITS	141006
+AB177838	Parmotrema tinctorum	Trebouxia corticola	 	Japan: Shizuoka, Mt. Kuno-zan, c.100m alt.	Ohmura	Bryologist 109, 43-59 (2006)	 	Trebouxia	ITS	141006
+AB331642	Parmotrema tinctorum	Trebouxia corticola	 	Japan: Shizuoka, Mt. Kuno-zan	Ohmura	Unpublished	 	Trebouxia	ITS	141006
+AB573861	Parmotrema tinctorum	Trebouxia higginsiae	 	Japan: Chiba, Kujukurihama coast	Mansournia	Unpublished	 	Trebouxia	ITS	141006
+AB573863	Parmotrema tinctorum	Trebouxia higginsiae	 	Japan: Chiba, Kujukurihama coast	Mansournia	Unpublished	 	Trebouxia	ITS	141006
+AB573864	Parmotrema tinctorum	Trebouxia higginsiae	 	Japan: Chiba, Kujukurihama coast	Mansournia	Unpublished	 	Trebouxia	ITS	141006
+AJ249567	Ramalina sp.	Trebouxia galapagensis	UTEX 2230	 	Friedl	Mol. Phylogenet. Evol. 14 (3), 342-352 (2000)	10712840	Trebouxia	ITS	141006
+AY444755	Flavocetraria nivalis	Trebouxia jamesii	 	Greenland	Opanowicz	Lichenologist (Lond.) (2004) In press	 	Trebouxia	ITS	141006
+AY842262	Ramalina complanata	Trebouxia sp.	 	Brazil: Florianopolis, Santa Catarina State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842266	Ramalina peruviana	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842267	Ramalina dendroides	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842271	Ramalina sorediosa	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842272	Ramalina sorediosa	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842273	Ramalina gracilis	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842274	Ramalina sprengelii	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY842275	Ramalina peruviana	Trebouxia 	 	Brazil: Parana State	Cordeiro	FEMS Microbiol. Ecol. 54 (3), 381-390 (2005)	16332336	Trebouxia	ITS	141006
+AY928199	rock surface	Trebouxia 	 	Turkey: Saricam	Siddique	Unpublished	 	Trebouxia	ITS	141006
+AY928201	rock surface	Trebouxia 	 	Turkey: Saricam	Siddique	Unpublished	 	Trebouxia	ITS	141006
+DQ086109	Evernia mesomorpha	Trebouxia 	 	 	Piercey-Normore	New Phytol. 169 (2), 331-344 (2006)	16411936	Trebouxia	ITS	141006
+DQ166598	Lecanora rupicola	Trebouxia 	 	Spain: Madrid	Blaha	Biol. J. Linn. Soc. Lond. 88 (2), 283-293 (2006)	 	Trebouxia	ITS	141006
+DQ166607	Lecanora rupicola	Trebouxia 	 	Austria: Styria	Blaha	Biol. J. Linn. Soc. Lond. 88 (2), 283-293 (2006)	 	Trebouxia	ITS	141006
+DQ166619	Lecanora swartzii	Trebouxia 	 	Spain: Madrid	Blaha	Biol. J. Linn. Soc. Lond. 88 (2), 283-293 (2006)	 	Trebouxia	ITS	141006
+EF457766	Evernia mesomorpha	Trebouxia sp.	 	 	Piercey-Normore	Unpublished	 	Trebouxia	ITS	141006
+EU416216	Melanohalea exasperatula	Trebouxia 	 	 	Piercey-Normore	Unpublished	 	Trebouxia	ITS	141006
+EU551512	Tephromela atra	Trebouxia 	 	Austria	Muggia	Mycol. Prog. 7 (3), 147-160 (2008)	 	Trebouxia	ITS	141006
+EU551513	Tephromela atra	Trebouxia 	 	Austria	Muggia	Mycol. Prog. 7 (3), 147-160 (2008)	 	Trebouxia	ITS	141006
+FJ626724	 	Trebouxia angustilobata	SAG 2204	 	Del Campo	Taxon 59 (2), 588-591 (2010)	 	Trebouxia	ITS	141006
+FJ626736	 	Trebouxia suecica	SAG 2207	 	Del Campo	Taxon 59 (2), 588-591 (2010)	 	Trebouxia	ITS	141006
+GQ375342	Cetraria aculeata	Trebouxia jamesii	 	Spain	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375343	Cetraria aculeata	Trebouxia jamesii	 	Spain	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375344	Cetraria aculeata	Trebouxia jamesii	 	Spain	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375345	Cetraria aculeata	Trebouxia jamesii	 	Spain	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375346	Cetraria aculeata	Trebouxia jamesii	 	Kazakhstan	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375347	Cetraria aculeata	Trebouxia jamesii	 	Germany	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375348	Cetraria aculeata	Trebouxia jamesii	 	Spain	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375349	Cetraria aculeata	Trebouxia jamesii	 	Kazakhstan	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+GQ375350	Cetraria aculeata	Trebouxia jamesii	 	Spain	Domaschke	Unpublished	 	Trebouxia	ITS	141006
+HQ026172	Boreoplaca ultrafrigida	Trebouxia 	 	 	Liu	Unpublished	 	Trebouxia	ITS	141006
+HQ667314	Lecidea nylanderi	Trebouxia jamesii	 	Canada	Schmull	Mycologia 103 (5), 983-1003 (2011)	21642348	Trebouxia	ITS	141006
+KF907541	Buellia elegans	Trebouxia impressa	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+JN204797	Carbonea sp.	Trebouxia sp.	 	Antarctica: Darwin Area, Diamond Hills	Ruprecht	Lichenologist (Lond.) 44 (5), 661-678 (2012)	 	Trebouxia	ITS	141006
+JN243325	 	Trebouxia jamesii	 	Spain	Domaschke	Oecologia 173 (3), 699-709 (2013)	23649754	Trebouxia	ITS	141006
+JN243326	 	Trebouxia jamesii	 	Spain	Domaschke	Oecologia 173 (3), 699-709 (2013)	23649754	Trebouxia	ITS	141006
+JQ004549	Umbilicaria muehlenbergii	Trebouxia corticola	 	 	Nan	Unpublished	 	Trebouxia	ITS	141006
+JQ004550	Xanthoparmelia sp.	Trebouxia corticola	 	 	Nan	Unpublished	 	Trebouxia	ITS	141006
+JQ314481	Cetraria aculeata	Trebouxia jamesii	 	 	Perez-Ortega	Ann. Bot. 109 (6), 1133-1148 (2012)	22451601	Trebouxia	ITS	141006
+JQ314482	Cetraria aculeata	Trebouxia jamesii	 	 	Perez-Ortega	Ann. Bot. 109 (6), 1133-1148 (2012)	22451601	Trebouxia	ITS	141006
+JQ314483	Cetraria aculeata	Trebouxia jamesii	 	 	Perez-Ortega	Ann. Bot. 109 (6), 1133-1148 (2012)	22451601	Trebouxia	ITS	141006
+JQ314484	Cetraria aculeata	Trebouxia jamesii	 	 	Perez-Ortega	Ann. Bot. 109 (6), 1133-1148 (2012)	22451601	Trebouxia	ITS	141006
+JX144653	 	Trebouxia sp.	 	 	Rafat	Unpublished	 	Trebouxia	ITS	141006
+JX444960	Anaptychia ciliaris	Trebouxia decolorans	 	 	Dal Grande	Appl Plant Sci 1 (3) (2013)	25202529	Trebouxia	ITS	141006
+JX474323	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474325	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474326	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474333	Lasallia pustulata	Trebouxia sp.	 	Norway	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474334	Lasallia pustulata	Trebouxia sp.	 	Spain	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474342	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474343	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474349	Lasallia pustulata	Trebouxia sp.	 	Germany	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474350	Lasallia pustulata	Trebouxia sp.	 	Austria	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474353	Lasallia pustulata	Trebouxia sp.	 	Serbia	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474354	Lasallia pustulata	Trebouxia sp.	 	Hungary	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474355	Lasallia pustulata	Trebouxia sp.	 	Hungary	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474357	Lasallia pustulata	Trebouxia sp.	 	Hungary	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474363	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474364	Lasallia pustulata	Trebouxia sp.	 	Norway	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474365	Lasallia pustulata	Trebouxia sp.	 	Norway	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+JX474366	Lasallia pustulata	Trebouxia sp.	 	Poland	Sadowska-Des	Fungal Ecol 6 (2), 141-151 (2013)	 	Trebouxia	ITS	141006
+KC740577	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740578	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740579	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740580	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740581	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740582	Protoparmeliopsis muralis	Trebouxia	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740583	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740584	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740585	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740586	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740588	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740589	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740590	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740591	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740592	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740593	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740594	Protoparmeliopsis muralis	Trebouxia sp.	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740595	Protoparmeliopsis muralis	Trebouxia incrustata	 	Czech Republic	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740601	Protoparmeliopsis muralis	Trebouxia	 	Austria	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740603	Protoparmeliopsis muralis	Trebouxia	 	Austria	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740606	Protoparmeliopsis muralis	Trebouxia asymmetrica	 	Austria	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740607	Protoparmeliopsis muralis	Trebouxia asymmetrica	 	Austria	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740609	Protoparmeliopsis muralis	Trebouxia	 	Austria	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KC740617	Protoparmeliopsis muralis	Trebouxia	 	Austria	Muggia	FEMS Microbiol. Ecol. (2013) In press	23530593	Trebouxia	ITS	141006
+KF026221	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026222	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026223	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026224	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026225	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026226	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026227	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026228	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026229	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026230	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026231	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026232	Xanthoparmelia aff.	Trebouxia simplex	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026233	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026234	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026235	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026236	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026237	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026238	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026239	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026240	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026241	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026242	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026243	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026244	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026245	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026246	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026247	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026248	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026249	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026250	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026251	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026252	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026253	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026254	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026255	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026256	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026257	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026258	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026259	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026260	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026261	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026262	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026263	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026264	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026265	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026266	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026267	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026268	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026269	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026270	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026271	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026272	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026273	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026274	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026275	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026276	Xanthoparmelia aff.	Trebouxia sp.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026277	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF026278	Xanthoparmelia sp.	Trebouxia aff.	 	USA: Utah, Aquarius Plateau	Leavitt	Bryologist 116 (2), 149-161 (2013)	 	Trebouxia	ITS	141006
+KF556649	Ramalina farinacea	Trebouxia jamesii	 	 	Werth	Am. J. Bot. 101 (7), 1127-1140 (2014)	25016008	Trebouxia	ITS	141006
+KF556650	Ramalina roesleri	Trebouxia impressa	 	 	Werth	Am. J. Bot. 101 (7), 1127-1140 (2014)	25016008	Trebouxia	ITS	141006
+KF556651	Ramalina sp.	Trebouxia decolorans	 	 	Werth	Am. J. Bot. 101 (7), 1127-1140 (2014)	25016008	Trebouxia	ITS	141006
+KF556652	Ramalina sp.	Trebouxia decolorans	 	 	Werth	Am. J. Bot. 101 (7), 1127-1140 (2014)	25016008	Trebouxia	ITS	141006
+KF800354	house dust	fungus	 	USA: Missouri, Kansas City	Rittenour	Environ Sci Process Impacts 16 (1), 33-43 (2013)	24258337	Trebouxia	ITS	141006
+KF907509	Fulgensia bracteata	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907510	Fulgensia bracteata	Trebouxia sp.	 	Austria: Grossglockner, Pasterze	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907511	Fulgensia bracteata	Trebouxia sp.	 	Austria: Grossglockner, Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907512	Fulgensia bracteata	Trebouxia sp.	 	Austria: Grossglockner, Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907513	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907514	Fulgensia bracteata	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907515	Fulgensia bracteata	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907516	Gyalolechia bracteata	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907517	Psora decipiens	Trebouxia asymmetrica	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907518	Psora decipiens	Trebouxia asymmetrica	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907519	Psora decipiens	Trebouxia asymmetrica	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907520	Peltigera rufescens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907521	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907522	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907523	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907524	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907525	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907526	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907527	Fulgensia fulgens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907528	Squamarina lentigera	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907529	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907530	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907531	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907532	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907533	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907534	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907535	 	Trebouxia sp.	 	Austria	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907536	 	Trebouxia sp.	 	Austria	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907537	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907538	Buellia elegans	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907539	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907540	Peltigera rufescens	Trebouxia impressa	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907542	Psora decipiens	Trebouxia impressa	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907543	Psora decipiens	Trebouxia impressa	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907544	 	Trebouxia sp.	 	Austria	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907545	 	Trebouxia sp.	 	Austria	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907546	Psora decipiens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907547	Psora decipiens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907548	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907549	Psora decipiens	Trebouxia sp.	 	Spain: Tabernas	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907550	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907551	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907552	Psora decipiens	Trebouxia sp.	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907553	Psora decipiens	Trebouxia jamesii	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907554	Psora decipiens	Trebouxia sp.	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907555	Buellia elegans	Trebouxia sp.	 	Austria: Grossglockner, Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907556	Psora decipiens	Trebouxia sp.	 	Austria: Grossglockner, Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907557	Peltigera rufescens	Trebouxia sp.	 	Austria: Seidenwinkeltal	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907558	Peltigera rufescens	Trebouxia sp.	 	Austria: Hinteres Modereck	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907559	Thamnolia vermicularis	Trebouxia jamesii	 	Austria: Hinteres Modereck	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907560	Cetraria muricata	Trebouxia sp.	 	Austria: Hinteres Modereck	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907561	Fulgensia bracteata	Trebouxia sp.	 	Austria: Hinteres Modereck	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907562	Psora decipiens	Trebouxia sp.	 	Austria: Hinteres Modereck	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907563	Psora decipiens	Trebouxia impressa	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907564	Psora decipiens	Trebouxia sp.	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907565	Psora decipiens	Trebouxia sp.	 	Sweden: Gynge Alvar	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907566	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907567	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907568	Buellia elegans	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907569	Psora decipiens	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907570	Buellia elegans	Trebouxia sp.	 	Austria: Hochtor	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907571	Peltigera rufescens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907572	Peltigera rufescens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907573	Psora decipiens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KF907574	Psora decipiens	Trebouxia sp.	 	Germany: Ruine Homburg	Ruprecht	Biodivers. Conserv. (2014) In press	 	Trebouxia	ITS	141006
+KJ027682	Xanthoria parietina	Trebouxia decolorans	 	Italy: Lonigo	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027683	Xanthoria parietina	Trebouxia decolorans	 	Italy: Lonigo	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027684	Xanthoria parietina	Trebouxia decolorans	 	Italy: Lonigo	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027685	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027686	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027687	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027688	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027689	Anaptychia ciliaris	Trebouxia decolorans	 	Spain: Campillo de Ranas	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027690	Anaptychia ciliaris	Trebouxia decolorans	 	Norway: Rakkestad	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027691	Anaptychia ciliaris	Trebouxia decolorans	 	Spain: Campillo de Ranas	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027692	Anaptychia ciliaris	Trebouxia decolorans	 	Spain: Campillo de Ranas	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027693	Anaptychia ciliaris	Trebouxia decolorans	 	Norway: Rakkestad	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027694	Anaptychia ciliaris	Trebouxia decolorans	 	Norway: Rakkestad	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027695	Anaptychia ciliaris	Trebouxia decolorans	 	Norway: Rakkestad	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027696	Anaptychia ciliaris	Trebouxia decolorans	 	Spain: Campillo de Ranas	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027697	Anaptychia ciliaris	Trebouxia decolorans	 	Norway: Rakkestad	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027698	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027699	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027700	Xanthoria parietina	Trebouxia decolorans	 	Germany: Frankfurt	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ027701	Anaptychia ciliaris	Trebouxia decolorans	 	Spain: Campillo de Ranas	Dal Grande	Mol. Phylogenet. Evol. 72, 54-60 (2014)	24412431	Trebouxia	ITS	141006
+KJ413046	Ramalina farinacea	Trebouxia 	 	Spain	Alvarez	Unpublished	 	Trebouxia	ITS	141006
+KJ413047	Ramalina farinacea	Trebouxia 	 	Spain	Alvarez	Unpublished	 	Trebouxia	ITS	141006
+KJ413050	Ramalina farinacea	Trebouxia 	 	Spain	Alvarez	Unpublished	 	Trebouxia	ITS	141006
+KJ413048	Ramalina farinacea	Trebouxia 	 	Spain	Alvarez	Unpublished	 	Trebouxia	ITS	141006
+KJ413049	Ramalina farinacea	Trebouxia 	 	Spain	Alvarez	Unpublished	 	Trebouxia	ITS	141006
+KJ413051	Ramalina farinacea	Trebouxia 	 	Spain	Alvarez	Unpublished	 	Trebouxia	ITS	141006
+KJ489089	epoxy resin	Trebouxia 	 	 	Krakova	Unpublished	 	Trebouxia	ITS	141006
+KJ489092	epoxy resin	Trebouxia	 	 	Krakova	Unpublished	 	Trebouxia	ITS	141006
+KJ489093	epoxy resin	Trebouxia	 	 	Krakova	Unpublished	 	Trebouxia	ITS	141006
+KJ576639	Bryoria americana	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576664	Bryoria nitidula	Trebouxia 	 	Sweden	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576674	Bryoria implexa	Trebouxia 	 	Sweden	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576676	Bryoria sp.	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576677	Bryoria capillaris	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576679	Bryoria implexa	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576683	Bryoria simplicior	Trebouxia 	 	Norway	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576690	Bryoria sp.	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576693	Bryoria americana	Trebouxia 	 	Canada: Newfoundland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576694	Bryoria sp.	Trebouxia 	 	USA: Alaska	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576695	Bryoria implexa	Trebouxia 	 	USA: Alaska	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576696	Bryoria implexa	Trebouxia 	 	USA: Alaska	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576698	Bryoria implexa	Trebouxia 	 	USA: Alaska	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576640	Bryoria americana	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576641	Bryoria bicolor	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576670	Bryoria tenuis	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576642	Bryoria bicolor	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576643	Bryoria capillaris	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576644	Bryoria fremontii	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576702	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576645	Bryoria fremontii	Trebouxia 	 	Canada	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576646	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576647	Bryoria furcellata	Trebouxia 	 	Canada: Manitoba	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576648	Bryoria fuscescens	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576649	Bryoria fuscescens	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576653	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576657	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576659	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576666	Bryoria simplicior	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576678	Bryoria capillaris	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576682	Bryoria implexa	Trebouxia 	 	Norway	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576684	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576685	Bryoria implexa	Trebouxia 	 	Sweden	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576686	Bryoria subcana	Trebouxia 	 	Russia: Perm	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576687	Bryoria implexa	Trebouxia 	 	Russia: Perm	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576688	Bryoria implexa	Trebouxia 	 	Russia: Perm	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576650	Bryoria glabra	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576651	Bryoria glabra	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576652	Bryoria glabra	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576654	Bryoria implexa	Trebouxia 	 	Iran	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576655	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576656	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576658	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576660	Bryoria implexa	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576661	Bryoria lanestris	Trebouxia 	 	Denmark: Greenland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576662	Bryoria nadvornikiana	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576663	Bryoria nadvornikiana	Trebouxia 	 	Sweden	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576665	Bryoria simplicior	Trebouxia 	 	Russia: Sakha Republic	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576691	Bryoria fuscescens	Trebouxia 	 	Canada: Alberta	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576667	Bryoria smithii	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576668	Bryoria subcana	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576669	Bryoria tenuis	Trebouxia 	 	Sweden	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576671	Bryoria capillaris	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576672	Bryoria furcellata	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576673	Bryoria fuscescens	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576675	Bryoria smithii	Trebouxia 	 	India	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576680	Bryoria nadvornikiana	Trebouxia 	 	 	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576681	Bryoria implexa	Trebouxia 	 	Norway	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576689	Bryoria capillaris	Trebouxia 	 	Spain: Tenerife	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576692	Bryoria furcellata	Trebouxia 	 	Canada: Alberta	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576697	Bryoria capillaris	Trebouxia 	 	USA: Oregon	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576699	Bryoria subcana	Trebouxia 	 	Norway	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576700	Bryoria furcellata	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576701	Bryoria furcellata	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576703	Bryoria fremontii	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576704	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576705	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576706	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576707	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576708	Bryoria fremontii	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576709	Bryoria fremontii	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576710	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576711	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576712	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ576713	Bryoria fremontii	Trebouxia 	 	Canada: British Columbia	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ599551	Vulpicida juniperinus	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ599552	Vulpicida pinastri	Trebouxia 	 	Finland	Lindgren	Lichenologist (Lond.) 46 (5), 681-695 (2014)	 	Trebouxia	ITS	141006
+KJ623927	Lasallia pustulata	Trebouxia sp.	001_H47_121847C0310	Czech Republic	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623928	Lasallia pustulata	Trebouxia sp.	002_H29_110716W0131	Slovakia	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623929	Lasallia pustulata	Trebouxia sp.	003_H02_110239N1104	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623930	Lasallia pustulata	Trebouxia sp.	004_H03_110305P0206	Poland	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623931	Lasallia pustulata	Trebouxia sp.	005_H04_110071P0301	Poland	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623932	Lasallia pustulata	Trebouxia sp.	006_H13_110176G0116	Germany	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623933	Lasallia pustulata	Trebouxia sp.	007_H38_120707P0109	Poland	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623934	Lasallia pustulata	Trebouxia sp.	008_H21_110668G0902	Germany	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623935	Lasallia pustulata	Trebouxia sp.	009_H20_110310P0211	Poland	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623936	Lasallia pustulata	Trebouxia sp.	010_H41_120757I0102	Italy	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623937	Lasallia pustulata	Trebouxia sp.	011_H24_110430G0507	Germany	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623938	Lasallia pustulata	Trebouxia sp.	012_H33_120101S1408	Spain	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623939	Lasallia pustulata	Trebouxia sp.	013_H30_110767W0217	Slovakia	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623940	Lasallia pustulata	Trebouxia sp.	014_H12_110196G0136	Germany	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623941	Lasallia pustulata	Trebouxia sp.	015_H17_110242N0503	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623942	Lasallia pustulata	Trebouxia sp.	016_H27_110657H0502	Hungary	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623943	Lasallia pustulata	Trebouxia sp.	017_H37_120374X0318	Portugal	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623944	Lasallia pustulata	Trebouxia sp.	018_H40_120718Z0209	Greece	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623945	Lasallia pustulata	Trebouxia sp.	019_H07_120705N0701	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623946	Lasallia pustulata	Trebouxia sp.	020_H08_120705N0702	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623947	Lasallia pustulata	Trebouxia sp.	021_H43_121716N1419	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623948	Lasallia pustulata	Trebouxia sp.	022_H06_110064N0801	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623949	Anaptychia ciliaris	Trebouxia sp.	OUT1_JO_ANAPTYCHIA3	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ623950	Anaptychia ciliaris	Trebouxia sp.	OUT2_JO_ANAPTYCHIA9	Norway	Sadowska-Des	Mol. Phylogenet. Evol. 76C, 202-210 (2014)	24685499	Trebouxia	ITS	141006
+KJ754198	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Prov. Urubamba, Distr. De Aguas Calientes	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754199	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Prov. Urubamba, Distr. De Aguas Calientes	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754200	Tephromela atra	Trebouxia sp.	 	Russia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754201	Tephromela atra	Trebouxia sp.	 	Kenya: Africa, Taita Taveta District, Mbolo Forest Peak	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754202	Tephromela atra	Trebouxia sp.	 	 	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754203	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Prov. De Anta, Distr. De Zurite	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754204	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Prov. De Anta, Distr. De Zurite	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754205	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Prov. De Canchis, Distr. De San Pedro	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754206	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Departamento de Puno, Sillustani	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754207	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Departamento de Puno, Sillustani	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754208	Tephromela atra	Trebouxia impressa	 	Spain	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754209	Tephromela atra	Trebouxia impressa	 	Norway	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754210	Tephromela atra	Trebouxia impressa	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754211	Tephromela atra	Trebouxia simplex	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754212	Tephromela atra	Trebouxia simplex	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754213	Tephromela atra	Trebouxia simplex	 	Sweden: Uppland Estuna parish, Lake Erken	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754214	Tephromela atra	Trebouxia simplex	 	Austria: Carintia, Saualpe, Gertrusk Mt	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754215	Tephromela atra	Trebouxia simplex	 	Austria: Carintia, Saualpe, Gertrusk Mt	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754216	Tephromela atra	Trebouxia simplex	 	Austria: Carintia, Saualpe, Gertrusk Mt	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754217	Tephromela atra	Trebouxia simplex	 	Austria: Carintia, Saualpe, Gertrusk Mt	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754218	Tephromela atra	Trebouxia simplex	 	Austria: Carintia, Saualpe, Gertrusk Mt	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754219	Tephromela atra	Trebouxia simplex	 	USA: Oregon, Linn County, Horse Rock Ridge research Natural Area	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754220	Tephromela atra	Trebouxia simplex	 	USA: Oregon, Linn County, Horse Rock Ridge research Natural Area	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754221	Tephromela atra	Trebouxia simplex	 	Canada: British Columbia, Fraser Canyon, Sailor bar Tumel	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754222	Tephromela atra	Trebouxia simplex	 	Norway: Spitzbergen, Svalbard, Longyearbyen, Bolterdalen	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754223	Tephromela atra	Trebouxia simplex	 	Norway: Spitzbergen, Svalbard, Longyearbyen, Bolterdalen	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754224	Tephromela atra	Trebouxia simplex	 	Austria: Styria, Steirisches Randgebirge, Handalm	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754225	Tephromela atra	Trebouxia simplex	 	Austria: Styria, Deutschlandsberg, Koralpe, NW side of Seespitz	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754226	Tephromela atra	Trebouxia simplex	 	Kosovo: Bjeshket e Nemuna e Kosoves, northern slopes of Maja e Ropes	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754227	Tephromela atra	Trebouxia simplex	 	New Zealand: Southland, Fiorland NP, Te Anau Lake by Henry Creek campsite	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754228	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Southland, Fiorland NP, Key Summit	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754229	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Southland, Fiorland NP, Key Summit	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754230	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Southland, Fiorland NP, Key Summit	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754231	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Lake Nelson NP, Lake Rotoiti, on top of Rainbowd Range	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754232	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Lake Nelson NP, Lake Rotoiti, on top of Rainbowd Range	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754233	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Lake Nelson NP, Lake Rotoiti, at Parachute Rock	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754234	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Lake Nelson NP, Lake Rotoiti, at Parachute Rock	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754235	Tephromela atra	Trebouxia simplex	 	New Zealand: South Island, Southland, Fiorland NP, Lake Monowai, Eldrig Peak track	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754236	Tephromela atra	Trebouxia arboricola	 	Spain: Aragon, Teruel province, Bronchales	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754237	Tephromela atra	Trebouxia arboricola	 	Spain: Aragon, Teruel province, Bronchales	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754238	Tephromela atra	Trebouxia arboricola	 	Bulgaria	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754239	Tephromela atra	Trebouxia arboricola	 	Spain: Aragon, Teruel province, Bronchales	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754240	Tephromela atra	Trebouxia arboricola	 	Spain: Aragon, Teruel province, Bronchales	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754241	Tephromela atra	Trebouxia sp.	 	USA: Alaska, Central Interior, White Mountains, Twelvemile Summit	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754242	Tephromela atra	Trebouxia sp.	 	USA: Alaska, Kruzof Island-Liesnoi Island	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754243	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo, Prov. Madonie Massif, Gibilmanna Sanctuary	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754244	Tephromela atra	Trebouxia sp.	 	USA: Alaska, Glacier Bay National Park and Preserve, Excursion Ridge	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754245	Tephromela atra	Trebouxia sp.	 	Russia: Tsarskaya Dorogo, above Staraya Medvezhka	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754246	Tephromela atra	Trebouxia sp.	 	Russia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754247	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754248	Tephromela atra	Trebouxia sp.	 	USA: Alaska, Kruzof Island-Liesnoi Island	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754249	Tephromela atra	Trebouxia sp.	 	Australia: Australian Capital Territory, Molonglo Gorge Forest Park	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754250	Tephromela atra	Trebouxia sp.	 	Australia: Australian Capital Territory, Molonglo Gorge Forest Park	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754251	Tephromela atra	Trebouxia sp.	 	Australia: Australian Capital Territory, Molonglo Gorge Forest Park	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754252	Tephromela atra	Trebouxia sp.	 	Australia: Victoria, Kooyoora State Park	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754253	Tephromela atra	Trebouxia incrustata	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754254	Tephromela atra	Trebouxia sp.	 	Austria: Carintia, Saualpe, Wirtsofen	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754255	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754256	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754267	Tephromela atra	Trebouxia sp.	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754257	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754258	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754261	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754262	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754259	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, Skye Island, Dunvengan Peninsula, Coral Beach	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754260	Tephromela atra	Trebouxia sp.	 	Peru: Region de Cusco, Prov. De Anta, Distr. De Zurite	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754263	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754264	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754265	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754266	Tephromela atra	Trebouxia sp.	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754268	Tephromela atra	Trebouxia sp.	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754273	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, Berwickshire, Northfield Farm, St Abbs Head	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754269	Tephromela atra	Trebouxia sp.	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754291	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, Skye Island, Dunvengan Peninsula, Coral Beach	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754270	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, East Invernesshire, Ardclach Churchyard	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754272	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, Berwickshire, Northfield Farm, St Abbs Head	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754278	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754279	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754281	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754285	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754286	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754287	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754288	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754271	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, Mid Perthshire, Enochdhu, Kindrogan House Grounds	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754274	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, Pontevedra, Peninsula del Morrazo, Cabo ome	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754277	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, Pontevedra, Peninsula del Morrazo, Cabo ome	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754280	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754282	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754275	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, Pontevedra, Peninsula del Morrazo, Cabo ome	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754284	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754276	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, Pontevedra, Peninsula del Morrazo, Cabo ome	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754283	Tephromela atra	Trebouxia sp.	 	Spain: Galicia, A. Coruna, O Barreiro, Playa O Baleo	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754289	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754290	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754292	Tephromela atra	Trebouxia sp.	 	United Kingdom: Scotland, Mid-Lothian, Haddington, Garleton Hills	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754294	Tephromela atra	Trebouxia sp.	 	France: Bretagne, Le Conquet, Kermarvan Lighthouse	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754295	Tephromela atra	Trebouxia sp.	 	United Kingdom: Wales, Pembrokeshire, St. Brides	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754296	Tephromela atra	Trebouxia sp.	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754297	Tephromela atra	Trebouxia sp.	 	USA: Alaska, Central Interior, White Mountains, Twelvemile Summit	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754298	Tephromela atra	Trebouxia sp.	 	France: Bretagne, Le Conquet, Kermarvan Lighthouse	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754299	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754300	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754301	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754302	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754303	Tephromela atra	Trebouxia sp.	 	Chile: Tierra del Fuego, XII Region, Peninsula Brunswick	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754304	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754305	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754306	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754307	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754308	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754309	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754310	Tephromela atra	Trebouxia sp.	 	Spain: Aragon, Teruel province, Albarracin, in Pinus forest	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754311	Tephromela nashii	Trebouxia sp.	 	USA: Mexico, Baja California, Guadalupe Island	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754312	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo, Prov. Madonie Massif, Gibilmanna Sanctuary	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754313	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754314	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754315	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754316	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754317	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754318	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Trapani Prov., Rocca d Erice	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754319	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Trapani Prov., Egadi Islands, Marettimo Island, top of Pizzo Falcone	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754320	Tephromela atra	Trebouxia sp.	 	New Zealand: Southland, c. 4 km SSE of Riverton, Howell s Point	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754321	Tephromela atra	Trebouxia sp.	 	Ireland: Coubty Claire, White Strand northwest of Doonberg	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754322	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754323	Tephromela atra	Trebouxia sp.	 	Spain: Castilla y Leon, Prov. De Soria, Almarza	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754324	Tephromela atra	Trebouxia sp.	 	Finland: Uusimaa, Kirkkonummi, Pokkala	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754325	Tephromela atra	Trebouxia sp.	 	New Zealand: Southland, c. 4 km SSE of Riverton, Howell s Point	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754326	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Palermo Prov., Madonie Massif, near Piano Battaglia	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754327	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Trapani Prov., Rocca d Erice	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754328	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Trapani Prov., Rocca d Erice	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754329	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Trapani Prov., Egadi Islands, Marettimo Island, top of Pizzo Falcone	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754330	Tephromela atra	Trebouxia sp.	 	Italy: Sicily, Trapani Prov., Egadi Islands, Marettimo Island, top of Pizzo Falcone	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754331	Tephromela atra	Trebouxia sp.	 	France: Bretagne, Le Conquet, Kermarvan Lighthouse	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754332	Tephromela atra	Trebouxia sp.	 	Spain: Canary Islands, La Gomera, Laderas sobre Erquito	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754333	Tephromela atra	Trebouxia sp.	 	Spain: Canary Islands, La Gomera, Laderas sobre Erquito	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KJ754334	Tephromela atra	Trebouxia sp.	 	Spain: Canary Islands, La Gomera, Laderas sobre Erquito	Muggia	Ann. Bot. (2014) In press	25096324	Trebouxia	ITS	141006
+KM020032	 	Trebouxia sp.	SAG 2463	 	Friedl	Unpublished	 	Trebouxia	ITS	141006
+Z68701	 	Trebouxia jamesii	UBT-86.156C3	 	Bhattacharya	Mol. Biol. Evol. 13 (7), 978-989 (1996)	8752006	Trebouxia	ITS	141006
+Z68702	 	Trebouxia usneae	UBT-87.019A1	 	Bhattacharya	Mol. Biol. Evol. 13 (7), 978-989 (1996)	8752006	Trebouxia	ITS	141006
+Z68702	 	Trebouxia usneae	UBT-87.019A1	 	Bhattacharya	Mol. Biol. Evol. 13 (7), 978-989 (1996)	8752006	Trebouxia	ITS	141006
