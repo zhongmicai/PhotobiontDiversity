@@ -135,5 +135,6 @@ fi
 #echo "`date`: cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}.phy ${dataset}_aln.fa ${dataset}_nr.fa ${dataset}_new.fa ${dataset}_metadata_new.txt ${dataset}_new.gb ../$cur_date" >> ../$cur_date/log.txt
 cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}.phy ${dataset}_aln.fa ${dataset}_groups.txt ${dataset}_nr.fa ${dataset}_new.fa ${dataset}_metadata_new.txt ${dataset}_new.gb ../$cur_date
 
-
+#This is commented out because it's probably a good idea to take a look at the tree before running it
+#python ../Scripts/UpdateClades.py -t ${dataset}.nwk -l $locus 
 
