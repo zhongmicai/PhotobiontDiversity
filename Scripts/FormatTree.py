@@ -342,12 +342,9 @@ def add_header(outfilename, locus):
     line_num += 1
     if 'font-size="100pt"' in line:
       node_text = 1
-      print "setting node_text to 1"
     elif line == '</g>':
       node_text = 0
-      #print "setting node_text back to zero"
     if node_text:
-      print "replacing text"  
       line = line.replace('x="0"', 'x="1000"')
     if line_num > 8:
       if line == '</svg>':
