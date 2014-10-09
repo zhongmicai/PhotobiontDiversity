@@ -27,8 +27,11 @@ def main(argv):
     elif opt in ("-i", "--id"):
        table_id = arg
   clade_list =  ["T. arboricola", "T. asymmetrica", "T. corticola", "T. decolorans", "T. gelatinosa",
-           "T. gigantea", "T. impressa", "T. incrustata", "T. jamesii", "T. showmanii",
-           "T. sp. 1", "T. sp. 2", "T. sp. 3", "T. sp. 4", "T. sp. 5" ]
+           "T. gigantea", "T. higginsiae", "T. impressa", "T. incrustata", "T. jamesii", 
+           "T. jamesii 2", "T. letharii", "T. muralis I", "T. showmanii", "T. usneae",
+           "T. sp. clade I", "T. sp. clade II", "T. sp. clade III", "T. sp. clade IV", 
+           "T. sp. clade V", "T. sp. TR1", "T. sp. TR9", "T. sp. URa1", "T. sp. URa3", 
+           "T. sp. 4", "T. sp. 5" ]
   try:
      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
   except mdb.Error, e:
@@ -39,8 +42,10 @@ def main(argv):
     colours = []
     for clade in clade_list:
       cur.execute("SELECT RGB.Hex FROM RGB, Colours WHERE RGB.Colour = Colours.Colour AND Colours.Taxon = %s", clade)
-      colours.append(cur.fetchone()[0]
-      
+      try:
+        colours.append(cur.fetchone()[0])
+      except TypeError:
+        sys.exit("No colour for %s" % clade)  
     table_fh = open(table_file, 'w')  
     table_fh.write(', '.join(['Genus', 'Family'] + clade_list), '\n')
     css_fh = open(css_file, 'w')  
