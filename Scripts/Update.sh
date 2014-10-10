@@ -138,3 +138,4 @@ cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}.phy ${dataset}_aln.fa
 #This is commented out because it's probably a good idea to take a look at the tree before running it
 #python ../Scripts/UpdateClades.py -t ${dataset}.nwk -l $locus 
 
+python ../Scripts/CountAssociations -t ${dataset}_associations.csv -c ${dataset}_associations.css
