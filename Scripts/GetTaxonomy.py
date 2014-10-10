@@ -28,7 +28,11 @@ except IndexError:
     print "you must add your email address"
     sys.exit(2)
 
-con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
+try:
+  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
+except mdb.Error, e:
+  print "Error %d: %s" % (e.args[0],e.args[1])
+  sys.exit(1)   
 with con:
     cur = con.cursor()
     cur.execute("SELECT Host, Species FROM Metadata", )
@@ -50,7 +54,8 @@ with con:
           try:
             cur.execute("INSERT INTO Taxonomy(id, genus) VALUES(%s, %s)", (taxid, genus,))
           except mdb.IntegrityError:
-            sys.exit("duplicate entry for %s taxid (%s)" % (genus, taxid))
+            warnings.warn("duplicate entry for %s taxid (%s)" % (genus, taxid))
+            continue
           data = get_tax_data(taxid)
           lineage = {d['Rank']:d['ScientificName'] for d in 
             data[0]['LineageEx']}
