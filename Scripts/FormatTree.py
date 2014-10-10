@@ -72,16 +72,21 @@ def main(argv):
         else:
           groups[group] = leaf.name
           cur.execute("SELECT Host, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
-          leaf.name = " " + group + ':'
-          label_info = combine_info(field, cur.fetchall())
+          group_members = cur.fetchall()
+          #leaf.name = " " + group + ':'
+          label_info = [group] + combine_info(field, cur.fetchall())
       else:  #Singleton
-        leaf.name =" " + accession + ':'
+        group_members = [[host, species, clade]]
+      if len(group_members) == 1:
+        #leaf.name =" " + accession + ':'
         if field == 'Host' and host and host != 'free-living':
-          label_info = [host]
+          label_info = [accession, host]
         else:    
-          label_info = [species]
+          label_info = [accession, species]
+      else:
+        label_info = [group] + combine_info(field, group_members)
       bg_colour = None
-      label = TextFace(leaf.name)
+      #label = TextFace(leaf.name)
       if searchterm and leaf.name.find(searchterm) > -1:
         print "adding highlighting to node %s" % leaf.name
         label.background.color = "Yellow"
@@ -95,7 +100,7 @@ def main(argv):
           print "adding highlighting to node %s" % leaf.name
           label.background.color = "Yellow"
           #bg_colour = "Yellow"
-      leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
+      #leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
       add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
   
   draw_tree(tree, outfilename) 
@@ -208,7 +213,7 @@ def root_tree(tree, treefilename):
 def draw_tree(tree, file):
     ts = TreeStyle()
     ts.branch_vertical_margin = 1
-    ts.show_leaf_name = True
+    ts.show_leaf_name = False
     if '.svg' in file:
       ts.scale = 3000
       tree.render(file, tree_style=ts, h=300, units='mm')
@@ -222,9 +227,11 @@ def add_faces(cur, field, leaf, label_info, bg_colour, outfile):
       colours = get_colours(cur, field, label_info)
       y = 0
       for x in range(len(label_info)):
-        if x < len(label_info) - 1:
+        if x == 0:
+          label_info[x] += ':'
+        elif x < len(label_info) - 1:
           label_info[x] += ','
-          if '.svg' in outfile:
+        if '.svg' in outfile:
             padding = 1 + len(label_info[x]) /5  #this isn't 
             label_info[x] += ' ' * padding
         label = TextFace(label_info[x])
@@ -239,8 +246,8 @@ def add_faces(cur, field, leaf, label_info, bg_colour, outfile):
         leaf.add_face(label, column=x-y+1, position="branch-right")
       
 def get_colours(cur, field, label_info):
-  colours = []
-  for label in label_info:
+  colours = ['black',]
+  for label in label_info[1:]:
     genus = label.split(' ')[0]
     taxon = ''
     if genus.find('.') != -1:
@@ -345,7 +352,7 @@ def add_header(outfilename, locus):
     elif line == '</g>':
       node_text = 0
     if node_text:
-      line = line.replace('x="0"', 'x="1000"')
+      line = line.replace('x="0"', 'x="1200"')
     if line_num > 8:
       if line == '</svg>':
         tempfile.write('</g>\n')
