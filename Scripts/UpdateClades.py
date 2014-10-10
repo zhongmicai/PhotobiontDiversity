@@ -73,7 +73,18 @@ def update_clades(cur, tree, locus):
         if db_clade and db_clade != 'Trebouxia' and db_clade != clade:
           sys.exit("clade for |%s| also contains members of |%s|" % (clade, db_clade))
       for leaf in ancestor:
-        cur.execute("UPDATE Metadata SET Clade = %s WHERE SeqID = %s", (clade, leaf.name))
+        cur.execute("SELECT `Group` FROM Metadata WHERE SeqID = %s", (leaf.name))
+        try:
+          group = cur.fetchone()[0]
+        except TypeError:    
+          warnings.warn("No Group info for %s" % leaf.name)
+          group = ''   
+        if group and group.find('Group') != -1:
+          cur.execute("SELECT SeqID FROM Metadata WHERE `Group` = %s AND Gene = %s", (group, locus))
+          for result in cur.fetchall():
+            cur.execute("UPDATE Metadata SET Clade = %s WHERE SeqID = %s", (clade, result[0]))
+        else:
+          cur.execute("UPDATE Metadata SET Clade = %s WHERE SeqID = %s", (clade, leaf.name))
 
 def root_tree(tree, treefilename):
   if 'Trebouxia_ITS' in treefilename:
