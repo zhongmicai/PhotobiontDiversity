@@ -44,6 +44,7 @@ def main(argv):
     elif opt in ("-c", "--clades"):
        debug = 1
 
+  total_sequences = 0
   tree = Tree(treefilename)
   add_sig(tree)
   #tree = root_tree(tree)
@@ -77,6 +78,7 @@ def main(argv):
           label_info = [group] + combine_info(field, cur.fetchall())
       else:  #Singleton
         group_members = [[host, species, clade]]
+      total_sequences += len(group_members)
       if len(group_members) == 1:
         #leaf.name =" " + accession + ':'
         if field == 'Host' and host and host != 'free-living':
@@ -103,10 +105,11 @@ def main(argv):
       #leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
       add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
   
+  print "Drawing tree with %s sequences" % total_sequences
   draw_tree(tree, outfilename) 
   if 'svg' in outfilename:
     add_header(outfilename, locus)  
-
+  
 def colour_clades(cur, tree, locus, debug):
   clades = {}
   colours = {}
@@ -271,7 +274,8 @@ def get_colours(cur, field, label_info):
         if 'letharii' in label:
           cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", ('Trebouxia letharii'))
         else:
-          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (taxon))
+          print "SELECT Colour FROM Colours WHERE Taxon= '%s'" % (taxon)
+          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (str(taxon)))
         colour = cur.fetchone()      
         colours.append(colour[0])
       except TypeError:
