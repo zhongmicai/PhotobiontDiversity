@@ -64,7 +64,7 @@ def main(argv):
           if column in associations:
             output.append(associations[column])
             css_fh.write(".tablepress-id-%i .row-%i .column-%i {\n" % (table_id, counter, column_number+4))
-            css_fh.write("	background-color: #%s;\n" % colours[column_number])
+            css_fh.write("	background-color: #%s!important;\n" % colours[column_number])
             css_fh.write( "}\n")
           else:
             output.append(0)

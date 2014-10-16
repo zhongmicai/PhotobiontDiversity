@@ -135,6 +135,7 @@ fi
 #python ../Scripts/UpdateClades.py -t ${dataset}.nwk -l $locus 
 
 python ../Scripts/CountAssociations -t ${dataset}_associations.csv -c ${dataset}_associations.css
+awk '{total = total + $3}END{print total}' ${dataset}_associations.csv
 
 #copy new files to current post folder
 #echo "`date`: cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}.phy ${dataset}_aln.fa ${dataset}_nr.fa ${dataset}_new.fa ${dataset}_metadata_new.txt ${dataset}_new.gb ../$cur_date" >> ../$cur_date/log.txt
