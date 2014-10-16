@@ -57,8 +57,8 @@ def main(argv):
     cur = con.cursor()
     #tree = colour_clades(cur, tree, locus)
     colour_clades(cur, tree, locus, debug)
+    groups = {}
     for leaf in tree:
-      groups = {}
       accession = leaf.name
       cur.execute("SELECT `Group`, Host, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
       try:
@@ -67,7 +67,7 @@ def main(argv):
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, species) = ('','','')
       if group and group.find('Group') != -1:  #Group rep
-        if group in groups.keys():
+        if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
         else:
           groups[group] = leaf.name
@@ -87,10 +87,10 @@ def main(argv):
         label_info = [group] + combine_info(field, group_members)
       bg_colour = None
       #label = TextFace(leaf.name)
-      if searchterm and leaf.name.find(searchterm) > -1:
+      if searchterm and ' '.join(label_info).find(searchterm) > -1:
         print "adding highlighting to node %s" % leaf.name
-        label.background.color = "Yellow"
-        #bg_colour = "Yellow"
+        #label.background.color = "Yellow"
+        bg_colour = "DeepPink"
       elif date:
         if group == 'UNIQUE':
           cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
@@ -130,13 +130,15 @@ def colour_clades(cur, tree, locus, debug):
      except KeyError:
       pass
        
-    if clade: # and 'sp.' not in clade:
+    if clade:
       if clade in clades:
         clades[clade].append(leaf) 
       else:
         clades[clade] = [leaf]
         
   for clade in clades:
+    if 'URa2' in clade:
+      continue
     cur.execute("SELECT Colour from Colours WHERE Taxon = %s", clade.replace('T.', 'Trebouxia'))
     try:
         colour = cur.fetchone()[0]
@@ -193,6 +195,11 @@ def colour_clade(tree, leaves, colour):
 
 
 def root_tree(tree, treefilename):
+  root = tree.get_midpoint_outgroup()
+  try:
+      tree.set_outgroup(root)
+  except:
+      pass
   if 'Trebouxia_ITS' in treefilename:
     leaves = []
     for taxon in ('AY842266','AJ249567'):
@@ -200,12 +207,6 @@ def root_tree(tree, treefilename):
         leaves.append(leaf)
     outgroup = tree.get_common_ancestor(leaves)
     tree.set_outgroup(outgroup)
-  else:
-    root = tree.get_midpoint_outgroup()
-    try:
-      tree.set_outgroup(root)
-    except:
-      pass
   root = tree.get_tree_root()
   root.dist = 0
     #return tree
