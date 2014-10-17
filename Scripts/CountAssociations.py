@@ -13,6 +13,8 @@ def main(argv):
   css_file = ''
   try:
     opts, args = getopt.getopt(argv,"ht:c:i:",["table=","css=", "id"])
+    if not opts:
+      raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
     print usage
     sys.exit(2)
