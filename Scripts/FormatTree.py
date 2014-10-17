@@ -46,7 +46,7 @@ def main(argv):
 
   total_sequences = 0
   tree = Tree(treefilename)
-  add_sig(tree)
+  add_sig(tree, outfilename)
   #tree = root_tree(tree)
   root_tree(tree, treefilename)
   try:
@@ -57,7 +57,7 @@ def main(argv):
   with con:
     cur = con.cursor()
     #tree = colour_clades(cur, tree, locus)
-    colour_clades(cur, tree, locus, debug)
+    colour_clades(cur, tree, locus, outfilename, debug)
     groups = {}
     for leaf in tree:
       accession = leaf.name
@@ -110,7 +110,7 @@ def main(argv):
   if 'svg' in outfilename:
     add_header(outfilename, locus)  
   
-def colour_clades(cur, tree, locus, debug):
+def colour_clades(cur, tree, locus, outfilename, debug):
   clades = {}
   colours = {}
   cur.execute("SELECT Colour, Taxon FROM Colours")
@@ -151,7 +151,7 @@ def colour_clades(cur, tree, locus, debug):
     print "setting clade %s to %s" % (clade, colour)
 
     #tree = colour_clade(tree, clades[clade], colour) 
-    colour_clade(tree, clades[clade], colour) 
+    colour_clade(tree, clades[clade], colour, outfilename) 
     label_clade(tree, clades[clade], colour, clade) 
 
   #return tree
@@ -165,19 +165,27 @@ def label_clade(tree, leaves, colour, clade):
   ancestor.add_face(label, column=1, position = "float")
 
 
-def colour_clade(tree, leaves, colour):
+def colour_clade(tree, leaves, colour, outfilename):
   sig = NodeStyle()
   sig["vt_line_color"] = colour
   sig["hz_line_color"] = colour
-  sig["vt_line_width"] = 6
-  sig["hz_line_width"] = 6
+  if 'svg' in outfilename:
+    sig["vt_line_width"] = 6
+    sig["hz_line_width"] = 6
+  else:
+    sig["vt_line_width"] = 2
+    sig["hz_line_width"] = 2
   sig["fgcolor"] = colour
   sig["size"] = 10
   nonsig = NodeStyle()
   nonsig["vt_line_color"] = colour
   nonsig["hz_line_color"] = colour
-  nonsig["vt_line_width"] = 6
-  nonsig["hz_line_width"] = 6
+  if 'svg' in outfilename:
+    nonsig["vt_line_width"] = 6
+    nonsig["hz_line_width"] = 6
+  else:
+    nonsig["vt_line_width"] = 2
+    nonsig["hz_line_width"] = 2
   nonsig["fgcolor"] = colour
   nonsig["size"] = 0
   if len(leaves) == 1:
@@ -285,16 +293,24 @@ def get_colours(cur, field, label_info):
           
   return colours
     
-def add_sig(tree):
+def add_sig(tree, outfilename):
   non_sig = NodeStyle()
   non_sig["size"] = 0
-  non_sig["vt_line_width"] = 6
-  non_sig["hz_line_width"] = 6
+  if 'svg' in outfilename:
+    non_sig["vt_line_width"] = 6
+    non_sig["hz_line_width"] = 6
+  else:
+    non_sig["vt_line_width"] = 2
+    non_sig["hz_line_width"] = 2
   sig = NodeStyle()
   sig["size"] = 10
   sig["fgcolor"] = "black"
-  sig["vt_line_width"] = 6
-  sig["hz_line_width"] = 6
+  if 'svg' in outfilename:
+    sig["vt_line_width"] = 6
+    sig["hz_line_width"] = 6
+  else:
+    sig["vt_line_width"] = 2
+    sig["hz_line_width"] = 2
   for node in tree.traverse():
     if node.support < 0.9 or node.is_leaf() or node.is_root():
       node.set_style(non_sig)
