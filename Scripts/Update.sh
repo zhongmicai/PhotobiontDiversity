@@ -115,6 +115,7 @@ phyml  --quiet --no_memory_check -i ${dataset}.phy
 
 #echo "`date`: mv ${dataset}.phy_phyml_tree.txt ${dataset}.nwk" >> ../$cur_date/log.txt
 mv ${dataset}.phy_phyml_tree.txt ${dataset}.nwk
+mv ${dataset}.phy_phyml_stats.txt ${dataset}_phyml_stats.txt
 
 if test $dataset == 'Trebouxia_ITS'
 then
@@ -139,5 +140,5 @@ awk '{total = total + $3}END{print total}' ${dataset}_associations.csv
 
 #copy new files to current post folder
 #echo "`date`: cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}.phy ${dataset}_aln.fa ${dataset}_nr.fa ${dataset}_new.fa ${dataset}_metadata_new.txt ${dataset}_new.gb ../$cur_date" >> ../$cur_date/log.txt
-cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}.phy ${dataset}_aln.fa ${dataset}_groups.txt ${dataset}_nr.fa ${dataset}_new.fa ${dataset}_metadata_new.txt ${dataset}_new.gb ${dataset}_associations.csv ${dataset}_associations.css ../$cur_date
+cp ${dataset}.pdf ${dataset}.svg ${dataset}.nwk ${dataset}_phyml_stats.txt ${dataset}.phy ${dataset}_aln.fa ${dataset}_groups.txt ${dataset}_nr.fa ${dataset}_new.fa ${dataset}_metadata_new.txt ${dataset}_new.gb ${dataset}.csv ${dataset}.css ../$cur_date
 
