@@ -89,7 +89,7 @@ def main(argv):
         label_info = [group] + combine_info(field, group_members)
       bg_colour = None
       #label = TextFace(leaf.name)
-      if searchterm and ' '.join(label_info).find(searchterm) > -1:
+      if searchterm and (' '.join(label_info).find(searchterm) > -1 or searchterm == leaf.name):
         print "adding highlighting to node %s" % leaf.name
         #label.background.color = "Yellow"
         bg_colour = "DeepPink"
@@ -275,7 +275,7 @@ def get_colours(cur, field, label_info):
         if 'letharii' in label:
           cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", ('Trebouxia letharii'))
         else:
-          print "SELECT Colour FROM Colours WHERE Taxon= '%s'" % (taxon)
+          #print "SELECT Colour FROM Colours WHERE Taxon= '%s'" % (taxon)
           cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (str(taxon)))
         colour = cur.fetchone()      
         colours.append(colour[0])
