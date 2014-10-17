@@ -64,6 +64,8 @@ def update_clades(cur, tree, locus):
         clades[clade] = [leaf]
         
   for clade in clades:
+    if 'URa2' in clade:
+      continue
     leaves = clades[clade]
     if len(leaves) > 1:
       ancestor = tree.get_common_ancestor(leaves)
@@ -87,6 +89,11 @@ def update_clades(cur, tree, locus):
           cur.execute("UPDATE Metadata SET Clade = %s WHERE SeqID = %s", (clade, leaf.name))
 
 def root_tree(tree, treefilename):
+  root = tree.get_midpoint_outgroup()
+  try:
+      tree.set_outgroup(root)
+  except:
+      pass
   if 'Trebouxia_ITS' in treefilename:
     leaves = []
     for taxon in ('AY842266','AJ249567'):
@@ -94,15 +101,9 @@ def root_tree(tree, treefilename):
         leaves.append(leaf)
     outgroup = tree.get_common_ancestor(leaves)
     tree.set_outgroup(outgroup)
-  else:
-    root = tree.get_midpoint_outgroup()
-    try:
-      tree.set_outgroup(root)
-    except:
-      pass
   root = tree.get_tree_root()
   root.dist = 0
-    
+    #return tree
   
   
 if __name__ == "__main__":
