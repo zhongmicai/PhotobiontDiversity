@@ -1,48 +1,56 @@
-Mon  6 Oct 2014 14:19:52 BST: cd ~/Documents/PhotobiontDiversity/Trebouxia_ITs
-Mon  6 Oct 2014 14:19:52 BST: blastn -query /Users/HeathOBrien/Documents/PhotobiontDiversity/Trebouxia_ITS/../ReferenceSeqs/Trebouxia_ITS.fa -db nt -evalue 1e-180 -max_target_seqs 3000 -out Trebouxia_ITs.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
-Mon  6 Oct 2014 14:23:04 BST: awk '{if(Trebouxia_ITs2<Trebouxia_ITs3) print ../Scripts/Update.sh}' Trebouxia_ITs.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITs_acc.txt
-Mon  6 Oct 2014 14:23:04 BST: blastdbcmd -db nt -entry_batch Trebouxia_ITs_acc.txt |../Scripts/GetRedundant.pl >Trebouxia_ITs_all.fa
-Mon  6 Oct 2014 14:23:15 BST: awk '{if(Trebouxia_ITs2>Trebouxia_ITs3) print ../Scripts/Update.sh}' Trebouxia_ITs.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITs_acc_rc.txt
-Mon  6 Oct 2014 14:23:15 BST: rm Trebouxia_ITs_acc_rc.txt
-Mon  6 Oct 2014 14:23:15 BST: awk '{if ( > 3000) print ../Scripts/Update.sh}' Trebouxia_ITs.bl > Trebouxia_ITs_long.bl
-Mon  6 Oct 2014 14:23:15 BST: cut -f3 Trebouxia_ITs_long.bl | sort | uniq > Trebouxia_ITs_acc_long.txt
-Mon  6 Oct 2014 14:23:15 BST: blastdbcmd -db nt -entry_batch Trebouxia_ITs_acc_long.txt > Trebouxia_ITs_all_long.fa
-Mon  6 Oct 2014 14:23:15 BST: python ../Scripts/ExtractHitRegion.py Trebouxia_ITs_all_long.fa Trebouxia_ITs_long.bl >>Trebouxia_ITs_all.fa
-Mon  6 Oct 2014 14:23:17 BST: wc -l Trebouxia_ITs_acc.txt
-Mon  6 Oct 2014 14:23:17 BST: python ../Scripts/GetNew.py Trebouxia_ITs_all.fa >Trebouxia_ITs_new.fa
-Mon  6 Oct 2014 14:23:18 BST: grep '>' Trebouxia_ITs_new.fa | perl -p -e 's/>//' | python ../Scripts/GetGB.py >Trebouxia_ITs_new.gb
-Mon  6 Oct 2014 14:23:18 BST: ../Scripts/ParseHost.pl Trebouxia_ITs_new.gb Trebouxia ITs 141006 >Trebouxia_ITs_metadata_new.txt
-Mon  6 Oct 2014 14:23:18 BST: python ../Scripts/UpdateDB.py Trebouxia_ITs_metadata_new.txt
-Mon  6 Oct 2014 14:23:19 BST: cat Trebouxia_ITs_new.fa >> Trebouxia_ITs.fa
+cd ~/Documents/PhotobiontDiversity/Trebouxia_ITs
+blastn -query /Users/HeathOBrien/Documents/PhotobiontDiversity/Trebouxia_ITS/../ReferenceSeqs/Trebouxia_ITS.fa -db nt -evalue 1e-180 -max_target_seqs 3000 -out Trebouxia_ITs.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+awk '{if(Trebouxia_ITs2<Trebouxia_ITs3) print ../Scripts/Update.sh}' Trebouxia_ITs.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITs_acc.txt
+blastdbcmd -db nt -entry_batch Trebouxia_ITs_acc.txt |../Scripts/GetRedundant.pl >Trebouxia_ITs_all.fa
+awk '{if(Trebouxia_ITs2>Trebouxia_ITs3) print ../Scripts/Update.sh}' Trebouxia_ITs.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITs_acc_rc.txt
+rm Trebouxia_ITs_acc_rc.txt
+awk '{if ( > 3000) print ../Scripts/Update.sh}' Trebouxia_ITs.bl > Trebouxia_ITs_long.bl
+cut -f3 Trebouxia_ITs_long.bl | sort | uniq > Trebouxia_ITs_acc_long.txt
+blastdbcmd -db nt -entry_batch Trebouxia_ITs_acc_long.txt > Trebouxia_ITs_all_long.fa
+python ../Scripts/ExtractHitRegion.py Trebouxia_ITs_all_long.fa Trebouxia_ITs_long.bl >>Trebouxia_ITs_all.fa
+wc -l Trebouxia_ITs_acc.txt
+python ../Scripts/GetNew.py Trebouxia_ITs_all.fa >Trebouxia_ITs_new.fa
+grep '>' Trebouxia_ITs_new.fa | perl -p -e 's/>//' | python ../Scripts/GetGB.py >Trebouxia_ITs_new.gb
+../Scripts/ParseHost.pl Trebouxia_ITs_new.gb Trebouxia ITs 141006 >Trebouxia_ITs_metadata_new.txt
+python ../Scripts/UpdateDB.py Trebouxia_ITs_metadata_new.txt
+cat Trebouxia_ITs_new.fa >> Trebouxia_ITs.fa
 Mon  6 Oct 2014 14:23:19 BST:Trebouxia_ITs_metadata_new.txt >> Trebouxia_ITs_metadata.txt
-Mon  6 Oct 2014 14:23:19 BST: cat Trebouxia_ITs_new.gb >> Trebouxia_ITs.gb
-Mon  6 Oct 2014 14:23:19 BST: usearch -cluster_fast Trebouxia_ITs.fa -id 1 -centroids Trebouxia_ITs_nr.fa -uc Trebouxia_ITs_groups.txt
-Mon  6 Oct 2014 14:23:19 BST: python ../Scripts/GetGroups.py -g Trebouxia_ITs_groups.txt -l ITs
-Mon  6 Oct 2014 14:23:20 BST: mafft Trebouxia_ITs_nr.fa  >Trebouxia_ITs_aln.fa
-Mon  6 Oct 2014 14:23:44 BST: exset = ../Scripts/GetExcluded.pl Trebouxia_ITs_aln.fa
-Mon  6 Oct 2014 14:23:45 BST: trimal -in Trebouxia_ITs_aln.fa  -phylip -select { 0-3649,3672,3686-3749,3751,3766-3768,3777-3799,3804,3808-4002,4012,4018-4032,4040-4041,4043,4047,4049,4066,4079-4087,4091,4094,4105,4108,4112,4117,4123,4129,4135,4143,4149,4152,4198,4210,4217,4220,4222,4232-4233,4241-4242,4244,4249,4255,4259-4260,4285,4292,4304,4311,4313,4317,4320,4322,4324,4329,4341,4350,4365,4380,4383,4390-4391,4399,4411,4419,4424-4425,4467,4472,4499-4500,4518-4519,4525,4532,4535-4536,4538-4631,4641-4728,4742-4744,4755,4760,4770,4777,4786,4796,4799,4806,4816,4820,4832-4833,4836,4843,4854,4856-4857,4859,4865,4879,4882,4890,4899,4901,4905,4908,4914,4917,4919,4925,4928,4931,4938-4939,4949-4951,4955-4958,4963,4966-4967,4988-5724 } >Trebouxia_ITs.phy
-Mon  6 Oct 2014 14:23:46 BST: phyml --quiet --no_memory_check -i Trebouxia_ITs.phy
-Mon  6 Oct 2014 15:55:31 BST: cd ~/Documents/PhotobiontDiversity/Trebouxia_ITS
-Mon  6 Oct 2014 15:55:31 BST: blastn -query /Users/HeathOBrien/Documents/PhotobiontDiversity/Trebouxia_ITS/../ReferenceSeqs/Trebouxia_ITS.fa -db nt -evalue 1e-180 -max_target_seqs 3000 -out Trebouxia_ITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
-Mon  6 Oct 2014 15:59:53 BST: awk '{if(Trebouxia_ITS2<Trebouxia_ITS3) print ../Scripts/Update.sh}' Trebouxia_ITS.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITS_acc.txt
-Mon  6 Oct 2014 15:59:53 BST: blastdbcmd -db nt -entry_batch Trebouxia_ITS_acc.txt |../Scripts/GetRedundant.pl >Trebouxia_ITS_all.fa
-Mon  6 Oct 2014 16:00:16 BST: awk '{if(Trebouxia_ITS2>Trebouxia_ITS3) print ../Scripts/Update.sh}' Trebouxia_ITS.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITS_acc_rc.txt
-Mon  6 Oct 2014 16:00:16 BST: rm Trebouxia_ITS_acc_rc.txt
-Mon  6 Oct 2014 16:00:16 BST: awk '{if ( > 3000) print ../Scripts/Update.sh}' Trebouxia_ITS.bl > Trebouxia_ITS_long.bl
-Mon  6 Oct 2014 16:00:16 BST: cut -f3 Trebouxia_ITS_long.bl | sort | uniq > Trebouxia_ITS_acc_long.txt
-Mon  6 Oct 2014 16:00:16 BST: blastdbcmd -db nt -entry_batch Trebouxia_ITS_acc_long.txt > Trebouxia_ITS_all_long.fa
-Mon  6 Oct 2014 16:00:16 BST: python ../Scripts/ExtractHitRegion.py Trebouxia_ITS_all_long.fa Trebouxia_ITS_long.bl >>Trebouxia_ITS_all.fa
-Mon  6 Oct 2014 16:00:18 BST: wc -l Trebouxia_ITS_acc.txt
-Mon  6 Oct 2014 16:00:18 BST: python ../Scripts/GetNew.py Trebouxia_ITS_all.fa >Trebouxia_ITS_new.fa
-Mon  6 Oct 2014 16:00:19 BST: grep '>' Trebouxia_ITS_new.fa | perl -p -e 's/>//' | python ../Scripts/GetGB.py >Trebouxia_ITS_new.gb
-Mon  6 Oct 2014 16:03:17 BST: ../Scripts/ParseHost.pl Trebouxia_ITS_new.gb Trebouxia ITS 141006 >Trebouxia_ITS_metadata_new.txt
-Mon  6 Oct 2014 16:03:20 BST: python ../Scripts/UpdateDB.py Trebouxia_ITS_metadata_new.txt
-Mon  6 Oct 2014 16:03:21 BST: cat Trebouxia_ITS_new.fa >> Trebouxia_ITS.fa
-Mon  6 Oct 2014 16:03:21 BST:Trebouxia_ITS_metadata_new.txt >> Trebouxia_ITS_metadata.txt
-Mon  6 Oct 2014 16:03:21 BST: cat Trebouxia_ITS_new.gb >> Trebouxia_ITS.gb
-Mon  6 Oct 2014 16:03:21 BST: usearch -cluster_fast Trebouxia_ITS.fa -id 1 -centroids Trebouxia_ITS_nr.fa -uc Trebouxia_ITS_groups.txt
-Mon  6 Oct 2014 16:03:22 BST: python ../Scripts/GetGroups.py -g Trebouxia_ITS_groups.txt -l ITS
-Mon  6 Oct 2014 16:03:23 BST: mafft Trebouxia_ITS_nr.fa  >Trebouxia_ITS_aln.fa
-Mon  6 Oct 2014 16:03:54 BST: exset = ../Scripts/GetExcluded.pl Trebouxia_ITS_aln.fa
-Mon  6 Oct 2014 16:03:56 BST: trimal -in Trebouxia_ITS_aln.fa  -phylip -select { 0-3649,3695,3705-3706,3727,3740-3748,3753-3930,3948,3952-3953,3963-3970,3972-3973,3975,3977,3980,3991,3997,4002,4008,4014,4017,4021,4023,4035,4038,4077,4085,4097,4104,4107,4109,4112,4120-4121,4124,4130-4131,4133,4138,4143-4144,4149-4150,4168,4170-4171,4176,4179,4186,4190,4199,4206,4208,4212,4215,4217,4219,4222,4225,4237,4246,4261,4276,4279,4283-4293,4297-4298,4306,4318,4326,4331-4335,4377,4382,4386,4393-4394,4408,4413-4414,4431-4432,4439,4442-4446,4451-4544,4547-4548,4560-4651,4664-4666,4677,4679-4690,4694,4697,4705,4712,4718-4719,4723,4733,4736,4743,4753,4757-4758,4770-4771,4774,4776-4787,4789,4794-4796,4802,4808,4810-4811,4813,4819,4833,4836,4844,4853,4855,4859,4867,4870,4872,4878,4881,4890-4891,4901-4903,4907-4910,4918-4919,4921,4929,4941-5666 } >Trebouxia_ITS.phy
-Mon  6 Oct 2014 16:03:57 BST: phyml --quiet --no_memory_check -i Trebouxia_ITS.phy
+cat Trebouxia_ITs_new.gb >> Trebouxia_ITs.gb
+usearch -cluster_fast Trebouxia_ITs.fa -id 1 -centroids Trebouxia_ITs_nr.fa -uc Trebouxia_ITs_groups.txt
+python ../Scripts/GetGroups.py -g Trebouxia_ITs_groups.txt -l ITs
+mafft Trebouxia_ITs_nr.fa  >Trebouxia_ITs_aln.fa
+exset = ../Scripts/GetExcluded.pl Trebouxia_ITs_aln.fa
+trimal -in Trebouxia_ITs_aln.fa  -phylip -select { 0-3649,3672,3686-3749,3751,3766-3768,3777-3799,3804,3808-4002,4012,4018-4032,4040-4041,4043,4047,4049,4066,4079-4087,4091,4094,4105,4108,4112,4117,4123,4129,4135,4143,4149,4152,4198,4210,4217,4220,4222,4232-4233,4241-4242,4244,4249,4255,4259-4260,4285,4292,4304,4311,4313,4317,4320,4322,4324,4329,4341,4350,4365,4380,4383,4390-4391,4399,4411,4419,4424-4425,4467,4472,4499-4500,4518-4519,4525,4532,4535-4536,4538-4631,4641-4728,4742-4744,4755,4760,4770,4777,4786,4796,4799,4806,4816,4820,4832-4833,4836,4843,4854,4856-4857,4859,4865,4879,4882,4890,4899,4901,4905,4908,4914,4917,4919,4925,4928,4931,4938-4939,4949-4951,4955-4958,4963,4966-4967,4988-5724 } >Trebouxia_ITs.phy
+phyml --quiet --no_memory_check -i Trebouxia_ITs.phy
+cd ~/Documents/PhotobiontDiversity/Trebouxia_ITS
+blastn -query /Users/HeathOBrien/Documents/PhotobiontDiversity/Trebouxia_ITS/../ReferenceSeqs/Trebouxia_ITS.fa -db nt -evalue 1e-180 -max_target_seqs 3000 -out Trebouxia_ITS.bl -outfmt '6 qseqid qlen sacc slen pident length mismatch gapopen qstart qend qframe sstart send sframe evalue bitscore'
+awk '{if(Trebouxia_ITS2<Trebouxia_ITS3) print ../Scripts/Update.sh}' Trebouxia_ITS.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITS_acc.txt
+blastdbcmd -db nt -entry_batch Trebouxia_ITS_acc.txt |../Scripts/GetRedundant.pl >Trebouxia_ITS_all.fa
+awk '{if(Trebouxia_ITS2>Trebouxia_ITS3) print ../Scripts/Update.sh}' Trebouxia_ITS.bl | awk '{if ( < 3000) print ../Scripts/Update.sh}' |cut -f3 | sort | uniq > Trebouxia_ITS_acc_rc.txt
+rm Trebouxia_ITS_acc_rc.txt
+awk '{if ( > 3000) print ../Scripts/Update.sh}' Trebouxia_ITS.bl > Trebouxia_ITS_long.bl
+cut -f3 Trebouxia_ITS_long.bl | sort | uniq > Trebouxia_ITS_acc_long.txt
+blastdbcmd -db nt -entry_batch Trebouxia_ITS_acc_long.txt > Trebouxia_ITS_all_long.fa
+python ../Scripts/ExtractHitRegion.py Trebouxia_ITS_all_long.fa Trebouxia_ITS_long.bl >>Trebouxia_ITS_all.fa
+wc -l Trebouxia_ITS_acc.txt
+python ../Scripts/GetNew.py Trebouxia_ITS_all.fa >Trebouxia_ITS_new.fa
+grep '>' Trebouxia_ITS_new.fa | perl -p -e 's/>//' | python ../Scripts/GetGB.py >Trebouxia_ITS_new.gb
+../Scripts/ParseHost.pl Trebouxia_ITS_new.gb Trebouxia ITS 141006 >Trebouxia_ITS_metadata_new.txt
+python ../Scripts/UpdateDB.py Trebouxia_ITS_metadata_new.txt
+cat Trebouxia_ITS_new.fa >> Trebouxia_ITS.fa
+Trebouxia_ITS_metadata_new.txt >> Trebouxia_ITS_metadata.txt
+cat Trebouxia_ITS_new.gb >> Trebouxia_ITS.gb
+usearch -cluster_fast Trebouxia_ITS.fa -id 1 -centroids Trebouxia_ITS_nr.fa -uc Trebouxia_ITS_groups.txt
+python ../Scripts/GetGroups.py -g Trebouxia_ITS_groups.txt -l ITS
+mafft Trebouxia_ITS_nr.fa  >Trebouxia_ITS_aln.fa
+exset = ../Scripts/GetExcluded.pl Trebouxia_ITS_aln.fa
+trimal -in Trebouxia_ITS_aln.fa  -phylip -select { 0-3649,3695,3705-3706,3727,3740-3748,3753-3930,3948,3952-3953,3963-3970,3972-3973,3975,3977,3980,3991,3997,4002,4008,4014,4017,4021,4023,4035,4038,4077,4085,4097,4104,4107,4109,4112,4120-4121,4124,4130-4131,4133,4138,4143-4144,4149-4150,4168,4170-4171,4176,4179,4186,4190,4199,4206,4208,4212,4215,4217,4219,4222,4225,4237,4246,4261,4276,4279,4283-4293,4297-4298,4306,4318,4326,4331-4335,4377,4382,4386,4393-4394,4408,4413-4414,4431-4432,4439,4442-4446,4451-4544,4547-4548,4560-4651,4664-4666,4677,4679-4690,4694,4697,4705,4712,4718-4719,4723,4733,4736,4743,4753,4757-4758,4770-4771,4774,4776-4787,4789,4794-4796,4802,4808,4810-4811,4813,4819,4833,4836,4844,4853,4855,4859,4867,4870,4872,4878,4881,4890-4891,4901-4903,4907-4910,4918-4919,4921,4929,4941-5666 } >Trebouxia_ITS.phy
+phyml --quiet --no_memory_check -i Trebouxia_ITS.phy
+mv Trebouxia_ITS.phy_phyml_tree.txt Trebouxia_ITS.nwk
+mv Trebouxia_ITS.phy_phyml_stats.txt Trebouxia_ITS_phyml_stats.txt
+python ../Scripts/FormatTree.py -t Trebouxia_ITS.nwk -l ITS -f species -o Trebouxia_ITS.svg
+python ../Scripts/FormatTree.py -t Trebouxia_ITS.nwk -l ITS -f species -o Trebouxia_ITS.pdf
+python ../Scripts/UpdateClades.py -t Trebouxia_ITS.nwk -l ITS 
+python ../Scripts/CountAssociations -t Trebouxia_ITS_associations.csv -c Trebouxia_ITS_associations.css
+awk '{total = total + $3}END{print total}' Trebouxia_ITS_associations.csv 
+cp Trebouxia_ITS.pdf Trebouxia_ITS.svg Trebouxia_ITS.nwk Trebouxia_ITS_phyml_stats.txt Trebouxia_ITS.phy Trebouxia_ITS_aln.fa Trebouxia_ITS_groups.txt Trebouxia_ITS_nr.fa Trebouxia_ITS_new.fa Trebouxia_ITS_metadata_new.txt Trebouxia_ITS_new.gb Trebouxia_ITS.csv Trebouxia_ITS.css ../141006/
