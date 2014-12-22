@@ -81,7 +81,7 @@ def main(argv):
       total_sequences += len(group_members)
       if len(group_members) == 1:
         #leaf.name =" " + accession + ':'
-        if field == 'Host' and host and host != 'free-living':
+        if field == 'Host' and host and host != 'free-living' and host != "Free-living":
           label_info = [accession, host]
         else:    
           label_info = [accession, species]
@@ -320,7 +320,7 @@ def add_sig(tree, outfilename):
 def combine_info(field, entries):
   host_counts = {}                   #Can include species names of free-living strains
   for (host, species, clade) in entries:
-    if host == "free-living" or field != 'Host':
+    if host == "free-living" or host == "Free-living" or field != 'Host':
       info = species
     elif host == ' ':
       info = 'Unknown'
