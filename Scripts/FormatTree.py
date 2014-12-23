@@ -94,13 +94,14 @@ def main(argv):
         #label.background.color = "Yellow"
         bg_colour = "DeepPink"
       elif date:
-        if group == 'UNIQUE':
-          cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
-        else:
+        if group and 'Group' in group:
           cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
+        else:
+          cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
         if len(cur.fetchall()) > 0:
           print "adding highlighting to node %s" % leaf.name
-          label.background.color = "Yellow"
+          bg_colour = "Yellow"
+          #label.background.color = "Yellow"
           #bg_colour = "Yellow"
       #leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
       add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
