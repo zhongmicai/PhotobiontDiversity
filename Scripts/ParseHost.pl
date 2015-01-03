@@ -58,6 +58,7 @@ elsif ( $filename =~ /\.gb/ ) {
           my @values = $feat_object->get_tag_values('isolation_source');
           $voucher = $values[0];
           if ( $voucher =~ /^lichen specimen voucher/ ) { $voucher = ''; }  #host species not in value
+          #print STDERR "$voucher\n";
         }
       }
       if ( $feat_object->has_tag('organism') ) {
@@ -92,14 +93,18 @@ elsif ( $filename =~ /\.gb/ ) {
       }
     }
     if ($voucher) {
+      #print STDERR "Voucher: $voucher\n";
       $voucher =~ s/(genotype:.*)|(authority:)//i;
-      $voucher =~ s/(\bthall[ui]s?\b)|\b(lichen(ized)?)\b|\b(from)\b|\b(with)\b|\b(photobiont)\b|\b(fungus)\b|\b(phycobiont)\b|\b(cyanobiont)\b|\b(of)\b|\b(primary thallus)\b|\b(isolated)\b|\b(cultured)\b|\b(the)\b|\b(sandstone)\b|\b(microbial)\b|\b(biofilm)\b|\b(glacier)\b|\b(forefield)\b|\b(authority)\b|\b(\b(jan)\b|\b(febr)\buary)\b|\b(march)\b|\b(april)\b|\b(may)\b|\b(june)\b|\b(july)\b|\b(august)\b|\b((sept)|(octo)|(novem)|(decem)ber)\b|\d+\b//gi;
+      $voucher =~ s/(\bthall[ui]s?\b)|\b(from)\b|\b(with)\b|\b(photobiont)\b|\b(fungus)\b|\b(phycobiont)\b|\b(cyanobiont)\b|\b(of)\b|\b(primary thallus)\b|\b(isolated)\b|\b(cultured)\b|\b(the)\b|\b(sandstone)\b|\b(microbial)\b|\b(biofilm)\b|\b(glacier)\b|\b(forefield)\b|\b(authority)\b|\b(\b(jan)\b|\b(febr)\buary)\b|\b(march)\b|\b(april)\b|\b(may)\b|\b(june)\b|\b(july)\b|\b(august)\b|\b((sept)|(octo)|(novem)|(decem)ber)\b|\d+\b//gi;
       $voucher =~ s/[,']//g;
       $voucher =~ s/ +/ /g;
+      unless ( $voucher =~ /unidentified/ ) {
+        $voucher =~ s/\b(lichen(ized)?)\b//g;
+      }
       #print STDERR "Voucher: $voucher\n";
       #print STDERR "Species: $species\n";      
-      foreach ( split(/ /, $species) ) {$voucher =~ s/$_//; }
-      if ( $voucher =~ /(\S+ \S*)/ ) {
+      foreach ( split(/ /, $species) ) {$voucher =~ s/$_//; }  #remove photobiont name from voucher info
+      if ( $voucher =~ /(\S+ \S*)/ ) {  #if host has two or more words
         $host = $1;
         #print STDERR "Host: $host\n";
         if ( $voucher =~ s/( var. \S+)// ) { $host .= $1; }
@@ -111,6 +116,9 @@ elsif ( $filename =~ /\.gb/ ) {
         $host =~ s/;//;
         if ($host =~ /^\w+$/) { $host .= ' sp.'; }
         #print STDERR "$host\n";
+      }
+      elsif ( $voucher =~ /(\S+)/ ) {  #genus name only
+        $host = "$1 sp.";
       }
     }
     unless ( $host ) { $host = " "; }
