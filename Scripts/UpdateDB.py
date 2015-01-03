@@ -20,7 +20,10 @@ with con:
       except ValueError:
         warnings.warn("row length %s does not match the expected number of columns (11). Double-check delimiter" % len(row))
         continue
-      Accession = "http://www.ncbi.nlm.nih.gov/nuccore/%s||%s" % (SeqID, SeqID)
+      if re.match(r'^ANTLS?\d{3}-\d\d$', SeqID) or re.match(r'^G39YD5E04\w{5}_\w{3}$', SeqID):
+        Accession = "http://www.photobiontdiversity/Sequences/%s||%s" % (SeqID, SeqID)
+      else:
+        Accession = "http://www.ncbi.nlm.nih.gov/nuccore/%s||%s" % (SeqID, SeqID)
       cur.execute("SELECT * FROM Metadata WHERE SeqID = %s", (SeqID))
       db_entries = cur.fetchall()
       if len(db_entries) == 0:
