@@ -10,26 +10,26 @@
 . Tree topology search : 		NNIs
 . Initial tree: 			BioNJ
 . Model of nucleotides substitution: 	HKY85
-. Number of taxa: 			1354
-. Log-likelihood: 			-36562.17874
-. Unconstrained likelihood: 		-4796.83694
-. Parsimony: 				6244
-. Tree size: 				13.07304
+. Number of taxa: 			1605
+. Log-likelihood: 			-41490.19176
+. Unconstrained likelihood: 		-4807.13347
+. Parsimony: 				6942
+. Tree size: 				14.85900
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.728
-. Transition/transversion ratio: 	2.625
+  - Gamma shape parameter: 		0.839
+. Transition/transversion ratio: 	2.486
 . Nucleotides frequencies:
-  - f(A)= 0.20762
-  - f(C)= 0.24550
-  - f(G)= 0.27248
-  - f(T)= 0.27440
+  - f(A)= 0.20921
+  - f(C)= 0.24428
+  - f(G)= 0.27468
+  - f(T)= 0.27183
 
 . Run ID:				none
-. Random seed:				1413290148
+. Random seed:				1414947386
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				9h26m31s (33991 seconds)
+. Time used:				13h42m44s (49364 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
