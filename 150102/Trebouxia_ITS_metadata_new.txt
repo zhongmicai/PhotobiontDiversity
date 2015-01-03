@@ -1,0 +1,486 @@
+JX101494	Xanthomendoza borealis	Trebouxia sp.	 	Norway	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101495	Xanthomendoza borealis	Trebouxia sp.	 	Norway	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101496	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101497	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Victoria land	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101498	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Victoria Land	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101499	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101500	Xanthomendoza borealis	Trebouxia sp.	 	Norway	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101501	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Enderby sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101502	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101503	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101504	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101505	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101506	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101507	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101508	Xanthomendoza borealis	Trebouxia sp.	 	Russia: Siberia	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101509	Xanthomendoza borealis	Trebouxia sp.	 	Russia: Siberia	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101510	Xanthomendoza borealis	Trebouxia sp.	 	Canada: British Columbia	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101511	Xanthomendoza borealis	Trebouxia sp.	 	Kyrgyzstan	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101512	Xanthomendoza borealis	Trebouxia sp.	 	Denmark: Greenland	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101513	Xanthomendoza borealis	Trebouxia sp.	 	Denmark: Greenland	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101514	Xanthomendoza borealis	Trebouxia sp.	 	Denmark: Greenland	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101515	Xanthomendoza borealis	Trebouxia sp.	 	Denmark: Greenland	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101516	Xanthomendoza borealis	Trebouxia sp.	 	Denmark: Greenland	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101517	Xanthomendoza borealis	Trebouxia sp.	 	Denmark: Greenland	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101518	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101519	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101520	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+JX101521	Xanthomendoza borealis	Trebouxia sp.	 	Antarctica: Ross sector	Lindblom	Herzogia 26 (2), 307-322 (2013)	 	Trebouxia	ITS	150102
+KM207205	Heterodermia diademata	Trebouxia 	 	South Korea: Namhae	Park	Unpublished	 	Trebouxia	ITS	150102
+KM207206	Heterodermia hypoleuca	Trebouxia 	 	South Korea: Seongju	Park	Unpublished	 	Trebouxia	ITS	150102
+KM207207	Myelochroa irrugans	Trebouxia 	 	South Korea: Wando	Park	Unpublished	 	Trebouxia	ITS	150102
+KM207208	Punctelia rudecta	Trebouxia 	 	South Korea: Moonkyung	Park	Unpublished	 	Trebouxia	ITS	150102
+KM207209	Umbilicaria esculenta	Trebouxia 	 	South Korea: Youngju	Park	Unpublished	 	Trebouxia	ITS	150102
+KM369437	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369438	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369571	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369439	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369440	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369441	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369483	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369519	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369583	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369623	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369624	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369646	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369651	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369695	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369442	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369677	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369443	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369444	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369445	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369446	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369447	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369448	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369449	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369450	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369451	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369452	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369453	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369454	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369455	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369456	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369457	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369458	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369459	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369460	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369461	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369462	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369463	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369464	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369465	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369466	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369467	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369468	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369469	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369470	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369471	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369472	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369473	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369474	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369477	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369475	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369476	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369478	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369479	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369480	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369481	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369639	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369664	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369482	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369484	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369485	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369557	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369622	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369486	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369487	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369488	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369489	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369490	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369491	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369492	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369493	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369494	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369495	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369496	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369497	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369498	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369499	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369661	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369500	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369501	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369502	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369503	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369504	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369505	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369506	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369507	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369508	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369509	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369510	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369511	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369512	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369513	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369514	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369516	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369515	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369517	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369518	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369520	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369521	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369522	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369523	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369524	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369585	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369621	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369662	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369525	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369526	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369527	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369528	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369529	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369530	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369531	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369532	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369537	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369562	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369533	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369534	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369535	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369536	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369563	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369538	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369539	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369540	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369541	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369542	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369543	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369544	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369545	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369546	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369547	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369548	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369549	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369550	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369551	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369552	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369553	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369554	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369555	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369556	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369560	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369558	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369559	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369561	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369564	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369565	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369566	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369567	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369569	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369570	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369572	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369574	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369568	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369573	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369575	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369576	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369577	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369578	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369579	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369580	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369581	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369582	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369584	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369586	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369587	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369588	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369589	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369590	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369591	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369592	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369593	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369594	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369595	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369596	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369597	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369598	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369599	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369600	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369601	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369602	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369603	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369604	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369605	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369606	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369607	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369608	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369609	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369610	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369611	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369612	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369613	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369614	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369615	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369616	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369617	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369618	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369619	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369620	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369625	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369626	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369627	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369628	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369629	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369630	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369660	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369631	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369632	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369633	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369634	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369635	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369636	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369637	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369638	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369640	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369641	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369642	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369643	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369644	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369652	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369645	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369647	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369648	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369649	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369650	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369653	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369670	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369654	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369655	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369656	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369657	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369658	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369659	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369663	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369665	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369666	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369667	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369668	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369669	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369671	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369672	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369673	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369674	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369675	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369676	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369678	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369679	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369680	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369681	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369682	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369683	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369684	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369685	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369686	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369687	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369688	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369689	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369690	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369691	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369692	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369693	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369694	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369696	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369697	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369698	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369699	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369700	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369701	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369702	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369703	Usnea sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369704	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369705	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369706	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369707	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369708	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369709	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369714	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369710	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369711	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369715	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369712	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369713	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369716	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369717	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369718	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369719	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369720	Ramalina sp.	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369738	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369739	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369740	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369741	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369742	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369743	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369744	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369745	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369746	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369747	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369749	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369750	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369751	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369752	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369753	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369754	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369755	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369756	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369757	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369758	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369759	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369760	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369761	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369762	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369763	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369764	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369765	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369766	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369767	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369768	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369770	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369769	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369771	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369772	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369773	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369774	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369775	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369777	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369778	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369779	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369780	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369781	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369782	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369783	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369784	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369785	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+KM369787	unidentified lichen	Trebouxia 	 	New Zealand	Buckley	PeerJ 2, E573 (2014)	25250218	Trebouxia	ITS	150102
+G39YD5E04JUWWV_UM1	Umbilicaria antarctica	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_UM2	Umbilicaria antarctica 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_UM3	Umbilicaria antarctica 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.52’ S / 58° 46.65’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_US1	Usnea aurantiaco-atra 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.53’ S / 58° 47.17’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_US2	Usnea aurantiaco-atra 	Trebouxia sp.		Antarctica: Weaver Peninsula (62° 12.47’ S / 58° 46.86’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_US3	Usnea aurantiaco-atra 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.65’ S / 58° 46.69’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_CR1	Buellia granulosa 	Trebouxia sp.		Antarctica: Weaver Peninsula (62° 12.39’ S / 58° 48.09’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JUWWV_CR3	Ochrolechia parella 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 14.50’ S / 58° 44.40’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JDGQ0_CL1	Cladonia borealis 	Asterochloris sp.		Antarctica: Barton Peninsula (62° 13.56’ S / 58° 47.06’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Asterochloris	ITS	150102
+G39YD5E04JDGQ0_CL2	Cladonia borealis 	Asterochloris sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Asterochloris	ITS	150102
+G39YD5E04JDGQ0_CL3	Cladonia gracilis 	Asterochloris sp.		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Asterochloris	ITS	150102
+G39YD5E04IH0PE_CR2	Amandinea coniops 	Trebouxia sp.		Antarctica: Weaver Peninsula (62° 12.39’ S / 58° 48.09’W	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JR22K_CR2	Amandinea coniops 	Trebouxia sp.		Antarctica: Weaver Peninsula (62° 12.39’ S / 58° 48.09’W	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JPVKE_US3	Usnea aurantiaco-atra 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.65’ S / 58° 46.69’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JEDN6_UM3	Umbilicaria antarctica 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.52’ S / 58° 46.65’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04JEDN6_CR3	Ochrolechia parella 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 14.50’ S / 58° 44.40’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IWAIW_CL2	Cladonia borealis 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IRPV0_CL2	Cladonia borealis 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IMJJG_CL2	Cladonia borealis 	Chlorodium sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247		ITS	150102
+G39YD5E04I1U36_CL2	Cladonia borealis 	Chlorodium sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247		ITS	150102
+G39YD5E04JL7FZ_UM1	Umbilicaria antarctica 	Unknown Chlorophyte		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247		ITS	150102
+G39YD5E04JMC37_CL3	Cladonia gracilis 	Asterochloris sp.		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Asterochloris	ITS	150102
+G39YD5E04I3XQ2_CL3	Cladonia gracilis 	Chlorodium sp.		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247		ITS	150102
+G39YD5E04I9BMN_CR3	Ochrolechia parella 	Coccomyxa sp.		Antarctica: Barton Peninsula (62° 14.50’ S / 58° 44.40’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Coccomyxa	ITS	150102
+G39YD5E04JADFU_CL3	Cladonia gracilis 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.97’ S / 58° 46.93’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IVU91_CL2	Cladonia borealis 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04I2VXX_CL2	Cladonia borealis 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IZ19U_CR1	Buellia granulosa 	Trebouxia sp.		Antarctica: Weaver Peninsula (62° 12.39’ S / 58° 48.09’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IFWK6_CL2	Cladonia borealis 	Asterochloris sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Asterochloris	ITS	150102
+G39YD5E04JW9LP_US3	Usnea aurantiaco-atra 	Trebouxia sp.		Antarctica: Barton Peninsula (62° 13.65’ S / 58° 46.69’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Trebouxia	ITS	150102
+G39YD5E04IGRNX_CL2	Cladonia borealis 	Asterochloris sp.		Antarctica: Barton Peninsula (62° 14.28’ S / 58° 43.36’W)	Park	J Eukaryot Microbiol, doi:10.1111/jeu.12159 (2014)	25105247	Asterochloris	ITS	150102
+ANTLS033-10	Buellia frigida	Trebouxia	 	 Antarctica: Dry Vally	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS034-10	Buellia frigida	Trebouxia	 	 Antarctica: Dry Vally	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS115-11	Buellia frigida	Trebouxia	 	 Antarctica: Beardmore	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS116-11	Buellia frigida	Trebouxia	 	 Antarctica: Beardmore	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS117-11	Buellia frigida	Trebouxia	 	 Antarctica: Beardmore	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS118-11	Buellia frigida	Trebouxia	 	 Antarctica: Beardmore	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS119-11	Buellia frigida	Trebouxia	 	 Antarctica: Beardmore	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS031-10	Buellia frigida	Trebouxia	 	 Antarctica: Garwood Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS108-11	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS073-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTL003-11	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS074-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS075-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS076-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS077-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS004-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTL004-11	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS078-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS007-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS008-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS054-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS055-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS056-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS010-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS011-10	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS132-11	Buellia frigida	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS097-11	Umbilicaria decussata	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS103-11	Umbilicaria decussata	Trebouxia	 	 Antarctica: Terra Nova	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS062-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS085-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS086-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS087-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS088-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS003-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS063-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS064-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS065-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS066-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS040-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS041-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS042-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS043-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS044-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS045-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS048-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS049-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS051-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS052-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS053-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS035-10	Buellia frigida	Trebouxia	 	 Antarctica: Granite Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS039-10	Buellia frigida	Trebouxia	 	 Antarctica: Grante Harbour	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS032-10	Buellia frigida	Trebouxia	 	 Antarctica: Miers Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS113-11	Buellia frigida	Trebouxia	 	 Antarctica: Ross Island	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS109-11	Buellia frigida	Trebouxia	 	 Antarctica: Ross Island	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS110-11	Buellia frigida	Trebouxia	 	 Antarctica: Ross Island	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS111-11	Buellia frigida	Trebouxia	 	 Antarctica: Ross Island	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS101-11	Umbilicaria decussata	Trebouxia	 	 Antarctica: Ross Island	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS096-11	Umbilicaria decussata	Trebouxia	 	 Antarctica: Ross Island	Jones	Polar Biol 36, 767-774 (2013)		Trebouxia	ITS	150102
+ANTLS067-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS072-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS079-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS107-11	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS095-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS081-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS084-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS082-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS083-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTL001-11	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS089-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS106-11	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS068-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS069-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS070-10	Umbilicaria aprina	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS071-10	Umbilicaria aprina	Trebouxia	 	 Antarctica:  Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS012-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS021-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS022-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS023-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS024-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS025-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS026-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS027-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS013-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS028-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS029-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS030-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS014-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS015-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS016-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS017-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor Valley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
+ANTLS018-10	Buellia frigida	Trebouxia	 	 Antarctica: Taylor VAlley	Jones	Polar Biol 36, 767-774 (2013)	 	Trebouxia	ITS	150102
