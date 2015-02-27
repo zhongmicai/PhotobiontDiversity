@@ -33,24 +33,33 @@ use warnings;
 use Bio::SeqIO;
 use Getopt::Long;
 
-my $infilename = "cat |";
-my $outfilename = "| cat";
-
+my $in_fh = \*STDIN;
+my $out_fh = \*STDOUT;
+my $infilename;
+my $outfilename;
 #Getopt::Long::Configure ("bundling");
 GetOptions(
 'infile:s' => \$infilename,
 'outfile:s' => \$outfilename,
 );
+if ( $infilename) {
+  open($in_fh, "<", $infilename)
+  or die "cannot open < $infilename: $!";
+}
+if ( $outfilename) {
+  open($out_fh, ">", $outfilename)
+  or die "cannot open > $outfilename: $!";
+}
 
-unless ( $outfilename eq "| cat" ) { $outfilename = ">" . $outfilename; }
+#unless ( $outfilename eq "| cat" ) { $outfilename = ">" . $outfilename; }
 
 my $seqin = Bio::SeqIO->new(
-                            -file   => $infilename,
+                            -fh   => $in_fh,
                             -format => 'fasta',
                             );
 
 my $seqout = Bio::SeqIO->new(
-                             -file => $outfilename,
+                             -fh => $out_fh,
                              -format => 'Fasta',
                              );
 
