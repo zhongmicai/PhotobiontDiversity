@@ -61,18 +61,18 @@ def main(argv):
     groups = {}
     for leaf in tree:
       accession = leaf.name
-      cur.execute("SELECT `Group`, Host, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
+      cur.execute("SELECT `Group`, Host, Substrate, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
       try:
-        (group, host, species, clade) = cur.fetchone()
+        (group, host, substrate, species, clade) = cur.fetchone()
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
-        (group, host, species) = ('','','')
+        (group, host, substrate, species) = ('','','')
       if group and group.find('Group') != -1:  #Group rep
         if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
         else:
           groups[group] = leaf.name
-          cur.execute("SELECT Host, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
+          cur.execute("SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
           group_members = cur.fetchall()
           #leaf.name = " " + group + ':'
           label_info = [group] + combine_info(field, cur.fetchall())
@@ -81,7 +81,7 @@ def main(argv):
       total_sequences += len(group_members)
       if len(group_members) == 1:
         #leaf.name =" " + accession + ':'
-        if field == 'Host' and host and host != 'free-living' and host != "Free-living":
+        if field == 'Host' and host and host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
           label_info = [accession, host]
         else:    
           label_info = [accession, species]
@@ -320,11 +320,11 @@ def add_sig(tree, outfilename):
   
 def combine_info(field, entries):
   host_counts = {}                   #Can include species names of free-living strains
-  for (host, species, clade) in entries:
-    if host == "free-living" or host == "Free-living" or field != 'Host':
+  for (host, substrate, species, clade) in entries:
+    if host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
       info = species
-    elif host == ' ':
-      info = 'Unknown'
+    #elif host == ' ':
+    #  info = 'Unknown'
     else:
       info = host
     if info in host_counts.keys():
