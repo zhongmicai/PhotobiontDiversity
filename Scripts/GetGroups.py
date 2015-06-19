@@ -30,7 +30,7 @@ def main(argv):
     elif opt in ("-l", "--locus"):
        gene = arg
 
-  groups = GetGroups(groupfile)
+  groups = GetGroups(groupfile) #return dictionary with group name as key and array of seqIDs as values
 
   con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock");
   with con:
@@ -45,27 +45,6 @@ def main(argv):
           cur.execute("UPDATE Metadata SET `Group` = %s WHERE SeqID LIKE %s AND Gene= %s", (group, accession+'%', gene,))
 
          
-def update_saved(group_list, gene):
-  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
-  with con:
-    cur = con.cursor()
-    for group in group_list[1:]:
-      print "setting %s to %s:" % (group, group_list[0])
-      cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s", (group,gene,))
-      for row in cur.fetchall():
-        cur.execute("UPDATE Metadata SET `Group` = %s WHERE SeqID= %s AND Gene= %s", (group_list[0], row[0], gene,))
-
-  
-def unique_group(gene):
-  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
-  with con:
-    cur = con.cursor()
-    for group_num in range(10000):
-      group = "Group " + format(group_num, "03d")
-      cur.execute("SELECT * FROM Metadata WHERE `Group`= %s AND Gene= %s", (group,gene,))
-      if not cur.fetchone():
-        break
-  return group
         
 def GetGroups(file):
   """Parses usearch output and assignes each non-singleton sequence to a group.
@@ -89,22 +68,6 @@ def GetGroups(file):
   
   return groups
   
-def retrieve_groups(group, gene):
-  """Looks up each sequence from each group in database and if it is assigned to a group 
-  in the db, all sequences assigned to the same group are given that group number"""
-  
-  saved_groups = []
-  con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity');
-  with con:
-    cur = con.cursor()
-    for accession in group:   #Assigned saved group numbers from db to groups with representatives in db
-      cur.execute("SELECT `Group` FROM Metadata WHERE SeqID= %s AND Gene= %s", (accession, gene,))
-      db_group = cur.fetchone()[0]
-      if db_group and db_group != 'UNIQUE':            #accession is already assigned to a group in the database
-        if db_group not in saved_groups:
-            saved_groups += [db_group]
-          
-  return saved_groups
     
 def warning_on_one_line(message, category, filename, lineno, file=None, line=None):
     import warnings

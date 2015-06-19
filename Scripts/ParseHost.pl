@@ -27,7 +27,6 @@ elsif ( $filename =~ /\.gb/ ) {
     my $location = " ";
     my $strain = ' ';
     $accession = $seq->accession;
-    my $anno_col = $seq->annotation;
     my $references = ($seq->annotation->get_Annotations('reference'))[0];
     my @authors = split(/,/,$references->{'authors'});
     my $journal = $references->{'location'};
