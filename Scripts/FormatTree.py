@@ -2,8 +2,6 @@
 
 #Add algal taxonomy info (species) or host info from metadata file to phylogeny.
 
-#Usage: cat treefile | AddMetadata.pl metadatafile species|host > outfile
-
 import sys, getopt, string, warnings
 import MySQLdb as mdb
 from ete2 import Tree, TreeStyle, TextFace, NodeStyle  
@@ -71,7 +69,6 @@ def main(argv):
     sys.exit(1)   
   with con:
     cur = con.cursor()
-    #tree = colour_clades(cur, tree, locus)
     colour_clades(cur, tree, locus, outfilename, debug)
     groups = {}
     for leaf in tree:
@@ -143,7 +140,7 @@ def colour_clades(cur, tree, locus, outfilename, debug):
         continue
     if debug:
      try:
-      label = TextFace(leaf.name)
+      label = TextFace(leaf.name)  #This colours the taxon names
       label.background.color = colours[clade.replace('T.', 'Trebouxia')]
       leaf.add_face(label, column = 0)                        
      except KeyError:
@@ -166,11 +163,9 @@ def colour_clades(cur, tree, locus, outfilename, debug):
         continue
     print "setting clade %s to %s" % (clade, colour)
 
-    #tree = colour_clade(tree, clades[clade], colour) 
-    colour_clade(tree, clades[clade], colour, outfilename) 
-    label_clade(tree, clades[clade], colour, clade) 
+    colour_clade(tree, clades[clade], colour, outfilename) #this colours the branches of the tree
+    label_clade(tree, clades[clade], colour, clade) #this adds clade names to tree
 
-  #return tree
 
 def label_clade(tree, leaves, colour, clade):
   if len(leaves) == 1:

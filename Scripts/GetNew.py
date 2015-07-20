@@ -4,21 +4,6 @@ import sys, getopt, string, warnings
 import MySQLdb as mdb
 from Bio import SeqIO
 
-def get_fasta_accession(record):
-    """"Given a SeqRecord, return the accession number as a string.
-  
-    e.g. "gi|2765613|gb|Z78488.1|PTZ78488" -> "Z78488.1"
-    """
-    parts = record.id.split("|")
-    if len(parts) == 1:
-      return parts[0]
-    else:
-      try:
-        assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" or parts[2] == "dbj")
-      except AssertionError:
-        sys.exit("SeqID %s not parsed correctly" % record.id)
-      return parts[3].split('.')[0]
-
 def main(seq_file):
   try:
      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
@@ -37,6 +22,21 @@ def main(seq_file):
     elif len(db_info) == 0:
       SeqIO.write(seq_record, sys.stdout, "fasta")
       
+def get_fasta_accession(record):
+    """"Given a SeqRecord, return the accession number as a string.
+  
+    e.g. "gi|2765613|gb|Z78488.1|PTZ78488" -> "Z78488.1"
+    """
+    parts = record.id.split("|")
+    if len(parts) == 1:
+      return parts[0]
+    else:
+      try:
+        assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" or parts[2] == "dbj")
+      except AssertionError:
+        sys.exit("SeqID %s not parsed correctly" % record.id)
+      return parts[3].split('.')[0]
+
 if __name__ == "__main__":
    main(sys.argv[1])
    
