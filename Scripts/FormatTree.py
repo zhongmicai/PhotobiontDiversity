@@ -17,10 +17,11 @@ def main(argv):
   date = ''
   debug = 0
   field = 'Host'
+  bootstrap = 0.9
   outgroup = ''
-  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -g outgroup -c (debug clades)'
+  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -g outgroup -b <bootstrap cutoff> -c (debug clades)'
   try:
-    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:g:c:",["tree=","locus=","out=", "search=", "date=", "field=", "outgroup=", "clades="])
+    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:g:b:c:",["tree=","locus=","out=", "search=", "date=", "field=", "outgroup=", "bootstrap=", "clades="])
     if not opts:
       raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
@@ -44,12 +45,18 @@ def main(argv):
        field = arg
     elif opt in ("-g", "--outgroup"):
        outgroup = arg
+    elif opt in ("-b", "--bootstrap"):
+       bootstrap = arg
     elif opt in ("-c", "--clades"):
        debug = 1
 
+  if not locus:
+      sys.exit("please specify locus\n\n%s\n" % usage)
+  if bootstrap > 1:
+     bootstrap = float(bootstrap) / 100
   total_sequences = 0
   tree = Tree(treefilename)
-  add_sig(tree, outfilename)
+  add_sig(tree, bootstrap, outfilename)
   #tree = root_tree(tree)
   if outgroup:
       outgroup = outgroup.split(',')
@@ -302,7 +309,7 @@ def get_colours(cur, field, label_info):
           
   return colours
     
-def add_sig(tree, outfilename):
+def add_sig(tree, bootstrap, outfilename):
   non_sig = NodeStyle()
   non_sig["size"] = 0
   if 'svg' in outfilename:
@@ -321,7 +328,7 @@ def add_sig(tree, outfilename):
     sig["vt_line_width"] = 2
     sig["hz_line_width"] = 2
   for node in tree.traverse():
-    if node.support < 0.8 or node.is_leaf() or node.is_root():
+    if node.support < bootstrap or node.is_leaf() or node.is_root():
       node.set_style(non_sig)
     else:
       node.set_style(sig)
