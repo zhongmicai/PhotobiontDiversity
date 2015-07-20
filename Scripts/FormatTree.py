@@ -17,9 +17,10 @@ def main(argv):
   date = ''
   debug = 0
   field = 'Host'
-  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -c (debug clades)'
+  outgroup = ''
+  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -g outgroup -c (debug clades)'
   try:
-    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:c:",["tree=","locus=","out=", "search=", "date=", "field=", "clades="])
+    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:g:c:",["tree=","locus=","out=", "search=", "date=", "field=", "outgroup=", "clades="])
     if not opts:
       raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
@@ -41,6 +42,8 @@ def main(argv):
        date = arg
     elif opt in ("-f", "--field"):
        field = arg
+    elif opt in ("-g", "--outgroup"):
+       outgroup = arg
     elif opt in ("-c", "--clades"):
        debug = 1
 
@@ -48,7 +51,12 @@ def main(argv):
   tree = Tree(treefilename)
   add_sig(tree, outfilename)
   #tree = root_tree(tree)
-  root_tree(tree, treefilename)
+  if outgroup:
+      outgroup = outgroup.split(',')
+  elif 'Trebouxia_ITS' in treefilename:
+     outgroup = ('AY842266','AJ249567')
+
+  root_tree(tree, treefilename, outgroup)
   try:
      con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
   except mdb.Error, e:
@@ -66,7 +74,7 @@ def main(argv):
         (group, host, substrate, species, clade) = cur.fetchone()
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
-        (group, host, substrate, species) = ('','','')
+        (group, host, substrate, species, clade) = ('','','', '', '')
       if group and group.find('Group') != -1:  #Group rep
         if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
@@ -92,7 +100,7 @@ def main(argv):
       if searchterm and (' '.join(label_info).find(searchterm) > -1 or searchterm == leaf.name):
         print "adding highlighting to node %s" % leaf.name
         #label.background.color = "Yellow"
-        bg_colour = "DeepPink"
+        bg_colour = "Yellow"
       elif date:
         if group and 'Group' in group:
           cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
@@ -206,15 +214,15 @@ def colour_clade(tree, leaves, colour, outfilename):
   #return tree
 
 
-def root_tree(tree, treefilename):
+def root_tree(tree, treefilename, outgroup):
   root = tree.get_midpoint_outgroup()
   try:
       tree.set_outgroup(root)
   except:
       pass
-  if 'Trebouxia_ITS' in treefilename:
+  if outgroup:
     leaves = []
-    for taxon in ('AY842266','AJ249567'):
+    for taxon in outgroup:
       for leaf in  tree.get_leaves_by_name(taxon):
         leaves.append(leaf)
     outgroup = tree.get_common_ancestor(leaves)
@@ -313,7 +321,7 @@ def add_sig(tree, outfilename):
     sig["vt_line_width"] = 2
     sig["hz_line_width"] = 2
   for node in tree.traverse():
-    if node.support < 0.9 or node.is_leaf() or node.is_root():
+    if node.support < 0.8 or node.is_leaf() or node.is_root():
       node.set_style(non_sig)
     else:
       node.set_style(sig)
