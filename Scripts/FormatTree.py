@@ -82,7 +82,6 @@ def main(argv):
       if verbose:
           sys.stderr.write(PrintCommand(command, options))
       cur.execute(command, options)
-      #cur.execute("SELECT `Group`, Host, Substrate, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
       try:
         (group, host, substrate, species, clade) = cur.fetchone()
       except TypeError:    
@@ -98,10 +97,9 @@ def main(argv):
           if verbose:
               sys.stderr.write(PrintCommand(command, options))
           cur.execute(command, options)
-          #cur.execute("SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
           group_members = cur.fetchall()
           #leaf.name = " " + group + ':'
-          label_info = [group] + combine_info(field, cur.fetchall())
+          label_info = [group] + combine_info(field, group_members)
       else:  #Singleton
         group_members = [[host, species, clade]]
       total_sequences += len(group_members)
@@ -351,12 +349,13 @@ def add_sig(tree, bootstrap, outfilename):
 def combine_info(field, entries):
   host_counts = {}                   #Can include species names of free-living strains
   for (host, substrate, species, clade) in entries:
-    if host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
+    if host == ' ' or host == 'free-living' or host == "Free-living" or host == 'Unknown' or host == 'unknown':
       info = species
     #elif host == ' ':
     #  info = 'Unknown'
     else:
       info = host
+    print "Host= %s, info = %s" % (host, info)
     if info in host_counts.keys():
       host_counts[info] += 1
     else:
