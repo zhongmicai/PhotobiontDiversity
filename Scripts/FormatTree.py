@@ -14,12 +14,14 @@ def main(argv):
   searchterm = ''
   date = ''
   debug = 0
+  global verbose
+  verbose = 0
   field = 'Host'
   bootstrap = 0.9
   outgroup = ''
-  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -g outgroup -b <bootstrap cutoff> -c (debug clades)'
+  usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -g outgroup -b <bootstrap cutoff> -c (debug clades) -v (verbose)'
   try:
-    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:g:b:c:",["tree=","locus=","out=", "search=", "date=", "field=", "outgroup=", "bootstrap=", "clades="])
+    opts, args = getopt.getopt(argv,"ht:l:o:s:d:f:g:b:cv",["tree=","locus=","out=", "search=", "date=", "field=", "outgroup=", "bootstrap=", "clades=", "verbose="])
     if not opts:
       raise getopt.GetoptError('no opts')
   except getopt.GetoptError:
@@ -47,6 +49,8 @@ def main(argv):
        bootstrap = arg
     elif opt in ("-c", "--clades"):
        debug = 1
+    elif opt in ("-v", "--verbose"):
+        verbose = 1
 
   if not locus:
       sys.exit("please specify locus\n\n%s\n" % usage)
@@ -73,7 +77,12 @@ def main(argv):
     groups = {}
     for leaf in tree:
       accession = leaf.name
-      cur.execute("SELECT `Group`, Host, Substrate, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
+      command = "SELECT `Group`, Host, Substrate, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s"
+      options = (accession + '%', locus)
+      if verbose:
+          sys.stderr.write(PrintCommand(command, options))
+      cur.execute(command, options)
+      #cur.execute("SELECT `Group`, Host, Substrate, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
       try:
         (group, host, substrate, species, clade) = cur.fetchone()
       except TypeError:    
@@ -84,7 +93,12 @@ def main(argv):
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
         else:
           groups[group] = leaf.name
-          cur.execute("SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
+          command = "SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s"
+          options = (group, locus)
+          if verbose:
+              sys.stderr.write(PrintCommand(command, options))
+          cur.execute(command, options)
+          #cur.execute("SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s", (group, locus,))
           group_members = cur.fetchall()
           #leaf.name = " " + group + ':'
           label_info = [group] + combine_info(field, cur.fetchall())
@@ -107,9 +121,15 @@ def main(argv):
         bg_colour = "Yellow"
       elif date:
         if group and 'Group' in group:
-          cur.execute("SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s", (group, locus, date))
+          command = "SELECT SeqID FROM Metadata WHERE `Group`= %s AND Gene= %s AND Date = %s"
+          options = (group, locus, date)
         else:
-          cur.execute("SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s", (accession, locus, date))
+          command = "SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s"
+          options = (accession, locus, date)
+        if verbose:
+            sys.stderr.write(PrintCommand(command, options))
+        cur.execute(command, options)
+        
         if len(cur.fetchall()) > 0:
           print "adding highlighting to node %s" % leaf.name
           bg_colour = "Yellow"
@@ -393,6 +413,16 @@ def add_header(outfilename, locus):
   tempfile.close()
   system('mv tempfile %s' % outfilename)
 
+def PrintCommand(command, options=()):
+  if type(options) is str:
+    if command.count("%s") != 1:
+      sys.exit("Command requires %s options. %s supplied" % (command.count("%s"), 1))
+    options = (options, "")
+  elif command.count("%s") != len(options):
+    sys.exit("Command requires %s options. %s supplied" % (command.count("%s"), len(options)))
+  for param in options:
+    command =command.replace("%s", "'" + param + "'", 1)
+  return command + "\n"
   
 if __name__ == "__main__":
    main(sys.argv[1:])
