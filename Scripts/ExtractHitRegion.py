@@ -13,9 +13,9 @@ def get_fasta_accession(name):
     """
     parts = name.split("|")
     try:
-      assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" )
+      assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" or parts[2] == "dbj" )
     except AssertionError:
-      sys.exit(parts)
+      sys.exit("SeqRecord ID %s not properly formatted" % name)
     return parts[3].split('.')[0]
 
 
@@ -37,7 +37,7 @@ with open(sys.argv[2], 'rU') as f:
       except ValueError:
         warnings.warn("row length %s does not match the expected number of columns (16). Double-check delimiter" % len(row))
         continue
-      sstart = int(sstart) -1
+      sstart = int(sstart)
       send = int(send)
       for seq_record in seq_records[sacc]:
         if sstart < send:
