@@ -32,7 +32,7 @@ def get_fasta_accession(record):
       return parts[0]
     else:
       try:
-        assert len(parts) == 5 and parts[0] == "gi" and ( parts[2] == "gb" or parts[2] == "emb" or parts[2] == "dbj")
+        assert len(parts) == 5 and parts[0] == "gi" and parts[2] in ("gb", "emb", "dbj", "ref")
       except AssertionError:
         sys.exit("SeqID %s not parsed correctly" % record.id)
       return parts[3].split('.')[0]
