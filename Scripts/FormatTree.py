@@ -1,9 +1,10 @@
-#!/Users/HeathOBrien/anaconda/bin/python
+#!/usr/bin/env python
 
 #Add algal taxonomy info (species) or host info from metadata file to phylogeny.
 
 import sys, getopt, string, warnings
-import MySQLdb as mdb
+import mysql.connector 
+from mysql.connector import Error
 from ete2 import Tree, TreeStyle, TextFace, NodeStyle  
 from os import system
 
@@ -66,12 +67,12 @@ def main(argv):
      outgroup = ('AY842266','AJ249567')
 
   root_tree(tree, treefilename, outgroup)
+
   try:
-     con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock")
-  except mdb.Error, e:
-    print "Error %d: %s" % (e.args[0],e.args[1])
-    sys.exit(1)   
-  with con:
+    con = mysql.connector.connect(host='localhost',
+                                       database='PhotobiontDiversity',
+                                       user='root')
+            
     cur = con.cursor()
     colour_clades(cur, tree, locus, outfilename, debug)
     groups = {}
@@ -87,6 +88,7 @@ def main(argv):
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, substrate, species, clade) = ('','','', '', '')
+      #print 'group = %s' % group
       if group and group.find('Group') != -1:  #Group rep
         if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
@@ -135,6 +137,12 @@ def main(argv):
           #bg_colour = "Yellow"
       #leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
       add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
+      
+  except Error as e:
+        print(e)
+  finally:
+        cur.close()
+        con.close()
   
   print "Drawing tree with %s sequences" % total_sequences
   draw_tree(tree, outfilename) 
@@ -296,31 +304,46 @@ def get_colours(cur, field, label_info):
     else:
       if field == 'Host':
         try:
-          cur.execute("SELECT phylum FROM Taxonomy WHERE genus= %s", (genus))
-          taxon = cur.fetchone()[0]
+            command = "SELECT phylum FROM Taxonomy WHERE genus= %s"
+            options = (genus,)
+            if verbose:
+                sys.stderr.write(PrintCommand(command, options))
+            cur.execute(command, options)
+#cur.execute("SELECT phylum FROM Taxonomy WHERE genus= %s", (genus,))
+            taxon = cur.fetchone()[0]
         except TypeError:
           warnings.warn("No phylum entry for %s" % genus)
         if taxon and taxon == 'Ascomycota':
             try:
-              cur.execute("SELECT family FROM Taxonomy WHERE genus= %s", (genus))
+              command = "SELECT family FROM Taxonomy WHERE genus= %s"
+              options = (genus,)
+              execute_command(cur, command, options)
+                   
               taxon = cur.fetchone()[0]
             except TypeError:
-              warnings.warn("No family entry for %s" % genus)
+              warnings.warn("No family entry for %s" % genus,)
       else:
         taxon = ' '.join(label.split(' ')[:2])
       try:
         if 'letharii' in label:
-          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", ('Trebouxia letharii'))
+          command ="SELECT Colour FROM Colours WHERE Taxon= %s"
+          execute_command(cur, command, options)          
         else:
-          #print "SELECT Colour FROM Colours WHERE Taxon= '%s'" % (taxon)
-          cur.execute("SELECT Colour FROM Colours WHERE Taxon= %s", (str(taxon)))
+            command ="SELECT Colour FROM Colours WHERE Taxon= %s"
+            options = (str(taxon),)
+            execute_command(cur, command, options)
         colour = cur.fetchone()      
         colours.append(colour[0])
       except TypeError:
-        warnings.warn("No colour available for %s (%s)" % (genus, taxon))
+        warnings.warn("No colour available for %s (%s)" % (genus, taxon,))
         colours.append('LightGray')
           
   return colours
+    
+def  execute_command(cur, command, options):
+    if verbose:
+        sys.stderr.write(PrintCommand(command, options))
+    cur.execute(command, options)
     
 def add_sig(tree, bootstrap, outfilename):
   non_sig = NodeStyle()
@@ -355,7 +378,7 @@ def combine_info(field, entries):
     #  info = 'Unknown'
     else:
       info = host
-    print "Host= %s, info = %s" % (host, info)
+    #print "Host= %s, info = %s" % (host, info)
     if info in host_counts.keys():
       host_counts[info] += 1
     else:
@@ -422,6 +445,9 @@ def PrintCommand(command, options=()):
   for param in options:
     command =command.replace("%s", "'" + param + "'", 1)
   return command + "\n"
+
+def warning_on_one_line(message, category, filename, lineno, file=None, line=None):
+    return ' %s:%s: %s: %s\n' % (filename, lineno, category.__name__, message)
   
 if __name__ == "__main__":
    main(sys.argv[1:])

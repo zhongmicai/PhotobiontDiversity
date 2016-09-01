@@ -1,14 +1,19 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 
 
 
 import sys, getopt, csv, warnings, re
-import MySQLdb as mdb
+import mysql.connector 
+from mysql.connector import Error
+
 from Bio import SeqIO
 from os import path
 
   
-con = mdb.connect('localhost', 'root', '', 'PhotobiontDiversity', unix_socket="/tmp/mysql.sock");
+con = mysql.connector.connect(host='localhost',
+                                       database='PhotobiontDiversity',
+                                       user='root')
+            
 with con:
   cur = con.cursor()
 
