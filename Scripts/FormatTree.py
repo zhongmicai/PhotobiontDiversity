@@ -73,37 +73,31 @@ def main(argv):
                                        database='PhotobiontDiversity',
                                        user='root')
             
-    cur = con.cursor()
+    cur = con.cursor(buffered=True)
     colour_clades(cur, tree, locus, outfilename, debug)
     groups = {}
     for leaf in tree:
       accession = leaf.name
-      command = "SELECT `Group`, Host, Substrate, Species, Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s"
+      command = "SELECT `Group` FROM Metadata WHERE SeqID LIKE %s AND Gene= %s"
       options = (accession + '%', locus)
-      if verbose:
-          sys.stderr.write(PrintCommand(command, options))
-      cur.execute(command, options)
+      execute_command(cur, command, options)
       try:
         (group, host, substrate, species, clade) = cur.fetchone()
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, substrate, species, clade) = ('','','', '', '')
       #print 'group = %s' % group
-      if group and group.find('Group') != -1:  #Group rep
-        if group in groups:
+      if not group or group.find('Group') == -1::
+          sys.exit("%s does not have a group name" % accession)
+      if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
-        else:
-          groups[group] = leaf.name
-          command = "SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s"
-          options = (group, locus)
-          if verbose:
-              sys.stderr.write(PrintCommand(command, options))
-          cur.execute(command, options)
-          group_members = cur.fetchall()
-          #leaf.name = " " + group + ':'
+      groups[group] = leaf.name
+      command = "SELECT Host, Substrate, Species, Clade FROM Metadata WHERE `Group`= %s AND Gene= %s"
+      options = (group, locus)
+      execute_command(cur, command, options)
+      group_members = cur.fetchall()
+      if len(group_members > 1: #not singleton
           label_info = [group] + combine_info(field, group_members)
-      else:  #Singleton
-        group_members = [[host, species, clade]]
       total_sequences += len(group_members)
       if len(group_members) == 1:
         #leaf.name =" " + accession + ':'
