@@ -1,0 +1,864 @@
+KR913791	Rhizoplaca porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KM062096	free-living	Trebouxia		Spain: Grenada	Jroundi	PLoS ONE 10 (7), E0132465 (2015)	26222040	Trebouxia	ITS	160905	Biotreated stone
+KM062097	free-living	Trebouxia 		Spain: Grenada	Jroundi	PLoS ONE 10 (7), E0132465 (2015)	26222040	Trebouxia	ITS	160905	Biotreated stone
+KM062100	free-living	Trebouxia 		Spain: Grenada	Jroundi	PLoS ONE 10 (7), E0132465 (2015)	26222040	Trebouxia	ITS	160905	Biotreated stone
+KM062102	free-living	Trebouxia 		Spain: Grenada	Jroundi	PLoS ONE 10 (7), E0132465 (2015)	26222040	Trebouxia	ITS	160905	Biotreated stone
+KM062103	free-living	Trebouxia 		Spain: Grenada	Jroundi	PLoS ONE 10 (7), E0132465 (2015)	26222040	Trebouxia	ITS	160905	Biotreated stone
+KM062104	free-living	Trebouxia		Spain: Grenada	Jroundi	PLoS ONE 10 (7), E0132465 (2015)	26222040	Trebouxia	ITS	160905	Biotreated stone
+KM987342	free-living	Trebouxia sp.		Antarctica: Ross Sea, Ross Island	Jones	Unpublished		Trebouxia	ITS	160905	
+KP226273	Candelaria fibrosa	Trebouxia impressa sp.		China: Yanbian Korean Autonomous Prefecture	Cao	BMC Microbiol. 15 (1), 212 (2015)	26471277	Trebouxia	ITS	160905	
+KP226274	Candelariella coralliza	Trebouxia impressa sp.		China: Yanbian Korean Autonomous Prefecture	Cao	BMC Microbiol. 15 (1), 212 (2015)	26471277	Trebouxia	ITS	160905	
+KP226276	Parmelia squarrosa	Trebouxia sp. group		China: Yanbian Korean Autonomous Prefecture	Cao	BMC Microbiol. 15 (1), 212 (2015)	26471277	Trebouxia	ITS	160905	
+KP226276-2	Parmelia squarrosa	Trebouxia sp. group		China: Yanbian Korean Autonomous Prefecture	Cao	BMC Microbiol. 15 (1), 212 (2015)	26471277	Trebouxia	ITS	160905	
+KP226277	Rhizoplaca subdiscrepans	Trebouxia impressa identical		China: Yanbian Korean Autonomous Prefecture	Cao	BMC Microbiol. 15 (1), 212 (2015)	26471277	Trebouxia	ITS	160905	
+KP226277-2	Rhizoplaca subdiscrepans	Trebouxia impressa identical		China: Yanbian Korean Autonomous Prefecture	Cao	BMC Microbiol. 15 (1), 212 (2015)	26471277	Trebouxia	ITS	160905	
+KP282149	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282151	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282152	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282153	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282154	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282155	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282156	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282157	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282158	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282159	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282160	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282161	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282162	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282163	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282164	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282165	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282166	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282167	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282168	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282169	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282170	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282171	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282172	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282173	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282174	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282175	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282176	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282177	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282178	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282179	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282180	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282181	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282182	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282183	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282184	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282185	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282186	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282187	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282188	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282189	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282190	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282191	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282192	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282195	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282196	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282197	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KP282198	Ramalina fraxinea	Trebouxia		Spain	Catala	Mol. Phylogenet. Evol. 94 (PT B), 765-777 (2016)	26516030	Trebouxia	ITS	160905	
+KR913212	Lecanora aff. dispersa	Trebouxia arboricola		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913213	Lecanora aff. dispersa	Trebouxia arboricola		USA: Illinois	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913257	Melanelixia californica	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913258	Melanelixia californica	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913289	Lecanora muralis	Trebouxia sp.		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913677	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913709	Rhizoplaca melanophthalma	Trebouxia sp.		Chile	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913808	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913832	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913838	Rhizoplaca subdiscrepans	Trebouxia sp.		Ukraine	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913839	Rhizoplaca subdiscrepans	Trebouxia sp.		USA: Wisconsin	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913290	Lecanora sp.	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913303	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913304	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913305	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913364	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913386	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913503	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913505	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913507	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913291	Melanelixia californica	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913292	Melanelixia glabroides	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913381	Melanohalea elegantula	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913667	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Wyoming	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913724	Rhizoplaca melanophthalma	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913734	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913744	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913768	Rhizoplaca parilis	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913781	Rhizoplaca peltata	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913786	Rhizoplaca polymorpha	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913805	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913813	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913293	Melanelixia glabroides	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913434	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913487	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913489	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913537	Oropogon lopezii	Trebouxia sp.		Mexico: Oaxaca	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913294	Melanelixia aff. subargentifera	Trebouxia sp.		Turkey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913320	Melanohalea elegantula	Trebouxia sp.		Turkey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913593	Parmelina pastillifera	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913594	Parmelina pastillifera	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913614	Parmelina tiliacea	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913638	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913640	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913642	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913643	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913645	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913295	Melanelixia subaurifera	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913296	Melanohalea elegantula	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913297	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913435	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913521	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913704	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913844	Rhizoplaca sp.	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913298	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913387	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913401	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913414	Melanohalea aff. multira	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913420	Melanohalea aff. multira	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913427	Melanohalea aff. multira	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913429	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913431	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913432	Melanohalea aff. multira	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913437	Melanohalea subelegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913439	Melanohalea subelegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913443	Melanohalea subelegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913446	Melanohalea subelegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913456	Melanohalea subolivacea	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913460	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913464	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913465	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913466	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913486	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913511	Melanohalea subolivacea	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913581	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913582	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913757	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913299	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913484	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913485	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913488	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913493	Melanohalea subolivacea	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913300	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913307	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913339	Melanohalea elegantula	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913393	Melanohalea exaratula	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913462	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913769	Rhizoplaca parilis	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913770	Rhizoplaca parilis	Trebouxia sp.		USA: New Mexico	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913301	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913311	Melanohalea elegantula	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913312	Melanohalea elegantula	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913322	Melanohalea elegantula	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913338	Melanohalea elegantula	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913416	Melanohalea aff. multira	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913302	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913340	Melanohalea elegantula	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913366	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913367	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913368	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913452	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913455	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913479	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913494	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913495	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913504	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913515	Melanohalea subolivacea	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913306	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913308	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913408	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913683	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: New Mexico	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913684	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: New Mexico	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913756	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913774	Rhizoplaca peltata	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913309	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913310	Melanohalea elegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913327	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913329	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913331	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913332	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913334	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913341	Melanohalea elegantula	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913343	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913345	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913346	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913347	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913348	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913349	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913350	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913351	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913352	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913353	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913356	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913370	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913371	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913473	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913475	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913478	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913313	Melanohalea elegantula	Trebouxia sp.		Chile	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913314	Melanohalea elegantula	Trebouxia sp.		Chile	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913335	Melanohalea elegantula	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913336	Melanohalea elegantula	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913377	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913399	Melanohalea aff. multira	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913407	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913412	Melanohalea aff. multira	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913413	Melanohalea aff. multira	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913419	Melanohalea aff. multira	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913422	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913424	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913442	Melanohalea subelegantula	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913467	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913470	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913482	Melanohalea subolivacea	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913517	Melanohalea subolivacea	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913315	Melanohalea elegantula	Trebouxia sp.		China: Tibet	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913670	Rhizoplaca chrysoleuca	Trebouxia sp.		Kyrgyzstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913671	Rhizoplaca chrysoleuca	Trebouxia sp.		Kyrgyzstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913682	Rhizoplaca chrysoleuca	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913729	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913777	Rhizoplaca peltata	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913316	Melanohalea elegantula	Trebouxia sp.		Greenland	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913317	Melanohalea elegantula	Trebouxia sp.		Greenland	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913318	Melanohalea elegantula	Trebouxia sp.		Greenland	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913675	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913679	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913680	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913702	Rhizoplaca chrysoleuca	Trebouxia sp.		Turkey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913708	Rhizoplaca macleanii	Trebouxia sp.		Antarctica	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913715	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913722	Rhizoplaca melanophthalma	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913726	Rhizoplaca melanophthalma	Trebouxia sp.		Kyrgyzstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913764	Lecanora novomexicana	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913771	Rhizoplaca parilis	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913811	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913812	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913822	Rhizoplaca subdiscrepans	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913835	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913319	Melanohalea elegantula	Trebouxia sp.		India	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913833	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913321	Melanohalea elegantula	Trebouxia sp.		Turkey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913390	Melanohalea aff. exarata	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913540	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913541	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913543	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913545	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913546	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913548	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913553	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913561	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913562	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913563	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913565	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913566	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913585	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913588	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913589	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913591	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913628	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913635	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913637	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913701	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913323	Melanohalea elegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913362	Melanohalea elegantula	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913444	Melanohalea subelegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913445	Melanohalea subelegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913468	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913324	Melanohalea elegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913325	Melanohalea elegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913363	Melanohalea elegantula	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913384	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913406	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913409	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913410	Melanohalea aff. multira	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913411	Melanohalea aff. multira	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913425	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913426	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913428	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913430	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913440	Melanohalea subelegantula	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913441	Melanohalea subelegantula	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913513	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913514	Melanohalea subolivacea	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913326	Melanohalea elegantula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913328	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913333	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913330	Melanohalea elegantula	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913337	Melanohalea elegantula	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913342	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913344	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913354	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913355	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913357	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913358	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913359	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913360	Melanohalea elegantula	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913365	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913361	Melanohalea elegantula	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913375	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913376	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913380	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913392	Melanohalea exaratula	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913394	Melanohalea exaratula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913398	Melanohalea aff. multira	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913402	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913403	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913404	Melanohalea aff. multira	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913457	Melanohalea subolivacea	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913463	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913508	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913510	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913519	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913520	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913527	Montanelia tominii	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913369	Melanohalea elegantula	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913454	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913372	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913374	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913421	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913423	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913373	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913379	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913378	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913382	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913383	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913385	Melanohalea elegantula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913388	Melanohalea exarata	Trebouxia sp.		Greece	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913389	Melanohalea exarata	Trebouxia sp.		Greece	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913569	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913586	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913596	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913597	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913598	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913600	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913601	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913603	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913604	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913605	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913606	Parmelina pastillifera	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913607	Parmelina pastillifera	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913608	Parmelina pastillifera	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913618	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913620	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913621	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913626	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913627	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913636	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913639	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913649	Parmelina tiliacea	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913651	Parmelina tiliacea	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913652	Parmelina tiliacea	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913391	Melanohalea aff. exarata	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913630	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913631	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913632	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913395	Melanohalea laciniatula	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913539	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913396	Melanohalea mexicana	Trebouxia sp.		Mexico: Puebla	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913397	Melanohalea mexicana	Trebouxia sp.		Mexico	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913415	Melanohalea aff. multira	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913400	Melanohalea aff. multira	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913405	Melanohalea aff. multira	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913417	Melanohalea aff. multira	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913418	Melanohalea aff. multira	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913433	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913436	Melanohalea septentrionalis	Trebouxia sp.		USA: Minnesota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913438	Melanohalea subelegantula	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913447	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913448	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913449	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913450	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913451	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913453	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913501	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913674	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913678	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913705	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913713	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913794	Rhizoplaca porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913824	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913828	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913834	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913842	Rhizoplaca sp.	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913458	Melanohalea subolivacea	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913461	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913481	Melanohalea subolivacea	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913490	Melanohalea subolivacea	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913459	Melanohalea subolivacea	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913469	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913471	Melanohalea subolivacea	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913472	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913474	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913476	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913477	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913480	Melanohalea subolivacea	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913483	Melanohalea subolivacea	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913699	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913491	Melanohalea subolivacea	Trebouxia sp.		USA: North Dakota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913492	Melanohalea subolivacea	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913496	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913500	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913497	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913498	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913499	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913534	Montanelia tominii	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913535	Montanelia tominii	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913758	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Wyoming	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913502	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913506	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913509	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913512	Melanohalea subolivacea	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913516	Melanohalea subolivacea	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913518	Melanohalea subolivacea	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913522	Montanelia sorediata	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913523	Montanelia sorediata	Trebouxia sp.		Canada: Ontario	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913524	Montanelia sorediata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913526	Montanelia tominii	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913530	Montanelia tominii	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913657	Rhizoplaca chrysoleuca	Trebouxia sp.		Kyrgyzstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913661	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913676	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913692	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913693	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913707	Rhizoplaca haydenii	Trebouxia sp.		USA: Wyoming	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913719	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913723	Rhizoplaca melanophthalma	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913733	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913741	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913749	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913750	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913755	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913759	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Wyoming	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913761	Rhizoplaca aff. porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913762	Lecanora novomexicana	Trebouxia sp.		USA: New Mexico	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913779	Rhizoplaca peltata	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913782	Rhizoplaca peltata	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913783	Rhizoplaca peltata	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913795	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913796	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913803	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913804	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913806	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913809	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913810	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913814	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913818	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913819	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913831	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913840	Rhizoplaca aff. porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913525	Montanelia tominii	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913528	Montanelia tominii	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913529	Montanelia tominii	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913531	Montanelia tominii	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913532	Montanelia tominii	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913533	Montanelia tominii	Trebouxia sp.		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913536	Montanelia tominii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913538	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913542	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913544	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913557	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913573	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913574	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913576	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913577	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913547	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913549	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913550	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913556	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913558	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913564	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913567	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913568	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913570	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913571	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913572	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913551	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913552	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913580	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913554	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913555	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913559	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913560	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913579	Parmelina carporrhizans	Trebouxia sp.			Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913575	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913578	Parmelina carporrhizans	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913583	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913584	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913592	Parmelina pastillifera	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913587	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913590	Parmelina cryptotiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913595	Parmelina pastillifera	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913616	Parmelina tiliacea	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913599	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913602	Parmelina pastillifera	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913609	Parmelina tiliacea	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913610	Parmelina tiliacea	Trebouxia sp.		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913611	Parmelina tiliacea	Trebouxia sp.		India	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913612	Parmelina tiliacea	Trebouxia sp.		Morocco	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913613	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913615	Parmelina tiliacea	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913617	Parmelina tiliacea	Trebouxia sp.		Italy	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913619	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913622	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913623	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913624	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913625	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913629	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913633	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913634	Parmelina tiliacea	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913641	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913644	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913646	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913647	Parmelina tiliacea	Trebouxia sp.		Sweden	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913648	Parmelina tiliacea	Trebouxia sp.		Turkey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913650	Parmelina tiliacea	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913653	Parmelina tiliacea	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913654	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913820	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913655	Rhizoplaca chrysoleuca	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913656	Rhizoplaca chrysoleuca	Trebouxia sp.		Kyrgyzstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913718	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913721	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913766	Rhizoplaca parilis	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913772	Rhizoplaca parilis	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913790	Rhizoplaca porterii	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913837	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913658	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913659	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913660	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913662	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913663	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913687	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913688	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913689	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913690	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913691	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913747	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913664	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913665	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913666	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913695	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913739	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913800	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913801	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913668	Rhizoplaca chrysoleuca	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913669	Rhizoplaca chrysoleuca	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913686	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913700	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913725	Rhizoplaca melanophthalma	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913728	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913753	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913773	Rhizoplaca parilis	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913780	Rhizoplaca peltata	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913792	Rhizoplaca porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913793	Rhizoplaca porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913821	Rhizoplaca subdiscrepans	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913827	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Bashkortostan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913672	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913673	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913681	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913685	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913694	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913696	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913697	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913698	Rhizoplaca chrysoleuca	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913745	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913746	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913748	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913751	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913752	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913787	Rhizoplaca polymorpha	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913703	Rhizoplaca chrysoleuca	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913826	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913706	Rhizoplaca haydenii	Trebouxia sp.		USA: Idaho	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913710	Rhizoplaca melanophthalma	Trebouxia sp.		Czech Republic	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913711	Rhizoplaca melanophthalma	Trebouxia sp.		Czech Republic	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913712	Rhizoplaca melanophthalma	Trebouxia sp.		Czech Republic	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913714	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913738	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913785	Rhizoplaca peltata	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913815	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913817	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913716	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913717	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913720	Rhizoplaca melanophthalma	Trebouxia sp.		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913727	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913730	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913731	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913732	Rhizoplaca melanophthalma	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913784	Rhizoplaca peltata	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913735	Rhizoplaca melanophthalma	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913736	Rhizoplaca melanophthalma	Trebouxia sp.		Spain	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913737	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913740	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913742	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913743	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913754	Rhizoplaca melanophthalma	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913760	Rhizoplaca aff. porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913763	Lecanora novomexicana	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913765	Rhizoplaca parilis	Trebouxia sp.		Kazakhstan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913767	Rhizoplaca parilis	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913775	Rhizoplaca peltata	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913776	Rhizoplaca peltata	Trebouxia sp.		Turkey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913778	Rhizoplaca peltata	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913788	Rhizoplaca polymorpha	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913789	Rhizoplaca polymorpha	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913797	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913798	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913799	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913802	Rhizoplaca porterii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913807	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913816	Rhizoplaca shushanii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913823	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913825	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913829	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913830	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913836	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913841	Rhizoplaca aff. porterii	Trebouxia sp.		USA: Nevada	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913843	Rhizoplaca sp.	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913845	Xanthoparmelia aff. coloradoensis	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913846	Xanthoparmelia aff. cumberlandia	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913847	Melanelixia glabroides	Trebouxia sp.		USA: Colorado	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913861	Melanelixia subaurifera	Trebouxia sp.		Russia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913881	Melanelixia subaurifera	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913884	Melanelixia subaurifera	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913848	Melanelixia subaurifera	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913947	Melanohalea septentrionalis	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913849	Melanelixia subaurifera	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913850	Melanelixia subaurifera	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913851	Melanelixia subaurifera	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913895	Melanohalea exaratula	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913912	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913934	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913940	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913941	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913962	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913986	Montanelia tominii	Trebouxia sp.		China: Heilongjiang	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913852	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913858	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913892	Melanohalea exarata	Trebouxia sp.		Norway	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913914	Melanohalea olivacea	Trebouxia sp.		Estonia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913936	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913942	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913948	Melanohalea septentrionalis	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913951	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913957	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913958	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913960	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913968	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913969	Melanohalea septentrionalis	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913970	Melanohalea septentrionalis	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913977	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913980	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913981	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913989	Oropogon aff. caetosus	Trebouxia sp.		Mexico: Oaxaca	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913853	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913854	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913855	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913856	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913857	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913893	Melanohalea exarata	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913950	Melanohalea septentrionalis	Trebouxia sp.		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913859	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913860	Melanelixia subaurifera	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913862	Melanelixia subaurifera	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913872	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913875	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913918	Melanohalea olivacea	Trebouxia sp.		Russia: Khabarovsk Krai	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913963	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913863	Melanelixia subaurifera	Trebouxia sp.		USA: Illinois	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913864	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913865	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913866	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913867	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913868	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913869	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913870	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913874	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913876	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913877	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913878	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913879	Melanelixia subaurifera	Trebouxia sp.		USA: Minnesota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913891	Melanohalea exarata	Trebouxia sp.		Norway	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913899	Melanohalea halei	Trebouxia sp.		USA: Maine	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913917	Melanohalea olivacea	Trebouxia sp.		Norway	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913919	Melanohalea olivacea	Trebouxia sp.		Russia: Khabarovsk Krai	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913923	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913924	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913925	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913926	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913927	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913928	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913929	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913971	Melanohalea septentrionalis	Trebouxia sp.		USA: Minnesota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913983	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913871	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913873	Melanelixia subaurifera	Trebouxia sp.		USA: Michigan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913880	Melanelixia subaurifera	Trebouxia sp.		USA: Montana	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913882	Melanelixia subaurifera	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913883	Melanelixia subaurifera	Trebouxia sp.		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913885	Melanelixia subaurifera	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913886	Melanelixia subaurifera	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913887	Melanelixia subaurifera	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913888	Melanelixia subaurifera	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913889	Melanelixia subaurifera	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913890	Melanelixia subaurifera	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913894	Melanohalea exaratula	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913896	Melanohalea exaratula	Trebouxia sp.		USA: Washington	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913897	Melanohalea gomukhensis	Trebouxia sp.		India	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913944	Melanohalea poeltii	Trebouxia sp.		India	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913898	Melanohalea gomukhensis	Trebouxia sp.		India	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913900	Melanohalea halei	Trebouxia sp.		USA: Maine	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913901	Melanohalea infumata	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913902	Melanohalea infumata	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913904	Melanohalea infumata	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913985	Montanelia sorediata	Trebouxia sp.		USA: Pennsylvania	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913903	Melanohalea infumata	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913905	Melanohalea infumata	Trebouxia sp.		Greenland	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913906	Melanohalea infumata	Trebouxia sp.		Greenland	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913907	Melanohalea infumata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913908	Melanohalea infumata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913987	Montanelia tominii	Trebouxia sp.		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913909	Melanohalea lobulata	Trebouxia sp.		China: Sichuan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913910	Melanohalea lobulata	Trebouxia sp.		China: Sichuan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913911	Melanohalea aff. olivaceoides	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913913	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913915	Melanohalea olivacea	Trebouxia sp.		Japan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913916	Melanohalea olivacea	Trebouxia sp.		Norway	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913920	Melanohalea olivacea	Trebouxia sp.		Russia: Khabarovsk Krai	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913921	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913922	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913930	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913931	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913935	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913937	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913939	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913964	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913967	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913982	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913932	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913933	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913961	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913938	Melanohalea olivacea	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913943	Melanohalea poeltii	Trebouxia sp.		China: Sichuan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913945	Melanohalea septentrionalis	Trebouxia sp.		Canada: Alberta	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913946	Melanohalea septentrionalis	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913952	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913955	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913956	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913949	Melanohalea septentrionalis	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913953	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913954	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913959	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913978	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913965	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913966	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913972	Melanohalea subexarata	Trebouxia sp.		China: Yunnan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913973	Melanohalea trabeculata	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913976	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913979	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913984	Melanohalea trabeculata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913974	Melanohalea trabeculata	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913975	Melanohalea trabeculata	Trebouxia sp.		Canada: Yukon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913988	Oropogon aff. caetosus	Trebouxia sp.		Mexico: Oaxaca	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913990	Rhizoplaca subdiscrepans	Trebouxia sp.		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913991	Melanohalea exasperata	Trebouxia flava		Estonia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913992	Melanohalea exasperata	Trebouxia flava		Netherlands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913993	Melanohalea aff. multispora	Trebouxia flava		USA: California	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913994	Melanohalea aff. multispora	Trebouxia flava		USA: Oregon	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913995	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913996	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913997	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913998	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR913999	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914000	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914002	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914004	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914005	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914006	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914001	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914003	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914007	Parmelina carporrhizans	Trebouxia flava		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914008	Melanelixia subaurifera	Trebouxia impressa		United Kingdom	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914011	Rhizoplaca chrysoleuca	Trebouxia impressa		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914012	Rhizoplaca macleanii	Trebouxia impressa		Antarctica	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914014	Lecanora aff. muralis	Trebouxia impressa		Russia: Chelyabinsk	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914009	Rhizoplaca chrysoleuca	Trebouxia impressa		USA: Wisconsin	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914017	Rhizoplaca subdiscrepans	Trebouxia sp.		USA: Wisconsin	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914018	Rhizoplaca subdiscrepans	Trebouxia impressa		USA: Wisconsin	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914010	Rhizoplaca chrysoleuca	Trebouxia impressa		Russia: Altay	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914013	Rhizoplaca melanophthalma	Trebouxia impressa		Iran: Azarbaijan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914015	Rhizoplaca shushanii	Trebouxia impressa		USA: Utah	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914016	Rhizoplaca subdiscrepans	Trebouxia impressa		Russia: Orenburg	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914019	Xanthoparmelia plittii	Trebouxia impressa		USA: North Carolina	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914020	Melanohalea trabeculata	Trebouxia gelatinosa		USA: Minnesota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914021	Punctelia graminicola	Trebouxia gelatinosa		USA: Arkansas	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914022	Punctelia rudecta	Trebouxia gelatinosa		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914023	Punctelia rudecta	Trebouxia gelatinosa		Spain: Canary Islands	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914024	Punctelia rudecta	Trebouxia gelatinosa		India	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914025	Punctelia rudecta	Trebouxia gelatinosa		Japan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914026	Punctelia rudecta	Trebouxia gelatinosa		USA: New Jersey	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914027	Punctelia rudecta	Trebouxia gelatinosa		USA: Ohio	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914028	Punctelia rudecta	Trebouxia gelatinosa		USA: Ohio	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914029	Melanohalea infumata	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914030	Melanohalea infumata	Trebouxia sp.		Canada: British Colombia	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914032	Melanohalea infumata	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914034	Montanelia panniformis	Trebouxia sp.		Russia: Khabarovsk Krai	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914031	Melanohalea infumata	Trebouxia sp.		Norway	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914033	Melanohalea infumata	Trebouxia sp.		USA: Minnesota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914035	Melanelixia albertana	Trebouxia sp.		USA: Minnesota	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914036	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914037	Melanohalea aff. olivaceoides	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914038	Melanohalea septentrionalis	Trebouxia sp.		USA: Alaska	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914039	Oropogon atranorinus	Trebouxia sp.		Mexico: Oaxaca	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914040	Melanohalea olivacea	Trebouxia sp.		China: Heilongjiang	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914041	Melanohalea olivacea	Trebouxia sp.		China: Heilongjiang	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914042	Melanohalea subexarata	Trebouxia sp.		China: Sichuan	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914043	Melanohalea subolivacea	Trebouxia sp.		Mexico: Morelos	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914044	Melanohalea halei	Trebouxia sp.		USA: North Carolina	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914045	Melanohalea halei	Trebouxia sp.		USA: North Carolina	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914046	Melanohalea halei	Trebouxia sp.		USA: Vermont	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914047	Melanohalea aff. ushuaiensis	Trebouxia sp.		Argentina	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914048	Melanohalea aff. ushuaiensis	Trebouxia sp.		Chile	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914049	Melanohalea aff. ushuaiensis	Trebouxia sp.		Chile	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914050	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914051	Melanohalea subolivacea	Trebouxia sp.		USA: Arizona	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914052	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914053	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914054	Punctelia caseana	Trebouxia sp.		USA: Ohio	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914055	Melanohalea olivacea	Trebouxia sp.		Russia: Primorsky	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KR914056	Punctelia rudecta	Trebouxia sp.		Kenya	Leavitt	Mol. Ecol. (2015) In press	26073165	Trebouxia	ITS	160905	
+KT819917	Anaptychia setifera	Trebouxia decolorans		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819918	Aspicilia cinerea	Trebouxia solaris		Ukraine: Crimea, Karagach Mt. Range (TB)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819920	Caloplaca aractina	Trebouxia solaris		Ukraine: Crimea, Karagach Mt. Range (TB)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819921	Caloplaca aurantia	Trebouxia crenulata		Ukraine: Crimea, Mt. Chukur-Kaya (Ls)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819928	Caloplaca xerica	Trebouxia crenulata		Ukraine: Crimea, Mt. Small Karadag (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819929	Candelariella medians	Trebouxia aff. decolorans AB-2015		Ukraine: Crimea, Mt. Small Karadag (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819931	Candelariella medians	Trebouxia decolorans		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819932	Candelariella medians	Trebouxia crenulata		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819933	Candelariella cf. medians	Trebouxia decolorans		Ukraine: Crimea, Magnethic Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819935	Candelariella vitellina	Trebouxia solaris		Ukraine: Crimea, Kock-Kaya Mt. Range (AS)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819936	Candelariella vitellina	Trebouxia solaris		Ukraine: Crimea, Kock-Kaya Mt. Range (AS)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819938	Circinaria contorta	Trebouxia solaris		Ukraine: Crimea, Karagach Mt. Range (TB)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819942	Circinaria contorta	Trebouxia solaris		Ukraine: Crimea, Mt. Small Karadag (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819954	Lecanora swartzii	Trebouxia crenulata		Ukraine: Crimea, Mt. Small Karadag (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819956	Leproplaca xantholyta	Trebouxia crenulata		Ukraine: Crimea, Syuryu-Kaya Mt. Range (Ls)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819957	Massjukiella polycarpa	Trebouxia aff. solaris AB-2015		Ukraine: Crimea, Tumanova gully (B)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819958	Ochrolechia sp.	Trebouxia arboricola		Ukraine: Crimea, Karagach Mt. Range (TB)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819959	Pleurosticta koflerae	Trebouxia impressa		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819965	Ramalina capitata	Trebouxia solaris		Ukraine: Crimea, Kock-Kaya Mt. Range (AS)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819966	Ramalina capitata	Trebouxia solaris		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819972	Rhizocarpon geographicum	Trebouxia gelatinosa		Ukraine: Crimea, Kock-Kaya Mt. Range (AS)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819975	Rhizocarpon geographicum	Trebouxia solaris		Ukraine: Crimea, Mt. Small Karadag (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819976	Rhizocarpon geographicum	Trebouxia solaris		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819980	Tephromela atra	Trebouxia crenulata		Ukraine: Crimea, Syuryu-Kaya Mt. Range (Ls)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819987	Xanthoria calcicola	Trebouxia arboricola		Ukraine: Crimea, Karagach Mt. Range (TB)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819988	Xanthoria calcicola	Trebouxia crenulata		Ukraine: Crimea, Karagach Mt. Range (TB)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819989	Xanthoria calcicola	Trebouxia crenulata		Ukraine: Crimea, Hoba-Tepe Mt. Range (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819990	Xanthoria calcicola	Trebouxia crenulata		Ukraine: Crimea, Syuryu-Kaya Mt. Range (Ls)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819991	Xanthoria calcicola	Trebouxia crenulata		Ukraine: Crimea, Mt. Small Karadag (Lv)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819992	Xanthoria parietina	Trebouxia aff. solaris AB-2015		Ukraine: Crimea, Karagach Mt. Range (B)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819993	Xanthoria parietina	Trebouxia aff. decolorans AB-2015		Ukraine: Crimea, Karagach Mt. Range (B)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
+KT819994	Xanthoria parietina	Trebouxia arboricola		Ukraine: Crimea, Scientific Biostation (B)	Voytsekhovich	Symbiosis (2015) In press		Trebouxia	ITS	160905	
