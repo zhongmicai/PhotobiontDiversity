@@ -84,8 +84,8 @@ elsif ( $filename =~ /\.gb/ ) {
         }
         #print STDERR "Voucher: $voucher\n";
       }
-      if ( $species =~ /(var.)|(subsp.)|(cf.)/ ) {
-        $species =~ s/(\w+.? +\w+.? +\w+.? +\w+.?).*/$1/;
+      if ( $species =~ /(var.)|(subsp.)|(cf.)|(aff.)/ ) {
+        $species =~ s/([\w-]+.? +[\w-]+.? +[\w-]+.? +[\w-]+.?).*/$1/;
       }
       else {
         $species =~ s/(\w+.? +\w+.?).*/$1/;
@@ -109,6 +109,7 @@ elsif ( $filename =~ /\.gb/ ) {
         if ( $voucher =~ s/( var. \S+)// ) { $host .= $1; }
         if ( $voucher =~ s/( subsp. \S+)// ) { $host .= $1; }
         if ( $voucher =~ s/cf.( \S+)// ) { $host .= $1; }
+        if ( $voucher =~ s/aff.( \S+)// ) { $host .= $1; }
         #if ( $voucher =~ s/( sp.)// ) { $host .= $1; }
         $host =~ s/\s+$//;
         $host =~ s/Trebouxia//gi;
