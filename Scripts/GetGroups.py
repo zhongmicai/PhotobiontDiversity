@@ -38,11 +38,7 @@ def main(argv):
     #remove saved group info from db
     cur.execute("UPDATE Metadata SET `Group` = NULL WHERE Gene= %s", (gene,))     
     for group in groups.keys():
-      if len(groups[group]) == 1:
         cur.execute("UPDATE Metadata SET `Group` = 'UNIQUE' WHERE SeqID LIKE %s AND Gene= %s", (groups[group][0]+'%', gene,))
-      else:        
-        for accession in groups[group]:
-          cur.execute("UPDATE Metadata SET `Group` = %s WHERE SeqID LIKE %s AND Gene= %s", (group, accession+'%', gene,))
 
          
         
