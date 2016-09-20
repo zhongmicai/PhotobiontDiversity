@@ -1,0 +1,63 @@
+Arima	FEMS Microbiol. Ecol. (2011) In press
+Beltran	Appl. Environ. Microbiol. 66 (10), 4468-4474 (2000)
+Beltran	Unpublished
+Boison	Appl. Environ. Microbiol. 70 (12), 7070-7077 (2004)
+Elvebakk	J. Phycol. 44 (4), 1049-1059 (2008)
+Fernandez-Martinez	Microb. Ecol. (2013) In press
+Fewer	Mol. Phylogenet. Evol. 23 (1), 82-90 (2002)
+Fiore Mde	Water Res. 39 (20), 5017-5026 (2005)
+Flechtner	Unpublished
+Gaylarde	Unpublished
+Gugger	Int. J. Syst. Evol. Microbiol. 52 (PT 5), 1867-1880 (2002)
+Gugger	Int. J. Syst. Evol. Microbiol. 54 (PT 2), 349-357 (2004)
+Gundlapally	Microb. Ecol. 52 (2), 345-357 (2006)
+Hoffmann	Submitted (01-MAY-1998) Chemistry, University of Hawaii at Manoa, 2545 The Mall, Honolulu, HI 96822, USA
+Hoffmann	Submitted (12-DEC-2001) Chemistry, University of Hawaii at Manoa, 2545 McCarthy Mall, Honolulu, HI 96822, USA
+Hoffmann	Submitted (14-MAY-2001) Chemistry, University of Hawaii at Manoa, 2545 McCarthy Mall, Honolulu, HI 96822, USA
+Ishida	FEMS Microbiol. Lett. 201 (1), 79-82 (2001)
+Ishikawa	Published Only in Database (2006)
+Iteman	Microbiology 148 (Pt 2), 481-496 (2002)
+Kaasalainen	Mol. Plant Microbe Interact. 22 (6), 695-702 (2009)
+Kaasalainen	Proc. Natl. Acad. Sci. U.S.A. 109 (15), 5886-5891 (2012)
+Knowles	FEMS Microbiol. Ecol. 66 (2), 261-270 (2008)
+Lehtimaki	Int. J. Syst. Evol. Microbiol. 50 (PT 3), 1043-1053 (2000)
+Liaimer	Unpublished
+Liu	Unpublished
+Lohtander	Lichenologist (Lond.) 35 (4), 325-339 (2003)
+Lucking	Am. J. Bot. 96 (8), 1409-1418 (2009)
+Lyra	Int. J. Syst. Evol. Microbiol. 51 (PT 2), 513-526 (2001)
+Miao	Lichenologist (Lond.) 29, 571-586 (1997)
+Minda	Unpublished
+Moffitt	Int. J. Syst. Evol. Microbiol. 51 (Pt 2), 505-512 (2001)
+Morales	Unpublished
+Myllys	New Phytol. 173 (3), 621-629 (2007)
+Neilan	Int. J. Syst. Bacteriol. 47 (3), 693-697 (1997)
+Neilan	Unpublished
+Nelissen	Mol. Biol. Evol. 12 (6), 1166-1173 (1995)
+Norris	FEMS Microbiol. Ecol. 57 (3), 470-483 (2006)
+Nubel	Int. J. Syst. Evol. Microbiol. 50 (PT 3), 1265-1277 (2000)
+O'Brien	Eur. J. Phycol. 40 (4), 363-378 (2005)
+Oksanen	Appl. Environ. Microbiol. 70 (10), 5756-5763 (2004)
+Oksanen	Int. J. Syst. Evol. Microbiol. 54 (PT 3), 765-772 (2004)
+Olsson	Curr. Genet. 58 (1), 49-58 (2012)
+Palinska	Int. J. Syst. Evol. Microbiol. 56 (PT 10), 2253-2263 (2006)
+Papaefthimiou	Int. J. Syst. Evol. Microbiol. 58 (PT 3), 553-564 (2008)
+Pointing	Environ. Microbiol. 9 (2), 414-424 (2007)
+Rajaniemi	Int. J. Syst. Evol. Microbiol. 55 (PT 1), 11-26 (2005)
+Rehakova	Phycologia 46, 481-502 (2007)
+Richert	Unpublished
+Rikkinen	Science 297 (5580), 357 (2002)
+Rudi	Appl. Environ. Microbiol. 63 (7), 2593-2599 (1997)
+Rudi	J. Bacteriol. 180 (13), 3453-3461 (1998)
+Saker	J. Phycol. (1998) In press
+Schembri	Unpublished
+Seo	Unpublished
+Sihvonen	FEMS Microbiol. Ecol. 61 (1), 74-84 (2007)
+Stenroos	Cladistics 22 (3), 230-238 (2006)
+Svenning	Arch. Microbiol. 183 (1), 19-26 (2005)
+Tomitani	Proc. Natl. Acad. Sci. U.S.A. 103 (14), 5442-5447 (2006)
+Turner	J. Eukaryot. Microbiol. 46 (4), 327-338 (1999)
+Uku	J. Phycol. 43 (4), 768-779 (2007)
+Vishnivetskaya	(in) Margesin,R. (Ed.); PERMAFROST SOILS: 73-84; Springer-Verlag Berlin Heidelberg (2009)
+Willame	J. Phycol. 42 (6), 1312-1332 (2006)
+Yeager	FEMS Microbiol. Ecol. 60 (1), 85-97 (2007)
