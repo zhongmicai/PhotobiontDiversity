@@ -126,7 +126,8 @@ def main(argv):
           #label.background.color = "Yellow"
           #bg_colour = "Yellow"
       #leaf.add_face(label, column = 0)                        #This will include the group names / accession numbers in the tree. This may or may not be useful
-      add_faces(cur, field, leaf, label_info, bg_colour, outfilename)
+      colours = get_colours(cur, field, host_counts)
+      add_faces(cur, field, leaf, label_info, colours, bg_colour, outfilename)
       
   except Error as e:
         print(e)
@@ -268,8 +269,7 @@ def draw_tree(tree, file):
     
     #tree.show()
     
-def add_faces(cur, field, leaf, label_info, bg_colour, outfile):
-      colours = get_colours(cur, field, label_info)
+def add_faces(cur, field, leaf, label_info, colours, bg_colour, outfile):
       y = 0
       for x in range(len(label_info)):
         if x == 0:
@@ -290,19 +290,13 @@ def add_faces(cur, field, leaf, label_info, bg_colour, outfile):
           y += 3
         leaf.add_face(label, column=x-y+1, position="branch-right")
       
-def get_colours(cur, field, label_info):
+def get_colours(cur, field, host_counts):
   colours = ['black',]
-  print label_info
-  for label in label_info[1:]:
-    print label
-    genus = label.split(' ')[0]
-    print genus
-    taxon = ''
-    #if genus.find('.') != -1:
-    #  colours.append(colours[-1])
-    if 0:
-      pass
-    else:
+  names = host_counts.keys()
+  names.sort()
+  for name in names:
+      genus = name.split(' ')[0]
+      taxon =''
       if field == 'Host':
         try:
             command = "SELECT phylum FROM Taxonomy WHERE genus= %s"
@@ -321,9 +315,9 @@ def get_colours(cur, field, label_info):
             except TypeError:
               warnings.warn("No family entry for %s" % genus,)
       else:
-        taxon = ' '.join(label.split(' ')[:2])
+        taxon = name
       try:
-        if 'letharii' in label:
+        if 'letharii' in name:
           command ="SELECT Colour FROM Colours WHERE Taxon= %s"
           options = ('Trebouxia letharii',)
           execute_command(cur, command, options)          
@@ -337,7 +331,6 @@ def get_colours(cur, field, label_info):
         warnings.warn("No colour available for %s (%s)" % (genus, taxon,))
         colours.append('LightGray')
           
-  print colours
   return colours
     
 def execute_command(cur, command, options):
