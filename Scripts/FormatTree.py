@@ -96,6 +96,7 @@ def main(argv):
       execute_command(cur, command, options)
       group_members = cur.fetchall()
       total_sequences += len(group_members)
+      host_counts = get_counts(field, group_members)
       if len(group_members) == 1: #singleton
         (host, substrate, species, clade) = group_members[0]
         if field == 'Host' and host and host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
@@ -103,7 +104,7 @@ def main(argv):
         else:    
           label_info = [accession, species]
       else:
-        label_info = [group] + combine_info(field, group_members)
+        label_info = [group] + combine_info(host_counts)
       bg_colour = None
       if searchterm and (' '.join(label_info).find(searchterm) > -1 or searchterm == leaf.name):
         if verbose:
@@ -368,7 +369,8 @@ def add_sig(tree, bootstrap, outfilename):
     else:
       node.set_style(sig)
   
-def combine_info(field, entries):
+def get_counts(field, entries):
+  #This counts the number of occurrences of each name and returns the counts as a dictionary
   host_counts = {}                   #Can include species names of free-living strains
   for (host, substrate, species, clade) in entries:
     if field == 'Species' or  field == 'species' or host == ' ' or host == 'free-living' or host == "Free-living" or host == 'Unknown' or host == 'unknown':
@@ -382,6 +384,11 @@ def combine_info(field, entries):
       host_counts[info] += 1
     else:
       host_counts[info] = 1
+  return host_counts    
+  
+def combine_info(host_counts):
+  #this combines distinct names with counts by adding the count in parens after the name
+  #It also abbreviates genus names if there are multiple species from the same genus
   out_list = []
   included_genera = []
   names = host_counts.keys()
