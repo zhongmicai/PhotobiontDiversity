@@ -86,7 +86,6 @@ def main(argv):
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, substrate, species, clade) = ('','','', '', '')
-      #print 'group = %s' % group
       if not group or group.find('Group') == -1:
           sys.exit("%s does not have a group name" % accession)
       if group in groups:
@@ -96,12 +95,9 @@ def main(argv):
       options = (group, locus)
       execute_command(cur, command, options)
       group_members = cur.fetchall()
-      if len(group_members) > 1: #not singleton
-          label_info = [group] + combine_info(field, group_members)
       total_sequences += len(group_members)
-      if len(group_members) == 1:
+      if len(group_members) == 1: #singleton
         (host, substrate, species, clade) = group_members[0]
-        #leaf.name =" " + accession + ':'
         if field == 'Host' and host and host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
           label_info = [accession, host]
         else:    
@@ -109,11 +105,9 @@ def main(argv):
       else:
         label_info = [group] + combine_info(field, group_members)
       bg_colour = None
-      #label = TextFace(leaf.name)
       if searchterm and (' '.join(label_info).find(searchterm) > -1 or searchterm == leaf.name):
         if verbose:
             print "adding highlighting to node %s" % leaf.name
-        #label.background.color = "Yellow"
         bg_colour = "Yellow"
       elif date:
         if group and 'Group' in group:
@@ -371,7 +365,7 @@ def add_sig(tree, bootstrap, outfilename):
 def combine_info(field, entries):
   host_counts = {}                   #Can include species names of free-living strains
   for (host, substrate, species, clade) in entries:
-    if host == ' ' or host == 'free-living' or host == "Free-living" or host == 'Unknown' or host == 'unknown':
+    if field == 'Species' or  field == 'species' or host == ' ' or host == 'free-living' or host == "Free-living" or host == 'Unknown' or host == 'unknown':
       info = species
     #elif host == ' ':
     #  info = 'Unknown'
