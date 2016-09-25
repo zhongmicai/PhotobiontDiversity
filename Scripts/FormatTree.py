@@ -291,11 +291,16 @@ def add_faces(cur, field, leaf, label_info, bg_colour, outfile):
       
 def get_colours(cur, field, label_info):
   colours = ['black',]
+  print label_info
   for label in label_info[1:]:
+    print label
     genus = label.split(' ')[0]
+    print genus
     taxon = ''
-    if genus.find('.') != -1:
-      colours.append(colours[-1])
+    #if genus.find('.') != -1:
+    #  colours.append(colours[-1])
+    if 0:
+      pass
     else:
       if field == 'Host':
         try:
@@ -331,9 +336,10 @@ def get_colours(cur, field, label_info):
         warnings.warn("No colour available for %s (%s)" % (genus, taxon,))
         colours.append('LightGray')
           
+  print colours
   return colours
     
-def  execute_command(cur, command, options):
+def execute_command(cur, command, options):
     if verbose:
         sys.stderr.write(PrintCommand(command, options))
     cur.execute(command, options)
@@ -382,8 +388,10 @@ def combine_info(field, entries):
   names.sort()
   for name in names:
       count = host_counts[name]
+      if len(name.split(' ')) == 1:
+          name = name + ' sp.'  #if only genus name is present add 'sp.' as species name
       genus = name.split(' ')[0]
-      if genus in included_genera:
+      if genus in included_genera: #this will fail in cases where there are 2 genera that start with the same letter. I'm not sure I should fix it because it will be a problem with, eg, Parmelia and Parmeliopsis
         name = name.replace(genus,  genus[0] + '.')
       else:
         included_genera.append(genus)
