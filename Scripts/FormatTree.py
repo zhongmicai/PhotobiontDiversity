@@ -82,12 +82,12 @@ def main(argv):
       options = (accession + '%', locus)
       execute_command(cur, command, options)
       try:
-        (group, host, substrate, species, clade) = cur.fetchone()
+        (group,) = cur.fetchone()
       except TypeError:    
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, substrate, species, clade) = ('','','', '', '')
       #print 'group = %s' % group
-      if not group or group.find('Group') == -1::
+      if not group or group.find('Group') == -1:
           sys.exit("%s does not have a group name" % accession)
       if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
@@ -96,10 +96,11 @@ def main(argv):
       options = (group, locus)
       execute_command(cur, command, options)
       group_members = cur.fetchall()
-      if len(group_members > 1: #not singleton
+      if len(group_members) > 1: #not singleton
           label_info = [group] + combine_info(field, group_members)
       total_sequences += len(group_members)
       if len(group_members) == 1:
+        (host, substrate, species, clade) = group_members[0]
         #leaf.name =" " + accession + ':'
         if field == 'Host' and host and host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
           label_info = [accession, host]
@@ -110,7 +111,8 @@ def main(argv):
       bg_colour = None
       #label = TextFace(leaf.name)
       if searchterm and (' '.join(label_info).find(searchterm) > -1 or searchterm == leaf.name):
-        print "adding highlighting to node %s" % leaf.name
+        if verbose:
+            print "adding highlighting to node %s" % leaf.name
         #label.background.color = "Yellow"
         bg_colour = "Yellow"
       elif date:
@@ -120,12 +122,11 @@ def main(argv):
         else:
           command = "SELECT SeqID FROM Metadata WHERE SeqID LIKE %s AND Gene= %s AND Date = %s"
           options = (accession, locus, date)
-        if verbose:
-            sys.stderr.write(PrintCommand(command, options))
-        cur.execute(command, options)
+        execute_command(cur, command, options)
         
         if len(cur.fetchall()) > 0:
-          print "adding highlighting to node %s" % leaf.name
+          if verbose:
+              print "adding highlighting to node %s" % leaf.name
           bg_colour = "Yellow"
           #label.background.color = "Yellow"
           #bg_colour = "Yellow"
@@ -146,13 +147,17 @@ def main(argv):
 def colour_clades(cur, tree, locus, outfilename, debug):
   clades = {}
   colours = {}
-  cur.execute("SELECT Colour, Taxon FROM Colours")
+  command = "SELECT Colour, Taxon FROM Colours"
+  options = ()
+  execute_command(cur, command, options)
   for (colour, taxon) in cur.fetchall():
     colours[taxon] = colour
   
   for leaf in tree:
     accession = leaf.name
-    cur.execute("SELECT Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s", (accession + '%', locus,))
+    command = "SELECT Clade FROM Metadata WHERE SeqID LIKE %s AND Gene= %s"
+    options = (accession + '%', locus)
+    execute_command(cur, command, options)
     try:
         clade = cur.fetchone()[0]
     except TypeError:    
@@ -175,7 +180,9 @@ def colour_clades(cur, tree, locus, outfilename, debug):
   for clade in clades:
     if 'URa2' in clade:
       continue
-    cur.execute("SELECT Colour from Colours WHERE Taxon = %s", clade.replace('T.', 'Trebouxia'))
+    command = "SELECT Colour from Colours WHERE Taxon = %s"
+    options = (clade.replace('T.', 'Trebouxia'),)
+    execute_command(cur, command, options)
     try:
         colour = cur.fetchone()[0]
     except TypeError:    
@@ -300,10 +307,7 @@ def get_colours(cur, field, label_info):
         try:
             command = "SELECT phylum FROM Taxonomy WHERE genus= %s"
             options = (genus,)
-            if verbose:
-                sys.stderr.write(PrintCommand(command, options))
-            cur.execute(command, options)
-#cur.execute("SELECT phylum FROM Taxonomy WHERE genus= %s", (genus,))
+            execute_command(cur, command, options)
             taxon = cur.fetchone()[0]
         except TypeError:
           warnings.warn("No phylum entry for %s" % genus)
@@ -321,6 +325,7 @@ def get_colours(cur, field, label_info):
       try:
         if 'letharii' in label:
           command ="SELECT Colour FROM Colours WHERE Taxon= %s"
+          options = ('Trebouxia letharii',)
           execute_command(cur, command, options)          
         else:
             command ="SELECT Colour FROM Colours WHERE Taxon= %s"
@@ -444,4 +449,5 @@ def warning_on_one_line(message, category, filename, lineno, file=None, line=Non
     return ' %s:%s: %s: %s\n' % (filename, lineno, category.__name__, message)
   
 if __name__ == "__main__":
-   main(sys.argv[1:])
+    warnings.formatwarning = warning_on_one_line
+    main(sys.argv[1:])
