@@ -17,7 +17,7 @@ def main(argv):
   debug = 0
   global verbose
   verbose = 0
-  field = 'Host'
+  field = 'Family' # Species, Genus or Family on host side or Alga
   bootstrap = 0.9
   outgroup = ''
   usage = 'FormatTree.py -t <treefile> -l <locus> -o <outfile> -s <search> -d <date> -f <field> -g outgroup -b <bootstrap cutoff> -c (debug clades) -v (verbose)'
@@ -53,6 +53,8 @@ def main(argv):
     elif opt in ("-v", "--verbose"):
         verbose = 1
 
+  if field not in ('Species', 'Genus', 'Family', 'Alga'):
+      sys.exit("%s not a valid option for field. Must be 'Species', 'Genus' or 'Family' on host side or 'Alga'" % field)
   if not locus:
       sys.exit("please specify locus\n\n%s\n" % usage)
   if bootstrap > 1:
@@ -99,7 +101,7 @@ def main(argv):
       host_counts = get_counts(field, group_members)
       if len(group_members) == 1: #singleton
         (host, substrate, species, clade) = group_members[0]
-        if field == 'Host' and host and host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
+        if field != 'Alga' and host and host != ' ' and host != 'free-living' and host != "Free-living" and host != 'Unknown' and host != 'unknown':
           label_info = [accession, host]
         else:    
           label_info = [accession, species]
@@ -195,8 +197,10 @@ def label_clade(tree, leaves, colour, clade):
     ancestor = leaves[0]   
   else:
     ancestor = tree.get_common_ancestor(leaves)  
-  label = TextFace(clade, fsize=100, fgcolor = colour)
-  ancestor.add_face(label, column=1, position = "float")
+  #if colour != 'Black':
+  if colour:
+      label = TextFace(clade, fsize=100, fgcolor = colour)
+      ancestor.add_face(label, column=1, position = "float")
 
 
 def colour_clade(tree, leaves, colour, outfilename):
@@ -297,7 +301,7 @@ def get_colours(cur, field, host_counts):
   for name in names:
       genus = name.split(' ')[0]
       taxon =''
-      if field == 'Host':
+      if field == 'Family':
         try:
             command = "SELECT phylum FROM Taxonomy WHERE genus= %s"
             options = (genus,)
@@ -307,13 +311,15 @@ def get_colours(cur, field, host_counts):
           warnings.warn("No phylum entry for %s" % genus)
         if taxon and taxon == 'Ascomycota':
             try:
-              command = "SELECT family FROM Taxonomy WHERE genus= %s"
-              options = (genus,)
-              execute_command(cur, command, options)
+                  command = "SELECT family FROM Taxonomy WHERE genus= %s"
+                  options = (genus,)
+                  execute_command(cur, command, options)
                    
-              taxon = cur.fetchone()[0]
+                  taxon = cur.fetchone()[0]
             except TypeError:
-              warnings.warn("No family entry for %s" % genus,)
+                warnings.warn("No family entry for %s" % genus,)
+      elif field == 'Genus':
+          taxon = genus
       else:
         taxon = name
       try:
@@ -366,7 +372,7 @@ def get_counts(field, entries):
   #This counts the number of occurrences of each name and returns the counts as a dictionary
   host_counts = {}                   #Can include species names of free-living strains
   for (host, substrate, species, clade) in entries:
-    if field == 'Species' or  field == 'species' or host == ' ' or host == 'free-living' or host == "Free-living" or host == 'Unknown' or host == 'unknown':
+    if field == 'Alga' or host == ' ' or host == 'free-living' or host == "Free-living" or host == 'Unknown' or host == 'unknown':
       info = species
     #elif host == ' ':
     #  info = 'Unknown'
@@ -403,7 +409,7 @@ def combine_info(host_counts):
   return out_list
   
 def add_header(outfilename, locus):
-  tempfile = open('tempfile', 'w')
+  tempfile = open('tempfile.svg', 'w')
   header = """<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
@@ -415,26 +421,28 @@ def add_header(outfilename, locus):
 <g id="viewport" transform="translate(200,50)">
 """ % locus
   tempfile.write(header)
-  svgfile = open(outfilename, 'r')
+  svgfile = open(outfilename, 'rU')
 
   node_text = 0 #set when one of the following lines has a internode label (need to change position)
   line_num = 0
-  for line in svgfile.readlines():
-    line = line.strip()
-    line_num += 1
-    if 'font-size="100pt"' in line:
-      node_text = 1
-    elif line == '</g>':
-      node_text = 0
-    if node_text:
-      line = line.replace('x="0"', 'x="1200"')
-    if line_num > 8:
-      if line == '</svg>':
-        tempfile.write('</g>\n')
-      tempfile.write(line + '\n')
+  with open(outfilename, 'r') as svgfile:
+      for block in svgfile:
+        for line in block.split('</g>'):
+          line = line.strip()
+          line_num += 1
+          if 'font-size="100pt"' in line:
+            node_text = 1
+          elif line == '</g>':
+            node_text = 0
+          if node_text:
+            line = line.replace('x="0"', 'x="1200"')
+          if line_num > 8:
+            if line == '</svg>':
+              tempfile.write(line + '\n')
+            else:  
+                tempfile.write(line + '</g>\n')
   svgfile.close()
-  tempfile.close()
-  system('mv tempfile %s' % outfilename)
+  system('mv tempfile.svg %s' % outfilename)
 
 def PrintCommand(command, options=()):
   if type(options) is str:
