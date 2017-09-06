@@ -89,7 +89,8 @@ def main(argv):
         warnings.warn("No database entry for %s" % leaf.name)
         (group, host, substrate, species, clade) = ('','','', '', '')
       if not group or group.find('Group') == -1:
-          sys.exit("%s does not have a group name" % accession)
+          group = leaf.name
+          #sys.exit("%s does not have a group name" % accession)
       if group in groups:
           warnings.warn("%s and %s are both in the tree and both in %s" % (accession, groups[group], group))
       groups[group] = leaf.name
